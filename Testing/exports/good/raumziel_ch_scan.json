@@ -1,0 +1,1758 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "149.126.4.34",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a01:ab20:0:4::34",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mail.raumziel.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.chromaflex.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Name Server": "ns2.chromaflex.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 mx a:relay.corvent.ch a:relay.holzapfel.ch a:mail.geovm.net include:spf.protection.cyon.net ?all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "604800",
+      "Serial": "2025031304",
+      "Refresh": "3600",
+      "Hostmaster": "hostmaster.corvent.ch.",
+      "Minimum TTL": "600",
+      "Primary Nameserver": "ns1.chromaflex.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "149.126.4.34",
+      "PTR-Domain": "s025.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "IP-Adresse": "2a01:ab20:0:4::34",
+      "PTR-Domain": "s025.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "raumziel.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "admin.raumziel.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "cloud.raumziel.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "link.raumziel.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "mail.raumziel.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "sogo.raumziel.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "tel.raumziel.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2023-07-07",
+      "Gültig bis": "2023-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-07-07"
+    },
+    {
+      "Gültig ab": "2023-05-04",
+      "Gültig bis": "2023-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-04"
+    },
+    {
+      "Gültig ab": "2025-05-18",
+      "Gültig bis": "2025-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch, sogo.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-18"
+    },
+    {
+      "Gültig ab": "2025-05-18",
+      "Gültig bis": "2025-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch, sogo.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-18"
+    },
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "link.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "link.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-01",
+      "Gültig bis": "2025-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-01"
+    },
+    {
+      "Gültig ab": "2025-04-01",
+      "Gültig bis": "2025-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-01"
+    },
+    {
+      "Gültig ab": "2025-03-19",
+      "Gültig bis": "2025-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch, sogo.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Gültig ab": "2025-03-19",
+      "Gültig bis": "2025-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch, sogo.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Gültig ab": "2025-03-13",
+      "Gültig bis": "2025-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "link.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-13"
+    },
+    {
+      "Gültig ab": "2025-03-13",
+      "Gültig bis": "2025-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "link.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-13"
+    },
+    {
+      "Gültig ab": "2025-02-05",
+      "Gültig bis": "2025-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-05"
+    },
+    {
+      "Gültig ab": "2025-02-05",
+      "Gültig bis": "2025-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-05"
+    },
+    {
+      "Gültig ab": "2025-01-31",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-31"
+    },
+    {
+      "Gültig ab": "2025-01-31",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-31"
+    },
+    {
+      "Gültig ab": "2024-06-14",
+      "Gültig bis": "2024-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-14"
+    },
+    {
+      "Gültig ab": "2025-01-17",
+      "Gültig bis": "2025-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch, sogo.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "Gültig ab": "2025-01-17",
+      "Gültig bis": "2025-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch, sogo.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "Gültig ab": "2024-12-12",
+      "Gültig bis": "2025-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "Gültig ab": "2024-12-12",
+      "Gültig bis": "2025-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "Gültig ab": "2024-12-06",
+      "Gültig bis": "2025-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "Gültig ab": "2024-12-06",
+      "Gültig bis": "2025-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "Gültig ab": "2024-12-01",
+      "Gültig bis": "2025-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-01"
+    },
+    {
+      "Gültig ab": "2024-12-01",
+      "Gültig bis": "2025-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-01"
+    },
+    {
+      "Gültig ab": "2024-10-13",
+      "Gültig bis": "2025-01-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-13"
+    },
+    {
+      "Gültig ab": "2024-10-13",
+      "Gültig bis": "2025-01-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-13"
+    },
+    {
+      "Gültig ab": "2024-10-06",
+      "Gültig bis": "2025-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "Gültig ab": "2024-10-06",
+      "Gültig bis": "2025-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "Gültig ab": "2024-10-02",
+      "Gültig bis": "2024-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Gültig ab": "2024-10-02",
+      "Gültig bis": "2024-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Gültig ab": "2024-08-14",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "Gültig ab": "2024-08-14",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "Gültig ab": "2024-08-06",
+      "Gültig bis": "2024-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "Gültig ab": "2024-08-06",
+      "Gültig bis": "2024-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "Gültig ab": "2024-08-03",
+      "Gültig bis": "2024-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-03"
+    },
+    {
+      "Gültig ab": "2024-08-03",
+      "Gültig bis": "2024-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-03"
+    },
+    {
+      "Gültig ab": "2024-06-14",
+      "Gültig bis": "2024-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-14"
+    },
+    {
+      "Gültig ab": "2024-06-06",
+      "Gültig bis": "2024-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "Gültig ab": "2024-06-06",
+      "Gültig bis": "2024-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "Gültig ab": "2024-06-03",
+      "Gültig bis": "2024-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-03"
+    },
+    {
+      "Gültig ab": "2024-06-03",
+      "Gültig bis": "2024-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-03"
+    },
+    {
+      "Gültig ab": "2024-04-15",
+      "Gültig bis": "2024-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "Gültig ab": "2024-04-15",
+      "Gültig bis": "2024-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "Gültig ab": "2024-04-06",
+      "Gültig bis": "2024-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-06"
+    },
+    {
+      "Gültig ab": "2024-04-06",
+      "Gültig bis": "2024-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-06"
+    },
+    {
+      "Gültig ab": "2024-04-04",
+      "Gültig bis": "2024-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-04-04",
+      "Gültig bis": "2024-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "tel.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-02-15",
+      "Gültig bis": "2024-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-15"
+    },
+    {
+      "Gültig ab": "2024-02-15",
+      "Gültig bis": "2024-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-15"
+    },
+    {
+      "Gültig ab": "2024-02-04",
+      "Gültig bis": "2024-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-04"
+    },
+    {
+      "Gültig ab": "2024-02-04",
+      "Gültig bis": "2024-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-04"
+    },
+    {
+      "Gültig ab": "2023-12-06",
+      "Gültig bis": "2024-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-06"
+    },
+    {
+      "Gültig ab": "2023-12-06",
+      "Gültig bis": "2024-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "admin.raumziel.ch, cloud.raumziel.ch, mail.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-06"
+    },
+    {
+      "Gültig ab": "2023-12-06",
+      "Gültig bis": "2024-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-06"
+    },
+    {
+      "Gültig ab": "2023-12-06",
+      "Gültig bis": "2024-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-06"
+    },
+    {
+      "Gültig ab": "2023-11-05",
+      "Gültig bis": "2024-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-05"
+    },
+    {
+      "Gültig ab": "2023-11-05",
+      "Gültig bis": "2024-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-05"
+    },
+    {
+      "Gültig ab": "2023-09-06",
+      "Gültig bis": "2023-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-06"
+    },
+    {
+      "Gültig ab": "2023-09-06",
+      "Gültig bis": "2023-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-06"
+    },
+    {
+      "Gültig ab": "2023-07-07",
+      "Gültig bis": "2023-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-07-07"
+    },
+    {
+      "Gültig ab": "2023-05-04",
+      "Gültig bis": "2023-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-04"
+    },
+    {
+      "Gültig ab": "2023-03-04",
+      "Gültig bis": "2023-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-04"
+    },
+    {
+      "Gültig ab": "2023-03-04",
+      "Gültig bis": "2023-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-04"
+    },
+    {
+      "Gültig ab": "2023-01-03",
+      "Gültig bis": "2023-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-01-03"
+    },
+    {
+      "Gültig ab": "2023-01-03",
+      "Gültig bis": "2023-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "raumziel.ch, www.raumziel.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-01-03"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://raumziel.ch/projekte/schulraumerweiterung-primarschulhaus-dinhard",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/a4-referenzplakat20.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/2-mehrfamilienhaeuser-pappelweg-in-islikon/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-14"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/6-doppeleinfamilienhaeuser-oepfelbaum-in-stammheim/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-14"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/ausbau-liegenschaft-huss-in-wiesendangen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-14"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/einfamilienhaus-in-feldi",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-14"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/einfamilienhaus-in-hettlingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-14"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/mueller-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-14"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/projektankuendigung-eigentumswohnungen-Stadtrain",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sagipark-hettlingen-mfh-c/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sagipark-hettlingen-mfh-g",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/schmit",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/stotz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/clubhaus-tennisclub-rolli-in-seuzach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/eigentumswohnungen-am-chrebsbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/ersatzbau-zweifamilienhaus-in-buch-bei-wiesendangen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/freizeitanlage-poeschenpuentli-in-neftenbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/gemeindehaus-in-thalheim",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/mehrfamilienhaus-in-sulz-rickenbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/mehrzweckhalle-hofacker-in-sulz-rickenbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/primarschulhaus-zinzikon-in-oberwinterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/schulhaus-kindergarten-alpenstrasse-68-in-wallisellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/zentrum-am-kirchhuegel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2020-biolog-rathgeb-i-schloss-laufen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2022-swiss-live-arena",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/wettbewerb/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/freistehendes-einfamilienhaus-in-hettlingen/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "URL": "https://raumziel.ch/wettbewerb",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "URL": "https://raumziel.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://raumziel.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://raumziel.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/gewerbe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/kontakt/anfahrt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/netzwerk/architektur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/netzwerk/sport-sponsoring",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/oeffentlich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/service/stv-schweizerischer-turnverband",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/assets/bstmpl/font/icomoon/icomoon.ttf?ucdqsr0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-22"
+    },
+    {
+      "URL": "https://raumziel.ch/assets/bstmpl/font/source-sans-pro/sourcesanspro-regular-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-22"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/erweiterung-schulhaus-seuzach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/feuerwehrbaeude-in-dinhard",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/gewerbe-sagi-in-neftenbach/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/kindergarten-hettlingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/primarschulhaus-in-hettlingen-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/garderobengebaeude-fc-wiesendangen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-30"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/garderobengebaeude-fc-wiesendangen/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-30"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/gewerbe-sonne-in-hettlingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-30"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/gewerbe-sonne-in-hettlingen/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-30"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/primarschulhaus-zinzikon-in-oberwinterthur/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-30"
+    },
+    {
+      "URL": "https://raumziel.ch/team/lehrstelle",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-30"
+    },
+    {
+      "URL": "https://raumziel.ch/gewerbe/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/oeffentlich/all",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/oeffentlich/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/2-mehrfamilienhaeuser-in-henggart/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/erweiterung-schulhaus-seuzach/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/feuerwehrbaeude-in-dinhard/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/gemeindeverwaltung-hettlingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/geschaeftshaus-rhymarkt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/gewerbe-sagi-in-neftenbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/neubau-wohnhaus-in-seuzach/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/pfarreizentrum-st.stefan-in-wiesendangen/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/primarschulhaus-in-hettlingen-2/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/restaurant-sunnezirkel-in-sulz-rickenbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sekundarschule-seuzach-lernlandschaft",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sekundarschule-seuzach-lernlandschaft-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/wohnhaus-in-winterthur-veltheim/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/saipark-hettlingen-mfh-a",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sporthalle-in-dinhard",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2013-jubilaeumsreise-hamburg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/jubilaeumsreise-antwerpen-bruessel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/graf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://raumziel.ch/wohnen/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://raumziel.ch/files/projectdocument/2104-Bautafel-Resihof-verkleinert.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/files/projectdocument/a4-referenzplakat19.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/netzwerk",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/neubau-mfh-hobi-in-oberohringen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/pfarreizentrum-st.stefan-in-wiesendangen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/resihof/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sagipark-hettlingen-efh-h",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sagipark-hettlingen-mfh-e",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sporthalle-ellenberg-in-otelfingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/werkgebaeude-in-dinhard",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/werkgebaeude-in-dinhard/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/team/namensaenderung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/frei",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/erweiterung-primarschulhaus-oberstammheim",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/gemeindehaus-in-dinhard",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/resihof",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sagipark-hettlingen-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sagipark-hettlingen-mfh-a",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sagipark-hettlingen-mfh-a-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sagipark-hettlingen-mfh-c",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sagipark-hettlingen-mfh-f",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/wohnen/all",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-09"
+    },
+    {
+      "URL": "https://raumziel.ch/netzwerk/gewerbeverbaende",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/erweiterung-einfamilienhaus-in-oberwinterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/wohnhaus-in-hettlingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://raumziel.ch/team/offene-stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://raumziel.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/2-mehrfamilienhaeuser-pappelweg-in-islikon",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/3-mehrfamilienhaeuser-traube-in-rutschwil",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://raumziel.ch/team/firmengruender-nachfolger",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/verkauf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/wohnen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/a4-referenzplakat17.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/a4-referenzplakat18.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/6-doppeleinfamilienhaeuser-oepfelbaum-in-stammheim",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/1906-referenzplakat-a4.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-04"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/0514-A4-tennis-rolli-seuzach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/0726-A4-wettb-schule-zinzikon.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/gewerbe-sonne-hettlingen-A4.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-01"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/9700_primarschule_hettl_etappe2_ref_a4.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/0415-A4-erweiterung-schule-seuzach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/0419-A4-feuerwehrgebaeude-dinhard.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/1306-A4-MFH-pappelweg-islikon2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-13"
+    },
+    {
+      "URL": "https://raumziel.ch/files/projectdocument/a4-referenzplakat4.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/reiheneinfamilienhaus-am-chrebsbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/knecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/clubhaus-tennisclub-rolli-in-seuzach/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/doppeleinfamilienhaus-in-wiesendangen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/einfamiliehaus-in-altikon",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/freistehendes-einfamilienhaus-in-hettlingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/mehrfamilienhaus-in-aesch-neftenbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sagipark-hettlingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/terrassenwohnungen-in-neftenbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/wohnhaus-in-winterthur-veltheim",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/wohnhaus-wallrueti",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/wohnueberbauung-sagi-in-neftenbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/1807-referenzplakat-a4.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-31"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/1807-bautafel_20210329-web.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-30"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/2012-verkaufsdoku-verkleinert-20210729.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-30"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/2-mehrfamilienhaeuser-in-henggart",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-23"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/neubau-wohnhaus-in-seuzach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-23"
+    },
+    {
+      "URL": "https://raumziel.ch/files/ciattachment/Nachfolge-HFR-A3.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-21"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/referenzplakat-oepfelbaum.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2023-eisstockschiessen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-30"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/walter",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-14"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/0813-A4-wettb-gard-neftenbach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/files/project-document/9702-A4-werkh-dinhard.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/eigentumswohnungen-am-chrebsbach/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/einfamiliehaus-in-altikon/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/freizeitanlage-poeschenpuentli-in-neftenbach/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/reiheneinfamilienhaus-am-chrebsbach/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/sagipark-hettlingen/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/schulraumerweiterung-primarschulhaus-dinhard/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/projekte/terrassenwohnungen-in-neftenbach/map",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2015-expo-15-in-mailand",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2016-musikinsel-reihnau-reihnfall",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2017-besichtigung-skyframe-in-frauenfeld",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2017-discgolf-in-kreuzlingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2017-hfr-fanclub-am-hockeymatch-winti-thurgau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2018-kochevent",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2021-technorama-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2022-bueroreise-muenchen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/2022-skitag-pizol",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/aktivitaeten/aktivitaeten/raumziel-aktivitaeten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/dobler",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/herter",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/katharina",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/knoepfli",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/meier",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://raumziel.ch/team/Team-2/detail/rietmann",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "frei@raumziel.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "E-Mail": "knoepfli@raumziel.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "E-Mail": "p.hubmann@primoimmobilien.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-09"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41523051151",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "Telefonnummern": "+41523051152",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "Telefonnummern": "+41523051153",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "Telefonnummern": "+41523051154",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Telefonnummern": "+41523051155",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "Telefonnummern": "+41523051156",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Telefonnummern": "+41523051157",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Telefonnummern": "+41523051158",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Telefonnummern": "+41523051159",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    }
+  ],
+  "service": [
+    {
+      "Port": 587,
+      "Dienst": "Postfix smtpd",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "77.57.173.208",
+      "Domain/Subdomain": "tel.raumziel.ch, raumziel.3cx.ch, 77-57-173-208.dclient.hispeed.ch, mail.raumziel.ch, cloud.raumziel.ch, admin.raumziel.ch, sogo.raumziel.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:postfix:postfix",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 993,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "77.57.173.208",
+      "Domain/Subdomain": "tel.raumziel.ch, raumziel.3cx.ch, 77-57-173-208.dclient.hispeed.ch, mail.raumziel.ch, cloud.raumziel.ch, admin.raumziel.ch, sogo.raumziel.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "Apache httpd",
+      "Version": "2.4.38",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "77.57.173.208",
+      "Domain/Subdomain": "tel.raumziel.ch, raumziel.3cx.ch, 77-57-173-208.dclient.hispeed.ch, mail.raumziel.ch, cloud.raumziel.ch, admin.raumziel.ch, sogo.raumziel.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:apache:http_server:2.4.38",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "Common Vulnerabilities and Exposures (CVE)": [
+        "CVE-CVE-2019-0196",
+        "CVE-CVE-2024-27316",
+        "CVE-CVE-2013-2765",
+        "CVE-CVE-2020-1934",
+        "CVE-CVE-2022-36760",
+        "CVE-CVE-2020-35452",
+        "CVE-CVE-2019-0215",
+        "CVE-CVE-2022-29404",
+        "CVE-CVE-2023-27522",
+        "CVE-CVE-2009-0796",
+        "CVE-CVE-2013-4365",
+        "CVE-CVE-2022-22720",
+        "CVE-CVE-2022-28330",
+        "CVE-CVE-2020-11993",
+        "CVE-CVE-2019-0211",
+        "CVE-CVE-2021-32791",
+        "CVE-CVE-2021-32792",
+        "CVE-CVE-2023-31122",
+        "CVE-CVE-2019-9517",
+        "CVE-CVE-2024-38476",
+        "CVE-CVE-2024-38477",
+        "CVE-CVE-2024-38474",
+        "CVE-CVE-2024-38475",
+        "CVE-CVE-2019-10092",
+        "CVE-CVE-2022-22721",
+        "CVE-CVE-2006-20001",
+        "CVE-CVE-2021-33193",
+        "CVE-CVE-2013-0941",
+        "CVE-CVE-2019-17567",
+        "CVE-CVE-2019-10097",
+        "CVE-CVE-2022-31813",
+        "CVE-CVE-2012-4001",
+        "CVE-CVE-2019-10098",
+        "CVE-CVE-2022-37436",
+        "CVE-CVE-2012-4360",
+        "CVE-CVE-2021-40438",
+        "CVE-CVE-2011-1176",
+        "CVE-CVE-2021-36160",
+        "CVE-CVE-2022-23943",
+        "CVE-CVE-2020-1927",
+        "CVE-CVE-2019-0220",
+        "CVE-CVE-2011-2688",
+        "CVE-CVE-2021-34798",
+        "CVE-CVE-2023-25690",
+        "CVE-CVE-2021-32786",
+        "CVE-CVE-2021-32785",
+        "CVE-CVE-2020-9490",
+        "CVE-CVE-2021-44224",
+        "CVE-CVE-2007-4723",
+        "CVE-CVE-2020-11984",
+        "CVE-CVE-2021-44790",
+        "CVE-CVE-2013-0942",
+        "CVE-CVE-2021-26690",
+        "CVE-CVE-2021-26691",
+        "CVE-CVE-2022-26377",
+        "CVE-CVE-2019-0197",
+        "CVE-CVE-2023-45802",
+        "CVE-CVE-2022-28614",
+        "CVE-CVE-2020-13938",
+        "CVE-CVE-2019-10081",
+        "CVE-CVE-2019-10082",
+        "CVE-CVE-2012-3526",
+        "CVE-CVE-2024-40898",
+        "CVE-CVE-2019-0217",
+        "CVE-CVE-2009-2299",
+        "CVE-CVE-2021-39275",
+        "CVE-CVE-2022-28615",
+        "CVE-CVE-2022-30556",
+        "CVE-CVE-2022-22719"
+      ]
+    }
+  ]
+}

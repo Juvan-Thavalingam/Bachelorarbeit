@@ -1,0 +1,442 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "194.56.190.41",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx1.mtfcloud.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx2.mtfcloud.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx3.mtfcloud.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.hosttech.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "ns2.hosttech.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "ns3.hosttech.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms89876760\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Text Record": "\"v=spf1 mx:hin.ch include:spf.protection.outlook.com include:spf.mtfcloud.ch -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "120",
+      "Expire": "2419200",
+      "Serial": "2024111567",
+      "Refresh": "7200",
+      "Hostmaster": "dns.hosttech.eu.",
+      "Minimum TTL": "10800",
+      "Primary Nameserver": "ns1.hosttech.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "194.56.190.41",
+      "PTR-Domain": "mx241.mail.hosttech.eu.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "eulenapotheke.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "devalpha.eulenapotheke.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "devalpha.eulenapotheke.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "test.eulenapotheke.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "test.eulenapotheke.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "webmail.eulenapotheke.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-17",
+      "Gültig bis": "2025-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "test.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-17"
+    },
+    {
+      "Gültig ab": "2025-05-17",
+      "Gültig bis": "2025-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "test.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-17"
+    },
+    {
+      "Gültig ab": "2025-04-24",
+      "Gültig bis": "2025-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-24"
+    },
+    {
+      "Gültig ab": "2025-04-24",
+      "Gültig bis": "2025-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-24"
+    },
+    {
+      "Gültig ab": "2025-03-23",
+      "Gültig bis": "2025-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "devalpha.eulenapotheke.ch, www.devalpha.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Gültig ab": "2025-03-23",
+      "Gültig bis": "2025-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "devalpha.eulenapotheke.ch, www.devalpha.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Gültig ab": "2025-03-18",
+      "Gültig bis": "2025-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "test.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "Gültig ab": "2025-03-18",
+      "Gültig bis": "2025-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "test.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "Gültig ab": "2025-02-23",
+      "Gültig bis": "2025-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-23"
+    },
+    {
+      "Gültig ab": "2025-02-23",
+      "Gültig bis": "2025-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-23"
+    },
+    {
+      "Gültig ab": "2025-01-22",
+      "Gültig bis": "2025-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "devalpha.eulenapotheke.ch, www.devalpha.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "Gültig ab": "2025-01-22",
+      "Gültig bis": "2025-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "devalpha.eulenapotheke.ch, www.devalpha.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "Gültig ab": "2025-01-17",
+      "Gültig bis": "2025-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "test.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "Gültig ab": "2025-01-17",
+      "Gültig bis": "2025-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "test.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "Gültig ab": "2024-12-25",
+      "Gültig bis": "2025-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-25"
+    },
+    {
+      "Gültig ab": "2024-12-25",
+      "Gültig bis": "2025-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-25"
+    },
+    {
+      "Gültig ab": "2024-11-23",
+      "Gültig bis": "2025-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "devalpha.eulenapotheke.ch, www.devalpha.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-23"
+    },
+    {
+      "Gültig ab": "2024-11-23",
+      "Gültig bis": "2025-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "devalpha.eulenapotheke.ch, www.devalpha.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-23"
+    },
+    {
+      "Gültig ab": "2024-11-18",
+      "Gültig bis": "2025-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "test.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-18"
+    },
+    {
+      "Gültig ab": "2024-11-18",
+      "Gültig bis": "2025-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "test.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-18"
+    },
+    {
+      "Gültig ab": "2024-10-31",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "test.eulenapotheke.ch, www.test.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-10-31",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "test.eulenapotheke.ch, www.test.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-10-26",
+      "Gültig bis": "2025-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-26"
+    },
+    {
+      "Gültig ab": "2024-10-26",
+      "Gültig bis": "2025-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-26"
+    },
+    {
+      "Gültig ab": "2024-09-24",
+      "Gültig bis": "2024-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "devalpha.eulenapotheke.ch, www.devalpha.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "Gültig ab": "2024-09-24",
+      "Gültig bis": "2024-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "devalpha.eulenapotheke.ch, www.devalpha.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "Gültig ab": "2024-08-27",
+      "Gültig bis": "2024-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-27"
+    },
+    {
+      "Gültig ab": "2024-08-27",
+      "Gültig bis": "2024-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-27"
+    },
+    {
+      "Gültig ab": "2024-06-28",
+      "Gültig bis": "2024-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-28"
+    },
+    {
+      "Gültig ab": "2024-06-28",
+      "Gültig bis": "2024-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-28"
+    },
+    {
+      "Gültig ab": "2024-04-29",
+      "Gültig bis": "2024-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-29"
+    },
+    {
+      "Gültig ab": "2024-04-29",
+      "Gültig bis": "2024-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "eulenapotheke.ch, webmail.eulenapotheke.ch, www.eulenapotheke.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-29"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://eulenapotheke.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://eulenapotheke.ch/jobs-eulenapotheke",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://eulenapotheke.ch/kontakt-eulenapotheke",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@eulenapotheke.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522442999",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "Telefonnummern": "+41764386620",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

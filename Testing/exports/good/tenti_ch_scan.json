@@ -1,0 +1,3110 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "16.63.189.189",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "tenti1.cleanmail.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "tenti2.cleanmail.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.deep-impact.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Name Server": "ns2.deep-impact.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms36803475\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Text Record": "\"v=spf1 ip4:16.63.189.189 ip4:52.208.24.240 ip4:141.195.90.76 ip4:52.51.137.150 include:amazonses.com include:spf.crsend.com include:spf.protection.outlook.com include:_cmspf.cleanmail.ch -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "1209600",
+      "Serial": "2025050101",
+      "Refresh": "3600",
+      "Hostmaster": "sysadmin.deep-impact.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "ns1.deep-impact.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "16.63.189.189",
+      "PTR-Domain": "kaidun.deep-impact.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "tenti.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "app.tenti.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "test.app.tenti.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "auth.tenti.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "autodiscover.tenti.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "mail.tenti.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "rds.tenti.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "rds.tenti.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "shop.tenti.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "test.shop.tenti.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "status.tenti.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "vpn.tenti.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-02",
+      "Gültig bis": "2025-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-05-02"
+    },
+    {
+      "Gültig ab": "2025-05-02",
+      "Gültig bis": "2025-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-05-02"
+    },
+    {
+      "Gültig ab": "2025-05-02",
+      "Gültig bis": "2025-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-05-02"
+    },
+    {
+      "Gültig ab": "2025-05-02",
+      "Gültig bis": "2025-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-05-02"
+    },
+    {
+      "Gültig ab": "2025-05-01",
+      "Gültig bis": "2025-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-05-01"
+    },
+    {
+      "Gültig ab": "2025-05-01",
+      "Gültig bis": "2025-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-05-01"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-03-29",
+      "Gültig bis": "2026-04-26",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2024-04-29",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2025-03-29",
+      "Gültig bis": "2026-04-26",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2025-03-29",
+      "Gültig bis": "2026-04-26",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+      "Domain/Subdomain": "test.shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2024-04-29",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+      "Domain/Subdomain": "test.shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2025-03-29",
+      "Gültig bis": "2026-04-26",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+      "Domain/Subdomain": "test.shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2025-03-27",
+      "Gültig bis": "2026-04-24",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+      "Domain/Subdomain": "app.tenti.ch, test.app.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-27"
+    },
+    {
+      "Gültig ab": "2024-04-26",
+      "Gültig bis": "2025-05-25",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+      "Domain/Subdomain": "app.tenti.ch, test.app.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-27"
+    },
+    {
+      "Gültig ab": "2025-03-27",
+      "Gültig bis": "2026-04-24",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+      "Domain/Subdomain": "app.tenti.ch, test.app.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-27"
+    },
+    {
+      "Gültig ab": "2025-03-04",
+      "Gültig bis": "2025-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-04"
+    },
+    {
+      "Gültig ab": "2025-03-04",
+      "Gültig bis": "2025-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-04"
+    },
+    {
+      "Gültig ab": "2025-03-04",
+      "Gültig bis": "2025-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-04"
+    },
+    {
+      "Gültig ab": "2025-03-04",
+      "Gültig bis": "2025-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-04"
+    },
+    {
+      "Gültig ab": "2025-03-01",
+      "Gültig bis": "2025-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-01"
+    },
+    {
+      "Gültig ab": "2025-03-01",
+      "Gültig bis": "2025-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-01"
+    },
+    {
+      "Gültig ab": "2025-02-19",
+      "Gültig bis": "2025-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "Gültig ab": "2025-02-19",
+      "Gültig bis": "2025-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "Gültig ab": "2025-02-07",
+      "Gültig bis": "2025-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "Gültig ab": "2025-02-07",
+      "Gültig bis": "2025-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "Gültig ab": "2025-02-07",
+      "Gültig bis": "2025-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "Gültig ab": "2025-02-07",
+      "Gültig bis": "2025-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "Gültig ab": "2025-01-04",
+      "Gültig bis": "2025-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-04"
+    },
+    {
+      "Gültig ab": "2025-01-04",
+      "Gültig bis": "2025-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-04"
+    },
+    {
+      "Gültig ab": "2025-01-04",
+      "Gültig bis": "2025-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-04"
+    },
+    {
+      "Gültig ab": "2025-01-04",
+      "Gültig bis": "2025-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-04"
+    },
+    {
+      "Gültig ab": "2024-12-30",
+      "Gültig bis": "2025-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-30"
+    },
+    {
+      "Gültig ab": "2024-12-30",
+      "Gültig bis": "2025-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-30"
+    },
+    {
+      "Gültig ab": "2024-12-10",
+      "Gültig bis": "2025-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    },
+    {
+      "Gültig ab": "2024-12-10",
+      "Gültig bis": "2025-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    },
+    {
+      "Gültig ab": "2024-12-10",
+      "Gültig bis": "2025-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    },
+    {
+      "Gültig ab": "2024-12-10",
+      "Gültig bis": "2025-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    },
+    {
+      "Gültig ab": "2024-11-21",
+      "Gültig bis": "2025-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "Gültig ab": "2024-11-21",
+      "Gültig bis": "2025-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "Gültig ab": "2024-11-05",
+      "Gültig bis": "2025-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-05"
+    },
+    {
+      "Gültig ab": "2024-11-05",
+      "Gültig bis": "2025-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-05"
+    },
+    {
+      "Gültig ab": "2024-11-05",
+      "Gültig bis": "2025-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-05"
+    },
+    {
+      "Gültig ab": "2024-11-05",
+      "Gültig bis": "2025-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-05"
+    },
+    {
+      "Gültig ab": "2024-10-30",
+      "Gültig bis": "2025-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-30"
+    },
+    {
+      "Gültig ab": "2024-10-30",
+      "Gültig bis": "2025-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-30"
+    },
+    {
+      "Gültig ab": "2024-10-12",
+      "Gültig bis": "2025-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "Gültig ab": "2024-10-12",
+      "Gültig bis": "2025-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "Gültig ab": "2024-10-12",
+      "Gültig bis": "2025-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "Gültig ab": "2024-10-12",
+      "Gültig bis": "2025-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "Gültig ab": "2024-08-30",
+      "Gültig bis": "2024-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-30"
+    },
+    {
+      "Gültig ab": "2024-08-30",
+      "Gültig bis": "2024-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-30"
+    },
+    {
+      "Gültig ab": "2024-08-27",
+      "Gültig bis": "2024-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-27"
+    },
+    {
+      "Gültig ab": "2024-08-27",
+      "Gültig bis": "2024-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-27"
+    },
+    {
+      "Gültig ab": "2024-08-14",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "Gültig ab": "2024-08-14",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "Gültig ab": "2024-08-14",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "Gültig ab": "2024-08-14",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "Gültig ab": "2024-06-30",
+      "Gültig bis": "2024-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "Gültig ab": "2024-06-30",
+      "Gültig bis": "2024-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "Gültig ab": "2024-06-16",
+      "Gültig bis": "2024-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "Gültig ab": "2024-06-16",
+      "Gültig bis": "2024-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "Gültig ab": "2024-06-16",
+      "Gültig bis": "2024-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "Gültig ab": "2024-06-16",
+      "Gültig bis": "2024-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "Gültig ab": "2024-05-29",
+      "Gültig bis": "2024-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-29"
+    },
+    {
+      "Gültig ab": "2024-05-29",
+      "Gültig bis": "2024-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-29"
+    },
+    {
+      "Gültig ab": "2024-04-30",
+      "Gültig bis": "2024-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-30"
+    },
+    {
+      "Gültig ab": "2024-04-30",
+      "Gültig bis": "2024-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-30"
+    },
+    {
+      "Gültig ab": "2023-05-30",
+      "Gültig bis": "2024-06-27",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+      "Domain/Subdomain": "test.shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-29"
+    },
+    {
+      "Gültig ab": "2024-04-29",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+      "Domain/Subdomain": "test.shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-29"
+    },
+    {
+      "Gültig ab": "2024-04-29",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-29"
+    },
+    {
+      "Gültig ab": "2023-05-28",
+      "Gültig bis": "2024-06-24",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+      "Domain/Subdomain": "app.tenti.ch, test.app.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-26"
+    },
+    {
+      "Gültig ab": "2024-04-26",
+      "Gültig bis": "2025-05-25",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+      "Domain/Subdomain": "app.tenti.ch, test.app.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-26"
+    },
+    {
+      "Gültig ab": "2024-04-18",
+      "Gültig bis": "2024-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-18"
+    },
+    {
+      "Gültig ab": "2024-04-18",
+      "Gültig bis": "2024-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-18"
+    },
+    {
+      "Gültig ab": "2024-04-18",
+      "Gültig bis": "2024-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-18"
+    },
+    {
+      "Gültig ab": "2024-04-18",
+      "Gültig bis": "2024-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-18"
+    },
+    {
+      "Gültig ab": "2024-03-05",
+      "Gültig bis": "2024-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-05"
+    },
+    {
+      "Gültig ab": "2024-03-05",
+      "Gültig bis": "2024-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-05"
+    },
+    {
+      "Gültig ab": "2024-02-29",
+      "Gültig bis": "2024-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "Gültig ab": "2024-02-29",
+      "Gültig bis": "2024-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "Gültig ab": "2024-02-19",
+      "Gültig bis": "2024-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-19"
+    },
+    {
+      "Gültig ab": "2024-02-19",
+      "Gültig bis": "2024-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-19"
+    },
+    {
+      "Gültig ab": "2024-02-19",
+      "Gültig bis": "2024-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-19"
+    },
+    {
+      "Gültig ab": "2024-02-19",
+      "Gültig bis": "2024-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-19"
+    },
+    {
+      "Gültig ab": "2023-12-30",
+      "Gültig bis": "2024-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-30"
+    },
+    {
+      "Gültig ab": "2023-12-30",
+      "Gültig bis": "2024-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-30"
+    },
+    {
+      "Gültig ab": "2023-12-22",
+      "Gültig bis": "2024-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-22"
+    },
+    {
+      "Gültig ab": "2023-12-22",
+      "Gültig bis": "2024-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-22"
+    },
+    {
+      "Gültig ab": "2023-12-22",
+      "Gültig bis": "2024-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-22"
+    },
+    {
+      "Gültig ab": "2023-12-22",
+      "Gültig bis": "2024-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-22"
+    },
+    {
+      "Gültig ab": "2023-12-07",
+      "Gültig bis": "2024-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-07"
+    },
+    {
+      "Gültig ab": "2023-12-07",
+      "Gültig bis": "2024-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-07"
+    },
+    {
+      "Gültig ab": "2023-10-30",
+      "Gültig bis": "2024-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-30"
+    },
+    {
+      "Gültig ab": "2023-10-30",
+      "Gültig bis": "2024-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-30"
+    },
+    {
+      "Gültig ab": "2023-10-24",
+      "Gültig bis": "2024-01-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-24"
+    },
+    {
+      "Gültig ab": "2023-10-24",
+      "Gültig bis": "2024-01-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-24"
+    },
+    {
+      "Gültig ab": "2023-10-24",
+      "Gültig bis": "2024-01-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-24"
+    },
+    {
+      "Gültig ab": "2023-10-24",
+      "Gültig bis": "2024-01-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-24"
+    },
+    {
+      "Gültig ab": "2023-09-12",
+      "Gültig bis": "2023-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-12"
+    },
+    {
+      "Gültig ab": "2023-09-12",
+      "Gültig bis": "2023-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-12"
+    },
+    {
+      "Gültig ab": "2023-08-30",
+      "Gültig bis": "2023-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-30"
+    },
+    {
+      "Gültig ab": "2023-08-30",
+      "Gültig bis": "2023-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-30"
+    },
+    {
+      "Gültig ab": "2023-08-26",
+      "Gültig bis": "2023-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-26"
+    },
+    {
+      "Gültig ab": "2023-08-26",
+      "Gültig bis": "2023-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-26"
+    },
+    {
+      "Gültig ab": "2023-08-26",
+      "Gültig bis": "2023-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-26"
+    },
+    {
+      "Gültig ab": "2023-08-26",
+      "Gültig bis": "2023-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-26"
+    },
+    {
+      "Gültig ab": "2023-06-30",
+      "Gültig bis": "2023-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-30"
+    },
+    {
+      "Gültig ab": "2023-06-30",
+      "Gültig bis": "2023-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-30"
+    },
+    {
+      "Gültig ab": "2023-06-28",
+      "Gültig bis": "2023-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-28"
+    },
+    {
+      "Gültig ab": "2023-06-28",
+      "Gültig bis": "2023-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-28"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-01",
+      "Gültig bis": "2024-06-01",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.tenti.ch, mail.tenti.ch, rds.tenti.ch, vpn.tenti.ch, www.rds.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-01"
+    },
+    {
+      "Gültig ab": "2023-05-30",
+      "Gültig bis": "2024-06-27",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-30"
+    },
+    {
+      "Gültig ab": "2023-05-30",
+      "Gültig bis": "2024-06-27",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+      "Domain/Subdomain": "test.shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-30"
+    },
+    {
+      "Gültig ab": "2023-05-28",
+      "Gültig bis": "2024-06-24",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+      "Domain/Subdomain": "app.tenti.ch, test.app.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-28"
+    },
+    {
+      "Gültig ab": "2023-04-30",
+      "Gültig bis": "2023-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-30"
+    },
+    {
+      "Gültig ab": "2023-04-30",
+      "Gültig bis": "2023-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-30"
+    },
+    {
+      "Gültig ab": "2023-04-30",
+      "Gültig bis": "2023-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-30"
+    },
+    {
+      "Gültig ab": "2023-04-30",
+      "Gültig bis": "2023-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-30"
+    },
+    {
+      "Gültig ab": "2023-04-11",
+      "Gültig bis": "2023-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-11"
+    },
+    {
+      "Gültig ab": "2023-04-11",
+      "Gültig bis": "2023-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-11"
+    },
+    {
+      "Gültig ab": "2023-03-01",
+      "Gültig bis": "2023-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-02"
+    },
+    {
+      "Gültig ab": "2023-03-01",
+      "Gültig bis": "2023-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-02"
+    },
+    {
+      "Gültig ab": "2023-02-28",
+      "Gültig bis": "2023-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-28"
+    },
+    {
+      "Gültig ab": "2023-02-28",
+      "Gültig bis": "2023-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-28"
+    },
+    {
+      "Gültig ab": "2023-02-27",
+      "Gültig bis": "2023-07-28",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+      "Domain/Subdomain": "test.shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-27"
+    },
+    {
+      "Gültig ab": "2023-02-24",
+      "Gültig bis": "2023-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-24"
+    },
+    {
+      "Gültig ab": "2023-02-24",
+      "Gültig bis": "2023-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch, tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-24"
+    },
+    {
+      "Gültig ab": "2023-02-24",
+      "Gültig bis": "2023-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-24"
+    },
+    {
+      "Gültig ab": "2023-02-24",
+      "Gültig bis": "2023-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-24"
+    },
+    {
+      "Gültig ab": "2023-02-24",
+      "Gültig bis": "2023-07-26",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+      "Domain/Subdomain": "app.tenti.ch, test.app.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-24"
+    },
+    {
+      "Gültig ab": "2023-02-22",
+      "Gültig bis": "2023-07-28",
+      "Ausgestellt von": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-22"
+    },
+    {
+      "Gültig ab": "2023-01-13",
+      "Gültig bis": "2023-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-13"
+    },
+    {
+      "Gültig ab": "2023-01-13",
+      "Gültig bis": "2023-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-13"
+    },
+    {
+      "Gültig ab": "2022-12-22",
+      "Gültig bis": "2023-03-22",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-22"
+    },
+    {
+      "Gültig ab": "2022-12-22",
+      "Gültig bis": "2023-03-22",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-22"
+    },
+    {
+      "Gültig ab": "2022-10-21",
+      "Gültig bis": "2023-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-21"
+    },
+    {
+      "Gültig ab": "2022-10-21",
+      "Gültig bis": "2023-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-21"
+    },
+    {
+      "Gültig ab": "2022-09-28",
+      "Gültig bis": "2022-12-27",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "Gültig ab": "2022-09-28",
+      "Gültig bis": "2022-12-27",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "Gültig ab": "2022-08-28",
+      "Gültig bis": "2023-08-28",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc ECC CA-3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-28"
+    },
+    {
+      "Gültig ab": "2022-08-28",
+      "Gültig bis": "2023-08-28",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc RSA CA-2",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-28"
+    },
+    {
+      "Gültig ab": "2022-07-24",
+      "Gültig bis": "2022-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-07-24"
+    },
+    {
+      "Gültig ab": "2022-07-24",
+      "Gültig bis": "2022-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-07-24"
+    },
+    {
+      "Gültig ab": "2022-07-11",
+      "Gültig bis": "2022-10-09",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-07-11"
+    },
+    {
+      "Gültig ab": "2022-07-11",
+      "Gültig bis": "2022-10-09",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-07-11"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2023-07-28",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "test.shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2023-07-28",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-27",
+      "Gültig bis": "2023-07-26",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "app.tenti.ch, test.app.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-27"
+    },
+    {
+      "Gültig ab": "2022-06-02",
+      "Gültig bis": "2023-05-31",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.tenti.ch, mail.tenti.ch, rds.tenti.ch, vpn.tenti.ch, www.rds.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-02"
+    },
+    {
+      "Gültig ab": "2022-05-25",
+      "Gültig bis": "2022-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "Gültig ab": "2022-05-25",
+      "Gültig bis": "2022-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "Gültig ab": "2022-04-26",
+      "Gültig bis": "2022-07-25",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-04-26"
+    },
+    {
+      "Gültig ab": "2022-04-26",
+      "Gültig bis": "2022-07-25",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-04-26"
+    },
+    {
+      "Gültig ab": "2022-03-25",
+      "Gültig bis": "2022-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-03-25"
+    },
+    {
+      "Gültig ab": "2022-03-25",
+      "Gültig bis": "2022-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-03-25"
+    },
+    {
+      "Gültig ab": "2022-02-05",
+      "Gültig bis": "2022-05-06",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-02-05"
+    },
+    {
+      "Gültig ab": "2022-02-05",
+      "Gültig bis": "2022-05-06",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-02-05"
+    },
+    {
+      "Gültig ab": "2022-01-24",
+      "Gültig bis": "2022-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-01-24"
+    },
+    {
+      "Gültig ab": "2022-01-24",
+      "Gültig bis": "2022-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-01-24"
+    },
+    {
+      "Gültig ab": "2021-11-25",
+      "Gültig bis": "2022-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-11-25"
+    },
+    {
+      "Gültig ab": "2021-11-25",
+      "Gültig bis": "2022-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-11-25"
+    },
+    {
+      "Gültig ab": "2021-11-20",
+      "Gültig bis": "2022-02-18",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-11-20"
+    },
+    {
+      "Gültig ab": "2021-11-20",
+      "Gültig bis": "2022-02-18",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-11-20"
+    },
+    {
+      "Gültig ab": "2021-09-28",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc ECC CA-3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-28"
+    },
+    {
+      "Gültig ab": "2021-09-28",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc RSA CA-2",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-28"
+    },
+    {
+      "Gültig ab": "2021-09-24",
+      "Gültig bis": "2021-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-24"
+    },
+    {
+      "Gültig ab": "2021-09-24",
+      "Gültig bis": "2021-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-24"
+    },
+    {
+      "Gültig ab": "2021-09-03",
+      "Gültig bis": "2021-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-03"
+    },
+    {
+      "Gültig ab": "2021-09-03",
+      "Gültig bis": "2021-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-03"
+    },
+    {
+      "Gültig ab": "2021-09-02",
+      "Gültig bis": "2021-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-02"
+    },
+    {
+      "Gültig ab": "2021-09-02",
+      "Gültig bis": "2021-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-02"
+    },
+    {
+      "Gültig ab": "2021-09-01",
+      "Gültig bis": "2021-11-30",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-01"
+    },
+    {
+      "Gültig ab": "2021-09-01",
+      "Gültig bis": "2021-11-30",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-01"
+    },
+    {
+      "Gültig ab": "2021-07-29",
+      "Gültig bis": "2022-08-27",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-08-07"
+    },
+    {
+      "Gültig ab": "2021-07-29",
+      "Gültig bis": "2022-08-27",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "test.shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-29"
+    },
+    {
+      "Gültig ab": "2021-07-29",
+      "Gültig bis": "2022-08-27",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-29"
+    },
+    {
+      "Gültig ab": "2021-07-27",
+      "Gültig bis": "2022-08-25",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "app.tenti.ch, test.app.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-27"
+    },
+    {
+      "Gültig ab": "2021-07-03",
+      "Gültig bis": "2021-10-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-03"
+    },
+    {
+      "Gültig ab": "2021-07-03",
+      "Gültig bis": "2021-10-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-03"
+    },
+    {
+      "Gültig ab": "2021-06-16",
+      "Gültig bis": "2021-09-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "Gültig ab": "2021-06-16",
+      "Gültig bis": "2021-09-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "Gültig ab": "2021-05-31",
+      "Gültig bis": "2022-07-02",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.tenti.ch, mail.tenti.ch, rds.tenti.ch, vpn.tenti.ch, www.rds.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-05-31"
+    },
+    {
+      "Gültig ab": "2021-05-04",
+      "Gültig bis": "2021-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-05-04"
+    },
+    {
+      "Gültig ab": "2021-05-04",
+      "Gültig bis": "2021-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "status.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-05-04"
+    },
+    {
+      "Gültig ab": "2021-03-31",
+      "Gültig bis": "2021-06-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-03-31"
+    },
+    {
+      "Gültig ab": "2021-03-31",
+      "Gültig bis": "2021-06-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-03-31"
+    },
+    {
+      "Gültig ab": "2021-01-14",
+      "Gültig bis": "2021-04-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-14"
+    },
+    {
+      "Gültig ab": "2021-01-14",
+      "Gültig bis": "2021-04-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-14"
+    },
+    {
+      "Gültig ab": "2020-10-29",
+      "Gültig bis": "2021-10-28",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc ECC CA-3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-12-19"
+    },
+    {
+      "Gültig ab": "2020-10-30",
+      "Gültig bis": "2021-01-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-30"
+    },
+    {
+      "Gültig ab": "2020-10-30",
+      "Gültig bis": "2021-01-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-30"
+    },
+    {
+      "Gültig ab": "2020-10-29",
+      "Gültig bis": "2021-10-28",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc ECC CA-3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-29"
+    },
+    {
+      "Gültig ab": "2020-10-29",
+      "Gültig bis": "2021-10-28",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc RSA CA-2",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-29"
+    },
+    {
+      "Gültig ab": "2020-09-16",
+      "Gültig bis": "2020-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-16"
+    },
+    {
+      "Gültig ab": "2020-09-16",
+      "Gültig bis": "2020-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-16"
+    },
+    {
+      "Gültig ab": "2020-08-27",
+      "Gültig bis": "2021-09-26",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-02"
+    },
+    {
+      "Gültig ab": "2020-08-27",
+      "Gültig bis": "2021-09-26",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-27"
+    },
+    {
+      "Gültig ab": "2020-08-27",
+      "Gültig bis": "2021-09-26",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "test.shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-27"
+    },
+    {
+      "Gültig ab": "2020-08-25",
+      "Gültig bis": "2021-09-24",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "app.tenti.ch, test.app.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-25"
+    },
+    {
+      "Gültig ab": "2020-08-24",
+      "Gültig bis": "2021-09-23",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "test.shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-24"
+    },
+    {
+      "Gültig ab": "2020-08-15",
+      "Gültig bis": "2020-11-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-15"
+    },
+    {
+      "Gültig ab": "2020-08-15",
+      "Gültig bis": "2020-11-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-15"
+    },
+    {
+      "Gültig ab": "2020-07-17",
+      "Gültig bis": "2020-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-07-17"
+    },
+    {
+      "Gültig ab": "2020-07-17",
+      "Gültig bis": "2020-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-07-17"
+    },
+    {
+      "Gültig ab": "2020-07-16",
+      "Gültig bis": "2021-07-16",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc ECC CA-3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-07-16"
+    },
+    {
+      "Gültig ab": "2020-07-16",
+      "Gültig bis": "2021-07-16",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc RSA CA-2",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-07-16"
+    },
+    {
+      "Gültig ab": "2020-05-19",
+      "Gültig bis": "2021-06-19",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-07-05"
+    },
+    {
+      "Gültig ab": "2020-05-31",
+      "Gültig bis": "2020-08-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-31"
+    },
+    {
+      "Gültig ab": "2020-05-31",
+      "Gültig bis": "2020-08-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-31"
+    },
+    {
+      "Gültig ab": "2020-05-19",
+      "Gültig bis": "2020-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-19"
+    },
+    {
+      "Gültig ab": "2020-05-19",
+      "Gültig bis": "2020-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "auth.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-19"
+    },
+    {
+      "Gültig ab": "2020-05-19",
+      "Gültig bis": "2021-06-19",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "app.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-19"
+    },
+    {
+      "Gültig ab": "2020-05-19",
+      "Gültig bis": "2021-06-19",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-19"
+    },
+    {
+      "Gültig ab": "2020-05-19",
+      "Gültig bis": "2021-06-19",
+      "Ausgestellt von": "C=US, O=Amazon, OU=Server CA 1B, CN=Amazon",
+      "Domain/Subdomain": "app.tenti.ch, shop.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-19"
+    },
+    {
+      "Gültig ab": "2020-04-20",
+      "Gültig bis": "2020-07-19",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-04-20"
+    },
+    {
+      "Gültig ab": "2020-04-20",
+      "Gültig bis": "2020-07-19",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.tenti.ch, tenti.ch, www.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-04-20"
+    },
+    {
+      "Gültig ab": "2019-06-03",
+      "Gültig bis": "2021-06-03",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.tenti.ch, mail.tenti.ch, rds.tenti.ch, vpn.tenti.ch, www.rds.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-06-13"
+    },
+    {
+      "Gültig ab": "2019-06-03",
+      "Gültig bis": "2021-06-03",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.tenti.ch, mail.tenti.ch, rds.tenti.ch, vpn.tenti.ch, www.rds.tenti.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-06-03"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://tenti.ch/liefergebiete/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/agbs/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/compare/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/marktbericht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/shop/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "URL": "https://tenti.ch/comments/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/author/admin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-18"
+    },
+    {
+      "URL": "https://tenti.ch/was-wir-tun/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-18"
+    },
+    {
+      "URL": "https://tenti.ch/geschichte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-12-01"
+    },
+    {
+      "URL": "https://tenti.ch/datenschutzerklaerung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/chiste/saisonale-chischten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/product-tag/chlaus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/product-tag/samichlaus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/product-tag/tenti/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/chlaus-chischte-2-kg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/chlaus-chischte-8-kg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/chlaus-chischte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitamin-chischte-sommer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitamin-chischte-winter-gross/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitamin-chischte-winter-klein/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/product-tag/advent/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitamin-chischte-herbst-gross/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://tenti.ch/das-tenti-team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/chiste/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitamin-chiste-basis-i/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitamin-chiste-basis-iii/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitamin-chiste-basis-iv/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitmain-chiste-spezial/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://tenti.ch/unsere-dienstleistung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://tenti.ch/gastro-shop/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://tenti.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/ueber-uns/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "URL": "https://tenti.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "URL": "https://tenti.chSitemap:",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "URL": "https://tenti.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/social-media/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-21"
+    },
+    {
+      "URL": "https://tenti.ch/my-account/lost-password/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/offene-stellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/chiste/vitamin-chischten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitamin-chiste-basis-ii/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/unsere-partner/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/wdi_instagram/preview-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/oeffnungs-und-bestellzeiten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://tenti.ch/product-tag/chischte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://tenti.ch/product-tag/weihnachten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://tenti.ch/unsere-geschichte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitamin-chischte-sommer-gross/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitamin-chischte-sommer-klein/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitamin-chischte-fruehling-klein/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "http://www.tenti.ch/vitamin-chischte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://tenti.ch/page-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://tenti.ch/product-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://tenti.ch/product_cat-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://tenti.ch/produkt/vitamin-chischte-fruehling-gross/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://tenti.ch/sitemap_index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://tenti.ch/wdi_instagram-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://tenti.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftenti.ch%2Fdas-tenti-team%2F&format=xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://tenti.ch/wp-json/wp/v2/pages/324",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://tenti.ch/wp-json/wp/v2/pages/475",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://tenti.ch/partner/unsere-partner.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitamin-chiste-basis-ii/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitamin-chiste-basis-iii/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitmain-chiste-spezial/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/uploads/2022/06/Inserat-Kommissioniererin-gross.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitamin-chischte-fruehling-gross/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitamin-chischte-fruehling-klein/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitamin-chiste-basis-iv/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "URL": "https://tenti.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-10"
+    },
+    {
+      "URL": "https://tenti.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-06"
+    },
+    {
+      "URL": "https://tenti.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "URL": "https://tenti.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "URL": "https://tenti.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "URL": "https://tenti.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitamin-chischte-fruehling/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitaminchischte-winter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://tenti.ch/product/winti-chischte-gross-mit-lachs/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://tenti.ch/product/winti-chischte-gross-mit-poulet/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://tenti.ch/product/winti-chischte-gross-ohne-fleisch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://tenti.ch/product/winti-chischte-klein-mit-lachs/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://tenti.ch/product/winti-chischte-klein-mit-poulet/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://tenti.ch/product/winti-chischte-klein-ohne-fleisch/?add-to-cart=1157",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://tenti.ch/wp-login.php?action=lostpassword",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-01"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/uploads/2022/09/Federkohl-klein-scaled.jpg%20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/chiste/chlaus-chischte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-24"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/chiste/herbst-chischte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-24"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/chiste/grill-chisten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-23"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/chiste/grosse-kisten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-23"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/chiste/kleine-kisten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-23"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/grosse-kisten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-23"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/kleine-kisten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-23"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/muttertags-chischte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-23"
+    },
+    {
+      "URL": "https://tenti.ch/2020/03/hello-world/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-18"
+    },
+    {
+      "URL": "https://tenti.ch/category/uncategorized/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-18"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/uncategorized/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-18"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/chiste/page/3/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-12-01"
+    },
+    {
+      "URL": "https://tenti.ch/product/chlaus-chischte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-12-01"
+    },
+    {
+      "URL": "https://tenti.ch/product/herbst-chischte-gross-mit-hirschpfeffer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-12-01"
+    },
+    {
+      "URL": "https://tenti.ch/product/herbst-chischte-gross-mit-poulet/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-12-01"
+    },
+    {
+      "URL": "https://tenti.ch/product/herbst-chischte-gross-ohne-fleisch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-12-01"
+    },
+    {
+      "URL": "https://tenti.ch/product/herbst-chischte-klein-mit-hirschpfeffer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-12-01"
+    },
+    {
+      "URL": "https://tenti.ch/product/herbst-chischte-klein-mit-poulet/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-12-01"
+    },
+    {
+      "URL": "https://tenti.ch/product/herbst-chischte-klein-ohne-fleisch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-12-01"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/chiste/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-26"
+    },
+    {
+      "URL": "https://tenti.ch/product/winti-chiste-klein-mit-poulet/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-26"
+    },
+    {
+      "URL": "https://tenti.ch/product/winti-chiste-klein-mit-wildlachs/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-26"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitamin-chiste-sommer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-20"
+    },
+    {
+      "URL": "https://tenti.ch/product/winti-chiste-gross-mit-poulet/?add-to-cart=456",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-20"
+    },
+    {
+      "URL": "https://tenti.ch/product/winti-chiste-gross-mit-wildlachs/?add-to-cart=454",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-20"
+    },
+    {
+      "URL": "https://tenti.ch/product/burger-chiste/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-14"
+    },
+    {
+      "URL": "https://tenti.ch/my-account/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/zertifikate/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://tenti.ch/cart/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://tenti.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/wishlist/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://tenti.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "URL": "https://tenti.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "URL": "https://tenti.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "URL": "https://tenti.ch/wp-admin/admin-ajax.php?action=rest-nonce",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/wp-admin/admin.php?page=twb_instagram-feed",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/plugins/wd-instagram-feed/booster",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/plugins/woocommerce/assets/fonts/star.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/plugins/woocommerce/assets/fonts/star.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/plugins/woocommerce/assets/fonts/star.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/uploads/2024/02/wirz.jpg%20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/wp-json/wp-statistics/v2/hit?current_page_id=798&current_page_type=home&page_uri=Lw%3D&search_query=&track_all=1&wp_statistics_hit_rest=yes",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/wp-json/wp-statistics/v2/online?current_page_id=798&current_page_type=home&page_uri=Lw%3D&search_query=&track_all=1&wp_statistics_hit_rest=yes",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/xmlrpc.php?rsd=",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitamin-chischte-winter-gross/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitamin-chischte-winter-klein/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitamin-chiste-basis-i/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/uploads/2023/08/Kommission.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-18"
+    },
+    {
+      "URL": "https://tenti.ch/product/vitamin-chischte-sommer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/chiste/vitamin-chischte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "URL": "https://tenti.ch/product-category/chiste/winti-chischte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/themes/storefront/assets/fonts/fa-brands-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/themes/storefront/assets/fonts/fa-brands-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/themes/storefront/assets/fonts/fa-brands-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/themes/storefront/assets/fonts/fa-brands-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/themes/storefront/assets/fonts/fa-solid-900.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/themes/storefront/assets/fonts/fa-solid-900.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/themes/storefront/assets/fonts/fa-solid-900.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/wp-content/themes/storefront/assets/fonts/fa-solid-900.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/wp-json/wp/v2/pages/798",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://tenti.ch/product/fleisch-chiste/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-14"
+    },
+    {
+      "URL": "https://tenti.ch/product/vegi-chiste/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-14"
+    },
+    {
+      "URL": "https://tenti.ch/product/wurst-chiste/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-14"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/index.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/kontakt.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/kunden/index.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/login.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/news/newsletter-registrieren.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/produkte/produkte-uebersicht.cfm?id=3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/service/dokumente.cfm?catid=-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/vitamin-chischte/index.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/firmenportrait/team.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-30"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/produkte/produkte-aktionen.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-30"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/firmenportrait/firma.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-27"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/service/service.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-27"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/images/partner/Culinarium-2017.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-03"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/images/partner/ISO_22000-2017.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-03"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/images/partner/Suisse_Garantie-2017.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-03"
+    },
+    {
+      "URL": "http://tenti.ch/includes/banner/fruit_vegetable.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-24"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/produkte/produkte-suche.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2014-04-28"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/produkte/piwik.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2014-03-30"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/service/piwik.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/vitamin-chischte/piwik.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/firmenportrait/piwik.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-03-23"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/piwik.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-03-23"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/news/piwik.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2012-11-11"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/partner/piwik.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2012-11-11"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/produkte/Le_ricette.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2011-04-01"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/kunden/bestellung.cfm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-10-29"
+    },
+    {
+      "URL": "http://www.tenti.ch:80/tenti2.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-16"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "a.spiller@tenti.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "E-Mail": "bestellung@tenti.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "E-Mail": "bukurje@tenti.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "E-Mail": "hofmeister@tenti.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "E-Mail": "n.spiller@tenti.ch",
+      "Passwort geleakt (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "E-Mail": "spiller@tenti.ch",
+      "Passwort geleakt (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522351820",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "Telefonnummern": "+41522351828",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

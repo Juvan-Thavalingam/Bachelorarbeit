@@ -1,0 +1,2671 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "149.126.4.23",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a01:ab20:0:4::23",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "wetliing-ch01c.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Name Server": "ns2.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "3600000",
+      "Serial": "2022020307",
+      "Refresh": "86400",
+      "Hostmaster": "server.cyon.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "149.126.4.23",
+      "PTR-Domain": "s014.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "IP-Adresse": "2a01:ab20:0:4::23",
+      "PTR-Domain": "s014.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "wetli-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "2022.wetli-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "2022.wetli-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "dev.wetli-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "dev.wetli-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "entwicklung.wetli-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "entwicklung.wetli-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "mail.wetli-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-06",
+      "Gültig bis": "2025-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-06"
+    },
+    {
+      "Gültig ab": "2025-05-06",
+      "Gültig bis": "2025-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-06"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-15"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-15"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-15"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-15"
+    },
+    {
+      "Gültig ab": "2025-03-06",
+      "Gültig bis": "2025-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-06"
+    },
+    {
+      "Gültig ab": "2025-03-06",
+      "Gültig bis": "2025-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-06"
+    },
+    {
+      "Gültig ab": "2025-02-13",
+      "Gültig bis": "2025-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "Gültig ab": "2025-02-13",
+      "Gültig bis": "2025-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "Gültig ab": "2025-02-11",
+      "Gültig bis": "2025-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-11"
+    },
+    {
+      "Gültig ab": "2025-02-11",
+      "Gültig bis": "2025-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-11"
+    },
+    {
+      "Gültig ab": "2025-01-04",
+      "Gültig bis": "2025-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-04"
+    },
+    {
+      "Gültig ab": "2025-01-04",
+      "Gültig bis": "2025-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-04"
+    },
+    {
+      "Gültig ab": "2024-12-13",
+      "Gültig bis": "2025-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "Gültig ab": "2024-12-13",
+      "Gültig bis": "2025-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "Gültig ab": "2024-12-12",
+      "Gültig bis": "2025-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "Gültig ab": "2024-12-12",
+      "Gültig bis": "2025-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "Gültig ab": "2024-11-04",
+      "Gültig bis": "2025-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "Gültig ab": "2024-11-04",
+      "Gültig bis": "2025-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "Gültig ab": "2024-10-14",
+      "Gültig bis": "2025-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-14"
+    },
+    {
+      "Gültig ab": "2024-10-14",
+      "Gültig bis": "2025-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-14"
+    },
+    {
+      "Gültig ab": "2024-10-12",
+      "Gültig bis": "2025-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "Gültig ab": "2024-10-12",
+      "Gültig bis": "2025-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "Gültig ab": "2024-09-05",
+      "Gültig bis": "2024-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-05"
+    },
+    {
+      "Gültig ab": "2024-09-05",
+      "Gültig bis": "2024-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-05"
+    },
+    {
+      "Gültig ab": "2024-08-14",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "Gültig ab": "2024-08-14",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "Gültig ab": "2024-08-13",
+      "Gültig bis": "2024-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "Gültig ab": "2024-08-13",
+      "Gültig bis": "2024-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "Gültig ab": "2024-07-06",
+      "Gültig bis": "2024-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "Gültig ab": "2024-07-06",
+      "Gültig bis": "2024-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-06-13",
+      "Gültig bis": "2024-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-13"
+    },
+    {
+      "Gültig ab": "2024-06-13",
+      "Gültig bis": "2024-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-13"
+    },
+    {
+      "Gültig ab": "2024-05-06",
+      "Gültig bis": "2024-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-06"
+    },
+    {
+      "Gültig ab": "2024-05-06",
+      "Gültig bis": "2024-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-06"
+    },
+    {
+      "Gültig ab": "2024-04-14",
+      "Gültig bis": "2024-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-14"
+    },
+    {
+      "Gültig ab": "2024-04-14",
+      "Gültig bis": "2024-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-14"
+    },
+    {
+      "Gültig ab": "2024-04-14",
+      "Gültig bis": "2024-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-14"
+    },
+    {
+      "Gültig ab": "2024-04-14",
+      "Gültig bis": "2024-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-14"
+    },
+    {
+      "Gültig ab": "2024-03-06",
+      "Gültig bis": "2024-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-06"
+    },
+    {
+      "Gültig ab": "2024-03-06",
+      "Gültig bis": "2024-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-06"
+    },
+    {
+      "Gültig ab": "2024-02-14",
+      "Gültig bis": "2024-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-14"
+    },
+    {
+      "Gültig ab": "2024-02-14",
+      "Gültig bis": "2024-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-14"
+    },
+    {
+      "Gültig ab": "2024-02-12",
+      "Gültig bis": "2024-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-12"
+    },
+    {
+      "Gültig ab": "2024-02-12",
+      "Gültig bis": "2024-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-12"
+    },
+    {
+      "Gültig ab": "2024-01-04",
+      "Gültig bis": "2024-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "Gültig ab": "2024-01-04",
+      "Gültig bis": "2024-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "Gültig ab": "2023-12-16",
+      "Gültig bis": "2024-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "Gültig ab": "2023-12-16",
+      "Gültig bis": "2024-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "Gültig ab": "2023-12-14",
+      "Gültig bis": "2024-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-14"
+    },
+    {
+      "Gültig ab": "2023-12-14",
+      "Gültig bis": "2024-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-14"
+    },
+    {
+      "Gültig ab": "2023-11-04",
+      "Gültig bis": "2024-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-11-04"
+    },
+    {
+      "Gültig ab": "2023-11-04",
+      "Gültig bis": "2024-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-11-04"
+    },
+    {
+      "Gültig ab": "2023-10-15",
+      "Gültig bis": "2024-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-15"
+    },
+    {
+      "Gültig ab": "2023-10-15",
+      "Gültig bis": "2024-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-15"
+    },
+    {
+      "Gültig ab": "2023-10-09",
+      "Gültig bis": "2024-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-09"
+    },
+    {
+      "Gültig ab": "2023-10-09",
+      "Gültig bis": "2024-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-09"
+    },
+    {
+      "Gültig ab": "2023-09-05",
+      "Gültig bis": "2023-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-05"
+    },
+    {
+      "Gültig ab": "2023-09-05",
+      "Gültig bis": "2023-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-05"
+    },
+    {
+      "Gültig ab": "2023-08-10",
+      "Gültig bis": "2023-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-10"
+    },
+    {
+      "Gültig ab": "2023-08-10",
+      "Gültig bis": "2023-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-10"
+    },
+    {
+      "Gültig ab": "2023-08-09",
+      "Gültig bis": "2023-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-09"
+    },
+    {
+      "Gültig ab": "2023-08-09",
+      "Gültig bis": "2023-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-09"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "Gültig ab": "2023-06-10",
+      "Gültig bis": "2023-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "Gültig ab": "2023-06-10",
+      "Gültig bis": "2023-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "Gültig ab": "2023-06-09",
+      "Gültig bis": "2023-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "Gültig ab": "2023-06-09",
+      "Gültig bis": "2023-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-04-10",
+      "Gültig bis": "2023-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-04-10"
+    },
+    {
+      "Gültig ab": "2023-04-10",
+      "Gültig bis": "2023-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-04-10"
+    },
+    {
+      "Gültig ab": "2023-04-08",
+      "Gültig bis": "2023-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-04-08"
+    },
+    {
+      "Gültig ab": "2023-04-08",
+      "Gültig bis": "2023-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-04-08"
+    },
+    {
+      "Gültig ab": "2023-03-05",
+      "Gültig bis": "2023-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-05"
+    },
+    {
+      "Gültig ab": "2023-03-05",
+      "Gültig bis": "2023-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-05"
+    },
+    {
+      "Gültig ab": "2023-02-08",
+      "Gültig bis": "2023-05-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-02-08"
+    },
+    {
+      "Gültig ab": "2023-02-08",
+      "Gültig bis": "2023-05-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-02-08"
+    },
+    {
+      "Gültig ab": "2023-02-05",
+      "Gültig bis": "2023-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-02-05"
+    },
+    {
+      "Gültig ab": "2023-02-05",
+      "Gültig bis": "2023-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-02-05"
+    },
+    {
+      "Gültig ab": "2023-01-03",
+      "Gültig bis": "2023-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-01-03"
+    },
+    {
+      "Gültig ab": "2023-01-03",
+      "Gültig bis": "2023-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-01-03"
+    },
+    {
+      "Gültig ab": "2022-12-10",
+      "Gültig bis": "2023-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-10"
+    },
+    {
+      "Gültig ab": "2022-12-10",
+      "Gültig bis": "2023-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-10"
+    },
+    {
+      "Gültig ab": "2022-12-06",
+      "Gültig bis": "2023-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-06"
+    },
+    {
+      "Gültig ab": "2022-12-06",
+      "Gültig bis": "2023-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-06"
+    },
+    {
+      "Gültig ab": "2022-10-31",
+      "Gültig bis": "2023-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-31"
+    },
+    {
+      "Gültig ab": "2022-10-31",
+      "Gültig bis": "2023-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-31"
+    },
+    {
+      "Gültig ab": "2022-10-08",
+      "Gültig bis": "2023-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-08"
+    },
+    {
+      "Gültig ab": "2022-10-08",
+      "Gültig bis": "2023-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-08"
+    },
+    {
+      "Gültig ab": "2022-10-06",
+      "Gültig bis": "2023-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-06"
+    },
+    {
+      "Gültig ab": "2022-10-06",
+      "Gültig bis": "2023-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-06"
+    },
+    {
+      "Gültig ab": "2022-08-31",
+      "Gültig bis": "2022-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-31"
+    },
+    {
+      "Gültig ab": "2022-08-31",
+      "Gültig bis": "2022-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-31"
+    },
+    {
+      "Gültig ab": "2022-08-08",
+      "Gültig bis": "2022-11-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-08"
+    },
+    {
+      "Gültig ab": "2022-08-08",
+      "Gültig bis": "2022-11-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-08"
+    },
+    {
+      "Gültig ab": "2022-08-06",
+      "Gültig bis": "2022-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-06"
+    },
+    {
+      "Gültig ab": "2022-08-06",
+      "Gültig bis": "2022-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-06"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-06",
+      "Gültig bis": "2022-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-06-06"
+    },
+    {
+      "Gültig ab": "2022-06-06",
+      "Gültig bis": "2022-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-06-06"
+    },
+    {
+      "Gültig ab": "2022-06-06",
+      "Gültig bis": "2022-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-06-06"
+    },
+    {
+      "Gültig ab": "2022-06-06",
+      "Gültig bis": "2022-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-06-06"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-04-07",
+      "Gültig bis": "2022-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-07"
+    },
+    {
+      "Gültig ab": "2022-04-07",
+      "Gültig bis": "2022-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-07"
+    },
+    {
+      "Gültig ab": "2022-04-06",
+      "Gültig bis": "2022-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-06"
+    },
+    {
+      "Gültig ab": "2022-04-06",
+      "Gültig bis": "2022-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-06"
+    },
+    {
+      "Gültig ab": "2022-02-26",
+      "Gültig bis": "2022-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-26"
+    },
+    {
+      "Gültig ab": "2022-02-26",
+      "Gültig bis": "2022-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-26"
+    },
+    {
+      "Gültig ab": "2022-02-03",
+      "Gültig bis": "2022-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-03"
+    },
+    {
+      "Gültig ab": "2022-02-03",
+      "Gültig bis": "2022-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "entwicklung.wetli-ing.ch, www.entwicklung.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-03"
+    },
+    {
+      "Gültig ab": "2022-02-03",
+      "Gültig bis": "2022-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-03"
+    },
+    {
+      "Gültig ab": "2022-02-03",
+      "Gültig bis": "2022-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2022.wetli-ing.ch, www.2022.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-03"
+    },
+    {
+      "Gültig ab": "2022-02-03",
+      "Gültig bis": "2022-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wetli-ing.ch, www.dev.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-03"
+    },
+    {
+      "Gültig ab": "2022-02-03",
+      "Gültig bis": "2022-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wetli-ing.ch, www.dev.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-03"
+    },
+    {
+      "Gültig ab": "2021-12-28",
+      "Gültig bis": "2022-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-28"
+    },
+    {
+      "Gültig ab": "2021-12-28",
+      "Gültig bis": "2022-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-28"
+    },
+    {
+      "Gültig ab": "2021-10-27",
+      "Gültig bis": "2022-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-10-27"
+    },
+    {
+      "Gültig ab": "2021-10-27",
+      "Gültig bis": "2022-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-10-27"
+    },
+    {
+      "Gültig ab": "2021-08-27",
+      "Gültig bis": "2021-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-08-28"
+    },
+    {
+      "Gültig ab": "2021-08-27",
+      "Gültig bis": "2021-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-08-28"
+    },
+    {
+      "Gültig ab": "2021-06-27",
+      "Gültig bis": "2021-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-06-27"
+    },
+    {
+      "Gültig ab": "2021-06-27",
+      "Gültig bis": "2021-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-06-27"
+    },
+    {
+      "Gültig ab": "2021-04-27",
+      "Gültig bis": "2021-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-04-27"
+    },
+    {
+      "Gültig ab": "2021-04-27",
+      "Gültig bis": "2021-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-04-27"
+    },
+    {
+      "Gültig ab": "2021-02-25",
+      "Gültig bis": "2021-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-02-25"
+    },
+    {
+      "Gültig ab": "2021-02-25",
+      "Gültig bis": "2021-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-02-25"
+    },
+    {
+      "Gültig ab": "2020-12-26",
+      "Gültig bis": "2021-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-12-26"
+    },
+    {
+      "Gültig ab": "2020-12-26",
+      "Gültig bis": "2021-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-12-26"
+    },
+    {
+      "Gültig ab": "2020-10-27",
+      "Gültig bis": "2021-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-10-27"
+    },
+    {
+      "Gültig ab": "2020-10-27",
+      "Gültig bis": "2021-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-10-27"
+    },
+    {
+      "Gültig ab": "2020-08-26",
+      "Gültig bis": "2020-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-26"
+    },
+    {
+      "Gültig ab": "2020-08-26",
+      "Gültig bis": "2020-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-26"
+    },
+    {
+      "Gültig ab": "2020-06-26",
+      "Gültig bis": "2020-09-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-06-26"
+    },
+    {
+      "Gültig ab": "2020-06-26",
+      "Gültig bis": "2020-09-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-06-26"
+    },
+    {
+      "Gültig ab": "2020-04-27",
+      "Gültig bis": "2020-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-27"
+    },
+    {
+      "Gültig ab": "2020-04-27",
+      "Gültig bis": "2020-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-27"
+    },
+    {
+      "Gültig ab": "2020-02-26",
+      "Gültig bis": "2020-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-02-26"
+    },
+    {
+      "Gültig ab": "2020-02-26",
+      "Gültig bis": "2020-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-02-26"
+    },
+    {
+      "Gültig ab": "2019-12-27",
+      "Gültig bis": "2020-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-12-27"
+    },
+    {
+      "Gültig ab": "2019-12-27",
+      "Gültig bis": "2020-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-12-27"
+    },
+    {
+      "Gültig ab": "2019-10-25",
+      "Gültig bis": "2020-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "Gültig ab": "2019-10-25",
+      "Gültig bis": "2020-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "Gültig ab": "2019-08-25",
+      "Gültig bis": "2019-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-08-25"
+    },
+    {
+      "Gültig ab": "2019-08-25",
+      "Gültig bis": "2019-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-08-25"
+    },
+    {
+      "Gültig ab": "2019-06-25",
+      "Gültig bis": "2019-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-06-25"
+    },
+    {
+      "Gültig ab": "2019-06-25",
+      "Gültig bis": "2019-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-06-25"
+    },
+    {
+      "Gültig ab": "2019-04-25",
+      "Gültig bis": "2019-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-04-25"
+    },
+    {
+      "Gültig ab": "2019-04-25",
+      "Gültig bis": "2019-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-04-25"
+    },
+    {
+      "Gültig ab": "2019-02-21",
+      "Gültig bis": "2019-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-02-21"
+    },
+    {
+      "Gültig ab": "2019-02-21",
+      "Gültig bis": "2019-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-02-21"
+    },
+    {
+      "Gültig ab": "2019-01-01",
+      "Gültig bis": "2019-04-01",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.wetli-ing.ch, wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-01"
+    },
+    {
+      "Gültig ab": "2019-01-01",
+      "Gültig bis": "2019-04-01",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.wetli-ing.ch, wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-01"
+    },
+    {
+      "Gültig ab": "2018-10-17",
+      "Gültig bis": "2019-01-15",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.wetli-ing.ch, wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-17"
+    },
+    {
+      "Gültig ab": "2018-10-17",
+      "Gültig bis": "2019-01-15",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.wetli-ing.ch, wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-17"
+    },
+    {
+      "Gültig ab": "2018-08-02",
+      "Gültig bis": "2018-10-31",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.wetli-ing.ch, wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-02"
+    },
+    {
+      "Gültig ab": "2018-08-02",
+      "Gültig bis": "2018-10-31",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.wetli-ing.ch, wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-02"
+    },
+    {
+      "Gültig ab": "2018-05-02",
+      "Gültig bis": "2018-07-31",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.wetli-ing.ch, wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-05-02"
+    },
+    {
+      "Gültig ab": "2018-05-02",
+      "Gültig bis": "2018-07-31",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.wetli-ing.ch, wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-05-02"
+    },
+    {
+      "Gültig ab": "2018-02-15",
+      "Gültig bis": "2018-05-16",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.wetli-ing.ch, wetli-ing.ch, www.wetli-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-02-18"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.wetli-ing.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/standort.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-10"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/home.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-09"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/indexhome.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-09"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Zeichner.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-12-16"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/ing.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-12-15"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/aktuell%5ciw192%5ciw192.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-08-15"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/stahlbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-05-30"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/stahl1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-05-29"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/stahl.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-05-27"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/spez2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-05-26"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/spez1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-05-25"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/aktuell%5c20105%5c20105.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2002-09-28"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/umbau1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2002-09-23"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/umbau2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2002-09-23"
+    },
+    {
+      "URL": "http://wetli-ing.ch/aktuelles/neuigkeiten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-07"
+    },
+    {
+      "URL": "http://wetli-ing.ch/dienstleistungen/dienstleistungen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-07"
+    },
+    {
+      "URL": "http://wetli-ing.ch/downloads/downloads.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/referenzen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-10"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/titel.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-09"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/sb4.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-05-23"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/sb1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-04-23"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/stahlbau1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2001-09-01"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/stahlbau4.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2001-04-12"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/stahlbau5.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2001-04-12"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/stahlbau6.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2001-04-12"
+    },
+    {
+      "URL": "https://wetli-ing.ch/build.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://wetli-ing.ch/check",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://wetli-ing.ch/composer.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://wetli-ing.ch/composer.lock",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://wetli-ing.ch/contao",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://wetli-ing.ch/README.md",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://wetli-ing.ch/share/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://wetli-ing.ch/system",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://wetli-ing.ch/system/cron/cron.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://wetli-ing.ch/templates",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://wetli-ing.ch/vendor",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/comments/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/feed.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/herzlich-willkommen-im-team-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2024/04/Referenzblatt-wp2165_Umbau-Elim-Zuerich.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2024/04/Referenzblatt-wp2227_Neubau-MFH-Moersburgstrasse-Seuzach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2024/04/Referenzblatt-wp990_Bruehlberg-Sued_Hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-sitemap-posts-page-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-sitemap-posts-us_portfolio-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-sitemap-taxonomies-us_portfolio_category-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-sitemap-users-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/baugrube-neubau-mehrfamilienhaus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/neubau-2-mehrfamilienhaeuser-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/ueberbauung-weizacker/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/05/Thomas-Rueeger.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/Neuigkeiten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/auswahl-aeltere-bauprojekte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/baugrube-neubau-mehr-und-einfamilienhaus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/ersatzneubau-wohnhaus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/gewerbe-faerber-schmid/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/mehrfamilienhaus-im-tannegg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/paedagogisches-zentrum-pestalozzi/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/ueberbauung-neumatt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/unternehmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2024/06/Referenzblatt-wp2250_Boesi-EFH-Frutiger-Elsau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/baugrube-neubau-einfamilienhaus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/neubau-mehrfamilienhaus-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/neubau-mehrfamilienhaus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/neue-webseite/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/projects/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/dienstleistungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/an-und-umbau-gewerbe-und-mehrfamilienhaus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/baugrube-neubau-2-mehrfamilienhaeuser/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/baugrube-neubau-2-mfh/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/bestandene-lehrabschlusspruefung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/neubau-2-mehrfamilienhaeuser/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/neubau-buero-und-produktionsgebaeude/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/neubau-einfamilienhaus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/umbau-kirchenraeumlichkeiten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/bim-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/bim-3/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/bim-4/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/bim/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/portfolio/herzlich-willkommen-im-team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/05/Andrea-De-Donno.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/05/Benjamin-Litchfield.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2024/04/Referenzblatt-wp2235_Neubau-ETW-Schickenstrasse-Dielsdorf.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-25"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.wetli-ing.ch%2Fportfolio%2Fherzlich-willkommen-im-team-2%2F&format=xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/05/Hanna-Rubin.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/05/Lars-Thaler.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2024/08/Haris-Ljiko.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2024/08/Referenzblatt-wp2228_Neubau-2MFH-Brichstrasse-Seuzach_Hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2024/06/Referenzblatt-wp2220_Neubau-2MFH-Seeresidenz-Ermatingen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-25"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2024/06/Referenzblatt-wp2228_Neubau-2MFH-Brichstrasse-Seuzach_Hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/05/Silvan-Graber.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/05/Simeon-Rubin.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2023/06/Referenzblatt-wp2160_Spezialtiefbau-MFH-Primula-Pfungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2024/06/Referenzblatt-wp2267_Ersatzbau-Wohnhaus-Breite-Huenikon.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-01"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/05/Marvin-Odermatt.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2023/06/Referenzblatt-wp2165_Umbau-Elim-Zuerich.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/06/Referenzblatt-wp1525_Umbau-Pestalozzihaus-Elsau_neu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/06/Referenzblatt-wp1850_Neubau-Ueberbauung-Neumatt-Stein_neu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/06/Referenzblatt-wp2003_Umbau-Tibits-Winterthur.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/06/Referenzblatt-wp2028_Spezialtiefbau-2MFH-Oescherstrasse-Zollikon_neu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/06/Referenzblatt-wp2035_Neubau-Ueberbauung-Weizacker-Winterthur_neu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/09/wp1025-Referenblatt-Wohnueberbauung-Herterweiher-Uster.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/06/Referenzblatt-wp1934_Spezialtiefbau-MFHEFH-Kreuzlingen_neu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-13"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-json/wp/v2/pages/799",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-13"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2023/06/Referenzblatt-wp2244_Neubau-EFH-Gohl-Winterthurdocx.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2023/07/Referenzblatt-wp2145_Neubau-Gewerbe-Faerber-Schmid.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-json/wp/v2/pages/11",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2023/06/Referenzblatt-wp2227_Neubau-MFH-Moersburgstrasse-Seuzach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-26"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/themes/Impreza",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-07"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/themes/Impreza/fonts/fa-regular-400.woff2?ver=8.8.2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-07"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/themes/Impreza/fonts/fa-regular-400.woff?ver=8.8.2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-07"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/themes/Impreza/fonts/fa-solid-900.woff2?ver=8.8.2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-07"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/themes/Impreza/fonts/fa-solid-900.woff?ver=8.8.2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-07"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2023/06/6-Ideen-Teambuilding-300x200.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-07"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2023/06/6-Ideen-Teambuilding.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-07"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/xmlrpc.php?rsd=",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-07"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2023/07/Referenzblatt-wp2235_Neubau-ETW-Schickenstrasse-Dielsdorf.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-06"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/05/Manuel-Iten.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-01"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/wp-content/uploads/2022/05/Vanessa-Kugler.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-01"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/assets/css/assets/css3pie/1..0/PIE.htc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-02-11"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/start.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-24"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-11-28"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/informationen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/kontakt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/neubauten-25.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/neubauten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/partner.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/spezialtiefbau-referenzen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/spezialtiefbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/stellen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/team.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://wetli-ing.ch/downloads/wp_geschaeftsuebergabe_2013.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-07"
+    },
+    {
+      "URL": "http://wetli-ing.ch/firma/kontakt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-07"
+    },
+    {
+      "URL": "http://wetli-ing.ch/firma/mitarbeiter.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-07"
+    },
+    {
+      "URL": "http://wetli-ing.ch/firma/ueber_uns.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-07"
+    },
+    {
+      "URL": "http://wetli-ing.ch/referenzen/referenzen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-07"
+    },
+    {
+      "URL": "http://wetli-ing.ch/sitemap/sitemap.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-07"
+    },
+    {
+      "URL": "http://wetli-ing.ch/startseite.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/UntitledFrameset-2.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-19"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Templates/Head.dwt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-09-08"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Navi_1.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Navi_2.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Navi_3.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Navi_4.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Navi_5.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Templates/Inhalt.dwt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Templates/Navi.dwt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Untitled-10.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Untitled-3.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Untitled-4.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Untitled-5.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Untitled-6.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Untitled-7.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Untitled-8.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Untitled-9.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Untitled-1.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-02-06"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/Untitled-2.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-02-06"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/spez.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-04-01"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/sb3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-03-31"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/aktuell\\iw192\\iw192.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-10"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/aktuell\\iw210\\iw210.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-10"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/arch.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-10"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/bau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-10"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/bfotos.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-10"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/bilder.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-10"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/bro.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-10"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/hegi.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-10"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/links.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-10"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/projekte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-10"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/feeds/all.atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.wetli-ing.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/uber_uns.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/umbauten-26.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://wetli-ing.ch/~wetliing/index.php/umbauten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/aktuell%5ciw210%5ciw210.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-08-15"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/sb2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-04-23"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/weg.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-02-20"
+    },
+    {
+      "URL": "http://www.wetli-ing.ch:80/umbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2002-10-14"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "fabien@symfony.com",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "info@tecnick.com",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "info@wetli-ing.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "ircmaxell@php.net",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "leafot@gmail.com",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "me@ryanmccue.info",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "michel.fortin@michelf.ca",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "minify@mullie.eu",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "pathconverter@mullie.eu",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "renan.saddam@gmail.com",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "rueeger@wetli-ing.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-19"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522424740",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

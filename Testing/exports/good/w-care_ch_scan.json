@@ -1,0 +1,1809 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "185.169.85.83",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a04:503:0:1026::83",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "wcare-ch0c.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns.opsdns.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Name Server": "ns.opsdns.li.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Name Server": "ns.opsdns.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Name Server": "ns.opsdns.org.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms81562321\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Text Record": "\"v=spf1 mx include:spf.protection.outlook.com ip4:137.117.217.16 -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Text Record": "\"mLq+Eu5A0ZAc92nr9sm7qaj/Sy7aee+geJDB4k9rQHLsRacSsrKtyfr4RBe6wA9t3i5GUKdI9CYZZ5vjKlU1Lg==\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "3600000",
+      "Serial": "2025052201",
+      "Refresh": "86400",
+      "Hostmaster": "team.opsone.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns.opsdns.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "185.169.85.83",
+      "PTR-Domain": "web01.wisli.opsserver.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "IP-Adresse": "2a04:503:0:1026::83",
+      "PTR-Domain": "web01.wisli.opsserver.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "w-care.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "autodiscover.w-care.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "mail.w-care.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "webmail.w-care.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-14",
+      "Gültig bis": "2025-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-14"
+    },
+    {
+      "Gültig ab": "2025-04-14",
+      "Gültig bis": "2025-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-14"
+    },
+    {
+      "Gültig ab": "2025-02-13",
+      "Gültig bis": "2025-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "Gültig ab": "2025-02-13",
+      "Gültig bis": "2025-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "Gültig ab": "2024-12-15",
+      "Gültig bis": "2025-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-15"
+    },
+    {
+      "Gültig ab": "2024-12-15",
+      "Gültig bis": "2025-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-15"
+    },
+    {
+      "Gültig ab": "2024-10-15",
+      "Gültig bis": "2025-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-15"
+    },
+    {
+      "Gültig ab": "2024-10-15",
+      "Gültig bis": "2025-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-15"
+    },
+    {
+      "Gültig ab": "2024-08-16",
+      "Gültig bis": "2024-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-16"
+    },
+    {
+      "Gültig ab": "2024-08-16",
+      "Gültig bis": "2024-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-16"
+    },
+    {
+      "Gültig ab": "2024-06-17",
+      "Gültig bis": "2024-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "Gültig ab": "2024-06-17",
+      "Gültig bis": "2024-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "Gültig ab": "2024-04-17",
+      "Gültig bis": "2024-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-17"
+    },
+    {
+      "Gültig ab": "2024-04-17",
+      "Gültig bis": "2024-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch, www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-17"
+    },
+    {
+      "Gültig ab": "2024-03-09",
+      "Gültig bis": "2024-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-09"
+    },
+    {
+      "Gültig ab": "2024-03-09",
+      "Gültig bis": "2024-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-09"
+    },
+    {
+      "Gültig ab": "2024-03-09",
+      "Gültig bis": "2024-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-09"
+    },
+    {
+      "Gültig ab": "2024-03-09",
+      "Gültig bis": "2024-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-09"
+    },
+    {
+      "Gültig ab": "2024-01-07",
+      "Gültig bis": "2024-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-07"
+    },
+    {
+      "Gültig ab": "2024-01-07",
+      "Gültig bis": "2024-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-07"
+    },
+    {
+      "Gültig ab": "2024-01-07",
+      "Gültig bis": "2024-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-07"
+    },
+    {
+      "Gültig ab": "2024-01-07",
+      "Gültig bis": "2024-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-07"
+    },
+    {
+      "Gültig ab": "2023-11-06",
+      "Gültig bis": "2024-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-11-06"
+    },
+    {
+      "Gültig ab": "2023-11-06",
+      "Gültig bis": "2024-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-11-06"
+    },
+    {
+      "Gültig ab": "2023-11-06",
+      "Gültig bis": "2024-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-11-06"
+    },
+    {
+      "Gültig ab": "2023-11-06",
+      "Gültig bis": "2024-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-11-06"
+    },
+    {
+      "Gültig ab": "2023-09-05",
+      "Gültig bis": "2023-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-05"
+    },
+    {
+      "Gültig ab": "2023-09-05",
+      "Gültig bis": "2023-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-05"
+    },
+    {
+      "Gültig ab": "2023-09-05",
+      "Gültig bis": "2023-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-05"
+    },
+    {
+      "Gültig ab": "2023-09-05",
+      "Gültig bis": "2023-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-05"
+    },
+    {
+      "Gültig ab": "2023-07-05",
+      "Gültig bis": "2023-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "Gültig ab": "2023-07-05",
+      "Gültig bis": "2023-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "Gültig ab": "2023-07-05",
+      "Gültig bis": "2023-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "Gültig ab": "2023-07-05",
+      "Gültig bis": "2023-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "Gültig ab": "2023-05-04",
+      "Gültig bis": "2023-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-04"
+    },
+    {
+      "Gültig ab": "2023-05-04",
+      "Gültig bis": "2023-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-04"
+    },
+    {
+      "Gültig ab": "2023-05-04",
+      "Gültig bis": "2023-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-04"
+    },
+    {
+      "Gültig ab": "2023-05-04",
+      "Gültig bis": "2023-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-04"
+    },
+    {
+      "Gültig ab": "2023-03-03",
+      "Gültig bis": "2023-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-03"
+    },
+    {
+      "Gültig ab": "2023-03-03",
+      "Gültig bis": "2023-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-03"
+    },
+    {
+      "Gültig ab": "2023-03-03",
+      "Gültig bis": "2023-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-03"
+    },
+    {
+      "Gültig ab": "2023-03-03",
+      "Gültig bis": "2023-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-03"
+    },
+    {
+      "Gültig ab": "2022-12-31",
+      "Gültig bis": "2023-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-31"
+    },
+    {
+      "Gültig ab": "2022-12-31",
+      "Gültig bis": "2023-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-31"
+    },
+    {
+      "Gültig ab": "2022-12-31",
+      "Gültig bis": "2023-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-31"
+    },
+    {
+      "Gültig ab": "2022-12-31",
+      "Gültig bis": "2023-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-31"
+    },
+    {
+      "Gültig ab": "2022-10-30",
+      "Gültig bis": "2023-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-30"
+    },
+    {
+      "Gültig ab": "2022-10-30",
+      "Gültig bis": "2023-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-30"
+    },
+    {
+      "Gültig ab": "2022-10-30",
+      "Gültig bis": "2023-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-30"
+    },
+    {
+      "Gültig ab": "2022-10-30",
+      "Gültig bis": "2023-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-30"
+    },
+    {
+      "Gültig ab": "2022-08-29",
+      "Gültig bis": "2022-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-29"
+    },
+    {
+      "Gültig ab": "2022-08-29",
+      "Gültig bis": "2022-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-29"
+    },
+    {
+      "Gültig ab": "2022-08-29",
+      "Gültig bis": "2022-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-29"
+    },
+    {
+      "Gültig ab": "2022-08-29",
+      "Gültig bis": "2022-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-29"
+    },
+    {
+      "Gültig ab": "2022-06-28",
+      "Gültig bis": "2022-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-06-28"
+    },
+    {
+      "Gültig ab": "2022-06-28",
+      "Gültig bis": "2022-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-06-28"
+    },
+    {
+      "Gültig ab": "2022-06-28",
+      "Gültig bis": "2022-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-06-28"
+    },
+    {
+      "Gültig ab": "2022-06-28",
+      "Gültig bis": "2022-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-06-28"
+    },
+    {
+      "Gültig ab": "2022-04-27",
+      "Gültig bis": "2022-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-27"
+    },
+    {
+      "Gültig ab": "2022-04-27",
+      "Gültig bis": "2022-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-27"
+    },
+    {
+      "Gültig ab": "2022-04-27",
+      "Gültig bis": "2022-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-27"
+    },
+    {
+      "Gültig ab": "2022-04-27",
+      "Gültig bis": "2022-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-27"
+    },
+    {
+      "Gültig ab": "2022-02-24",
+      "Gültig bis": "2022-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-24"
+    },
+    {
+      "Gültig ab": "2022-02-24",
+      "Gültig bis": "2022-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-24"
+    },
+    {
+      "Gültig ab": "2022-02-24",
+      "Gültig bis": "2022-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-24"
+    },
+    {
+      "Gültig ab": "2022-02-24",
+      "Gültig bis": "2022-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-24"
+    },
+    {
+      "Gültig ab": "2021-12-24",
+      "Gültig bis": "2022-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-24"
+    },
+    {
+      "Gültig ab": "2021-12-24",
+      "Gültig bis": "2022-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-24"
+    },
+    {
+      "Gültig ab": "2021-12-24",
+      "Gültig bis": "2022-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-24"
+    },
+    {
+      "Gültig ab": "2021-12-24",
+      "Gültig bis": "2022-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-24"
+    },
+    {
+      "Gültig ab": "2021-10-23",
+      "Gültig bis": "2022-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "Gültig ab": "2021-10-23",
+      "Gültig bis": "2022-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "Gültig ab": "2021-10-23",
+      "Gültig bis": "2022-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-10-23"
+    },
+    {
+      "Gültig ab": "2021-10-23",
+      "Gültig bis": "2022-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-10-23"
+    },
+    {
+      "Gültig ab": "2021-08-23",
+      "Gültig bis": "2021-11-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-08-23"
+    },
+    {
+      "Gültig ab": "2021-08-23",
+      "Gültig bis": "2021-11-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-08-23"
+    },
+    {
+      "Gültig ab": "2021-08-22",
+      "Gültig bis": "2021-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-08-23"
+    },
+    {
+      "Gültig ab": "2021-08-22",
+      "Gültig bis": "2021-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-08-23"
+    },
+    {
+      "Gültig ab": "2021-06-22",
+      "Gültig bis": "2021-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-06-22"
+    },
+    {
+      "Gültig ab": "2021-06-22",
+      "Gültig bis": "2021-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-06-22"
+    },
+    {
+      "Gültig ab": "2021-06-22",
+      "Gültig bis": "2021-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-06-22"
+    },
+    {
+      "Gültig ab": "2021-06-22",
+      "Gültig bis": "2021-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-06-22"
+    },
+    {
+      "Gültig ab": "2021-04-21",
+      "Gültig bis": "2021-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-04-21"
+    },
+    {
+      "Gültig ab": "2021-04-21",
+      "Gültig bis": "2021-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-04-21"
+    },
+    {
+      "Gültig ab": "2021-04-21",
+      "Gültig bis": "2021-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-04-21"
+    },
+    {
+      "Gültig ab": "2021-04-21",
+      "Gültig bis": "2021-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-04-21"
+    },
+    {
+      "Gültig ab": "2021-02-18",
+      "Gültig bis": "2021-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-02-18"
+    },
+    {
+      "Gültig ab": "2021-02-18",
+      "Gültig bis": "2021-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-02-18"
+    },
+    {
+      "Gültig ab": "2021-02-18",
+      "Gültig bis": "2021-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-02-18"
+    },
+    {
+      "Gültig ab": "2021-02-18",
+      "Gültig bis": "2021-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-02-18"
+    },
+    {
+      "Gültig ab": "2020-12-18",
+      "Gültig bis": "2021-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-12-18"
+    },
+    {
+      "Gültig ab": "2020-12-18",
+      "Gültig bis": "2021-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-12-18"
+    },
+    {
+      "Gültig ab": "2020-12-18",
+      "Gültig bis": "2021-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-12-18"
+    },
+    {
+      "Gültig ab": "2020-12-18",
+      "Gültig bis": "2021-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-12-18"
+    },
+    {
+      "Gültig ab": "2020-10-17",
+      "Gültig bis": "2021-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-10-17"
+    },
+    {
+      "Gültig ab": "2020-10-17",
+      "Gültig bis": "2021-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-10-17"
+    },
+    {
+      "Gültig ab": "2020-10-17",
+      "Gültig bis": "2021-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-10-17"
+    },
+    {
+      "Gültig ab": "2020-10-17",
+      "Gültig bis": "2021-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-10-17"
+    },
+    {
+      "Gültig ab": "2020-08-16",
+      "Gültig bis": "2020-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-16"
+    },
+    {
+      "Gültig ab": "2020-08-16",
+      "Gültig bis": "2020-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-16"
+    },
+    {
+      "Gültig ab": "2020-08-16",
+      "Gültig bis": "2020-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-16"
+    },
+    {
+      "Gültig ab": "2020-08-16",
+      "Gültig bis": "2020-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-16"
+    },
+    {
+      "Gültig ab": "2020-06-15",
+      "Gültig bis": "2020-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-06-15"
+    },
+    {
+      "Gültig ab": "2020-06-15",
+      "Gültig bis": "2020-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-06-15"
+    },
+    {
+      "Gültig ab": "2020-06-15",
+      "Gültig bis": "2020-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-06-15"
+    },
+    {
+      "Gültig ab": "2020-06-15",
+      "Gültig bis": "2020-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-06-15"
+    },
+    {
+      "Gültig ab": "2020-04-14",
+      "Gültig bis": "2020-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-14"
+    },
+    {
+      "Gültig ab": "2020-04-14",
+      "Gültig bis": "2020-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-14"
+    },
+    {
+      "Gültig ab": "2020-04-14",
+      "Gültig bis": "2020-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-14"
+    },
+    {
+      "Gültig ab": "2020-04-14",
+      "Gültig bis": "2020-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-14"
+    },
+    {
+      "Gültig ab": "2020-02-12",
+      "Gültig bis": "2020-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-02-12"
+    },
+    {
+      "Gültig ab": "2020-02-12",
+      "Gültig bis": "2020-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-02-12"
+    },
+    {
+      "Gültig ab": "2020-02-12",
+      "Gültig bis": "2020-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-02-12"
+    },
+    {
+      "Gültig ab": "2020-02-12",
+      "Gültig bis": "2020-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-02-12"
+    },
+    {
+      "Gültig ab": "2019-12-12",
+      "Gültig bis": "2020-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-12-12"
+    },
+    {
+      "Gültig ab": "2019-12-12",
+      "Gültig bis": "2020-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-12-12"
+    },
+    {
+      "Gültig ab": "2019-12-12",
+      "Gültig bis": "2020-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-12-12"
+    },
+    {
+      "Gültig ab": "2019-12-12",
+      "Gültig bis": "2020-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-12-12"
+    },
+    {
+      "Gültig ab": "2019-10-11",
+      "Gültig bis": "2020-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-10-11"
+    },
+    {
+      "Gültig ab": "2019-10-11",
+      "Gültig bis": "2020-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-10-11"
+    },
+    {
+      "Gültig ab": "2019-10-11",
+      "Gültig bis": "2020-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-10-11"
+    },
+    {
+      "Gültig ab": "2019-10-11",
+      "Gültig bis": "2020-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-10-11"
+    },
+    {
+      "Gültig ab": "2019-08-10",
+      "Gültig bis": "2019-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-08-10"
+    },
+    {
+      "Gültig ab": "2019-08-10",
+      "Gültig bis": "2019-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-08-10"
+    },
+    {
+      "Gültig ab": "2019-08-10",
+      "Gültig bis": "2019-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-08-10"
+    },
+    {
+      "Gültig ab": "2019-08-10",
+      "Gültig bis": "2019-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-08-10"
+    },
+    {
+      "Gültig ab": "2019-07-02",
+      "Gültig bis": "2020-07-01",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "autodiscover.w-care.ch, mail.w-care.ch, webmail.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-07-02"
+    },
+    {
+      "Gültig ab": "2019-07-02",
+      "Gültig bis": "2020-07-01",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "autodiscover.w-care.ch, mail.w-care.ch, webmail.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-07-02"
+    },
+    {
+      "Gültig ab": "2019-06-09",
+      "Gültig bis": "2019-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-06-09"
+    },
+    {
+      "Gültig ab": "2019-06-09",
+      "Gültig bis": "2019-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-06-09"
+    },
+    {
+      "Gültig ab": "2019-06-09",
+      "Gültig bis": "2019-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-06-09"
+    },
+    {
+      "Gültig ab": "2019-06-09",
+      "Gültig bis": "2019-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-06-09"
+    },
+    {
+      "Gültig ab": "2019-04-08",
+      "Gültig bis": "2019-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-04-08"
+    },
+    {
+      "Gültig ab": "2019-04-08",
+      "Gültig bis": "2019-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-04-08"
+    },
+    {
+      "Gültig ab": "2019-04-08",
+      "Gültig bis": "2019-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-04-08"
+    },
+    {
+      "Gültig ab": "2019-04-08",
+      "Gültig bis": "2019-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-04-08"
+    },
+    {
+      "Gültig ab": "2019-02-05",
+      "Gültig bis": "2019-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-02-05"
+    },
+    {
+      "Gültig ab": "2019-02-05",
+      "Gültig bis": "2019-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-02-05"
+    },
+    {
+      "Gültig ab": "2019-02-05",
+      "Gültig bis": "2019-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-02-05"
+    },
+    {
+      "Gültig ab": "2019-02-05",
+      "Gültig bis": "2019-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-02-05"
+    },
+    {
+      "Gültig ab": "2018-12-05",
+      "Gültig bis": "2019-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-12-05"
+    },
+    {
+      "Gültig ab": "2018-12-05",
+      "Gültig bis": "2019-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-12-05"
+    },
+    {
+      "Gültig ab": "2018-12-05",
+      "Gültig bis": "2019-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-12-05"
+    },
+    {
+      "Gültig ab": "2018-12-05",
+      "Gültig bis": "2019-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-12-05"
+    },
+    {
+      "Gültig ab": "2018-10-04",
+      "Gültig bis": "2019-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-04"
+    },
+    {
+      "Gültig ab": "2018-10-04",
+      "Gültig bis": "2019-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-04"
+    },
+    {
+      "Gültig ab": "2018-10-04",
+      "Gültig bis": "2019-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-04"
+    },
+    {
+      "Gültig ab": "2018-10-04",
+      "Gültig bis": "2019-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-04"
+    },
+    {
+      "Gültig ab": "2016-06-30",
+      "Gültig bis": "2019-07-10",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA",
+      "Domain/Subdomain": "autodiscover.w-care.ch, mail.w-care.ch, webmail.w-care.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-10-14"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.w-care.ch/fileadmin/downloads/image.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-09"
+    },
+    {
+      "URL": "https://w-care.ch/build.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "https://w-care.ch/check",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "https://w-care.ch/composer.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "https://w-care.ch/composer.lock",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/iv/arbeitsvermittlung_direkt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-19"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/iv/arbeitsvermittlung_plus.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-19"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/iv/aufbautraining.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-19"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/iv/ausbildungen_extern.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-19"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/iv/ausbildungen_intern.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-19"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/iv/belastbarkeitstraining.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-19"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/iv/bewerbungscoaching.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-19"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/iv/jobcoaching.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-19"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/wislinfo_1_2018.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-07"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/LB_we-care_2016.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-06"
+    },
+    {
+      "URL": "http://www.w-care.ch/fileadmin/pdf/Imwinkelried.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-06"
+    },
+    {
+      "URL": "http://www.w-care.ch/lehrstellen/gaertner.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-02"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/gemeinden/Beschreibung_Einsatzplaetze.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-01"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/gemeinden/Uebersicht_Programme_Gemeinde_Mandate_we_care.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-01"
+    },
+    {
+      "URL": "http://www.w-care.ch/lehrstellen/betriebsunterhalt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-01"
+    },
+    {
+      "URL": "http://www.w-care.ch/lehrstellen/buero.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-01"
+    },
+    {
+      "URL": "http://www.w-care.ch/lehrstellen/fahrrad.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-01"
+    },
+    {
+      "URL": "http://www.w-care.ch/lehrstellen/Flyer%20Supported%20Education.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-01"
+    },
+    {
+      "URL": "http://www.w-care.ch/lehrstellen/kaufmann.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-01"
+    },
+    {
+      "URL": "http://www.w-care.ch/lehrstellen/mechanikpraktier.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-01"
+    },
+    {
+      "URL": "http://www.w-care.ch/lehrstellen/supported_education.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-01"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/Flyer_we-care.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-30"
+    },
+    {
+      "URL": "http://www.w-care.ch:80/lehrstellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-30"
+    },
+    {
+      "URL": "http://www.w-care.ch:80/stellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-30"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/Einladung_Supported_Employment_new.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-24"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/Veranstaltungskalender_2018.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-24"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/templates/_fonts/CartoGothicStd-Bold-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-17"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/templates/_fonts/CartoGothicStd-Bold-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-17"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/templates/_fonts/CartoGothicStd-Bold-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-17"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/templates/_fonts/CartoGothicStd-Book-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-17"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/templates/_fonts/CartoGothicStd-Book-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-16"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/templates/_fonts/CartoGothicStd-Book-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-16"
+    },
+    {
+      "URL": "http://www.w-care.ch:80/lehrstellen/mediamatiker.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-06-07"
+    },
+    {
+      "URL": "http://www.w-care.ch:80/stellen/wislibuero.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-09-26"
+    },
+    {
+      "URL": "http://www.w-care.ch:80/fileadmin/pdf/Case_Manager-Job_Coach_Gemeindemandate_160405.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-05-28"
+    },
+    {
+      "URL": "https://w-care.ch/contao",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "https://w-care.ch/README.md",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "https://w-care.ch/share/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "https://w-care.ch/system",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "https://w-care.ch/system/cron/cron.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "https://w-care.ch/templates",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "https://w-care.ch/vendor",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "https://www.w-care.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "https://w-care.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-01-20"
+    },
+    {
+      "URL": "https://www.w-care.ch/fileadmin/pdf/iv/potential.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-07-07"
+    },
+    {
+      "URL": "https://www.w-care.ch/we-care.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-07-07"
+    },
+    {
+      "URL": "http://www.w-care.ch:80/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-18"
+    },
+    {
+      "URL": "https://www.w-care.ch/lehrstellen/_fonts/CartoGothicStd-Bold-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-23"
+    },
+    {
+      "URL": "https://www.w-care.ch/lehrstellen/_fonts/CartoGothicStd-Bold-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-23"
+    },
+    {
+      "URL": "https://w-care.ch/fileadmin/pdf/iv/arbeitstraining.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-12"
+    },
+    {
+      "URL": "https://w-care.ch/fileadmin/pdf/jahresbericht2016.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-12"
+    },
+    {
+      "URL": "https://w-care.ch/fileadmin/pdf/jahresbericht2017.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-12"
+    },
+    {
+      "URL": "https://w-care.ch/fileadmin/pdf/Kundenzufriedenheitsumfrage_wcare_2016.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-12"
+    },
+    {
+      "URL": "https://w-care.ch/fileadmin/pdf/LB_we-care_2015.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-12"
+    },
+    {
+      "URL": "https://www.w-care.ch/fileadmin/pdf/prozesse.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-12"
+    },
+    {
+      "URL": "https://w-care.ch/fileadmin/pdf/April_2018_01Inserat_BLT_Praktikum_WIN_BUE.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-11"
+    },
+    {
+      "URL": "https://w-care.ch/fileadmin/pdf/LB_we-care_2017.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-11"
+    },
+    {
+      "URL": "https://w-care.ch/fileadmin/pdf/wislinfo_2_2017.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-11"
+    },
+    {
+      "URL": "https://w-care.ch/fileadmin/pdf/wislinfo_3_2017.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-11"
+    },
+    {
+      "URL": "http://www.w-care.ch/lehrstellen/_fonts/CartoGothicStd-Bold-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-12-25"
+    },
+    {
+      "URL": "http://www.w-care.ch/lehrstellen/_fonts/CartoGothicStd-Book-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-12-25"
+    },
+    {
+      "URL": "http://www.w-care.ch/lehrstellen/_fonts/CartoGothicStd-Book-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-12-25"
+    },
+    {
+      "URL": "http://w-care.ch/fileadmin/pdf/iv/arbeit_zur_zeitueberbrueckung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-19"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "raymond.mueller@w-care.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-02"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41434114662",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-02"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

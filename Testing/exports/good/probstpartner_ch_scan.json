@@ -1,0 +1,2665 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "80.74.140.143",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "probstpartner1.cleanmail.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "probstpartner2.cleanmail.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.kosmos.metanet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Name Server": "ns2.kosmos.metanet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms86087224\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Text Record": "\"_4zofea42k0r8tnveyjafg9ufonvlps6\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Text Record": "\"swisssign-check=YcvT7n2wTdmVezGNPUMFL3QkC2E\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Text Record": "\"v=spf1 include:_cmspf.cleanmail.ch include:spf.crsend.com include:spf.protection.outlook.com include:spf.privasphere.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "604800",
+      "Serial": "2025050803",
+      "Refresh": "10800",
+      "Hostmaster": "info.probstpartner.ch.",
+      "Minimum TTL": "10800",
+      "Primary Nameserver": "ns1.kosmos.metanet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "80.74.140.143",
+      "PTR-Domain": "kosmos.metanet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "probstpartner.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "autodiscover.probstpartner.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "blog.probstpartner.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "mail.probstpartner.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "mail.probstpartner.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "rds.probstpartner.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "rds.probstpartner.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "stats.probstpartner.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "temp.probstpartner.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "uc.probstpartner.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "vpn.probstpartner.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-20",
+      "Gültig bis": "2025-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-20"
+    },
+    {
+      "Gültig ab": "2025-05-20",
+      "Gültig bis": "2025-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-20"
+    },
+    {
+      "Gültig ab": "2025-05-08",
+      "Gültig bis": "2025-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.blog.probstpartner.ch, blog.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "Gültig ab": "2025-05-08",
+      "Gültig bis": "2025-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.blog.probstpartner.ch, blog.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-16"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-16"
+    },
+    {
+      "Gültig ab": "2025-03-30",
+      "Gültig bis": "2025-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2025-03-30",
+      "Gültig bis": "2025-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "Gültig ab": "2025-03-18",
+      "Gültig bis": "2025-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "Gültig ab": "2025-03-18",
+      "Gültig bis": "2025-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "Gültig ab": "2025-02-14",
+      "Gültig bis": "2025-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "Gültig ab": "2025-02-14",
+      "Gültig bis": "2025-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "Gültig ab": "2025-01-29",
+      "Gültig bis": "2025-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-29"
+    },
+    {
+      "Gültig ab": "2025-01-29",
+      "Gültig bis": "2025-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-29"
+    },
+    {
+      "Gültig ab": "2025-01-21",
+      "Gültig bis": "2025-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "Gültig ab": "2025-01-21",
+      "Gültig bis": "2025-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "Gültig ab": "2024-12-16",
+      "Gültig bis": "2025-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-16"
+    },
+    {
+      "Gültig ab": "2024-12-16",
+      "Gültig bis": "2025-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-16"
+    },
+    {
+      "Gültig ab": "2024-11-30",
+      "Gültig bis": "2025-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-30"
+    },
+    {
+      "Gültig ab": "2024-11-30",
+      "Gültig bis": "2025-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-30"
+    },
+    {
+      "Gültig ab": "2024-11-19",
+      "Gültig bis": "2025-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-19"
+    },
+    {
+      "Gültig ab": "2024-11-19",
+      "Gültig bis": "2025-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-19"
+    },
+    {
+      "Gültig ab": "2024-10-16",
+      "Gültig bis": "2025-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-17"
+    },
+    {
+      "Gültig ab": "2024-10-16",
+      "Gültig bis": "2025-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-17"
+    },
+    {
+      "Gültig ab": "2024-09-30",
+      "Gültig bis": "2024-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-01"
+    },
+    {
+      "Gültig ab": "2024-09-30",
+      "Gültig bis": "2024-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-01"
+    },
+    {
+      "Gültig ab": "2024-09-17",
+      "Gültig bis": "2024-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-17"
+    },
+    {
+      "Gültig ab": "2024-09-17",
+      "Gültig bis": "2024-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-17"
+    },
+    {
+      "Gültig ab": "2024-08-17",
+      "Gültig bis": "2024-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-18"
+    },
+    {
+      "Gültig ab": "2024-08-17",
+      "Gültig bis": "2024-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-18"
+    },
+    {
+      "Gültig ab": "2024-08-01",
+      "Gültig bis": "2024-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "Gültig ab": "2024-08-01",
+      "Gültig bis": "2024-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "Gültig ab": "2024-07-16",
+      "Gültig bis": "2024-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-16"
+    },
+    {
+      "Gültig ab": "2024-07-16",
+      "Gültig bis": "2024-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-16"
+    },
+    {
+      "Gültig ab": "2024-06-18",
+      "Gültig bis": "2024-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-19"
+    },
+    {
+      "Gültig ab": "2024-06-18",
+      "Gültig bis": "2024-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-19"
+    },
+    {
+      "Gültig ab": "2024-06-02",
+      "Gültig bis": "2024-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-03"
+    },
+    {
+      "Gültig ab": "2024-06-02",
+      "Gültig bis": "2024-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-03"
+    },
+    {
+      "Gültig ab": "2024-05-27",
+      "Gültig bis": "2025-06-28",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.probstpartner.ch, mail.probstpartner.ch, rds.probstpartner.ch, vpn.probstpartner.ch, www.rds.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-27"
+    },
+    {
+      "Gültig ab": "2024-05-21",
+      "Gültig bis": "2024-08-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "Gültig ab": "2024-05-21",
+      "Gültig bis": "2024-08-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "Gültig ab": "2024-04-19",
+      "Gültig bis": "2024-07-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-20"
+    },
+    {
+      "Gültig ab": "2024-04-19",
+      "Gültig bis": "2024-07-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-20"
+    },
+    {
+      "Gültig ab": "2024-04-03",
+      "Gültig bis": "2024-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-04-03",
+      "Gültig bis": "2024-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-03-19",
+      "Gültig bis": "2024-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-19"
+    },
+    {
+      "Gültig ab": "2024-03-19",
+      "Gültig bis": "2024-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-19"
+    },
+    {
+      "Gültig ab": "2024-02-19",
+      "Gültig bis": "2024-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-19"
+    },
+    {
+      "Gültig ab": "2024-02-19",
+      "Gültig bis": "2024-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-19"
+    },
+    {
+      "Gültig ab": "2024-02-03",
+      "Gültig bis": "2024-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-03"
+    },
+    {
+      "Gültig ab": "2024-02-03",
+      "Gültig bis": "2024-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-03"
+    },
+    {
+      "Gültig ab": "2024-01-16",
+      "Gültig bis": "2024-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "Gültig ab": "2024-01-16",
+      "Gültig bis": "2024-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "Gültig ab": "2023-12-21",
+      "Gültig bis": "2024-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-21"
+    },
+    {
+      "Gültig ab": "2023-12-21",
+      "Gültig bis": "2024-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-21"
+    },
+    {
+      "Gültig ab": "2023-12-05",
+      "Gültig bis": "2024-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-05"
+    },
+    {
+      "Gültig ab": "2023-12-05",
+      "Gültig bis": "2024-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-05"
+    },
+    {
+      "Gültig ab": "2023-12-01",
+      "Gültig bis": "2024-02-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "temp.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "Gültig ab": "2023-12-01",
+      "Gültig bis": "2024-02-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "temp.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "Gültig ab": "2023-11-21",
+      "Gültig bis": "2024-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-21"
+    },
+    {
+      "Gültig ab": "2023-11-21",
+      "Gültig bis": "2024-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-21"
+    },
+    {
+      "Gültig ab": "2023-10-21",
+      "Gültig bis": "2024-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-10-22"
+    },
+    {
+      "Gültig ab": "2023-10-21",
+      "Gültig bis": "2024-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-10-22"
+    },
+    {
+      "Gültig ab": "2023-10-05",
+      "Gültig bis": "2024-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-10-06"
+    },
+    {
+      "Gültig ab": "2023-10-05",
+      "Gültig bis": "2024-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-10-06"
+    },
+    {
+      "Gültig ab": "2023-09-19",
+      "Gültig bis": "2023-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-19"
+    },
+    {
+      "Gültig ab": "2023-09-19",
+      "Gültig bis": "2023-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-19"
+    },
+    {
+      "Gültig ab": "2023-08-22",
+      "Gültig bis": "2023-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-08-23"
+    },
+    {
+      "Gültig ab": "2023-08-22",
+      "Gültig bis": "2023-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-08-23"
+    },
+    {
+      "Gültig ab": "2023-08-06",
+      "Gültig bis": "2023-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-08-07"
+    },
+    {
+      "Gültig ab": "2023-08-06",
+      "Gültig bis": "2023-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-08-07"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-06-23",
+      "Gültig bis": "2023-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "Gültig ab": "2023-06-23",
+      "Gültig bis": "2023-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "Gültig ab": "2023-06-07",
+      "Gültig bis": "2023-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-07"
+    },
+    {
+      "Gültig ab": "2023-06-07",
+      "Gültig bis": "2023-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stats.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-07"
+    },
+    {
+      "Gültig ab": "2023-05-25",
+      "Gültig bis": "2024-06-25",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.probstpartner.ch, mail.probstpartner.ch, rds.probstpartner.ch, vpn.probstpartner.ch, www.rds.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-25"
+    },
+    {
+      "Gültig ab": "2023-05-16",
+      "Gültig bis": "2023-08-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-16"
+    },
+    {
+      "Gültig ab": "2023-05-16",
+      "Gültig bis": "2023-08-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-16"
+    },
+    {
+      "Gültig ab": "2023-04-30",
+      "Gültig bis": "2023-07-20",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.probstpartner.ch, mail.probstpartner.ch, rds.probstpartner.ch, vpn.probstpartner.ch, www.rds.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-04-30"
+    },
+    {
+      "Gültig ab": "2023-04-24",
+      "Gültig bis": "2023-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-04-25"
+    },
+    {
+      "Gültig ab": "2023-04-24",
+      "Gültig bis": "2023-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-04-25"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2023-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2023-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-02-23",
+      "Gültig bis": "2023-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-23"
+    },
+    {
+      "Gültig ab": "2023-02-23",
+      "Gültig bis": "2023-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-23"
+    },
+    {
+      "Gültig ab": "2023-01-17",
+      "Gültig bis": "2023-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-01-17"
+    },
+    {
+      "Gültig ab": "2023-01-17",
+      "Gültig bis": "2023-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-01-17"
+    },
+    {
+      "Gültig ab": "2022-12-25",
+      "Gültig bis": "2023-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-12-25"
+    },
+    {
+      "Gültig ab": "2022-12-25",
+      "Gültig bis": "2023-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-12-25"
+    },
+    {
+      "Gültig ab": "2022-11-15",
+      "Gültig bis": "2023-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-11-15"
+    },
+    {
+      "Gültig ab": "2022-11-15",
+      "Gültig bis": "2023-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-11-15"
+    },
+    {
+      "Gültig ab": "2022-10-25",
+      "Gültig bis": "2023-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-10-26"
+    },
+    {
+      "Gültig ab": "2022-10-25",
+      "Gültig bis": "2023-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-10-26"
+    },
+    {
+      "Gültig ab": "2022-09-20",
+      "Gültig bis": "2022-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-09-20"
+    },
+    {
+      "Gültig ab": "2022-09-20",
+      "Gültig bis": "2022-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-09-20"
+    },
+    {
+      "Gültig ab": "2022-08-26",
+      "Gültig bis": "2022-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-08-27"
+    },
+    {
+      "Gültig ab": "2022-08-26",
+      "Gültig bis": "2022-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-08-27"
+    },
+    {
+      "Gültig ab": "2022-07-18",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-07-18"
+    },
+    {
+      "Gültig ab": "2022-07-18",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-07-18"
+    },
+    {
+      "Gültig ab": "2022-06-27",
+      "Gültig bis": "2022-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-28"
+    },
+    {
+      "Gültig ab": "2022-06-27",
+      "Gültig bis": "2022-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-28"
+    },
+    {
+      "Gültig ab": "2022-05-06",
+      "Gültig bis": "2022-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-06"
+    },
+    {
+      "Gültig ab": "2022-05-06",
+      "Gültig bis": "2022-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-06"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-04-29"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-04-29"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2023-05-30",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.probstpartner.ch, mail.probstpartner.ch, rds.probstpartner.ch, vpn.probstpartner.ch, www.rds.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-02-28",
+      "Gültig bis": "2022-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-02-28"
+    },
+    {
+      "Gültig ab": "2022-02-28",
+      "Gültig bis": "2022-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-02-28"
+    },
+    {
+      "Gültig ab": "2021-12-29",
+      "Gültig bis": "2022-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-12-29"
+    },
+    {
+      "Gültig ab": "2021-12-29",
+      "Gültig bis": "2022-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-12-29"
+    },
+    {
+      "Gültig ab": "2021-10-29",
+      "Gültig bis": "2022-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-10-30"
+    },
+    {
+      "Gültig ab": "2021-10-29",
+      "Gültig bis": "2022-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-10-30"
+    },
+    {
+      "Gültig ab": "2021-08-30",
+      "Gültig bis": "2021-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-08-31"
+    },
+    {
+      "Gültig ab": "2021-08-30",
+      "Gültig bis": "2021-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-08-31"
+    },
+    {
+      "Gültig ab": "2021-07-01",
+      "Gültig bis": "2021-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-07-02"
+    },
+    {
+      "Gültig ab": "2021-07-01",
+      "Gültig bis": "2021-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-07-02"
+    },
+    {
+      "Gültig ab": "2021-05-02",
+      "Gültig bis": "2021-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-03"
+    },
+    {
+      "Gültig ab": "2021-05-02",
+      "Gültig bis": "2021-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-03"
+    },
+    {
+      "Gültig ab": "2021-03-03",
+      "Gültig bis": "2021-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-03-03"
+    },
+    {
+      "Gültig ab": "2021-03-03",
+      "Gültig bis": "2021-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-03-03"
+    },
+    {
+      "Gültig ab": "2021-01-01",
+      "Gültig bis": "2021-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-01-01"
+    },
+    {
+      "Gültig ab": "2021-01-01",
+      "Gültig bis": "2021-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-01-01"
+    },
+    {
+      "Gültig ab": "2020-11-02",
+      "Gültig bis": "2021-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-11-02"
+    },
+    {
+      "Gültig ab": "2020-11-02",
+      "Gültig bis": "2021-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-11-02"
+    },
+    {
+      "Gültig ab": "2020-09-02",
+      "Gültig bis": "2020-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-03"
+    },
+    {
+      "Gültig ab": "2020-09-02",
+      "Gültig bis": "2020-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-03"
+    },
+    {
+      "Gültig ab": "2020-07-20",
+      "Gültig bis": "2022-07-20",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.probstpartner.ch, mail.probstpartner.ch, rds.probstpartner.ch, vpn.probstpartner.ch, www.rds.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-20"
+    },
+    {
+      "Gültig ab": "2020-07-04",
+      "Gültig bis": "2020-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-05"
+    },
+    {
+      "Gültig ab": "2020-07-04",
+      "Gültig bis": "2020-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-05"
+    },
+    {
+      "Gültig ab": "2020-05-05",
+      "Gültig bis": "2020-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-05-06"
+    },
+    {
+      "Gültig ab": "2020-05-05",
+      "Gültig bis": "2020-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-05-06"
+    },
+    {
+      "Gültig ab": "2020-03-06",
+      "Gültig bis": "2020-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-03-06"
+    },
+    {
+      "Gültig ab": "2020-03-06",
+      "Gültig bis": "2020-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-03-06"
+    },
+    {
+      "Gültig ab": "2020-03-06",
+      "Gültig bis": "2020-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-03-06"
+    },
+    {
+      "Gültig ab": "2020-03-06",
+      "Gültig bis": "2020-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-03-06"
+    },
+    {
+      "Gültig ab": "2020-01-06",
+      "Gültig bis": "2020-04-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-01-06"
+    },
+    {
+      "Gültig ab": "2020-01-06",
+      "Gültig bis": "2020-04-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-01-06"
+    },
+    {
+      "Gültig ab": "2019-11-06",
+      "Gültig bis": "2020-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-11-06"
+    },
+    {
+      "Gültig ab": "2019-11-06",
+      "Gültig bis": "2020-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "probstpartner.ch, www.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-11-06"
+    },
+    {
+      "Gültig ab": "2015-08-12",
+      "Gültig bis": "2018-08-12",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "mail.probstpartner.ch, www.mail.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-01-15"
+    },
+    {
+      "Gültig ab": "2017-07-19",
+      "Gültig bis": "2020-07-19",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.probstpartner.ch, mail.probstpartner.ch, rds.probstpartner.ch, vpn.probstpartner.ch, www.rds.probstpartner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-01-13"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.probstpartner.ch/images/Corruption_of_sports_federations_and_betting-related_match-fixing_are_not_crimes_in_Switzerland.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/Football_law_-_The_Right_to_Play_of_a_Professional_Football_Player.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/FREEZING_MONIES_OWED_FROM_UEFA_TO_SECURE_A_DEBT_CLAIM.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/HOW_TO_USE_A_FREEZING_ORDER_AGAINST_A_SWISS_BASED_SPORTS_ORGANISATION_TO_SECURE_A_CAS_DEBT_AWARD.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/Lex_FIFA.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/Artikel_o._Titelblatt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/Beitrag_Oliver_Fritschi.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/Die_K%C3%BCndigung_%C3%A4lterer_Mitarbeiter_Levy.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/GzD2_Stockholder_Agreement_2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/pub_IAEL_Winter_04.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/pub_levy_articleWSLR.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/Vorzugsaktien.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/What_the_new_FIFA_COVID-19_means_for_clubs_and_players_FINAL.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/YISA-2016_Roy-Levy.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/templates/yootheme/fonts/font-3d249535.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-11"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/templates/yootheme/fonts/font-4057936d.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-11"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/templates/yootheme/fonts/font-497b14ea.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-11"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/templates/yootheme/fonts/font-5d78207e.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-11"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/templates/yootheme/fonts/font-73c53f5f.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-11"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/templates/yootheme/fonts/font-ae53e6da.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-11"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/templates/yootheme/fonts/font-ce0f5391.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-11"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/templates/yootheme/fonts/font-e0b24cb0.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-11"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/team/michael-widmer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-09"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/team/elisabeth-glaettli",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "http://www.probstpartner.ch/en/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "URL": "https://probstpartner.ch/dienstleistungen/prozessfuehrung-schiedsgerichtsbarkeit",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-11"
+    },
+    {
+      "URL": "https://probstpartner.ch/images/publikationen/Submission_Vermeidung%20Ausschluss_2014_Maerz.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-11"
+    },
+    {
+      "URL": "https://probstpartner.ch/aktuelles",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://probstpartner.ch/joomla/administrator",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/language",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/libraries",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/logs",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/media",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/modules",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/plugins",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/templates",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/tmp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/aktuelles/951-microsoft-rechtsprechung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/plugins/system/jcemediabox/themes/standard/popup.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-26"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/plugins/system/jcemediabox/themes/standard/tooltip.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-26"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/media/jui/fonts/IcoMoon.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-09"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/media/jui/fonts/IcoMoon.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-09"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/media/jui/fonts/IcoMoon.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-09"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/templates/yoo_master2/warp/vendor/uikit/fonts/fontawesome-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-09"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/templates/yoo_master2/warp/vendor/uikit/fonts/fontawesome-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-09"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/templates/yoo_master2/warp/vendor/uikit/fonts/fontawesome-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-09"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/templates/yoo_master2/warp/vendor/uikit/fonts/fontawesome-webfont.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-09"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/pub_studer_tagesanzeiger.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/Seminar_-_Nachfolgeregelung_Apotheke.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-29"
+    },
+    {
+      "URL": "http://www.probstpartner.ch/aktuelles/913-stelleninserat-april23",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-04-25"
+    },
+    {
+      "URL": "http://probstpartner.ch/team/hylja-ismaili",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "URL": "http://probstpartner.ch/team/kaj-seidl-nussbaumer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "URL": "http://probstpartner.ch/team/nathalie-wydler-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-15"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/the-firm/news?format=feed&type=rss",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-14"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/arbeits-migrationsrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/bau-und-immobilienrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/externer-rechtsdienst-fuer-kmu",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/film-musik-und-medienrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/immaterialgueter-wettbewerbsrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/neuerungen-fuer-patronale-wohlfahrtsfonds",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/sportrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/steuerrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/submissionsrecht-verwaltungsrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/technologie-informatik-und-datenschutzrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/unternehmensnachfolge-erbrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/verantwortlichkeits-und-haftpflichtrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/team/georg-weber",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-27"
+    },
+    {
+      "URL": "http://probstpartner.ch/international/india-desk",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-21"
+    },
+    {
+      "URL": "http://probstpartner.ch/international/pangea",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-21"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-21"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/netzwerke",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-21"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/standorte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-21"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-21"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/team/michael-widmer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-19"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/500-verantwortlichkeit-geloeschte-gesellschaften",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-19"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/525-award-18",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-19"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/546-verantwortlichkeit-geloeschte-ges",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-19"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles?start=8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-19"
+    },
+    {
+      "URL": "http://probstpartner.ch/images/BR_probst_partner.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/489-grundstueckkauf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/492-haftungspraevention-bei-mandatsniederlegung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/501-icos",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/508-fokus-rechtsguide",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/535-fachanwalt-sav-arbeitsrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/541-10-vor-10",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/services/tax",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/the-firm/news/232-change-to-provisions-working-time",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/203-uebermittlung-personendaten-usa",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/216-haftpflichtkommentar",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/231-aenderung-vorschriften-arbeitszeiterfassung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/236-geldwaeschereiges",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/240-neue-entwicklung-datenschutzgesetz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/244-cas-ict",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/249-arbeitsbewilligung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/253-mietzinse",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/256-offene-stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/259-we-go-the-extra-mile",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/261-roy-levy-als-praesident-der-disziplinarkommission-breitensport-gewaehlt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/263-zweitwohnungsgesetz-und-verordnung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/team/lynn-grob",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/team/christoph-d-studer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-06-20"
+    },
+    {
+      "URL": "http://www.probstpartner.ch:80/kanzlei/aktuelles/3-1-lunch-law-in-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2015-09-18"
+    },
+    {
+      "URL": "http://www.probstpartner.ch:80/team/stella-xanthis",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2015-06-02"
+    },
+    {
+      "URL": "http://www.probstpartner.ch:80/en/kanzlei/aktuelles/183-axa-brokertagung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2015-05-29"
+    },
+    {
+      "URL": "http://www.probstpartner.ch:80/en/team/daniela-imholz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2015-05-29"
+    },
+    {
+      "URL": "http://www.probstpartner.ch:80/kanzlei/aktuelles/183-axa-brokertagung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2015-05-29"
+    },
+    {
+      "URL": "http://www.probstpartner.ch:80/en/kanzlei",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2015-05-28"
+    },
+    {
+      "URL": "http://www.probstpartner.ch:80/en/kanzlei/netzwerke",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2015-05-28"
+    },
+    {
+      "URL": "http://www.probstpartner.ch:80/en/publikationen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2015-05-28"
+    },
+    {
+      "URL": "http://www.probstpartner.ch:80/en/team/esther-reist",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2015-05-28"
+    },
+    {
+      "URL": "http://www.probstpartner.ch:80/en/team/marco-del-fabro",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2015-05-28"
+    },
+    {
+      "URL": "http://www.probstpartner.ch:80/team/marco-del-fabro",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2015-05-28"
+    },
+    {
+      "URL": "https://probstpartner.ch/component/search/?Itemid=465&format=opensearch&id=8&layout=blog",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://probstpartner.ch/templates/yootheme/cache/02/Delegiertenversammlung_2024_BPW_Switzerland_330x190-0249bb4b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://probstpartner.ch/templates/yootheme/cache/06/Roy_Levy_330x190-068ab793.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://probstpartner.ch/templates/yootheme/cache/5d/aktuelles_muenzen-5dbf5f9a.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://probstpartner.ch/templates/yootheme/cache/67/aktuell_job-market-67cba300.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://probstpartner.ch/templates/yootheme/cache/93/tf_sb_1klein-93fc9c81.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://probstpartner.ch/templates/yootheme/cache/a4/Transparenzregister_Schweiz_330x190-a460c15e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://probstpartner.ch/templates/yootheme/cache/a5/Schlosser%20330x190-a5065fbd.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://probstpartner.ch/templates/yootheme/cache/fb/Website_PPAG_330x190-fb3f4aba.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://probstpartner.ch/aktuelles/950-bundesgerichtliche-abkehr-von-der-microsoft-rechtsprechung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "URL": "https://probstpartner.ch/datenschutzerklaerung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "URL": "https://probstpartner.ch/dienstleistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "URL": "https://probstpartner.ch/dienstleistungen/handels-und-gesellschaftsrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "URL": "https://probstpartner.ch/international",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "URL": "https://probstpartner.ch/kanzlei",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "URL": "https://probstpartner.ch/publikationen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "URL": "https://probstpartner.ch/suche?format=opensearch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "URL": "https://probstpartner.ch/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "URL": "https://probstpartner.ch/team/christoph-d-studer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/team/max-naegeli",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-13"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/2024-01_Magazin_Recht_Muessen_auch_Kleinstbetriebe_ASA_Spezialisten_beziehen_d.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/SPV1222_Rechtsfrage_Gl%C3%A4ttliV2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-29"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/2022-03_Magazin_Recht_Untersteht_Frewilligenarbeit_dem_Arbeitsgesetz_d.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/2022_06_ArG_und_Bestimmungen_zu_den_Arbeitszeiten.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/Magazin_1_23_Recht.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/Magazin_arbeits_02_23_Recht_oer_AG_Vereine.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/SPV0723_Anrechnung_AHV-Altersrente_Glaettli_V2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/SPV0923_Akzent_Gl%C3%A4ttli_Bindungswirkung_V3.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/SPV1023_Rechtsfragen_Gl%C3%A4ttli_V3.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/publikationen/SPV_2023_02_Gl%C3%A4ttli_Vorleistungspflichten.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "http://www.probstpartner.ch/team/alexandra-williams",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "http://www.probstpartner.ch/team/roy-levy",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://probstpartner.ch/images/publikationen/pub_levy_foul.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-11-18"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/en/team/julia-bhend",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-03-31"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/team/julia-bhend",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-03-28"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/team/michael-widmer/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-12-17"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/team/franz-probst",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-03-05"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/team/hylja-ismaili",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-03-05"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/team/max-naegeli",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-03-05"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/team/oliver-fritschi",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-03-05"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/services/business-succession",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-13"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/services/film-music-and-media",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-12"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/team/georg-weber",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-12"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/services/corporate-and-commercial-law",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-11"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/international/pangea",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-01-14"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/the-firm/about-us",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-01-14"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/international/india-desk",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-01-13"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/the-firm/networks",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-01-13"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/arbeits-und-migrationsrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/film-musik-und-medienrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/handels-und-gesellschaftsrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/immaterialgueter-und-wettbewerbsrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/insolvenz-restrukturierungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/sportrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/submissionsrecht-verwaltungsrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/technologie-informatik-und-datenschutzrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/uebersicht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/unternehmensnachfolge-erbrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/verantwortlichkeits-und-haftpflichtrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/vertragsrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/publikationen/zivilprozessrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/images/publikationen/Compliance-Februar-2018-10726.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "URL": "http://probstpartner.ch/images/publikationen/Z%C3%BCrcher_Wirtschaft.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "URL": "http://probstpartner.ch/images/team/461/vcardmichaelwidmer.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "URL": "http://probstpartner.ch/team/annette-williams-trottmann",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "URL": "http://probstpartner.ch/team/david-dalla-vecchia",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/549-wir-loesen-alle-probleme",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/551-raiffeisen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-18"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/services/contracts",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-16"
+    },
+    {
+      "URL": "http://probstpartner.ch/de/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-11"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/services",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-11"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/services/outsourced-legal-service-to-sme",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-11"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-11"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/team/stefan-weber",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-11"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/the-firm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-11"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/the-firm/news/543-interview-rle",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-11"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/disclaimer-en",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/international",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/publications",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-10"
+    },
+    {
+      "URL": "http://probstpartner.ch/dienstleistungen/vertragsrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-08-13"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/554-beschaffungskonferenz18",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-08-13"
+    },
+    {
+      "URL": "http://probstpartner.ch/de/dienstleistungen/submissionsrecht-verwaltungsrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/de/kanzlei/aktuelles",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/services/public-procurement-and-administrative-law",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/en/the-firm/news/291-improved-protection-of-consumer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/images/publikationen/pub_Betreibungen_Bhend.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/images/team/49/julia-bhend.vcf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/280-no-patent-strategy",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/283-aenderungen-firmenrecht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/290-besserer-schutz-von-konsumenten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/293-arbeiten-in-uk",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/297-beschaffungskonferenz-2016",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/306-einschraenkung-der-kollektivunterschrift",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/311-willkommen-ddv",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/313-lunch-law-3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/314-it-beschaffung-aus-der-cloud",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/319-persoenliche-gaftung-vr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/kanzlei/aktuelles/322-swiss-made",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/team/annelies-stahel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/team/daniela-imholz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://probstpartner.ch/team/esther-reist",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/Sportlaw_-_Jurisdiction_of_CAS_in_domestic_football_disputes.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/Sportlaw__Case_study_CAS_2014A3486_MFK_Dubnica_V._FC_Parma.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/Sportrecht_-_Die_Seele_des_Sports_-_NZZ_Artikel.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/Swiss_Federal_Tribunal_Overrules_CAS.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/images/The_new_Case_Rules.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/team/franz-probst",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/team/oliver-fritschi",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/team/thomas-wuersten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/disclaimer-de",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-04"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/en/news",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-04"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/team/stefan-weber",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-04"
+    },
+    {
+      "URL": "https://www.probstpartner.ch/aktuelles/611-oeffentlichkeit-steuerregister",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-01"
+    },
+    {
+      "URL": "https://probstpartner.ch/administrator",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/cache",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/cli",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/components",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/images",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/includes",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://probstpartner.ch/installation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "Keine Daten gefunden",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "0000-00-00"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522691400",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-09"
+    },
+    {
+      "Telefonnummern": "+41522691401",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-09"
+    }
+  ],
+  "service": [
+    {
+      "Port": 443,
+      "Dienst": "3CX Phone System Management Console",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "80.89.210.214",
+      "Domain/Subdomain": "uc.probstpartner.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:3cx:3cx, cpe:/a:f5:nginx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

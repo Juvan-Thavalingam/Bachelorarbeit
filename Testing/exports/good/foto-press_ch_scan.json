@@ -1,0 +1,921 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "198.185.159.144",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "IPv4-Adresse": "198.185.159.145",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "IPv4-Adresse": "198.49.23.144",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "IPv4-Adresse": "198.49.23.145",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx.swizzonic.email.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "dns1.swizzonic.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "dns2.swizzonic.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 include:spf.webapps.net ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "604800",
+      "Serial": "2024100201",
+      "Refresh": "10800",
+      "Hostmaster": "hostmaster.swizzonic.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "dns1.swizzonic.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "Keine Daten gefunden",
+      "PTR-Domain": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "foto-press.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-28",
+      "Gültig bis": "2025-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-28"
+    },
+    {
+      "Gültig ab": "2025-04-28",
+      "Gültig bis": "2025-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-28"
+    },
+    {
+      "Gültig ab": "2025-04-18",
+      "Gültig bis": "2025-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Gültig ab": "2025-04-18",
+      "Gültig bis": "2025-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Gültig ab": "2025-02-21",
+      "Gültig bis": "2025-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-21"
+    },
+    {
+      "Gültig ab": "2025-02-21",
+      "Gültig bis": "2025-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-21"
+    },
+    {
+      "Gültig ab": "2025-02-16",
+      "Gültig bis": "2025-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "Gültig ab": "2025-02-16",
+      "Gültig bis": "2025-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "Gültig ab": "2024-12-21",
+      "Gültig bis": "2025-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-21"
+    },
+    {
+      "Gültig ab": "2024-12-21",
+      "Gültig bis": "2025-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-21"
+    },
+    {
+      "Gültig ab": "2024-12-18",
+      "Gültig bis": "2025-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-18"
+    },
+    {
+      "Gültig ab": "2024-12-18",
+      "Gültig bis": "2025-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-18"
+    },
+    {
+      "Gültig ab": "2024-10-14",
+      "Gültig bis": "2025-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-14"
+    },
+    {
+      "Gültig ab": "2024-10-14",
+      "Gültig bis": "2025-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-14"
+    },
+    {
+      "Gültig ab": "2024-10-03",
+      "Gültig bis": "2025-01-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "Gültig ab": "2024-10-03",
+      "Gültig bis": "2025-01-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "Gültig ab": "2024-07-28",
+      "Gültig bis": "2024-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-28"
+    },
+    {
+      "Gültig ab": "2024-07-28",
+      "Gültig bis": "2024-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-28"
+    },
+    {
+      "Gültig ab": "2024-07-15",
+      "Gültig bis": "2024-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "Gültig ab": "2024-07-15",
+      "Gültig bis": "2024-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "Gültig ab": "2024-05-12",
+      "Gültig bis": "2024-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "Gültig ab": "2024-05-12",
+      "Gültig bis": "2024-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-28"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-28"
+    },
+    {
+      "Gültig ab": "2024-03-02",
+      "Gültig bis": "2024-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "Gültig ab": "2024-03-02",
+      "Gültig bis": "2024-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "Gültig ab": "2024-02-17",
+      "Gültig bis": "2024-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "Gültig ab": "2024-02-17",
+      "Gültig bis": "2024-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "Gültig ab": "2023-12-16",
+      "Gültig bis": "2024-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "Gültig ab": "2023-12-16",
+      "Gültig bis": "2024-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "Gültig ab": "2023-12-07",
+      "Gültig bis": "2024-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-07"
+    },
+    {
+      "Gültig ab": "2023-12-07",
+      "Gültig bis": "2024-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-07"
+    },
+    {
+      "Gültig ab": "2023-10-07",
+      "Gültig bis": "2024-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-07"
+    },
+    {
+      "Gültig ab": "2023-10-07",
+      "Gültig bis": "2024-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-07"
+    },
+    {
+      "Gültig ab": "2023-09-28",
+      "Gültig bis": "2023-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "Gültig ab": "2023-09-28",
+      "Gültig bis": "2023-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "Gültig ab": "2023-08-07",
+      "Gültig bis": "2023-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-07"
+    },
+    {
+      "Gültig ab": "2023-08-07",
+      "Gültig bis": "2023-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-07"
+    },
+    {
+      "Gültig ab": "2023-08-01",
+      "Gültig bis": "2023-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-01"
+    },
+    {
+      "Gültig ab": "2023-08-01",
+      "Gültig bis": "2023-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-01"
+    },
+    {
+      "Gültig ab": "2023-06-14",
+      "Gültig bis": "2023-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-14"
+    },
+    {
+      "Gültig ab": "2023-06-14",
+      "Gültig bis": "2023-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-14"
+    },
+    {
+      "Gültig ab": "2023-06-05",
+      "Gültig bis": "2023-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-05"
+    },
+    {
+      "Gültig ab": "2023-06-05",
+      "Gültig bis": "2023-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-05"
+    },
+    {
+      "Gültig ab": "2023-04-22",
+      "Gültig bis": "2023-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-22"
+    },
+    {
+      "Gültig ab": "2023-04-22",
+      "Gültig bis": "2023-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-22"
+    },
+    {
+      "Gültig ab": "2023-04-14",
+      "Gültig bis": "2023-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-14"
+    },
+    {
+      "Gültig ab": "2023-04-14",
+      "Gültig bis": "2023-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-14"
+    },
+    {
+      "Gültig ab": "2023-02-21",
+      "Gültig bis": "2023-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-21"
+    },
+    {
+      "Gültig ab": "2023-02-21",
+      "Gültig bis": "2023-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-21"
+    },
+    {
+      "Gültig ab": "2023-02-14",
+      "Gültig bis": "2023-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-14"
+    },
+    {
+      "Gültig ab": "2023-02-14",
+      "Gültig bis": "2023-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-14"
+    },
+    {
+      "Gültig ab": "2023-01-01",
+      "Gültig bis": "2023-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-01"
+    },
+    {
+      "Gültig ab": "2023-01-01",
+      "Gültig bis": "2023-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-01"
+    },
+    {
+      "Gültig ab": "2022-11-09",
+      "Gültig bis": "2023-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-09"
+    },
+    {
+      "Gültig ab": "2022-11-09",
+      "Gültig bis": "2023-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-09"
+    },
+    {
+      "Gültig ab": "2022-09-13",
+      "Gültig bis": "2022-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-13"
+    },
+    {
+      "Gültig ab": "2022-09-13",
+      "Gültig bis": "2022-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-13"
+    },
+    {
+      "Gültig ab": "2022-07-17",
+      "Gültig bis": "2022-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-17"
+    },
+    {
+      "Gültig ab": "2022-07-17",
+      "Gültig bis": "2022-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-17"
+    },
+    {
+      "Gültig ab": "2022-05-19",
+      "Gültig bis": "2022-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-19"
+    },
+    {
+      "Gültig ab": "2022-05-19",
+      "Gültig bis": "2022-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.foto-press.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-19"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.foto-press.ch/produktfotos",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/search",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-22"
+    },
+    {
+      "URL": "https://foto-press.ch/commerce/digital-download",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/about",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/account/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/api/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/api/ui-extensions/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/architektur-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/architektur-1-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/blog-3-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/blog-3-1/blog-post-title-one-k5h7x",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/blog-3-1/kreative-synergie-wenn-werbefotografie-und-ki-verschmelzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/blog-3-1/working-on-an-brief",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/business",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/config",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/fotogalerien",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/fotografie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/herbsmenue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/hotel-restaurant",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/hotel-restaurant-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/hotel-restaurant-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/ki-bilder",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/men-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/mittagskarte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/natur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/neue-seite-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/neue-seite-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/neue-seite-3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/reservation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/shop",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/shop/bilder",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/shop/p/aletsch-gletscher",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/static/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/termine-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/webdesign",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/winzelnberger",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "URL": "https://www.foto-press.ch/cart",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "benutzer@domain.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "E-Mail": "foto@foto-press.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-22"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41793387698",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-22"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

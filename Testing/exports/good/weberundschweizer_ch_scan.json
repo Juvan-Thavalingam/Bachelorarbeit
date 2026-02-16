@@ -1,0 +1,1503 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "94.126.18.112",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx1-eu1.ppe-hosted.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Präferenz": "15",
+      "Mailserver (MX)": "mx2-eu1.ppe-hosted.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.rockit.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Name Server": "ns2.rockit.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Name Server": "ns3.cxbkp.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms60807682\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Text Record": "\"ppe-98a7cb9c56e8693a4a6d827b371380cc23066510\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Text Record": "\"\\\"91598f68db24c1e5472555b5e9b3444c\\\"\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Text Record": "\"v=spf1 a:dispatch-eu.ppe-hosted.com +mx +a include:_spf.mail.hostserv.eu ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "120",
+      "Expire": "2419200",
+      "Serial": "2024091682",
+      "Refresh": "7200",
+      "Hostmaster": "info.comelfex.com.",
+      "Minimum TTL": "10800",
+      "Primary Nameserver": "ns1.rockit.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "94.126.18.112",
+      "PTR-Domain": "darwin3.sui-inter.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "weberundschweizer.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "new.weberundschweizer.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "new.weberundschweizer.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-10",
+      "Gültig bis": "2025-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "Gültig ab": "2025-04-10",
+      "Gültig bis": "2025-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "Gültig ab": "2025-01-23",
+      "Gültig bis": "2025-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "Gültig ab": "2025-01-23",
+      "Gültig bis": "2025-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "Gültig ab": "2024-11-07",
+      "Gültig bis": "2025-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-07"
+    },
+    {
+      "Gültig ab": "2024-11-07",
+      "Gültig bis": "2025-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-07"
+    },
+    {
+      "Gültig ab": "2024-08-22",
+      "Gültig bis": "2024-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-22"
+    },
+    {
+      "Gültig ab": "2024-08-22",
+      "Gültig bis": "2024-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-22"
+    },
+    {
+      "Gültig ab": "2024-06-06",
+      "Gültig bis": "2024-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "Gültig ab": "2024-06-06",
+      "Gültig bis": "2024-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "Gültig ab": "2024-03-21",
+      "Gültig bis": "2024-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-21"
+    },
+    {
+      "Gültig ab": "2024-03-21",
+      "Gültig bis": "2024-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-21"
+    },
+    {
+      "Gültig ab": "2024-01-04",
+      "Gültig bis": "2024-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "Gültig ab": "2024-01-04",
+      "Gültig bis": "2024-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "Gültig ab": "2023-10-19",
+      "Gültig bis": "2024-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-19"
+    },
+    {
+      "Gültig ab": "2023-10-19",
+      "Gültig bis": "2024-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-19"
+    },
+    {
+      "Gültig ab": "2023-08-03",
+      "Gültig bis": "2023-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-03"
+    },
+    {
+      "Gültig ab": "2023-08-03",
+      "Gültig bis": "2023-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-03"
+    },
+    {
+      "Gültig ab": "2023-05-18",
+      "Gültig bis": "2023-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-18"
+    },
+    {
+      "Gültig ab": "2023-05-18",
+      "Gültig bis": "2023-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-18"
+    },
+    {
+      "Gültig ab": "2023-03-02",
+      "Gültig bis": "2023-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-02"
+    },
+    {
+      "Gültig ab": "2023-03-02",
+      "Gültig bis": "2023-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-02"
+    },
+    {
+      "Gültig ab": "2022-12-15",
+      "Gültig bis": "2023-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-15"
+    },
+    {
+      "Gültig ab": "2022-12-15",
+      "Gültig bis": "2023-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-15"
+    },
+    {
+      "Gültig ab": "2022-09-29",
+      "Gültig bis": "2022-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-09-29"
+    },
+    {
+      "Gültig ab": "2022-09-29",
+      "Gültig bis": "2022-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-09-29"
+    },
+    {
+      "Gültig ab": "2022-07-14",
+      "Gültig bis": "2022-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-07-14"
+    },
+    {
+      "Gültig ab": "2022-07-14",
+      "Gültig bis": "2022-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-07-14"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-02-10",
+      "Gültig bis": "2022-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-10"
+    },
+    {
+      "Gültig ab": "2022-02-10",
+      "Gültig bis": "2022-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-10"
+    },
+    {
+      "Gültig ab": "2021-12-12",
+      "Gültig bis": "2022-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-12"
+    },
+    {
+      "Gültig ab": "2021-12-12",
+      "Gültig bis": "2022-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-12"
+    },
+    {
+      "Gültig ab": "2021-10-12",
+      "Gültig bis": "2022-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-10-13"
+    },
+    {
+      "Gültig ab": "2021-10-12",
+      "Gültig bis": "2022-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-10-13"
+    },
+    {
+      "Gültig ab": "2021-08-12",
+      "Gültig bis": "2021-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-08-13"
+    },
+    {
+      "Gültig ab": "2021-08-12",
+      "Gültig bis": "2021-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-08-13"
+    },
+    {
+      "Gültig ab": "2021-06-13",
+      "Gültig bis": "2021-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "Gültig ab": "2021-06-13",
+      "Gültig bis": "2021-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "Gültig ab": "2021-04-14",
+      "Gültig bis": "2021-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "Gültig ab": "2021-04-14",
+      "Gültig bis": "2021-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "Gültig ab": "2021-02-13",
+      "Gültig bis": "2021-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-02-13"
+    },
+    {
+      "Gültig ab": "2021-02-13",
+      "Gültig bis": "2021-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-02-13"
+    },
+    {
+      "Gültig ab": "2020-12-15",
+      "Gültig bis": "2021-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-12-15"
+    },
+    {
+      "Gültig ab": "2020-12-15",
+      "Gültig bis": "2021-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-12-15"
+    },
+    {
+      "Gültig ab": "2020-10-15",
+      "Gültig bis": "2021-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-10-16"
+    },
+    {
+      "Gültig ab": "2020-10-15",
+      "Gültig bis": "2021-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-10-16"
+    },
+    {
+      "Gültig ab": "2020-08-16",
+      "Gültig bis": "2020-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-17"
+    },
+    {
+      "Gültig ab": "2020-08-16",
+      "Gültig bis": "2020-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-17"
+    },
+    {
+      "Gültig ab": "2020-06-17",
+      "Gültig bis": "2020-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-06-18"
+    },
+    {
+      "Gültig ab": "2020-06-17",
+      "Gültig bis": "2020-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-06-18"
+    },
+    {
+      "Gültig ab": "2020-04-18",
+      "Gültig bis": "2020-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-19"
+    },
+    {
+      "Gültig ab": "2020-04-18",
+      "Gültig bis": "2020-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-19"
+    },
+    {
+      "Gültig ab": "2020-02-18",
+      "Gültig bis": "2020-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-02-18"
+    },
+    {
+      "Gültig ab": "2020-02-18",
+      "Gültig bis": "2020-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-02-18"
+    },
+    {
+      "Gültig ab": "2020-02-04",
+      "Gültig bis": "2020-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-02-05"
+    },
+    {
+      "Gültig ab": "2020-02-04",
+      "Gültig bis": "2020-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-02-05"
+    },
+    {
+      "Gültig ab": "2019-11-07",
+      "Gültig bis": "2020-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-11-07"
+    },
+    {
+      "Gültig ab": "2019-11-07",
+      "Gültig bis": "2020-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-11-07"
+    },
+    {
+      "Gültig ab": "2019-11-07",
+      "Gültig bis": "2020-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-11-07"
+    },
+    {
+      "Gültig ab": "2019-11-07",
+      "Gültig bis": "2020-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-11-07"
+    },
+    {
+      "Gültig ab": "2019-09-06",
+      "Gültig bis": "2019-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-06"
+    },
+    {
+      "Gültig ab": "2019-09-06",
+      "Gültig bis": "2019-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-06"
+    },
+    {
+      "Gültig ab": "2019-09-06",
+      "Gültig bis": "2019-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-06"
+    },
+    {
+      "Gültig ab": "2019-09-06",
+      "Gültig bis": "2019-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-06"
+    },
+    {
+      "Gültig ab": "2019-07-06",
+      "Gültig bis": "2019-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-07-06"
+    },
+    {
+      "Gültig ab": "2019-07-06",
+      "Gültig bis": "2019-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-07-06"
+    },
+    {
+      "Gültig ab": "2019-07-06",
+      "Gültig bis": "2019-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-07-06"
+    },
+    {
+      "Gültig ab": "2019-07-06",
+      "Gültig bis": "2019-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-07-06"
+    },
+    {
+      "Gültig ab": "2019-05-05",
+      "Gültig bis": "2019-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-05"
+    },
+    {
+      "Gültig ab": "2019-05-05",
+      "Gültig bis": "2019-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-05"
+    },
+    {
+      "Gültig ab": "2019-05-05",
+      "Gültig bis": "2019-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-05"
+    },
+    {
+      "Gültig ab": "2019-05-05",
+      "Gültig bis": "2019-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-05"
+    },
+    {
+      "Gültig ab": "2019-03-04",
+      "Gültig bis": "2019-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-03-04"
+    },
+    {
+      "Gültig ab": "2019-03-04",
+      "Gültig bis": "2019-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-03-04"
+    },
+    {
+      "Gültig ab": "2019-03-04",
+      "Gültig bis": "2019-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-03-04"
+    },
+    {
+      "Gültig ab": "2019-03-04",
+      "Gültig bis": "2019-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-03-04"
+    },
+    {
+      "Gültig ab": "2019-01-01",
+      "Gültig bis": "2019-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-01"
+    },
+    {
+      "Gültig ab": "2019-01-01",
+      "Gültig bis": "2019-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-01"
+    },
+    {
+      "Gültig ab": "2019-01-01",
+      "Gültig bis": "2019-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-01"
+    },
+    {
+      "Gültig ab": "2019-01-01",
+      "Gültig bis": "2019-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-01"
+    },
+    {
+      "Gültig ab": "2018-10-31",
+      "Gültig bis": "2019-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-31"
+    },
+    {
+      "Gültig ab": "2018-10-31",
+      "Gültig bis": "2019-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-31"
+    },
+    {
+      "Gültig ab": "2018-10-31",
+      "Gültig bis": "2019-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-31"
+    },
+    {
+      "Gültig ab": "2018-10-31",
+      "Gültig bis": "2019-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-31"
+    },
+    {
+      "Gültig ab": "2018-08-30",
+      "Gültig bis": "2018-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-30"
+    },
+    {
+      "Gültig ab": "2018-08-30",
+      "Gültig bis": "2018-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-30"
+    },
+    {
+      "Gültig ab": "2018-08-30",
+      "Gültig bis": "2018-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-30"
+    },
+    {
+      "Gültig ab": "2018-08-30",
+      "Gültig bis": "2018-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-30"
+    },
+    {
+      "Gültig ab": "2018-08-30",
+      "Gültig bis": "2018-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-30"
+    },
+    {
+      "Gültig ab": "2018-08-30",
+      "Gültig bis": "2018-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-30"
+    },
+    {
+      "Gültig ab": "2018-08-30",
+      "Gültig bis": "2018-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-30"
+    },
+    {
+      "Gültig ab": "2018-08-30",
+      "Gültig bis": "2018-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-30"
+    },
+    {
+      "Gültig ab": "2018-06-05",
+      "Gültig bis": "2018-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-06-06"
+    },
+    {
+      "Gültig ab": "2018-06-05",
+      "Gültig bis": "2018-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-06-06"
+    },
+    {
+      "Gültig ab": "2018-06-05",
+      "Gültig bis": "2018-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-06-06"
+    },
+    {
+      "Gültig ab": "2018-06-05",
+      "Gültig bis": "2018-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-06-06"
+    },
+    {
+      "Gültig ab": "2017-11-24",
+      "Gültig bis": "2018-07-03",
+      "Ausgestellt von": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, OU=Domain Validated SSL, CN=Symantec Basic DV SSL CA - G2",
+      "Domain/Subdomain": "weberundschweizer.ch, www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-05-26"
+    },
+    {
+      "Gültig ab": "2017-11-24",
+      "Gültig bis": "2018-07-03",
+      "Ausgestellt von": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, OU=Domain Validated SSL, CN=Symantec Basic DV SSL CA - G2",
+      "Domain/Subdomain": "weberundschweizer.ch, www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-11-24"
+    },
+    {
+      "Gültig ab": "2017-03-08",
+      "Gültig bis": "2017-12-21",
+      "Ausgestellt von": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, OU=Domain Validated SSL, CN=Symantec Basic DV SSL CA - G2",
+      "Domain/Subdomain": "weberundschweizer.ch, www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-04-01"
+    },
+    {
+      "Gültig ab": "2017-03-08",
+      "Gültig bis": "2017-12-21",
+      "Ausgestellt von": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, OU=Domain Validated SSL, CN=Symantec Basic DV SSL CA - G2",
+      "Domain/Subdomain": "weberundschweizer.ch, www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-08"
+    },
+    {
+      "Gültig ab": "2017-02-28",
+      "Gültig bis": "2017-09-06",
+      "Ausgestellt von": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, OU=Domain Validated SSL, CN=Symantec Basic DV SSL CA - G2",
+      "Domain/Subdomain": "new.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-02-28"
+    },
+    {
+      "Gültig ab": "2017-02-28",
+      "Gültig bis": "2017-12-02",
+      "Ausgestellt von": "C=US, O=Symantec Corporation, OU=Symantec Trust Network, OU=Domain Validated SSL, CN=Symantec Basic DV SSL CA - G2",
+      "Domain/Subdomain": "www.new.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-02-28"
+    },
+    {
+      "Gültig ab": "2016-11-08",
+      "Gültig bis": "2017-11-08",
+      "Ausgestellt von": "C=CH, O=Hostpoint AG, OU=Domain Validated SSL, CN=Hostpoint DV SSL CA - G2",
+      "Domain/Subdomain": "weberundschweizer.ch, www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-11"
+    },
+    {
+      "Gültig ab": "2016-11-08",
+      "Gültig bis": "2017-11-08",
+      "Ausgestellt von": "C=CH, O=Hostpoint AG, OU=Domain Validated SSL, CN=Hostpoint DV SSL CA - G2",
+      "Domain/Subdomain": "weberundschweizer.ch, www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-08"
+    },
+    {
+      "Gültig ab": "2016-11-08",
+      "Gültig bis": "2017-11-08",
+      "Ausgestellt von": "C=CH, O=Hostpoint AG, OU=Domain Validated SSL, CN=Hostpoint DV SSL CA - G2",
+      "Domain/Subdomain": "weberundschweizer.ch, www.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-08"
+    },
+    {
+      "Gültig ab": "2016-07-13",
+      "Gültig bis": "2017-07-13",
+      "Ausgestellt von": "C=CH, O=Hostpoint AG, OU=Domain Validated SSL, CN=Hostpoint DV SSL CA - G2",
+      "Domain/Subdomain": "new.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-07-13"
+    },
+    {
+      "Gültig ab": "2016-07-13",
+      "Gültig bis": "2017-07-13",
+      "Ausgestellt von": "C=CH, O=Hostpoint AG, OU=Domain Validated SSL, CN=Hostpoint DV SSL CA - G2",
+      "Domain/Subdomain": "www.new.weberundschweizer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-07-13"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "http://weberundschweizer.ch/verkauf.html?devicelock=desktop",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/phone/Add%20File",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-02-10"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/index.php/bewe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/index.php/tobias-rietmann",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/index.php/ueber-uns/ueber-uns?id=6",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/index.php/mieten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-03-18"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/index.php/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-03-18"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/index.php/ueber-uns/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-03-18"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/ueber-uns/dienstleistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2015-06-07"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/ueber-uns/dienstleistungen/erstvermietung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2015-06-07"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/ueber-uns/dienstleistungen/mietliegenschaften",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2015-06-07"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/ueber-uns/dienstleistungen/stweg-meg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2015-06-07"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/ueber-uns/dienstleistungen/verkauf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2015-06-07"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch/index.php/ueber-uns/offene-stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2014-11-11"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-03-12"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/assets/bewerbung_gewerbe.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/assets/checkliste-wohnungsr%c3%bcckgabe-f%c3%bcr-mieter.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/assets/gratistipps.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/assets/gvz_risiko_eigenheim.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/assets/gvz_risiko_garagen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/assets/gvz_risiko_treppenh.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/assets/richtig_lueften.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/assets/versicherungen_fr_eigentmer_von_einfamilienhuser.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/assets/versicherungen_fr_eigentmer_von_mehrfamilienhuser.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/assets/versicherungen_fr_mieter_von_wohnungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/assets/wohnungsbewerbung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/bankverbindung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/bewirtschaftung.html?devicelock=desktop",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/dokumente.html?devicelock=desktop",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/finanzberatung.html?devicelock=desktop",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/mieten.html?devicelock=desktop",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/unternehmen.html?devicelock=desktop",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-23"
+    },
+    {
+      "URL": "http://weberundschweizer.ch:80/404.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-15"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/dienstleistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-15"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/phone/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-14"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/Add%20File",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-10-28"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-10-28"
+    },
+    {
+      "URL": "http://weberundschweizer.ch/stellen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-10-28"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-10-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/mieten/parkplatz-garage",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-07-04"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/andreas-schweizer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/anja-staehli",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/component/proforms/bankverbindung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/daniel-kienast",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/dienstleistungen/erstvermietung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/dienstleistungen/mietliegenschaften",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/dienstleistungen/stweg-meg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/dienstleistungen/verkauf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/doris-artho",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/download?format=feed&type=atom",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/hypothek",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/kaufen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/laura-graf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/madlene-isliker",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/maegi-weber",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/michael-zambonin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/mieten/buero",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/mieten/gewerbe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/mieten/wohnungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/mimo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/nadja-maendli",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/thomas-schneider",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/ueber-uns/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-10"
+    },
+    {
+      "URL": "http://www.weberundschweizer.ch:80/index.php/karin-spaeti",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-09"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@weberschweizer.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-03-12"
+    },
+    {
+      "E-Mail": "info@weberundschweizer.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-15"
+    },
+    {
+      "E-Mail": "thomas.schneider@weberundschweizer.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522090501",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "Telefonnummern": "+41522090502",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "Telefonnummern": "+41522090503",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "Telefonnummern": "+41522090504",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "Telefonnummern": "+41522090506",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "Telefonnummern": "+41522090509",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-03-12"
+    },
+    {
+      "Telefonnummern": "+41522090510",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "Telefonnummern": "+41522090511",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "Telefonnummern": "+41522090512",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "Telefonnummern": "+41522090514",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "Telefonnummern": "+41522090516",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    },
+    {
+      "Telefonnummern": "+41522090517",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-12"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

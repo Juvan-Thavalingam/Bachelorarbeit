@@ -1,0 +1,1258 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "185.178.193.86",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mail1.hosttech.eu.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mail2.hosttech.eu.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx215.mail.hosttech.eu.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.hosttech.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Name Server": "ns2.hosttech.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Name Server": "ns3.hosttech.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"google-site-verification=XPyj2ZmiVBYF27_yvRZc5RX1SrfqXk_MSX0fEm7wq8U\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Text Record": "\"v=spf1 a mx include:_spf.v4.hosttech.eu include:_spf.v6.1.hosttech.eu include:_spf.v6.2.hosttech.eu ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "120",
+      "Expire": "2419200",
+      "Serial": "2025040226",
+      "Refresh": "7200",
+      "Hostmaster": "dns.hosttech.eu.",
+      "Minimum TTL": "10800",
+      "Primary Nameserver": "ns1.hosttech.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "185.178.193.86",
+      "PTR-Domain": "mx215.mail.hosttech.eu.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "webmail.moor-law.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "moor-law.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-03-30",
+      "Gültig bis": "2025-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "Gültig ab": "2025-03-30",
+      "Gültig bis": "2025-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "Gültig ab": "2025-01-29",
+      "Gültig bis": "2025-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-29"
+    },
+    {
+      "Gültig ab": "2025-01-29",
+      "Gültig bis": "2025-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-29"
+    },
+    {
+      "Gültig ab": "2024-11-30",
+      "Gültig bis": "2025-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-30"
+    },
+    {
+      "Gültig ab": "2024-11-30",
+      "Gültig bis": "2025-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-30"
+    },
+    {
+      "Gültig ab": "2024-10-01",
+      "Gültig bis": "2024-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-01"
+    },
+    {
+      "Gültig ab": "2024-10-01",
+      "Gültig bis": "2024-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-01"
+    },
+    {
+      "Gültig ab": "2024-08-02",
+      "Gültig bis": "2024-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "Gültig ab": "2024-08-02",
+      "Gültig bis": "2024-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "Gültig ab": "2024-06-03",
+      "Gültig bis": "2024-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-03"
+    },
+    {
+      "Gültig ab": "2024-06-03",
+      "Gültig bis": "2024-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-03"
+    },
+    {
+      "Gültig ab": "2024-04-04",
+      "Gültig bis": "2024-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-04-04",
+      "Gültig bis": "2024-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-02-04",
+      "Gültig bis": "2024-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-04"
+    },
+    {
+      "Gültig ab": "2024-02-04",
+      "Gültig bis": "2024-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-04"
+    },
+    {
+      "Gültig ab": "2023-12-06",
+      "Gültig bis": "2024-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-06"
+    },
+    {
+      "Gültig ab": "2023-12-06",
+      "Gültig bis": "2024-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-06"
+    },
+    {
+      "Gültig ab": "2023-10-07",
+      "Gültig bis": "2024-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-07"
+    },
+    {
+      "Gültig ab": "2023-10-07",
+      "Gültig bis": "2024-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-07"
+    },
+    {
+      "Gültig ab": "2023-08-08",
+      "Gültig bis": "2023-11-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-08"
+    },
+    {
+      "Gültig ab": "2023-08-08",
+      "Gültig bis": "2023-11-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-08"
+    },
+    {
+      "Gültig ab": "2023-06-09",
+      "Gültig bis": "2023-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "Gültig ab": "2023-06-09",
+      "Gültig bis": "2023-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "Gültig ab": "2023-04-10",
+      "Gültig bis": "2023-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-10"
+    },
+    {
+      "Gültig ab": "2023-04-10",
+      "Gültig bis": "2023-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-10"
+    },
+    {
+      "Gültig ab": "2023-02-09",
+      "Gültig bis": "2023-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "Gültig ab": "2023-02-09",
+      "Gültig bis": "2023-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "Gültig ab": "2022-12-11",
+      "Gültig bis": "2023-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-11"
+    },
+    {
+      "Gültig ab": "2022-12-11",
+      "Gültig bis": "2023-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-11"
+    },
+    {
+      "Gültig ab": "2022-10-30",
+      "Gültig bis": "2023-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-30"
+    },
+    {
+      "Gültig ab": "2022-10-30",
+      "Gültig bis": "2023-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-30"
+    },
+    {
+      "Gültig ab": "2022-08-31",
+      "Gültig bis": "2022-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-31"
+    },
+    {
+      "Gültig ab": "2022-08-31",
+      "Gültig bis": "2022-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "moor-law.ch, webmail.moor-law.ch, www.moor-law.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-31"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://moor-law.ch/datenschutzerklaerung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-21"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-fields/data-protection-law/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-21"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-fields/rental-law/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-21"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/landlords-tenants/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-21"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/datenschutzrecht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-21"
+    },
+    {
+      "URL": "https://moor-law.ch/anwalt-konrad-moor/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/attorney-konrad-moor/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/contact/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/expertise/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/imprint/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/employment-law/non-competition/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/employment-law/termination-agreement/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/rental-law/change-of-ownership/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-fields/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-fields/corporate-law/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-fields/debt-collection/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-fields/employment-law/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-fields/public-personnel-law/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/employment-law-lawyer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/enforcement-of-claims/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/termination-of-employment/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/employers-employees/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/public-bodies/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/smes-companies/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/terms-of-use/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/administrativuntersuchung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/anpassung-ans-schweizer-recht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/ansiedlung-niederlassung-in-der-schweiz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/anwalt-fuer-arbeitsrecht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/anwalt-fuer-mietrecht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/arbeitsrechtliches-konkurrenzverbot/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/arbeitsstreitigkeiten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/arbeitszeugnis-arbeitsbestaetigung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/auftrag-in-der-schweiz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/bauhandwerkerpfandrecht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/beendigung-des-arbeitsverhaeltnisses/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/beendigung-des-mietverhaeltnisses/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/dienstleistungen-fuer-gesellschaften/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/einseitige-aenderungen-von-mietvertraegen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/einvernehmliche-aufhebung-von-arbeitsvertraegen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/erstellung-und-ueberpruefung-von-arbeitsvertraegen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/erstreckung-von-mietverhaeltnissen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/forderungsdurchsetzung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/forderungsinkasso/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/kuendigungsanfechtung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/maengel-der-mietraeume/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/mieterausweisung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/mietvertragsgestaltung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/nachbarrecht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/oeffentlich-rechtliche-arbeitsverhaeltnisse/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/rechtsberatung-zu-vertraegen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/stockwerkeigentum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/untermiete/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/vollstreckung-von-urteilen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/wohnsitznahme-in-der-schweiz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/leistungen/international/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/nutzungsbedingungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/arbeitsrecht/aufhebungsvereinbarung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/arbeitsrecht/begruendung-der-kuendigung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/arbeitsrecht/hohere-leitende-angestellte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/arbeitsrecht/konkurrenzverbot/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/arbeitsrecht/kuendigung-per-textnachricht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/arbeitsrecht/kuendigung-zur-unzeit/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/arbeitsrecht/missbraeuchliche-kuendigung-von-arbeitsvertraegen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/arbeitsrecht/mobbing-am-arbeitsplatz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/arbeitsrecht/probezeit/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/arbeitsrecht/telearbeit-im-ausland/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/arbeitsrecht/uebersicht-ueber-das-arbeitsrecht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/datenschutzrecht/datenschutz-bearbeitungsverzeichnis/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/datenschutzrecht/datenschutz-dokumentationspflichten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/datenschutzrecht/datenschutz-vertretung-in-der-schweiz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/datenschutzrecht/neues-datenschutzgesetz-was-muessen-kmu-tun/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/datenschutzrecht/neues-datenschutzgesetz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/gesellschaftsrecht/aktienrechtsrevision-per-01-01-2023/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/vertragsrecht/agb/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/vertragsrecht/arbeitsvertrag/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/vertragsrecht/kaufvertrag/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/vertragsrecht/mietvertrag/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/vertragsrecht/werkvertrag/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/vertragsrecht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://moor-law.ch/en/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/contract-law/work-contract/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/employment-law/inopportune-termination/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/employment-law/termination-by-text-message/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/employment-law/workplace-bullying/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/employment-law/wrongful-termination-of-employment/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-fields/contract-law/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/privacy-policy/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/private-individuals/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/uebertragung-des-mietverhaeltnisses/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/leistungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/leistungen/arbeitnehmer-arbeitgeber/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/leistungen/gemeinwesen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/leistungen/kmu-unternehmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/leistungen/mieter-vermieter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/leistungen/privatpersonen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/arbeitsrecht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/gesellschaftsrecht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/mietrecht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/oeffentliches-personalrecht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/schuldbetreibung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/contract-law/rental-agreement/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://moor-law.ch/leistung/forderungsabwehr/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/contract-law/employment-contract/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-11"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/contract-law/sales-contract/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-11"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/legal-contract-services/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-11"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/lawyer-for-rental-law/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-11"
+    },
+    {
+      "URL": "https://moor-law.ch/fachwissen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-21"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiet/vertragsrecht/einfacher-auftrag/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-11"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/contract-law/gtc/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/adaptation-of-contracts-to-swiss-law/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/defence-against-claims/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-17"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/employment-law/statement-of-reasons-for-termination/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/condominium-ownership/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/construction-lien/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/legal-services-for-corporates/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/neighbour-law/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/public-employment/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/rental-law/changes-of-rent/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/rental-law/rights-and-obligations-of-tenants-and-landlords/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/contest-of-termination/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/employment-contracts/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/employment-disputes/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "URL": "https://moor-law.ch/en/service/rental-agreement-drafting/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "URL": "https://moor-law.ch/dienstleistungen/vertraege/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://moor-law.ch/en/lawyer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://moor-law.ch/en/privacy_policy/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/corporates/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://moor-law.ch/en/terms_of_use/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-field/contract-law/simple-mandate/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-fields/employment-law/inopportune-termination/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/international-services/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/international/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/sme-companies/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/arbeitsrecht/kuendigung-zur-unzeit/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "URL": "https://moor-law.ch/anwalt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/dienstleistungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/dienstleistungen/arbeit/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/dienstleistungen/forderungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/dienstleistungen/gesellschaften/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/dienstleistungen/international/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/dienstleistungen/kmu-unternehmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/dienstleistungen/miete/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/dienstleistungen/oeffentliches-personalrecht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/dienstleistungen/private/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/en/cookie-policy/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/claims/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/schkg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-02"
+    },
+    {
+      "URL": "https://moor-law.ch/beratungsansatz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/cookie-richtlinie/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/en/fees/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/en/law-fields/employment-law/wrongful-termination/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/en/location/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/en/philosophy/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/contracts/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/rent/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/en/services/work/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/honorar/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/aktienrechtsrevision/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/arbeitsrecht/hoehere-leitende-angestellte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/arbeitsrecht/missbraeuchliche-kuendigung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/rechtsgebiete/betreibung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://moor-law.ch/standort/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "kanzlei@moor-law.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-21"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522128666",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-21"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

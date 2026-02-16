@@ -1,0 +1,909 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "194.124.232.186",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2001:67c:1984::232:186:1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mulgore.mva-n.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "mulgore.mva-n.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Name Server": "specter.mva-n.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 +a +mx +a:mulgore.mva-n.net include:spf.mva-n.net -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "1209600",
+      "Serial": "2023121903",
+      "Refresh": "10800",
+      "Hostmaster": "info.walti-haustechnik.ch.",
+      "Minimum TTL": "10800",
+      "Primary Nameserver": "specter.mva-n.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "194.124.232.186",
+      "PTR-Domain": "suissetec-web.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "IP-Adresse": "2001:67c:1984::232:186:1",
+      "PTR-Domain": "suissetec-web.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "walti-haustechnik.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-14",
+      "Gültig bis": "2025-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-14"
+    },
+    {
+      "Gültig ab": "2025-04-14",
+      "Gültig bis": "2025-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-14"
+    },
+    {
+      "Gültig ab": "2025-02-13",
+      "Gültig bis": "2025-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "Gültig ab": "2025-02-13",
+      "Gültig bis": "2025-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "Gültig ab": "2024-12-15",
+      "Gültig bis": "2025-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-15"
+    },
+    {
+      "Gültig ab": "2024-12-15",
+      "Gültig bis": "2025-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-15"
+    },
+    {
+      "Gültig ab": "2024-10-16",
+      "Gültig bis": "2025-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-16"
+    },
+    {
+      "Gültig ab": "2024-10-16",
+      "Gültig bis": "2025-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-16"
+    },
+    {
+      "Gültig ab": "2024-08-16",
+      "Gültig bis": "2024-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-16"
+    },
+    {
+      "Gültig ab": "2024-08-16",
+      "Gültig bis": "2024-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-16"
+    },
+    {
+      "Gültig ab": "2024-06-17",
+      "Gültig bis": "2024-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "Gültig ab": "2024-06-17",
+      "Gültig bis": "2024-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "Gültig ab": "2024-04-18",
+      "Gültig bis": "2024-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-18"
+    },
+    {
+      "Gültig ab": "2024-04-18",
+      "Gültig bis": "2024-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-18"
+    },
+    {
+      "Gültig ab": "2024-02-17",
+      "Gültig bis": "2024-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "Gültig ab": "2024-02-17",
+      "Gültig bis": "2024-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "Gültig ab": "2023-12-19",
+      "Gültig bis": "2024-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-19"
+    },
+    {
+      "Gültig ab": "2023-12-19",
+      "Gültig bis": "2024-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "walti-haustechnik.ch, www.walti-haustechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-19"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.walti-haustechnik.ch/referenzen/warm-und-kaltwasserbatterie-ersatz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/walti-haustechnik-praesentiert-sich-im-landboten-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/ueber-uns/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/zum-jahresende-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/media/archive2/Beitrage/SauberesTrinkwasser.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-01"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-31"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/media/archive2/Stellen/StellenanzeigeSanitar2021.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://walti-haustechnik.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/datenschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/feed.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/feeds/all.atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-100.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-100.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-100.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-100.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-300.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-300.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-300.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-300.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-700.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-700.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-700.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-700.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-regular.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-regular.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-regular.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/js/fancybox/Image.fit",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/templates/blocks/slider-content/fonts/slick.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/templates/blocks/slider-content/fonts/slick.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/templates/blocks/slider-content/fonts/slick.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "http://walti-haustechnik.ch/de/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "URL": "http://walti-haustechnik.ch/de/Bildergalerie?cid=20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "URL": "http://walti-haustechnik.ch/de/Heizung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "URL": "http://walti-haustechnik.ch/de/Kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "URL": "http://walti-haustechnik.ch/de/Ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/de/Ueber-uns/offene-Stellen-Ausbildungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "URL": "http://walti-haustechnik.ch/de/Sanitaer/Service",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "http://walti-haustechnik.ch/de/Ueber-uns/Leitbild",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "http://walti-haustechnik.ch/de/Ueber-uns/Team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "http://walti-haustechnik.ch/de/Unsere-Partner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-admin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/uploads/sites/80/2024/05/pr_walti_181x210mm.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.walti-haustechnik.ch%2Fdatenschutz%2F&format=xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-sitemap-posts-page-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-sitemap-posts-post-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-sitemap-posts-referenzen-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-sitemap-taxonomies-Bereich-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-sitemap-taxonomies-category-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/offene-stellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/referenzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/referenzen/sanitaer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/schnupperlehre-und-lehrstellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/category/aktuelles/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/firmenjubilaeum-15-jahre-bei-walti/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/geschichte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/sanitaer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/service/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wir-trauern-um-erwin-walti/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/der-wasserhahn-der-alles-kann/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/footer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/heizung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/referenzen/badumbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/referenzen/boiler/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/referenzen/heizkoerperumbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/referenzen/luft-waermepumpe/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/referenzen/mfh-ersatz-verteilbatterie/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/referenzen/oelheizkessel-sanierung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/referenzen/reparatur-wohnung-verteiler/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/de/Newsletter",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-25"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/themes/wht_v1/plugins/font-awesome/fonts/fontawesome-webfont.eot@",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-10"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/themes/wht_v1/plugins/font-awesome/fonts/fontawesome-webfont.eot@v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-10"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/themes/wht_v1/plugins/font-awesome/fonts/fontawesome-webfont.svg@v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-10"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/themes/wht_v1/plugins/font-awesome/fonts/fontawesome-webfont.ttf@v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-10"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/themes/wht_v1/plugins/font-awesome/fonts/fontawesome-webfont.woff2@v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-10"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/themes/wht_v1/plugins/font-awesome/fonts/fontawesome-webfont.woff@v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-10"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/core_modules/Stats/Controller/Counter.php?mode=noscript&referer=&pageId=1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-06"
+    },
+    {
+      "URL": "http://walti-haustechnik.ch/de/Industrie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-01"
+    },
+    {
+      "URL": "http://walti-haustechnik.ch/de/Ueber-uns/offene-Stellen-Ausbildungen/Sanitaermonteurin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-09-24"
+    },
+    {
+      "URL": "http://walti-haustechnik.ch/de/Home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-01-20"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/de/Sanitaerrobots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-22"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/de/System/Seite-nicht-gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-22"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/core_modules/stats/counter.php?mode=noscript&referer=http%3A%2F%2Fwalti-sanitaer.ch%2F&pageId=33.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-29"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch:80/cadmin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-29"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch:80/de/Ueber-uns/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-29"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch:80/de/Ueber-uns/offene-Stellen--Ausbildungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-27"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-json/wp/v2/pages/34",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-31"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-json/wp/v2/pages/46",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-31"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-json/wp/v2/pages/49",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-31"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/uploads/sites/80/2023/11/ro_Seite_22_Der_Landbote_2023-08-18-Kopie.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-brands-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-brands-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-brands-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-duotone-900.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-duotone-900.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-duotone-900.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-duotone-900.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-light-300.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-light-300.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-light-300.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-light-300.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-regular-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-regular-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-regular-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-regular-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-solid-900.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-solid-900.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.walti-haustechnik.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-solid-900.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "http://www.walti-haustechnik.ch/de/Sanitaer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "dpo-google@google.com",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "frank_k@walti-haustechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    },
+    {
+      "E-Mail": "info@walti-haustechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "marco_b@walti-haustechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    },
+    {
+      "E-Mail": "nicole@portmann-sanitaer.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "E-Mail": "nuno_c@walti-haustechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    },
+    {
+      "E-Mail": "rahel_o@walti-haustechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    },
+    {
+      "E-Mail": "rene_o@walti-haustechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522022344",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

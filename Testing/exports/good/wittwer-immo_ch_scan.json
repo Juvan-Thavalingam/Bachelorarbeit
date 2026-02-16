@@ -1,0 +1,2899 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "217.11.221.200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mail.wittwer-immo.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.netstyle.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "ns2.netstyle.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "ns3.netstyle.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"b45ei1noj7tjoq6c7hjabm2uo4\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Text Record": "\"v=spf1 mx ip4:178.174.4.238 -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "900",
+      "Expire": "604800",
+      "Serial": "2024083001",
+      "Refresh": "3600",
+      "Hostmaster": "admin.netstyle.ch.",
+      "Minimum TTL": "10800",
+      "Primary Nameserver": "ns1.netstyle.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "217.11.221.200",
+      "PTR-Domain": "200.128/25.221.11.217.in-addr.arpa.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "IP-Adresse": "217.11.221.200",
+      "PTR-Domain": "one.cmsbox.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "wittwer-immo.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "autodiscover.wittwer-immo.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "mail.wittwer-immo.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "mail.wittwer-immo.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "dc1ex16.wiwi.wittwer-immo.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-14",
+      "Gültig bis": "2025-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-14"
+    },
+    {
+      "Gültig ab": "2025-05-14",
+      "Gültig bis": "2025-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-14"
+    },
+    {
+      "Gültig ab": "2025-05-14",
+      "Gültig bis": "2025-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-14"
+    },
+    {
+      "Gültig ab": "2025-05-14",
+      "Gültig bis": "2025-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-14"
+    },
+    {
+      "Gültig ab": "2025-03-21",
+      "Gültig bis": "2025-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "Gültig ab": "2025-03-21",
+      "Gültig bis": "2025-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "Gültig ab": "2025-02-20",
+      "Gültig bis": "2025-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-20"
+    },
+    {
+      "Gültig ab": "2025-02-20",
+      "Gültig bis": "2025-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-20"
+    },
+    {
+      "Gültig ab": "2025-02-20",
+      "Gültig bis": "2025-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-20"
+    },
+    {
+      "Gültig ab": "2025-02-20",
+      "Gültig bis": "2025-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-20"
+    },
+    {
+      "Gültig ab": "2025-01-04",
+      "Gültig bis": "2025-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-04"
+    },
+    {
+      "Gültig ab": "2025-01-04",
+      "Gültig bis": "2025-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-04"
+    },
+    {
+      "Gültig ab": "2024-11-28",
+      "Gültig bis": "2025-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-28"
+    },
+    {
+      "Gültig ab": "2024-11-28",
+      "Gültig bis": "2025-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-28"
+    },
+    {
+      "Gültig ab": "2024-11-28",
+      "Gültig bis": "2025-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-28"
+    },
+    {
+      "Gültig ab": "2024-11-28",
+      "Gültig bis": "2025-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-28"
+    },
+    {
+      "Gültig ab": "2024-09-30",
+      "Gültig bis": "2024-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-30"
+    },
+    {
+      "Gültig ab": "2024-09-30",
+      "Gültig bis": "2024-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-30"
+    },
+    {
+      "Gültig ab": "2024-09-06",
+      "Gültig bis": "2024-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-06"
+    },
+    {
+      "Gültig ab": "2024-09-06",
+      "Gültig bis": "2024-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-06"
+    },
+    {
+      "Gültig ab": "2024-09-06",
+      "Gültig bis": "2024-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-06"
+    },
+    {
+      "Gültig ab": "2024-09-06",
+      "Gültig bis": "2024-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-06"
+    },
+    {
+      "Gültig ab": "2024-07-02",
+      "Gültig bis": "2024-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-02"
+    },
+    {
+      "Gültig ab": "2024-07-02",
+      "Gültig bis": "2024-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-02"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-05-24",
+      "Gültig bis": "2024-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-24"
+    },
+    {
+      "Gültig ab": "2024-05-24",
+      "Gültig bis": "2024-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-24"
+    },
+    {
+      "Gültig ab": "2023-10-06",
+      "Gültig bis": "2024-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-06"
+    },
+    {
+      "Gültig ab": "2024-04-02",
+      "Gültig bis": "2024-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "Gültig ab": "2024-04-02",
+      "Gültig bis": "2024-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "Gültig ab": "2024-04-01",
+      "Gültig bis": "2024-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-01"
+    },
+    {
+      "Gültig ab": "2024-04-01",
+      "Gültig bis": "2024-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-01"
+    },
+    {
+      "Gültig ab": "2024-03-10",
+      "Gültig bis": "2024-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-10"
+    },
+    {
+      "Gültig ab": "2024-03-10",
+      "Gültig bis": "2024-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-10"
+    },
+    {
+      "Gültig ab": "2024-03-09",
+      "Gültig bis": "2024-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-09"
+    },
+    {
+      "Gültig ab": "2024-03-09",
+      "Gültig bis": "2024-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-09"
+    },
+    {
+      "Gültig ab": "2024-01-02",
+      "Gültig bis": "2024-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-02"
+    },
+    {
+      "Gültig ab": "2024-01-02",
+      "Gültig bis": "2024-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-02"
+    },
+    {
+      "Gültig ab": "2023-12-25",
+      "Gültig bis": "2024-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-25"
+    },
+    {
+      "Gültig ab": "2023-12-25",
+      "Gültig bis": "2024-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-25"
+    },
+    {
+      "Gültig ab": "2023-12-23",
+      "Gültig bis": "2024-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-23"
+    },
+    {
+      "Gültig ab": "2023-12-23",
+      "Gültig bis": "2024-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-23"
+    },
+    {
+      "Gültig ab": "2023-12-03",
+      "Gültig bis": "2024-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "Gültig ab": "2023-12-03",
+      "Gültig bis": "2024-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "Gültig ab": "2023-11-03",
+      "Gültig bis": "2024-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-03"
+    },
+    {
+      "Gültig ab": "2023-11-03",
+      "Gültig bis": "2024-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-03"
+    },
+    {
+      "Gültig ab": "2023-10-07",
+      "Gültig bis": "2024-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-07"
+    },
+    {
+      "Gültig ab": "2023-10-07",
+      "Gültig bis": "2024-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-07"
+    },
+    {
+      "Gültig ab": "2023-10-06",
+      "Gültig bis": "2024-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-06"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-09-04",
+      "Gültig bis": "2023-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-04"
+    },
+    {
+      "Gültig ab": "2023-09-04",
+      "Gültig bis": "2023-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-04"
+    },
+    {
+      "Gültig ab": "2023-08-04",
+      "Gültig bis": "2023-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-04"
+    },
+    {
+      "Gültig ab": "2023-08-04",
+      "Gültig bis": "2023-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-04"
+    },
+    {
+      "Gültig ab": "2023-07-21",
+      "Gültig bis": "2023-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-21"
+    },
+    {
+      "Gültig ab": "2023-07-21",
+      "Gültig bis": "2023-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-21"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-05",
+      "Gültig bis": "2023-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "Gültig ab": "2023-07-05",
+      "Gültig bis": "2023-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "Gültig ab": "2023-06-05",
+      "Gültig bis": "2023-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-05"
+    },
+    {
+      "Gültig ab": "2023-06-05",
+      "Gültig bis": "2023-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-05"
+    },
+    {
+      "Gültig ab": "2023-05-06",
+      "Gültig bis": "2023-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "Gültig ab": "2023-05-06",
+      "Gültig bis": "2023-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-05-01",
+      "Gültig bis": "2023-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-01"
+    },
+    {
+      "Gültig ab": "2023-05-01",
+      "Gültig bis": "2023-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-01"
+    },
+    {
+      "Gültig ab": "2022-04-10",
+      "Gültig bis": "2022-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-10"
+    },
+    {
+      "Gültig ab": "2023-04-06",
+      "Gültig bis": "2023-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-06"
+    },
+    {
+      "Gültig ab": "2023-04-06",
+      "Gültig bis": "2023-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-06"
+    },
+    {
+      "Gültig ab": "2023-03-07",
+      "Gültig bis": "2023-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-07"
+    },
+    {
+      "Gültig ab": "2023-03-07",
+      "Gültig bis": "2023-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-07"
+    },
+    {
+      "Gültig ab": "2023-03-07",
+      "Gültig bis": "2023-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-07"
+    },
+    {
+      "Gültig ab": "2023-03-07",
+      "Gültig bis": "2023-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-07"
+    },
+    {
+      "Gültig ab": "2023-02-14",
+      "Gültig bis": "2023-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-14"
+    },
+    {
+      "Gültig ab": "2023-02-14",
+      "Gültig bis": "2023-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-14"
+    },
+    {
+      "Gültig ab": "2023-02-11",
+      "Gültig bis": "2023-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-11"
+    },
+    {
+      "Gültig ab": "2023-02-11",
+      "Gültig bis": "2023-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-11"
+    },
+    {
+      "Gültig ab": "2022-11-27",
+      "Gültig bis": "2023-02-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-27"
+    },
+    {
+      "Gültig ab": "2022-11-27",
+      "Gültig bis": "2023-02-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-27"
+    },
+    {
+      "Gültig ab": "2022-11-22",
+      "Gültig bis": "2023-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-22"
+    },
+    {
+      "Gültig ab": "2022-11-22",
+      "Gültig bis": "2023-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-22"
+    },
+    {
+      "Gültig ab": "2022-09-12",
+      "Gültig bis": "2022-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "Gültig ab": "2022-09-12",
+      "Gültig bis": "2022-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "Gültig ab": "2022-09-06",
+      "Gültig bis": "2022-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-06"
+    },
+    {
+      "Gültig ab": "2022-09-06",
+      "Gültig bis": "2022-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-06"
+    },
+    {
+      "Gültig ab": "2022-06-27",
+      "Gültig bis": "2022-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-27"
+    },
+    {
+      "Gültig ab": "2022-06-27",
+      "Gültig bis": "2022-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-27"
+    },
+    {
+      "Gültig ab": "2022-06-17",
+      "Gültig bis": "2022-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-17"
+    },
+    {
+      "Gültig ab": "2022-06-17",
+      "Gültig bis": "2022-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-17"
+    },
+    {
+      "Gültig ab": "2022-04-10",
+      "Gültig bis": "2022-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-10"
+    },
+    {
+      "Gültig ab": "2022-04-02",
+      "Gültig bis": "2022-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-02"
+    },
+    {
+      "Gültig ab": "2022-04-02",
+      "Gültig bis": "2022-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-02"
+    },
+    {
+      "Gültig ab": "2022-03-10",
+      "Gültig bis": "2023-03-07",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch, wittwer-immo.ch, www.mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-10"
+    },
+    {
+      "Gültig ab": "2022-01-20",
+      "Gültig bis": "2022-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-20"
+    },
+    {
+      "Gültig ab": "2022-01-20",
+      "Gültig bis": "2022-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-20"
+    },
+    {
+      "Gültig ab": "2022-01-15",
+      "Gültig bis": "2022-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-15"
+    },
+    {
+      "Gültig ab": "2022-01-15",
+      "Gültig bis": "2022-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-15"
+    },
+    {
+      "Gültig ab": "2021-11-02",
+      "Gültig bis": "2022-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-02"
+    },
+    {
+      "Gültig ab": "2021-11-02",
+      "Gültig bis": "2022-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-02"
+    },
+    {
+      "Gültig ab": "2021-10-30",
+      "Gültig bis": "2022-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-30"
+    },
+    {
+      "Gültig ab": "2021-10-30",
+      "Gültig bis": "2022-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-30"
+    },
+    {
+      "Gültig ab": "2021-08-18",
+      "Gültig bis": "2021-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-18"
+    },
+    {
+      "Gültig ab": "2021-08-18",
+      "Gültig bis": "2021-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-18"
+    },
+    {
+      "Gültig ab": "2021-08-14",
+      "Gültig bis": "2021-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-14"
+    },
+    {
+      "Gültig ab": "2021-08-14",
+      "Gültig bis": "2021-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-14"
+    },
+    {
+      "Gültig ab": "2021-05-30",
+      "Gültig bis": "2021-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-30"
+    },
+    {
+      "Gültig ab": "2021-05-30",
+      "Gültig bis": "2021-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-30"
+    },
+    {
+      "Gültig ab": "2021-05-29",
+      "Gültig bis": "2021-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-29"
+    },
+    {
+      "Gültig ab": "2021-05-29",
+      "Gültig bis": "2021-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-29"
+    },
+    {
+      "Gültig ab": "2021-03-13",
+      "Gültig bis": "2021-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-13"
+    },
+    {
+      "Gültig ab": "2021-03-13",
+      "Gültig bis": "2021-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-13"
+    },
+    {
+      "Gültig ab": "2021-03-11",
+      "Gültig bis": "2021-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-11"
+    },
+    {
+      "Gültig ab": "2021-03-11",
+      "Gültig bis": "2021-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-11"
+    },
+    {
+      "Gültig ab": "2021-03-07",
+      "Gültig bis": "2022-04-08",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch, wittwer-immo.ch, www.mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-07"
+    },
+    {
+      "Gültig ab": "2020-12-26",
+      "Gültig bis": "2021-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-26"
+    },
+    {
+      "Gültig ab": "2020-12-26",
+      "Gültig bis": "2021-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-26"
+    },
+    {
+      "Gültig ab": "2020-12-24",
+      "Gültig bis": "2021-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-24"
+    },
+    {
+      "Gültig ab": "2020-12-24",
+      "Gültig bis": "2021-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-24"
+    },
+    {
+      "Gültig ab": "2020-10-07",
+      "Gültig bis": "2021-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-07"
+    },
+    {
+      "Gültig ab": "2020-10-07",
+      "Gültig bis": "2021-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-07"
+    },
+    {
+      "Gültig ab": "2020-10-07",
+      "Gültig bis": "2021-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-07"
+    },
+    {
+      "Gültig ab": "2020-10-07",
+      "Gültig bis": "2021-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-07"
+    },
+    {
+      "Gültig ab": "2020-07-20",
+      "Gültig bis": "2020-10-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-07-20"
+    },
+    {
+      "Gültig ab": "2020-07-20",
+      "Gültig bis": "2020-10-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-07-20"
+    },
+    {
+      "Gültig ab": "2020-07-19",
+      "Gültig bis": "2020-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-07-19"
+    },
+    {
+      "Gültig ab": "2020-07-19",
+      "Gültig bis": "2020-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-07-19"
+    },
+    {
+      "Gültig ab": "2020-05-02",
+      "Gültig bis": "2020-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-05-02"
+    },
+    {
+      "Gültig ab": "2020-05-02",
+      "Gültig bis": "2020-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-05-02"
+    },
+    {
+      "Gültig ab": "2020-05-02",
+      "Gültig bis": "2020-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-05-02"
+    },
+    {
+      "Gültig ab": "2020-05-02",
+      "Gültig bis": "2020-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-05-02"
+    },
+    {
+      "Gültig ab": "2019-03-06",
+      "Gültig bis": "2021-03-06",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch, wittwer-immo.ch, www.mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-03-15"
+    },
+    {
+      "Gültig ab": "2019-03-06",
+      "Gültig bis": "2021-03-06",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, dc1ex16.wiwi.wittwer-immo.ch, mail.wittwer-immo.ch, wittwer-immo.ch, www.mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-03-06"
+    },
+    {
+      "Gültig ab": "2018-03-02",
+      "Gültig bis": "2020-06-04",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, mail.wittwer-immo.ch, www.mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-03-15"
+    },
+    {
+      "Gültig ab": "2016-03-14",
+      "Gültig bis": "2018-03-10",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, mail.wittwer-immo.ch, www.mail.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-01-12"
+    },
+    {
+      "Gültig ab": "2012-03-07",
+      "Gültig bis": "2016-03-07",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certificates.godaddy.com/repository, CN=Go Daddy Secure Certification Authority, serialNumber=07969287",
+      "Domain/Subdomain": "autodiscover.wittwer-immo.ch, mail.wittwer-immo.ch, wittwer-immo.ch, www.wittwer-immo.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-03-08"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://wittwer-immo.ch/animations",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/audio",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/bilder-e-mail-signatur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/datenschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/documents",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/downloads",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/dtd",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/errors",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/layouts/layout-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://www.wittwer-immo.ch/ueber-",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "URL": "https://www.wittwer-immo.ch/walter-wittwer-partner-immobilien-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-06"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/contents",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-15"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/download",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-15"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/uploads",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-13"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/language",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/landenberg/2459",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-08-03"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/dienstleistungen/bewirtschaftung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/dienstleistungen/erstvermietung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/dienstleistungen/projektentwicklung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/dienstleistungen/projektrealisierung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/dienstleistungen/verkauf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/humans.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/einzelobjekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/neubauprojekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/neubauprojekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/mieten/einzelobjekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/mieten/neubauprojekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/blick-zum-schloss/2456",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/eigentumswohnungen-am-lindbergwald/6463",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/exklusive-8-1-2-zimmer-stadtvilla/4475",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/freistehendes-einfamilienhaus-mit-bezaubernder-gartenanlage-und-schwimmbad/6915",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/geschaeftshaus-drehscheibe/1429",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/geschaeftshaus-hauptpost/3864",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/heiligberg/5995",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/oberes-alpgut/2457",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/patiohaeuser-goldenberg/6209",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/rudolfstrasse/2458",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/stadtterrasse/5956",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/tachlisbrunnenstrasse/5990",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/ueberbauung-meierhof-eigentumswohnungen/5444",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/ueber-uns/referenzen/ziegelei-areal/2460",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/neubauprojekte/projekt-voranzeige-ueberbauung-meier-hof/5444",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-25"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-23"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/familienfreundliches-einfamilienhaus/7044",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-23"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/freistehendes-zweifamilienhaus-an-erhoehter-und-sonniger-wohnlage/7001",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-01-24"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/mieten/neubauprojekte/erstvermietung-ueberbauung-meier-hof/5445",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-01-24"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/einseitig-angebautes-einfamilienhaus/7000",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-12-25"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/neubauprojekte/areal-birchweid/6399",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-12-25"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/einzelobjekte/geschaeftshaus-an-sehr-zentraler-lage/6989",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-25"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/mieten/neubauprojekte/projekt-anzeige-ueberbauung-florenstrasse/6897",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-10-26"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/einzelobjekte/baulandparzelle-mit-10162-m2-in-der-gewerbezone-iii/4585",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-08-19"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/einzelobjekte/gewerbe-und-buerogebaeude-mit-baulandreserve/6484",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-08-19"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch/fonts/flexslider/flexslider-icon.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-03-02"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch/fonts/flexslider/flexslider-icon.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-02-26"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch/fonts/flexslider/flexslider-icon.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-02-23"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch/default2.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-10-16"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/neubauprojekte/erstvermietung-gewerbe-und-werkstattflaeche/4865",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-02-19"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/exklusives-chalet-in-klosters-gr-mit-baulandreserven/5283",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-02-19"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/attraktives-6--zimmer-reiheneinfamilienhaus/4539",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-06-25"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/familienfreundliches-5-1-2-zimmer-einfamilienhaus/4570",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-06-25"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/exklusive-6--zimmer-villa-mit-schwimmbad/4943",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-06-24"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/neubauprojekte/areal-fuer-private-anleger-und-institutionelle-investoren/4483",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-02-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/neubauprojekte/am-weinberg/3370",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-11-12"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/neubauprojekte/erstvermietung-ofenhalle/2443",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-08-01"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/ehemaliges-bauernhaus-mit-3-wohnungen-schwimmbad-und-schopfgebaeude/3246",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-08-01"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/mehrfamilienhaus/3288",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-08-01"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/freistehendes-mehrfamilienhaus/3348",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-07-26"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/baulandparzelle/3217",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-02-24"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/freistehendes-einfamilienhaus/3097",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-02-24"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/villa-mit-9--zimmern/3211",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-02-24"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/einzelobjekte/miete-lagerhalle-in-modernem-logistikgebaeude/2698",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-02-21"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/einzelobjekte/verkauf-gewerbehaus-mit-baulandreserve/3218",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-02-21"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/neubauprojekte/schachenweg/3328",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-02-21"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/mieten/neubauprojekte/erstvermietung-nach-totalrenovation-villa-schanzengarten/3114",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-02-21"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/neubauprojekte/erstvermietung-geschaeftshaus-drehscheibe/2700",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-09-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj2/xbaubeschr.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/kontakt_formular.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-08-29"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/kontakt_impressum.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-08-29"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/situation_plan_haus1.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-06-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus1_og1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-14"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus1_at.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-12"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus3_at.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-01-23"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/stadtvilla-am-lindberg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-01-03"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/stadtvilla-am-lindberg/default.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-01-03"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/stadtvilla-am-lindberg/kontakt.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-01-03"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus1_eg.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-09-16"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus1_og2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-09-16"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/projekt_wohnungen.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-09-01"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus3_og2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-07-10"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/projekt_aussenraum.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-07-01"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/laerchenstrasse",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-07-01"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/agnesstrasse",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-01-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/stadtterrasse/architektur/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-01-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/stadtterrasse/baubeschrieb/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-01-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/stadtterrasse/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-01-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/stadtterrasse/projekt/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-01-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/stadtterrasse/projekt/stadtterrasse_1-4/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-01-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/stadtterrasse/projekt/stadtterrasse_5-7/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-01-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/laerchenstrasse/popup_kontakt.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2011-11-16"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/bauland.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2008-10-17"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/investoren.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2008-10-17"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/kauf.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2008-10-17"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/kontakt.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2008-10-17"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2008-10-17"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/miete.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2008-10-17"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/portrait.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2008-10-17"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/referenzen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2008-10-17"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/team.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2008-10-17"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch/default.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2007-10-25"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/news.asp?action=select&newsNO=9196&id=543",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-09-21"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj2/obansicht.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj3/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/dienst.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/garnmarkt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/infirma.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/inkauf.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/inlinks.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/inmiet.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/karte.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/zufirma.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/zukauf.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/zulinks.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/zumiet.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/inkauf.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/karte.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/zukauf.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wipfwittwer/xfirma.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wipfwittwer/xlinks.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/bestellung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/xbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/xfirma.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/xkauf.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/xlinks.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/xmiet.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/firmenbeschrieb.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-08"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/uberuns.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-08"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/zuuberuns.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-08"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/anmeldeformular.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-07"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/bestellung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-07"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/xkauf.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-07"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/xlinks.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-07"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/xwiruns.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-07"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wipfwittwer/begruss.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-07"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wipfwittwer/inhalt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-07"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wipfwittwer/signet.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-07"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/begruss.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-07"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/terrassenueberbauung-landenberg-8400-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/terrassenueberbauung-tachlisbrunnenstrasse-8400-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/ueberbauung-florenstrasse-8405-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/ueberbauung-meier-hof-8405-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/ueberbauung-rudolfstrasse-ch-8400-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/wohnturm-mit-wohnateliers-8400-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/erstvermietung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/erstvermietung/erstvermietung-campus-erstklassige-buero-und-gewerbeflaechen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/erstvermietung/wohnueberbauung-hofwis-mit-gesundheits-und-kulturzentrum-8352-elsau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/projektentwicklung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/verkauf-einzelobjekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/verkauf-einzelobjekte/5-5-zimmerwohnung-im-2-wohngeschoss-gotzenwilerstrasse-6-8405-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/verkauf-einzelobjekte/ehemaliges-bauernhaus-mit-ausbaupotential-pfarrgasse-4-8311-bruetten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/verkauf-einzelobjekte/stillvolles-und-gepflegtes-einfamilienhaus-mit-grosszuegigem-gartensitzplatz-in-8418-schlatt-zh",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/verkauf-neubau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/verkauf-neubau/eigentumswohnungen-lofts-am-wasser-8483-kollbrunn",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/erstvermietung/renovierte-altbauwohnungen-untertor-13-8400-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://www.wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/erstvermietung/renovierte-altbauwohnungen-mit-kellerabteil-untertor-13-8400-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-15"
+    },
+    {
+      "URL": "https://www.wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/verkauf-einzelobjekte/4-5-zimmer-reiheneinfamilienhaus-im-laubegg-42-8406-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-15"
+    },
+    {
+      "URL": "https://www.wittwer-immo.ch/favicons/site.webmanifest",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-05"
+    },
+    {
+      "URL": "https://www.wittwer-immo.ch/extras/fonts/5812910/256ab41b-f1dd-4c3e-8b0d-34f53b060343.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-08"
+    },
+    {
+      "URL": "https://www.wittwer-immo.ch/extras/fonts/5812914/58fac819-9732-4c2c-aa0c-0852d2fb0d9b.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-08"
+    },
+    {
+      "URL": "https://www.wittwer-immo.ch/extras/fonts/5812930/2a561008-f5d8-4448-bc9d-f0dd6502c08a.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-08"
+    },
+    {
+      "URL": "https://www.wittwer-immo.ch/extras/fonts/5812952/e8138754-0a81-4084-9f6a-989db164c975.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-08"
+    },
+    {
+      "URL": "https://www.wittwer-immo.ch/extras/fonts/5812956/9a86e349-0bf2-4316-b0df-5da731da23a4.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-08"
+    },
+    {
+      "URL": "https://www.wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/verkauf-einzelobjekte/arealentwicklung-wohnen-und-gewerbe-8472-seuzach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-27"
+    },
+    {
+      "URL": "https://www.wittwer-immo.ch/walter-wittwer-immobilienberatungen-ag/verkauf-neubau/areal-birchweid-in-8707-uetikon-am-see",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-28"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/neubauprojekte/erstvermietung-hauptpost/2442",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-08-15"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/mieten/neubauprojekte/weinberg/2449",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-08-15"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/5-1-2-zimmer-terrassenhaus/2682",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-04-04"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/einzelobjekte/miete-attraktives-buero-und-dienstleistungsgebaeude/2699",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-03-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/einzelobjekte/verkauf-gewerbe-und-industrieareal/2695",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-03-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/einzelobjekte/verkauf-restaurant-gabriel/2694",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-03-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/einzelobjekte/4-1-2-zimmer-terrassenhaus/2718",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-03-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/neubauprojekte/am-lindberg/1428",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-03-05"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/neubauprojekte/solera/2441",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-02-26"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/neubauprojekte/hauptpost/2442",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-12-27"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/gewerbe/neubauprojekte/ofenhalle/2443",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-12-27"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/projekte/wohnen/kaufen/neubauprojekte/haldenstrasse/2448",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-12-27"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch/bottom.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-12-08"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch/home.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-12-08"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/hegi.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-29"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/media_galerie.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-29"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/projekt_staedtebau.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-29"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/situation_plan_haus2.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-29"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-28"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/situation_plan_allgemein.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-28"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/situation_plan_haus3.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-28"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/situation_situ.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-28"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/pdf/abwicklung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-08"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/pdf/preisliste.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-08"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus2_at.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-08"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus2_eg.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-08"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus2_og1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-08"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus3_eg.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-08"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus3_og1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-08"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/pdf/kurzbaubeschrieb.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-03"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus123_ansicht.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-03"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/plan/haus123_umgebung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-09-03"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/blickzumschloss/default.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-08-29"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj2/xbeschr.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj2/xetage.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj2/xkontakt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj2/zuansi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj3/obansicht.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj3/xbaubeschr.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj3/xbeschr.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj3/xetage.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj3/xkontakt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj3/xprojekt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj3/zuansi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/adresse.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/miet2/flip.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/miet2/zuansi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/obj10/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/obj11/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/obj13/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/obj14/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/obj15/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/obj16/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/obj17/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/obj18/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/obj2/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/obj5/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-18"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/miet1/inobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-17"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/miet1/xansi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-17"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/miet2/inobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-17"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj2/inobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-12"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj2/xansicht.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-12"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj3/inobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-12"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj3/xansicht.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-12"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/miet1/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-12"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/miet2/xansi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-12"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/miet2/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-12"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/mietobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-12"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/obj2/xobj.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-11"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/inhalt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-07"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/zusatz.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-07"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/begruss.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/inhalt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/signet.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/xstart.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/gfi/zusatz.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wipfwittwer/xstart.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-06"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wipfwittwer/zusatz.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-01-24"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/xstart.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2000-10-28"
+    },
+    {
+      "URL": "http://www.wittwer-immo.ch:80/wittwer/obj8/zubeschr.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2000-10-18"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/layouts/layout-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/layouts/layout-3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/layouts/layout-4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/layouts/layout-5",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/layouts/layout-6",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/movies",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/photos",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/pictures",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/printer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/prints",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/temporary",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/9-zimmer-bauernhaus-moostobel-9614-libingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/areal-birchweid-in-8707-uetikon-am-see",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/eigentumswohnungen-am-lindbergwald-8400-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/einfamilienhaus-rychenbergstrasse-46-8400-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/geschaeftshaus-drehscheibe-8406-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/patiohaeuser-goldenberg-8400-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/renovierte-altstadtwohnungen-untertor-13-8400-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/stadtvillen-oberes-alpgut-8400-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://wittwer-immo.ch/ueber-uns/referenzen/terrassenueberbauung-heiligberg-8400-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "f.stahel@wittwer-immo.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "E-Mail": "info@tollkirsch.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "E-Mail": "info@wittwer-immo.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "E-Mail": "m.aeppli@wittwer-immo.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "E-Mail": "mail@cmsbox.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "E-Mail": "w.wittwer@wittwer-immo.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522351155",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-06"
+    }
+  ],
+  "service": [
+    {
+      "Port": 80,
+      "Dienst": "Microsoft IIS httpd",
+      "Version": "10.0",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "178.174.4.238",
+      "Domain/Subdomain": "mail.wittwer-immo.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:microsoft:internet_information_services:10.0, cpe:/o:microsoft:windows",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 4433,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "178.174.4.238",
+      "Domain/Subdomain": "mail.wittwer-immo.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:jquery:jquery",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

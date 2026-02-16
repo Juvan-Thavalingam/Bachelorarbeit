@@ -1,0 +1,811 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "194.191.24.39",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx01.servicehoster.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx02.servicehoster.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "cns1.cloudpit.de.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "cns2.cloudpit.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "cns3.cloudpit.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 include:servicehoster.ch a mx ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "604800",
+      "Serial": "2025032605",
+      "Refresh": "10800",
+      "Hostmaster": "hostmaster.dogado.de.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "cns1.cloudpit.de.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "194.191.24.39",
+      "PTR-Domain": "web29.servicehoster.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "hediger-treuhand.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-03-26",
+      "Gültig bis": "2025-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-26"
+    },
+    {
+      "Gültig ab": "2025-03-26",
+      "Gültig bis": "2025-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-26"
+    },
+    {
+      "Gültig ab": "2025-01-01",
+      "Gültig bis": "2025-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-01"
+    },
+    {
+      "Gültig ab": "2025-01-01",
+      "Gültig bis": "2025-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-01"
+    },
+    {
+      "Gültig ab": "2024-10-09",
+      "Gültig bis": "2025-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "Gültig ab": "2024-10-09",
+      "Gültig bis": "2025-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "Gültig ab": "2024-07-17",
+      "Gültig bis": "2024-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "Gültig ab": "2024-07-17",
+      "Gültig bis": "2024-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "Gültig ab": "2024-04-24",
+      "Gültig bis": "2024-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-24"
+    },
+    {
+      "Gültig ab": "2024-04-24",
+      "Gültig bis": "2024-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-24"
+    },
+    {
+      "Gültig ab": "2024-01-31",
+      "Gültig bis": "2024-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-31"
+    },
+    {
+      "Gültig ab": "2024-01-31",
+      "Gültig bis": "2024-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-31"
+    },
+    {
+      "Gültig ab": "2023-11-08",
+      "Gültig bis": "2024-02-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-08"
+    },
+    {
+      "Gültig ab": "2023-11-08",
+      "Gültig bis": "2024-02-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-08"
+    },
+    {
+      "Gültig ab": "2023-08-16",
+      "Gültig bis": "2023-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-16"
+    },
+    {
+      "Gültig ab": "2023-08-16",
+      "Gültig bis": "2023-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-16"
+    },
+    {
+      "Gültig ab": "2023-05-24",
+      "Gültig bis": "2023-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-24"
+    },
+    {
+      "Gültig ab": "2023-05-24",
+      "Gültig bis": "2023-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-24"
+    },
+    {
+      "Gültig ab": "2023-03-01",
+      "Gültig bis": "2023-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-01"
+    },
+    {
+      "Gültig ab": "2023-03-01",
+      "Gültig bis": "2023-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-01"
+    },
+    {
+      "Gültig ab": "2022-12-07",
+      "Gültig bis": "2023-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-07"
+    },
+    {
+      "Gültig ab": "2022-12-07",
+      "Gültig bis": "2023-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-07"
+    },
+    {
+      "Gültig ab": "2022-09-18",
+      "Gültig bis": "2022-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-18"
+    },
+    {
+      "Gültig ab": "2022-09-18",
+      "Gültig bis": "2022-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-18"
+    },
+    {
+      "Gültig ab": "2022-07-03",
+      "Gültig bis": "2022-10-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-03"
+    },
+    {
+      "Gültig ab": "2022-07-03",
+      "Gültig bis": "2022-10-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-03"
+    },
+    {
+      "Gültig ab": "2022-05-04",
+      "Gültig bis": "2022-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-04"
+    },
+    {
+      "Gültig ab": "2022-05-04",
+      "Gültig bis": "2022-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-04"
+    },
+    {
+      "Gültig ab": "2022-03-05",
+      "Gültig bis": "2022-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-05"
+    },
+    {
+      "Gültig ab": "2022-03-05",
+      "Gültig bis": "2022-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-05"
+    },
+    {
+      "Gültig ab": "2022-01-04",
+      "Gültig bis": "2022-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-04"
+    },
+    {
+      "Gültig ab": "2022-01-04",
+      "Gültig bis": "2022-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-04"
+    },
+    {
+      "Gültig ab": "2021-11-04",
+      "Gültig bis": "2022-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-05"
+    },
+    {
+      "Gültig ab": "2021-11-04",
+      "Gültig bis": "2022-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-05"
+    },
+    {
+      "Gültig ab": "2021-09-05",
+      "Gültig bis": "2021-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-05"
+    },
+    {
+      "Gültig ab": "2021-09-05",
+      "Gültig bis": "2021-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-05"
+    },
+    {
+      "Gültig ab": "2021-07-07",
+      "Gültig bis": "2021-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-07"
+    },
+    {
+      "Gültig ab": "2021-07-07",
+      "Gültig bis": "2021-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-07"
+    },
+    {
+      "Gültig ab": "2021-05-08",
+      "Gültig bis": "2021-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-09"
+    },
+    {
+      "Gültig ab": "2021-05-08",
+      "Gültig bis": "2021-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-09"
+    },
+    {
+      "Gültig ab": "2021-03-09",
+      "Gültig bis": "2021-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-09"
+    },
+    {
+      "Gültig ab": "2021-03-09",
+      "Gültig bis": "2021-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.hediger-treuhand.ch, hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-09"
+    },
+    {
+      "Gültig ab": "2021-01-13",
+      "Gültig bis": "2021-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-01-13"
+    },
+    {
+      "Gültig ab": "2021-01-13",
+      "Gültig bis": "2021-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-01-13"
+    },
+    {
+      "Gültig ab": "2020-11-13",
+      "Gültig bis": "2021-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-11-13"
+    },
+    {
+      "Gültig ab": "2020-11-13",
+      "Gültig bis": "2021-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-11-13"
+    },
+    {
+      "Gültig ab": "2020-09-13",
+      "Gültig bis": "2020-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-09-13"
+    },
+    {
+      "Gültig ab": "2020-09-13",
+      "Gültig bis": "2020-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-09-13"
+    },
+    {
+      "Gültig ab": "2020-07-14",
+      "Gültig bis": "2020-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-07-14"
+    },
+    {
+      "Gültig ab": "2020-07-14",
+      "Gültig bis": "2020-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-07-14"
+    },
+    {
+      "Gültig ab": "2020-05-14",
+      "Gültig bis": "2020-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-05-14"
+    },
+    {
+      "Gültig ab": "2020-05-14",
+      "Gültig bis": "2020-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-05-14"
+    },
+    {
+      "Gültig ab": "2020-03-14",
+      "Gültig bis": "2020-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-03-14"
+    },
+    {
+      "Gültig ab": "2020-03-14",
+      "Gültig bis": "2020-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-03-14"
+    },
+    {
+      "Gültig ab": "2020-01-13",
+      "Gültig bis": "2020-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-01-13"
+    },
+    {
+      "Gültig ab": "2020-01-13",
+      "Gültig bis": "2020-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-01-13"
+    },
+    {
+      "Gültig ab": "2019-11-13",
+      "Gültig bis": "2020-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-13"
+    },
+    {
+      "Gültig ab": "2019-11-13",
+      "Gültig bis": "2020-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-13"
+    },
+    {
+      "Gültig ab": "2019-09-13",
+      "Gültig bis": "2019-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-09-13"
+    },
+    {
+      "Gültig ab": "2019-09-13",
+      "Gültig bis": "2019-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-09-13"
+    },
+    {
+      "Gültig ab": "2019-07-14",
+      "Gültig bis": "2019-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-14"
+    },
+    {
+      "Gültig ab": "2019-07-14",
+      "Gültig bis": "2019-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-14"
+    },
+    {
+      "Gültig ab": "2019-05-14",
+      "Gültig bis": "2019-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-05-14"
+    },
+    {
+      "Gültig ab": "2019-05-14",
+      "Gültig bis": "2019-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-05-14"
+    },
+    {
+      "Gültig ab": "2019-03-14",
+      "Gültig bis": "2019-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-03-14"
+    },
+    {
+      "Gültig ab": "2019-03-14",
+      "Gültig bis": "2019-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-03-14"
+    },
+    {
+      "Gültig ab": "2019-01-12",
+      "Gültig bis": "2019-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-01-12"
+    },
+    {
+      "Gültig ab": "2019-01-12",
+      "Gültig bis": "2019-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-01-12"
+    },
+    {
+      "Gültig ab": "2018-11-12",
+      "Gültig bis": "2019-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-11-12"
+    },
+    {
+      "Gültig ab": "2018-11-12",
+      "Gültig bis": "2019-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-11-12"
+    },
+    {
+      "Gültig ab": "2018-09-12",
+      "Gültig bis": "2018-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-09-12"
+    },
+    {
+      "Gültig ab": "2018-09-12",
+      "Gültig bis": "2018-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-09-12"
+    },
+    {
+      "Gültig ab": "2018-07-13",
+      "Gültig bis": "2018-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-07-13"
+    },
+    {
+      "Gültig ab": "2018-07-13",
+      "Gültig bis": "2018-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hediger-treuhand.ch, www.hediger-treuhand.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-07-13"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "http://hediger-treuhand.ch/Kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "http://hediger-treuhand.ch/Dienstleistungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://hediger-treuhand.ch/Startseite/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://hediger-treuhand.ch/Ueber-uns/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://hediger-treuhand.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-24"
+    },
+    {
+      "URL": "http://hediger-treuhand.ch/sys/cm_is_034",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-02"
+    },
+    {
+      "URL": "http://hediger-treuhand.ch/sys/cm_dh_070",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-04"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@hediger-treuhand.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522323351",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "Telefonnummern": "+41522323354",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

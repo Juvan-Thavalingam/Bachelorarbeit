@@ -1,0 +1,960 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "80.74.141.22",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "amuellering-ch02b.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ch.pro.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Name Server": "nl.pro.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Name Server": "p.dnh.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms88623373\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Text Record": "\"v=spf1 include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "604800",
+      "Serial": "2021071500",
+      "Refresh": "10800",
+      "Hostmaster": "hostmaster.metanet.ch.",
+      "Minimum TTL": "1440",
+      "Primary Nameserver": "ch.pro.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "80.74.141.22",
+      "PTR-Domain": "lunar.metanet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "Keine Daten gefunden",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-03-29",
+      "Gültig bis": "2025-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2025-03-29",
+      "Gültig bis": "2025-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2025-01-27",
+      "Gültig bis": "2025-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-27"
+    },
+    {
+      "Gültig ab": "2025-01-27",
+      "Gültig bis": "2025-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-27"
+    },
+    {
+      "Gültig ab": "2024-11-28",
+      "Gültig bis": "2025-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-28"
+    },
+    {
+      "Gültig ab": "2024-11-28",
+      "Gültig bis": "2025-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-28"
+    },
+    {
+      "Gültig ab": "2024-09-29",
+      "Gültig bis": "2024-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-29"
+    },
+    {
+      "Gültig ab": "2024-09-29",
+      "Gültig bis": "2024-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-29"
+    },
+    {
+      "Gültig ab": "2024-07-31",
+      "Gültig bis": "2024-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-31"
+    },
+    {
+      "Gültig ab": "2024-07-31",
+      "Gültig bis": "2024-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-31"
+    },
+    {
+      "Gültig ab": "2024-06-01",
+      "Gültig bis": "2024-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "Gültig ab": "2024-06-01",
+      "Gültig bis": "2024-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "Gültig ab": "2024-04-02",
+      "Gültig bis": "2024-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "Gültig ab": "2024-04-02",
+      "Gültig bis": "2024-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2023-12-04",
+      "Gültig bis": "2024-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "Gültig ab": "2023-12-04",
+      "Gültig bis": "2024-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "Gültig ab": "2023-10-05",
+      "Gültig bis": "2024-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-05"
+    },
+    {
+      "Gültig ab": "2023-10-05",
+      "Gültig bis": "2024-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-05"
+    },
+    {
+      "Gültig ab": "2023-08-06",
+      "Gültig bis": "2023-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-06"
+    },
+    {
+      "Gültig ab": "2023-08-06",
+      "Gültig bis": "2023-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-06"
+    },
+    {
+      "Gültig ab": "2023-06-07",
+      "Gültig bis": "2023-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-07"
+    },
+    {
+      "Gültig ab": "2023-06-07",
+      "Gültig bis": "2023-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-07"
+    },
+    {
+      "Gültig ab": "2023-04-08",
+      "Gültig bis": "2023-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-08"
+    },
+    {
+      "Gültig ab": "2023-04-08",
+      "Gültig bis": "2023-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-08"
+    },
+    {
+      "Gültig ab": "2023-02-06",
+      "Gültig bis": "2023-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "Gültig ab": "2023-02-06",
+      "Gültig bis": "2023-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "Gültig ab": "2022-12-08",
+      "Gültig bis": "2023-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-08"
+    },
+    {
+      "Gültig ab": "2022-12-08",
+      "Gültig bis": "2023-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-08"
+    },
+    {
+      "Gültig ab": "2022-10-09",
+      "Gültig bis": "2023-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-09"
+    },
+    {
+      "Gültig ab": "2022-10-09",
+      "Gültig bis": "2023-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-09"
+    },
+    {
+      "Gültig ab": "2022-08-10",
+      "Gültig bis": "2022-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-10"
+    },
+    {
+      "Gültig ab": "2022-08-10",
+      "Gültig bis": "2022-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-10"
+    },
+    {
+      "Gültig ab": "2022-06-11",
+      "Gültig bis": "2022-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-11"
+    },
+    {
+      "Gültig ab": "2022-06-11",
+      "Gültig bis": "2022-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-11"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-04-12"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-04-12"
+    },
+    {
+      "Gültig ab": "2022-02-10",
+      "Gültig bis": "2022-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-02-10"
+    },
+    {
+      "Gültig ab": "2022-02-10",
+      "Gültig bis": "2022-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "amueller-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-02-10"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "http://amueller-ing.ch/referenzen/fossile-energieanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-13"
+    },
+    {
+      "URL": "http://amueller-ing.ch/referenzen/l%C3%BCftungsanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-13"
+    },
+    {
+      "URL": "http://amueller-ing.ch/images/referenzen/Referenzblatt_Benglen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "URL": "http://amueller-ing.ch/images/referenzen/Referenzblatt_BG_B%C3%BClach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "URL": "http://amueller-ing.ch/images/referenzen/Referenzblatt_BG_Z%C3%BCrich.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "URL": "http://amueller-ing.ch/images/referenzen/Referenzblatt_Dreiklang.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "URL": "http://amueller-ing.ch/images/referenzen/Referenzblatt_MTU4_Urdorf.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "URL": "http://amueller-ing.ch/images/referenzen/Referenzblatt_Silent_Otelfingen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "URL": "http://amueller-ing.ch/images/referenzen/Referenzblatt_Winterthur%202.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "URL": "http://amueller-ing.ch/referenzen/holz-energieanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "URL": "http://amueller-ing.ch/referenzen/labor-und-forschungsgeb%C3%A4ude",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "URL": "http://amueller-ing.ch/referenzen/wohngeb%C3%A4ude",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "URL": "http://amueller-ing.ch/dienstleistungen/ab-und-umweltw%C3%A4rme",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-25"
+    },
+    {
+      "URL": "http://amueller-ing.ch/dienstleistungen/fernw%C3%A4rme",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-25"
+    },
+    {
+      "URL": "http://amueller-ing.ch/dienstleistungen/fossile-energieanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-25"
+    },
+    {
+      "URL": "http://amueller-ing.ch/dienstleistungen/gesamtplanung-sanierung-von-w%C3%A4rmeerzeugungsanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-25"
+    },
+    {
+      "URL": "http://amueller-ing.ch/dienstleistungen/gesamtplanung-von-geb%C3%A4udetechnikanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-25"
+    },
+    {
+      "URL": "http://amueller-ing.ch/dienstleistungen/holz-energieanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-25"
+    },
+    {
+      "URL": "http://amueller-ing.ch/dienstleistungen/k%C3%A4lteanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-25"
+    },
+    {
+      "URL": "http://amueller-ing.ch/dienstleistungen/l%C3%BCftungs-und-klimaanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-25"
+    },
+    {
+      "URL": "http://amueller-ing.ch/dienstleistungen/sonnenenergie-anlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-25"
+    },
+    {
+      "URL": "http://amueller-ing.ch/dienstleistungen/w%C3%A4rmepumpenanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-25"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/administrator",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/cache",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/cli",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/components",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/images",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/includes",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/installation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/joomla/administrator",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/language",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/libraries",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/logs",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/media",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/modules",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/plugins",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/templates",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "https://amueller-ing.ch/tmp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "URL": "http://amueller-ing.ch/templates/andreasmueller/css/template.css.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-27"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/dienstleistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/inhalt/cv_mueller_2019.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Belsitostrasse.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Eggenzahnstrasse_Winterthur.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Entlisberg_Zuerich.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Hofwiesen_Dietlikon.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_HZ_H_Rheinau_35.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Imfeldstrasse_Zuerich.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_In-Wyl_Zuerich.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Kaltenbodenweg_Schoenenberg.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Kindergarten_Nuerensdorf.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Laubegg_Winterthur.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_MFH_Heimatstrasse.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_MFH_InDerEy.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Migros_Stein_am_Rhein.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Moosstrasse_Zuerich.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Mutschellenstrasse_Zuerich.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Neubau_Migros_Winterthur.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Panoramaweg_Winterthur.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Schulhaus_Lindberg_Winterthur.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Tanne_Langnau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Wehntalerstrasse.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Wiesengrund_Unterkulm.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/images/referenzen/Referenzblatt_Wohnueberbauung_Paradies.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/portrait/%C3%BCber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/referenzen/w%C3%A4rmepumpenanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "https://amueller-ing.ch/images/referenzen/Referenzblatt_BG_Zuerich.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "URL": "http://amueller-ing.ch/media/jui/fonts/IcoMoon.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-01"
+    },
+    {
+      "URL": "http://amueller-ing.ch/csrf.token",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-07"
+    },
+    {
+      "URL": "http://amueller-ing.ch/media/com_slideshowck/images/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-07"
+    },
+    {
+      "URL": "http://amueller-ing.ch/system.paths",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-07"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/plugins/system/jcemediabox/themes/standard/popup.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-21"
+    },
+    {
+      "URL": "http://www.amueller-ing.ch/plugins/system/jcemediabox/themes/standard/tooltip.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-21"
+    },
+    {
+      "URL": "http://amueller-ing.ch/referenzen/fernw%C3%A4rme?format=feed&type=rss",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-03-22"
+    },
+    {
+      "URL": "http://amueller-ing.ch/referenzen/kliniken-und-krankenheime?format=feed&type=atom",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-03-22"
+    },
+    {
+      "URL": "http://amueller-ing.ch/referenzen/industrie,-gewerbe-und-schulen?format=feed&type=atom",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-03-21"
+    },
+    {
+      "URL": "http://amueller-ing.ch/referenzen/k%C3%A4lteanlagen?format=feed&type=atom",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-03-21"
+    },
+    {
+      "URL": "http://amueller-ing.ch/referenzen/sonnenenergie-anlagen?format=feed&type=rss",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-03-21"
+    },
+    {
+      "URL": "http://amueller-ing.ch/media/jui/fonts/IcoMoon.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "URL": "http://amueller-ing.ch/media/jui/fonts/IcoMoon.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "URL": "http://amueller-ing.ch/portrait/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-12-24"
+    },
+    {
+      "URL": "http://amueller-ing.ch/images/inhalt/cv_mueller.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-12-23"
+    },
+    {
+      "URL": "http://amueller-ing.ch/portrait/standort",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-12-23"
+    },
+    {
+      "URL": "http://amueller-ing.ch/images/referenzen/Referenzblatt_Storchwies.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-13"
+    },
+    {
+      "URL": "http://amueller-ing.ch/referenzen/b%C3%BCro-und-gesch%C3%A4ftsh%C3%A4user",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-13"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@amueller-ing.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522181010",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "Telefonnummern": "+41522181011",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "Telefonnummern": "+41523350030",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

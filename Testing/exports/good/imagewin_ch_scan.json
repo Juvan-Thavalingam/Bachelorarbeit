@@ -1,0 +1,823 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "194.150.248.81",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx01.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx02.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns11.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Name Server": "ns12.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 ip4:194.150.248.81 include:_spf.tophost.ch include:relay.mailchannels.net +mx +a +ip4:194.150.248.139 ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "1209600",
+      "Serial": "2025040601",
+      "Refresh": "3600",
+      "Hostmaster": "admin.novatrend.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "ns11.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "194.150.248.81",
+      "PTR-Domain": "srv11.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "imagewin.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "mail.imagewin.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-06",
+      "Gültig bis": "2025-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-06"
+    },
+    {
+      "Gültig ab": "2025-04-06",
+      "Gültig bis": "2025-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-06"
+    },
+    {
+      "Gültig ab": "2025-02-04",
+      "Gültig bis": "2025-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-04"
+    },
+    {
+      "Gültig ab": "2025-02-04",
+      "Gültig bis": "2025-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-04"
+    },
+    {
+      "Gültig ab": "2024-12-05",
+      "Gültig bis": "2025-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "Gültig ab": "2024-12-05",
+      "Gültig bis": "2025-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "Gültig ab": "2024-10-05",
+      "Gültig bis": "2025-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "Gültig ab": "2024-10-05",
+      "Gültig bis": "2025-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "Gültig ab": "2024-08-05",
+      "Gültig bis": "2024-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "Gültig ab": "2024-08-05",
+      "Gültig bis": "2024-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "Gültig ab": "2024-06-05",
+      "Gültig bis": "2024-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "Gültig ab": "2024-06-05",
+      "Gültig bis": "2024-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "Gültig ab": "2024-04-04",
+      "Gültig bis": "2024-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-04-04",
+      "Gültig bis": "2024-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-02-03",
+      "Gültig bis": "2024-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-03"
+    },
+    {
+      "Gültig ab": "2024-02-03",
+      "Gültig bis": "2024-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-03"
+    },
+    {
+      "Gültig ab": "2023-12-04",
+      "Gültig bis": "2024-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "Gültig ab": "2023-12-04",
+      "Gültig bis": "2024-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-08-04",
+      "Gültig bis": "2023-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-08-04"
+    },
+    {
+      "Gültig ab": "2023-08-04",
+      "Gültig bis": "2023-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-08-04"
+    },
+    {
+      "Gültig ab": "2023-06-04",
+      "Gültig bis": "2023-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-04"
+    },
+    {
+      "Gültig ab": "2023-06-04",
+      "Gültig bis": "2023-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.imagewin.ch, imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-04"
+    },
+    {
+      "Gültig ab": "2023-05-11",
+      "Gültig bis": "2023-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "imagewin.ch, mail.imagewin.ch, www.imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-11"
+    },
+    {
+      "Gültig ab": "2023-05-11",
+      "Gültig bis": "2023-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "imagewin.ch, mail.imagewin.ch, www.imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-11"
+    },
+    {
+      "Gültig ab": "2023-03-14",
+      "Gültig bis": "2023-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "imagewin.ch, mail.imagewin.ch, www.imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-14"
+    },
+    {
+      "Gültig ab": "2023-03-14",
+      "Gültig bis": "2023-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "imagewin.ch, mail.imagewin.ch, www.imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-14"
+    },
+    {
+      "Gültig ab": "2023-01-15",
+      "Gültig bis": "2023-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "imagewin.ch, mail.imagewin.ch, www.imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-01-15"
+    },
+    {
+      "Gültig ab": "2023-01-15",
+      "Gültig bis": "2023-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "imagewin.ch, mail.imagewin.ch, www.imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-01-15"
+    },
+    {
+      "Gültig ab": "2022-11-18",
+      "Gültig bis": "2023-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "imagewin.ch, mail.imagewin.ch, www.imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-11-18"
+    },
+    {
+      "Gültig ab": "2022-11-18",
+      "Gültig bis": "2023-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "imagewin.ch, mail.imagewin.ch, www.imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-11-18"
+    },
+    {
+      "Gültig ab": "2022-09-21",
+      "Gültig bis": "2022-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "imagewin.ch, mail.imagewin.ch, www.imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "Gültig ab": "2022-09-21",
+      "Gültig bis": "2022-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "imagewin.ch, mail.imagewin.ch, www.imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "Gültig ab": "2022-09-01",
+      "Gültig bis": "2022-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "imagewin.ch, www.imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-09-01"
+    },
+    {
+      "Gültig ab": "2022-09-01",
+      "Gültig bis": "2022-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "imagewin.ch, www.imagewin.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-09-01"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.imagewin.ch/author/schmizz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://www.imagewin.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "https://www.imagewin.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-sitemap-posts-page-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "http://imagewin.ch/downloads/mode_traumhochzeit.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "URL": "https://imagewin.ch/downloads/2017modekultour.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "URL": "https://imagewin.ch/downloads/design_masken.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-sitemap-users-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "http://imagewin.ch/background.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-10-04"
+    },
+    {
+      "URL": "http://imagewin.ch/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-10-03"
+    },
+    {
+      "URL": "http://imagewin.ch/imagepflege.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-08-13"
+    },
+    {
+      "URL": "http://imagewin.ch/main.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/88/Festtag-scaled-889176fe.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/8a/Business_klein-scaled-e1659445464752-8ae4fb81.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/8b/Business-scaled-8bc3061c.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/91/Business_NEU-scaled-9183fba2.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/96/Casual-scaled-960f6564.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/9a/Casual_bearbeitet-9a20741e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/9b/Casual_bearbeitet-9b06420b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/9c/Festtag-scaled-9c6f5fdc.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/9c/michaelschmid_NZ7_1711-scaled-9cbf063a.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/a0/Festtag-scaled-a0c6ba1f.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/a3/Business-scaled-a394cafd.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/a8/4Q0A8538-scaled-a839b61c.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/aa/Casual-scaled-aaa680a7.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/b7/Business-scaled-b76ae3df.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/be/Casual-scaled-be58a985.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/be/michaelschmid_NZ7_1711-scaled-be12cf30.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/c6/michaelschmid_NZ7_1711-scaled-c65c9969.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/fa/4Q0A8538-scaled-fa8b97dd.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/fa/michaelschmid_NZ7_1711-scaled-fa7afca9.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/xmlrpc.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "http://imagewin.ch/downloads/seidentuecher.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-27"
+    },
+    {
+      "URL": "https://www.imagewin.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "URL": "https://www.imagewin.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "URL": "https://www.imagewin.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "URL": "https://imagewin.ch/wp-admin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "https://imagewin.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "https://www.imagewin.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "https://www.imagewin.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "https://www.imagewin.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "https://www.imagewin.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "https://www.imagewin.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "https://www.imagewin.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "https://www.imagewin.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "URL": "https://www.imagewin.ch/business/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://www.imagewin.ch/casual/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://www.imagewin.ch/datenschutzerklaerung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://www.imagewin.ch/galerie/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.imagewin.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.imagewin.ch/festtag/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.imagewin.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/01/Business_NEU-scaled-01dc258e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/09/Business_klein-scaled-e1659445464752-09293470.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/0a/4Q0A9146-scaled-e1658736954448-0a63ac38.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/18/Festtag-scaled-184594e8.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/1e/Logo_Imagewin-e1658925571818-1ee301e1.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/22/Casual_bearbeitet-2287fc91.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/28/Business_NEU-scaled-28f1c8bc.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/29/Festtag-scaled-29828eed.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/2f/michaelschmid_NZ7_1711-scaled-2fe01ee4.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/41/4Q0A8538-scaled-4103b344.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/48/Casual-scaled-4828307e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/4a/Casual-scaled-4a2796ba.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/4c/michaelschmid_NZ7_1711-scaled-4c3fd739.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/4e/Logo_Imagewin-e1658925571818-4e27a9fc.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/57/Business-scaled-57ebf5c2.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/59/Business-scaled-5984de5f.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/66/Casual_klein-e1659445612927-66998cdb.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/68/4Q0A9146-scaled-e1658736954448-68b485f7.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/69/Casual_klein-e1659445612927-695f689d.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/73/michaelschmid_NZ7_1711-scaled-73bf92dd.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/7c/Festtag-scaled-7cee49c1.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/7d/Casual-scaled-7d29b2c0.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.imagewin.ch/wp-content/themes/yootheme/cache/7e/Business-scaled-7ef0b1bb.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "Keine Daten gefunden",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "0000-00-00"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41763370777",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

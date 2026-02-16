@@ -1,0 +1,2283 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "83.166.133.38",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2001:1600:4:11::11e",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "immobagwinterthur-ch01i.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "d280624a.ess.barracudanetworks.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Präferenz": "20",
+      "Mailserver (MX)": "d280624b.ess.barracudanetworks.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns41.infomaniak.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "ns42.infomaniak.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms32265437\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Text Record": "\"google-site-verification=hxcVaswpB75bU-T-WQp6D4Lp99nLo4pFOnBHJ2aqnt0\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Text Record": "\"v=spf1 include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "605800",
+      "Serial": "2025013181",
+      "Refresh": "10800",
+      "Hostmaster": "hostmaster.infomaniak.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns41.infomaniak.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "83.166.133.38",
+      "PTR-Domain": "h2web334.infomaniak.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "IP-Adresse": "2001:1600:4:11::11e",
+      "PTR-Domain": "h2web334.infomaniak.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "immobag-winterthur.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "test.immobag-winterthur.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "vpn.immobag-winterthur.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-26",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-26"
+    },
+    {
+      "Gültig ab": "2025-04-26",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-26"
+    },
+    {
+      "Gültig ab": "2025-04-05",
+      "Gültig bis": "2025-07-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-05"
+    },
+    {
+      "Gültig ab": "2025-04-05",
+      "Gültig bis": "2025-07-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-05"
+    },
+    {
+      "Gültig ab": "2025-04-04",
+      "Gültig bis": "2025-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "test.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-04"
+    },
+    {
+      "Gültig ab": "2025-04-04",
+      "Gültig bis": "2025-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "test.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-04"
+    },
+    {
+      "Gültig ab": "2025-03-27",
+      "Gültig bis": "2025-06-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-27"
+    },
+    {
+      "Gültig ab": "2025-03-27",
+      "Gültig bis": "2025-06-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-27"
+    },
+    {
+      "Gültig ab": "2025-02-25",
+      "Gültig bis": "2025-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-25"
+    },
+    {
+      "Gültig ab": "2025-02-25",
+      "Gültig bis": "2025-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-25"
+    },
+    {
+      "Gültig ab": "2025-01-31",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-31"
+    },
+    {
+      "Gültig ab": "2025-01-31",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-31"
+    },
+    {
+      "Gültig ab": "2025-01-30",
+      "Gültig bis": "2025-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "test.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-30"
+    },
+    {
+      "Gültig ab": "2025-01-30",
+      "Gültig bis": "2025-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "test.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-30"
+    },
+    {
+      "Gültig ab": "2025-01-26",
+      "Gültig bis": "2025-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-26"
+    },
+    {
+      "Gültig ab": "2025-01-26",
+      "Gültig bis": "2025-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-26"
+    },
+    {
+      "Gültig ab": "2024-12-27",
+      "Gültig bis": "2025-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-27"
+    },
+    {
+      "Gültig ab": "2024-12-27",
+      "Gültig bis": "2025-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-27"
+    },
+    {
+      "Gültig ab": "2024-11-30",
+      "Gültig bis": "2025-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-30"
+    },
+    {
+      "Gültig ab": "2024-11-30",
+      "Gültig bis": "2025-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-30"
+    },
+    {
+      "Gültig ab": "2024-11-27",
+      "Gültig bis": "2025-02-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-27"
+    },
+    {
+      "Gültig ab": "2024-11-27",
+      "Gültig bis": "2025-02-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-27"
+    },
+    {
+      "Gültig ab": "2024-10-28",
+      "Gültig bis": "2025-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-28"
+    },
+    {
+      "Gültig ab": "2024-10-28",
+      "Gültig bis": "2025-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-28"
+    },
+    {
+      "Gültig ab": "2024-09-30",
+      "Gültig bis": "2024-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-30"
+    },
+    {
+      "Gültig ab": "2024-09-30",
+      "Gültig bis": "2024-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-30"
+    },
+    {
+      "Gültig ab": "2024-09-28",
+      "Gültig bis": "2024-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-28"
+    },
+    {
+      "Gültig ab": "2024-09-28",
+      "Gültig bis": "2024-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-28"
+    },
+    {
+      "Gültig ab": "2024-08-29",
+      "Gültig bis": "2024-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-29"
+    },
+    {
+      "Gültig ab": "2024-08-29",
+      "Gültig bis": "2024-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-29"
+    },
+    {
+      "Gültig ab": "2024-07-30",
+      "Gültig bis": "2024-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "Gültig ab": "2024-07-30",
+      "Gültig bis": "2024-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "Gültig ab": "2024-07-30",
+      "Gültig bis": "2024-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "Gültig ab": "2024-07-30",
+      "Gültig bis": "2024-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "Gültig ab": "2024-06-30",
+      "Gültig bis": "2024-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "Gültig ab": "2024-06-30",
+      "Gültig bis": "2024-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "Gültig ab": "2024-05-31",
+      "Gültig bis": "2024-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-31"
+    },
+    {
+      "Gültig ab": "2024-05-31",
+      "Gültig bis": "2024-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-31"
+    },
+    {
+      "Gültig ab": "2024-05-27",
+      "Gültig bis": "2024-08-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-27"
+    },
+    {
+      "Gültig ab": "2024-05-27",
+      "Gültig bis": "2024-08-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-27"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2024-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2024-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-04-01",
+      "Gültig bis": "2024-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-01"
+    },
+    {
+      "Gültig ab": "2024-04-01",
+      "Gültig bis": "2024-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-01"
+    },
+    {
+      "Gültig ab": "2024-03-28",
+      "Gültig bis": "2024-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-28"
+    },
+    {
+      "Gültig ab": "2024-03-28",
+      "Gültig bis": "2024-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-28"
+    },
+    {
+      "Gültig ab": "2024-03-02",
+      "Gültig bis": "2024-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "Gültig ab": "2024-03-02",
+      "Gültig bis": "2024-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "Gültig ab": "2024-02-01",
+      "Gültig bis": "2024-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-01"
+    },
+    {
+      "Gültig ab": "2024-02-01",
+      "Gültig bis": "2024-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-01"
+    },
+    {
+      "Gültig ab": "2024-01-22",
+      "Gültig bis": "2024-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-22"
+    },
+    {
+      "Gültig ab": "2024-01-22",
+      "Gültig bis": "2024-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-22"
+    },
+    {
+      "Gültig ab": "2024-01-02",
+      "Gültig bis": "2024-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-02"
+    },
+    {
+      "Gültig ab": "2024-01-02",
+      "Gültig bis": "2024-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-02"
+    },
+    {
+      "Gültig ab": "2023-12-03",
+      "Gültig bis": "2024-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "Gültig ab": "2023-12-03",
+      "Gültig bis": "2024-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-15"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-15"
+    },
+    {
+      "Gültig ab": "2023-11-03",
+      "Gültig bis": "2024-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-03"
+    },
+    {
+      "Gültig ab": "2023-11-03",
+      "Gültig bis": "2024-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-03"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-09-12",
+      "Gültig bis": "2023-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-12"
+    },
+    {
+      "Gültig ab": "2023-09-12",
+      "Gültig bis": "2023-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-12"
+    },
+    {
+      "Gültig ab": "2023-09-04",
+      "Gültig bis": "2023-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-04"
+    },
+    {
+      "Gültig ab": "2023-09-04",
+      "Gültig bis": "2023-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-04"
+    },
+    {
+      "Gültig ab": "2023-08-05",
+      "Gültig bis": "2023-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-05"
+    },
+    {
+      "Gültig ab": "2023-08-05",
+      "Gültig bis": "2023-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-05"
+    },
+    {
+      "Gültig ab": "2023-07-09",
+      "Gültig bis": "2023-10-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-09"
+    },
+    {
+      "Gültig ab": "2023-07-09",
+      "Gültig bis": "2023-10-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-09"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "Gültig ab": "2023-06-06",
+      "Gültig bis": "2023-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-06"
+    },
+    {
+      "Gültig ab": "2023-06-06",
+      "Gültig bis": "2023-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-06"
+    },
+    {
+      "Gültig ab": "2023-05-06",
+      "Gültig bis": "2023-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-07"
+    },
+    {
+      "Gültig ab": "2023-05-06",
+      "Gültig bis": "2023-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-07"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-04-06",
+      "Gültig bis": "2023-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-06"
+    },
+    {
+      "Gültig ab": "2023-04-06",
+      "Gültig bis": "2023-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-06"
+    },
+    {
+      "Gültig ab": "2023-03-07",
+      "Gültig bis": "2023-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-08"
+    },
+    {
+      "Gültig ab": "2023-03-07",
+      "Gültig bis": "2023-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-08"
+    },
+    {
+      "Gültig ab": "2023-02-28",
+      "Gültig bis": "2023-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-28"
+    },
+    {
+      "Gültig ab": "2023-02-28",
+      "Gültig bis": "2023-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-28"
+    },
+    {
+      "Gültig ab": "2023-02-05",
+      "Gültig bis": "2023-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "Gültig ab": "2023-02-05",
+      "Gültig bis": "2023-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "Gültig ab": "2023-01-06",
+      "Gültig bis": "2023-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-06"
+    },
+    {
+      "Gültig ab": "2023-01-06",
+      "Gültig bis": "2023-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-06"
+    },
+    {
+      "Gültig ab": "2022-12-21",
+      "Gültig bis": "2023-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "Gültig ab": "2022-12-21",
+      "Gültig bis": "2023-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "Gültig ab": "2022-12-21",
+      "Gültig bis": "2023-12-21",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "Gültig ab": "2022-12-21",
+      "Gültig bis": "2023-12-21",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "Gültig ab": "2022-12-07",
+      "Gültig bis": "2023-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-07"
+    },
+    {
+      "Gültig ab": "2022-12-07",
+      "Gültig bis": "2023-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-07"
+    },
+    {
+      "Gültig ab": "2022-11-10",
+      "Gültig bis": "2023-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-10"
+    },
+    {
+      "Gültig ab": "2022-11-10",
+      "Gültig bis": "2023-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-10"
+    },
+    {
+      "Gültig ab": "2022-11-07",
+      "Gültig bis": "2023-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-07"
+    },
+    {
+      "Gültig ab": "2022-11-07",
+      "Gültig bis": "2023-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-07"
+    },
+    {
+      "Gültig ab": "2022-10-08",
+      "Gültig bis": "2023-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-08"
+    },
+    {
+      "Gültig ab": "2022-10-08",
+      "Gültig bis": "2023-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-08"
+    },
+    {
+      "Gültig ab": "2022-09-11",
+      "Gültig bis": "2022-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-11"
+    },
+    {
+      "Gültig ab": "2022-09-11",
+      "Gültig bis": "2022-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-11"
+    },
+    {
+      "Gültig ab": "2022-09-08",
+      "Gültig bis": "2022-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-08"
+    },
+    {
+      "Gültig ab": "2022-09-08",
+      "Gültig bis": "2022-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-08"
+    },
+    {
+      "Gültig ab": "2022-08-09",
+      "Gültig bis": "2022-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-09"
+    },
+    {
+      "Gültig ab": "2022-08-09",
+      "Gültig bis": "2022-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-09"
+    },
+    {
+      "Gültig ab": "2022-07-13",
+      "Gültig bis": "2022-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-13"
+    },
+    {
+      "Gültig ab": "2022-07-13",
+      "Gültig bis": "2022-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-13"
+    },
+    {
+      "Gültig ab": "2022-05-14",
+      "Gültig bis": "2022-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-14"
+    },
+    {
+      "Gültig ab": "2022-05-14",
+      "Gültig bis": "2022-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-14"
+    },
+    {
+      "Gültig ab": "2022-03-15",
+      "Gültig bis": "2022-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-15"
+    },
+    {
+      "Gültig ab": "2022-03-15",
+      "Gültig bis": "2022-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-15"
+    },
+    {
+      "Gültig ab": "2022-01-14",
+      "Gültig bis": "2022-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-14"
+    },
+    {
+      "Gültig ab": "2022-01-14",
+      "Gültig bis": "2022-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-14"
+    },
+    {
+      "Gültig ab": "2021-11-15",
+      "Gültig bis": "2022-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-15"
+    },
+    {
+      "Gültig ab": "2021-11-15",
+      "Gültig bis": "2022-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-15"
+    },
+    {
+      "Gültig ab": "2021-09-16",
+      "Gültig bis": "2021-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-16"
+    },
+    {
+      "Gültig ab": "2021-09-16",
+      "Gültig bis": "2021-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-16"
+    },
+    {
+      "Gültig ab": "2021-07-18",
+      "Gültig bis": "2021-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-18"
+    },
+    {
+      "Gültig ab": "2021-07-18",
+      "Gültig bis": "2021-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-18"
+    },
+    {
+      "Gültig ab": "2021-05-19",
+      "Gültig bis": "2021-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-19"
+    },
+    {
+      "Gültig ab": "2021-05-19",
+      "Gültig bis": "2021-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-19"
+    },
+    {
+      "Gültig ab": "2021-04-30",
+      "Gültig bis": "2021-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-04-30"
+    },
+    {
+      "Gültig ab": "2021-04-30",
+      "Gültig bis": "2021-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-04-30"
+    },
+    {
+      "Gültig ab": "2021-02-28",
+      "Gültig bis": "2021-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-28"
+    },
+    {
+      "Gültig ab": "2021-02-28",
+      "Gültig bis": "2021-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-28"
+    },
+    {
+      "Gültig ab": "2020-12-30",
+      "Gültig bis": "2021-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-30"
+    },
+    {
+      "Gültig ab": "2020-12-30",
+      "Gültig bis": "2021-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-30"
+    },
+    {
+      "Gültig ab": "2020-10-30",
+      "Gültig bis": "2021-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-30"
+    },
+    {
+      "Gültig ab": "2020-10-30",
+      "Gültig bis": "2021-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-30"
+    },
+    {
+      "Gültig ab": "2020-08-31",
+      "Gültig bis": "2020-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-08-31"
+    },
+    {
+      "Gültig ab": "2020-08-31",
+      "Gültig bis": "2020-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-08-31"
+    },
+    {
+      "Gültig ab": "2020-07-02",
+      "Gültig bis": "2020-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-07-02"
+    },
+    {
+      "Gültig ab": "2020-07-02",
+      "Gültig bis": "2020-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-07-02"
+    },
+    {
+      "Gültig ab": "2020-05-03",
+      "Gültig bis": "2020-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-05-03"
+    },
+    {
+      "Gültig ab": "2020-05-03",
+      "Gültig bis": "2020-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-05-03"
+    },
+    {
+      "Gültig ab": "2020-03-04",
+      "Gültig bis": "2020-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-03-04"
+    },
+    {
+      "Gültig ab": "2020-03-04",
+      "Gültig bis": "2020-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-03-04"
+    },
+    {
+      "Gültig ab": "2020-01-04",
+      "Gültig bis": "2020-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-01-04"
+    },
+    {
+      "Gültig ab": "2020-01-04",
+      "Gültig bis": "2020-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-01-04"
+    },
+    {
+      "Gültig ab": "2019-11-05",
+      "Gültig bis": "2020-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-05"
+    },
+    {
+      "Gültig ab": "2019-11-05",
+      "Gültig bis": "2020-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-05"
+    },
+    {
+      "Gültig ab": "2019-09-06",
+      "Gültig bis": "2019-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-09-06"
+    },
+    {
+      "Gültig ab": "2019-09-06",
+      "Gültig bis": "2019-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-09-06"
+    },
+    {
+      "Gültig ab": "2019-07-08",
+      "Gültig bis": "2019-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-08"
+    },
+    {
+      "Gültig ab": "2019-07-08",
+      "Gültig bis": "2019-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-08"
+    },
+    {
+      "Gültig ab": "2019-05-09",
+      "Gültig bis": "2019-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-05-09"
+    },
+    {
+      "Gültig ab": "2019-05-09",
+      "Gültig bis": "2019-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-05-09"
+    },
+    {
+      "Gültig ab": "2019-03-09",
+      "Gültig bis": "2019-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-03-09"
+    },
+    {
+      "Gültig ab": "2019-03-09",
+      "Gültig bis": "2019-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-03-09"
+    },
+    {
+      "Gültig ab": "2019-01-08",
+      "Gültig bis": "2019-04-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-01-08"
+    },
+    {
+      "Gültig ab": "2019-01-08",
+      "Gültig bis": "2019-04-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-01-08"
+    },
+    {
+      "Gültig ab": "2018-11-09",
+      "Gültig bis": "2019-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-11-09"
+    },
+    {
+      "Gültig ab": "2018-11-09",
+      "Gültig bis": "2019-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-11-09"
+    },
+    {
+      "Gültig ab": "2018-09-10",
+      "Gültig bis": "2018-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-09-10"
+    },
+    {
+      "Gültig ab": "2018-09-10",
+      "Gültig bis": "2018-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-09-10"
+    },
+    {
+      "Gültig ab": "2018-07-11",
+      "Gültig bis": "2018-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-07-11"
+    },
+    {
+      "Gültig ab": "2018-07-11",
+      "Gültig bis": "2018-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "immobag-winterthur.ch, www.immobag-winterthur.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-07-11"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.immobag-winterthur.ch/dienstleistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/grafundpartner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/icomoon.ttf?i7tfdl",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/Montserrat-Bold.otf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/Montserrat-Bold.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/Montserrat-Bold.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/Montserrat-Bold.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/Montserrat-Regular.otf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/Montserrat-Regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/Montserrat-Regular.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/Montserrat-Regular.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunito/NunitoSans-Black.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunito/NunitoSans-Black.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunito/NunitoSans-Bold.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunito/NunitoSans-ExtraBold.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunito/NunitoSans-ExtraBold.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunito/NunitoSans-Light.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunito/NunitoSans-Regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunito/NunitoSans-SemiBold.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunitosans-bold-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunitosans-bold-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunitosans-bold-webfont.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunitosans-light-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunitosans-light-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunitosans-light-webfont.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunitosans-regular-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunitosans-regular-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/nunitosans-regular-webfont.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3854879",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-26"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/4023573",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-26"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/kontakt/ref:3848609/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3848609",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-07"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-12"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-12"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3552393",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3552434",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3580019",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3592735",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3619152",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3626373",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3634733",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/immobilien-und-geldwaescherei-schwarzes-geld-oder-weisse-weste",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/maskenpflicht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/tiny-houses-leben-auf-kleinem-fuss-erster-teil",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/winziges-haus-grosse-huerden-tiny-houses-zweiter-teil",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3587499",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-22"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3214424",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3224107",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3311531",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3327887",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3331882",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3122829",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/das-grundbuch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/stark-im-team-manuel-liniger-6-persoenliche-fragen-6-ehrliche-antworten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3262985",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3272845",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3274187",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/auf-der-suche-nach-der-traumimmobilie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/coronavirus-fallen-jetzt-die-hauspreise",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/der-tina-effekt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/dienstbarkeiten-rechten-pflichten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/finanzielle-vorteile-beim-renovieren-teil-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/uebergaenge-planen-vorbereitet-sein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/wer-erbt-meine-eigentumswohnung-wenn-ich-single-bin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/wohneigentum-auf-zeit-eine-alternative-zur-eigentumswohnung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3134299",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-21"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3199239",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-21"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/ansteckend",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-21"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/mehrgenerationenwohnen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-21"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/mein-schnuppertag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-21"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/wohntraeume",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-21"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/2338834",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/2362487",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/2393775",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/2818089",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/3098535",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immobilien/954655",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/grosse-plaene-aber-ein-zu-kleines-grundstueck",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/immonews/hauskauf-in-digitalen-zeiten-alles-online-oder-was",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "URL": "http://immobag-winterthur.ch/downloads.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-18"
+    },
+    {
+      "URL": "http://immobag-winterthur.ch/impressum.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-18"
+    },
+    {
+      "URL": "http://immobag-winterthur.ch/objekte.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-27"
+    },
+    {
+      "URL": "http://immobag-winterthur.ch/team.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-25"
+    },
+    {
+      "URL": "http://immobag-winterthur.ch:80/services.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-25"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch:80/disclaimer.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch:80/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch:80/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch:80/referenzen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch:80/videos.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://immobag-winterthur.ch:80/downloads/immobag_energiesparhaeuser.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-10-29"
+    },
+    {
+      "URL": "http://immobag-winterthur.ch:80/downloads/immobag_grundstueckgewinnsteuer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-10-29"
+    },
+    {
+      "URL": "http://immobag-winterthur.ch:80/downloads/immobag_hausverkauf_leichtgemacht.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-10-29"
+    },
+    {
+      "URL": "http://immobag-winterthur.ch:80/downloads/immobag_mein_haus_ist_mehr_wert.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-10-29"
+    },
+    {
+      "URL": "http://immobag-winterthur.ch/downloads/SMK_1024x576px_SD.mov?m=1452697932",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-09"
+    },
+    {
+      "URL": "http://immobag-winterthur.ch/downloads/SMK_1920x1080px_HD.mov?m=1452698145",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-09"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/video/SMK_1024x576px_SD.mov",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-08-27"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/video/SMK_1920x1080px_HD.mov",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-08-27"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/video/smk_web.mp4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-03-24"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/video/smk_web.webm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-12-24"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/video/smk_web_hd.mp4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-12-24"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/referenzen/page:3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/referenzen/page:2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-15"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/privacypolicy",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-15"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/disclaimer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/mitgliedschaften",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/partner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "https://www.immobag-winterthur.ch/referenzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/creata/creata_bold.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/creata/creata_light.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/creata/creata_medium.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/creata/creata_regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/blocks/*",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/content",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/desktop",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/desktopcontent",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/desktopgrids",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/desktoplayouts",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/grids",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/modals",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/subset-Montserrat-Light.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/timeline",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/tvscreen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/css/weekplan",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.immobag-winterthur.ch/assets/fonts/icomoon.eot?i7tfdl",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "conny.hanka@immobag-winterthur.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "E-Mail": "eal@vivoimmobilien.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "E-Mail": "ems@vorsorge-impuls.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "E-Mail": "graf.partner@immobag-winterthur.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "E-Mail": "graf.partner@immobag.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "E-Mail": "info@heresta.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "E-Mail": "kanzlei@lind.team",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "E-Mail": "markus.kernen@immobag-winterthur.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "E-Mail": "nicole.strueby@immobag-winterthur.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "E-Mail": "office@kmu-win.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "E-Mail": "ralph.loepfe@immobag-winterthur.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "E-Mail": "robert.meyer@immobag-winterthur.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "E-Mail": "rolf.niederberger@immobag-winterthur.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41052224055",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "Telefonnummern": "+41522240550",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "Telefonnummern": "+41522691100",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "Telefonnummern": "+41526250665",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

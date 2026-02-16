@@ -1,0 +1,2943 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "217.26.55.202",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx1.mail.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx2.mail.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Name Server": "ns2.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Name Server": "ns3.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 redirect=spf.mail.hostpoint.ch\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "604800",
+      "Serial": "1746662400",
+      "Refresh": "14400",
+      "Hostmaster": "hostmaster.hostpoint.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "217.26.55.202",
+      "PTR-Domain": "sl314.web.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "albl.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-05",
+      "Gültig bis": "2025-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "Gültig ab": "2025-05-05",
+      "Gültig bis": "2025-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "Gültig ab": "2025-05-05",
+      "Gültig bis": "2025-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "Gültig ab": "2025-05-05",
+      "Gültig bis": "2025-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "Gültig ab": "2025-03-04",
+      "Gültig bis": "2025-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-04"
+    },
+    {
+      "Gültig ab": "2025-03-04",
+      "Gültig bis": "2025-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-04"
+    },
+    {
+      "Gültig ab": "2025-03-04",
+      "Gültig bis": "2025-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-04"
+    },
+    {
+      "Gültig ab": "2025-03-04",
+      "Gültig bis": "2025-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-04"
+    },
+    {
+      "Gültig ab": "2025-01-01",
+      "Gültig bis": "2025-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-01"
+    },
+    {
+      "Gültig ab": "2025-01-01",
+      "Gültig bis": "2025-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-01"
+    },
+    {
+      "Gültig ab": "2025-01-01",
+      "Gültig bis": "2025-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-01"
+    },
+    {
+      "Gültig ab": "2025-01-01",
+      "Gültig bis": "2025-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-01"
+    },
+    {
+      "Gültig ab": "2024-10-31",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-10-31",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-10-31",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-10-31",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-08-30",
+      "Gültig bis": "2024-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-30"
+    },
+    {
+      "Gültig ab": "2024-08-30",
+      "Gültig bis": "2024-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-30"
+    },
+    {
+      "Gültig ab": "2024-08-30",
+      "Gültig bis": "2024-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-30"
+    },
+    {
+      "Gültig ab": "2024-08-30",
+      "Gültig bis": "2024-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-30"
+    },
+    {
+      "Gültig ab": "2024-06-29",
+      "Gültig bis": "2024-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "Gültig ab": "2024-06-29",
+      "Gültig bis": "2024-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "Gültig ab": "2024-06-29",
+      "Gültig bis": "2024-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "Gültig ab": "2024-06-29",
+      "Gültig bis": "2024-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-28"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-28"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-28"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-28"
+    },
+    {
+      "Gültig ab": "2024-02-26",
+      "Gültig bis": "2024-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-02-26"
+    },
+    {
+      "Gültig ab": "2024-02-26",
+      "Gültig bis": "2024-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-02-26"
+    },
+    {
+      "Gültig ab": "2024-02-26",
+      "Gültig bis": "2024-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-02-26"
+    },
+    {
+      "Gültig ab": "2024-02-26",
+      "Gültig bis": "2024-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-02-26"
+    },
+    {
+      "Gültig ab": "2023-12-26",
+      "Gültig bis": "2024-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-27"
+    },
+    {
+      "Gültig ab": "2023-12-26",
+      "Gültig bis": "2024-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-27"
+    },
+    {
+      "Gültig ab": "2023-12-26",
+      "Gültig bis": "2024-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-27"
+    },
+    {
+      "Gültig ab": "2023-12-26",
+      "Gültig bis": "2024-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-27"
+    },
+    {
+      "Gültig ab": "2023-10-26",
+      "Gültig bis": "2024-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-10-26"
+    },
+    {
+      "Gültig ab": "2023-10-26",
+      "Gültig bis": "2024-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-10-26"
+    },
+    {
+      "Gültig ab": "2023-10-25",
+      "Gültig bis": "2024-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-10-26"
+    },
+    {
+      "Gültig ab": "2023-10-25",
+      "Gültig bis": "2024-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-10-26"
+    },
+    {
+      "Gültig ab": "2023-08-25",
+      "Gültig bis": "2023-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-08-25"
+    },
+    {
+      "Gültig ab": "2023-08-25",
+      "Gültig bis": "2023-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-08-25"
+    },
+    {
+      "Gültig ab": "2023-08-25",
+      "Gültig bis": "2023-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-08-25"
+    },
+    {
+      "Gültig ab": "2023-08-25",
+      "Gültig bis": "2023-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-08-25"
+    },
+    {
+      "Gültig ab": "2023-06-24",
+      "Gültig bis": "2023-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "Gültig ab": "2023-06-24",
+      "Gültig bis": "2023-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "Gültig ab": "2023-06-24",
+      "Gültig bis": "2023-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "Gültig ab": "2023-06-24",
+      "Gültig bis": "2023-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "Gültig ab": "2023-04-23",
+      "Gültig bis": "2023-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-04-23"
+    },
+    {
+      "Gültig ab": "2023-04-23",
+      "Gültig bis": "2023-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-04-23"
+    },
+    {
+      "Gültig ab": "2023-04-23",
+      "Gültig bis": "2023-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-04-23"
+    },
+    {
+      "Gültig ab": "2023-04-23",
+      "Gültig bis": "2023-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-04-23"
+    },
+    {
+      "Gültig ab": "2023-02-20",
+      "Gültig bis": "2023-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-02-20"
+    },
+    {
+      "Gültig ab": "2023-02-20",
+      "Gültig bis": "2023-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-02-20"
+    },
+    {
+      "Gültig ab": "2023-02-20",
+      "Gültig bis": "2023-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-02-20"
+    },
+    {
+      "Gültig ab": "2023-02-20",
+      "Gültig bis": "2023-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-02-20"
+    },
+    {
+      "Gültig ab": "2022-12-20",
+      "Gültig bis": "2023-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-12-20"
+    },
+    {
+      "Gültig ab": "2022-12-20",
+      "Gültig bis": "2023-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-12-20"
+    },
+    {
+      "Gültig ab": "2022-12-20",
+      "Gültig bis": "2023-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-12-20"
+    },
+    {
+      "Gültig ab": "2022-12-20",
+      "Gültig bis": "2023-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-12-20"
+    },
+    {
+      "Gültig ab": "2022-10-19",
+      "Gültig bis": "2023-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-10-19"
+    },
+    {
+      "Gültig ab": "2022-10-19",
+      "Gültig bis": "2023-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-10-19"
+    },
+    {
+      "Gültig ab": "2022-10-19",
+      "Gültig bis": "2023-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-10-19"
+    },
+    {
+      "Gültig ab": "2022-10-19",
+      "Gültig bis": "2023-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-10-19"
+    },
+    {
+      "Gültig ab": "2022-08-18",
+      "Gültig bis": "2022-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-08-18"
+    },
+    {
+      "Gültig ab": "2022-08-18",
+      "Gültig bis": "2022-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-08-18"
+    },
+    {
+      "Gültig ab": "2022-08-18",
+      "Gültig bis": "2022-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-08-18"
+    },
+    {
+      "Gültig ab": "2022-08-18",
+      "Gültig bis": "2022-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-08-18"
+    },
+    {
+      "Gültig ab": "2022-06-17",
+      "Gültig bis": "2022-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-06-17"
+    },
+    {
+      "Gültig ab": "2022-06-17",
+      "Gültig bis": "2022-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-06-17"
+    },
+    {
+      "Gültig ab": "2022-06-17",
+      "Gültig bis": "2022-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-06-17"
+    },
+    {
+      "Gültig ab": "2022-06-17",
+      "Gültig bis": "2022-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-06-17"
+    },
+    {
+      "Gültig ab": "2022-04-16",
+      "Gültig bis": "2022-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-16"
+    },
+    {
+      "Gültig ab": "2022-04-16",
+      "Gültig bis": "2022-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-16"
+    },
+    {
+      "Gültig ab": "2022-04-16",
+      "Gültig bis": "2022-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-16"
+    },
+    {
+      "Gültig ab": "2022-04-16",
+      "Gültig bis": "2022-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-16"
+    },
+    {
+      "Gültig ab": "2022-02-13",
+      "Gültig bis": "2022-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-02-13"
+    },
+    {
+      "Gültig ab": "2022-02-13",
+      "Gültig bis": "2022-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-02-13"
+    },
+    {
+      "Gültig ab": "2022-02-13",
+      "Gültig bis": "2022-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-02-13"
+    },
+    {
+      "Gültig ab": "2022-02-13",
+      "Gültig bis": "2022-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-02-13"
+    },
+    {
+      "Gültig ab": "2021-12-13",
+      "Gültig bis": "2022-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-12-13"
+    },
+    {
+      "Gültig ab": "2021-12-13",
+      "Gültig bis": "2022-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-12-13"
+    },
+    {
+      "Gültig ab": "2021-12-13",
+      "Gültig bis": "2022-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-12-13"
+    },
+    {
+      "Gültig ab": "2021-12-13",
+      "Gültig bis": "2022-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-12-13"
+    },
+    {
+      "Gültig ab": "2021-10-12",
+      "Gültig bis": "2022-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-10-12"
+    },
+    {
+      "Gültig ab": "2021-10-12",
+      "Gültig bis": "2022-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-10-12"
+    },
+    {
+      "Gültig ab": "2021-10-12",
+      "Gültig bis": "2022-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-10-12"
+    },
+    {
+      "Gültig ab": "2021-10-12",
+      "Gültig bis": "2022-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-10-12"
+    },
+    {
+      "Gültig ab": "2021-08-11",
+      "Gültig bis": "2021-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-08-11"
+    },
+    {
+      "Gültig ab": "2021-08-11",
+      "Gültig bis": "2021-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-08-11"
+    },
+    {
+      "Gültig ab": "2021-08-11",
+      "Gültig bis": "2021-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-08-11"
+    },
+    {
+      "Gültig ab": "2021-08-11",
+      "Gültig bis": "2021-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-08-11"
+    },
+    {
+      "Gültig ab": "2021-06-10",
+      "Gültig bis": "2021-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-06-10"
+    },
+    {
+      "Gültig ab": "2021-06-10",
+      "Gültig bis": "2021-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-06-10"
+    },
+    {
+      "Gültig ab": "2021-06-10",
+      "Gültig bis": "2021-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-06-10"
+    },
+    {
+      "Gültig ab": "2021-06-10",
+      "Gültig bis": "2021-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-06-10"
+    },
+    {
+      "Gültig ab": "2021-04-09",
+      "Gültig bis": "2021-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-04-09"
+    },
+    {
+      "Gültig ab": "2021-04-09",
+      "Gültig bis": "2021-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-04-09"
+    },
+    {
+      "Gültig ab": "2021-04-09",
+      "Gültig bis": "2021-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-04-09"
+    },
+    {
+      "Gültig ab": "2021-04-09",
+      "Gültig bis": "2021-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-04-09"
+    },
+    {
+      "Gültig ab": "2021-01-31",
+      "Gültig bis": "2021-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-31"
+    },
+    {
+      "Gültig ab": "2021-01-31",
+      "Gültig bis": "2021-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-31"
+    },
+    {
+      "Gültig ab": "2021-01-31",
+      "Gültig bis": "2021-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-31"
+    },
+    {
+      "Gültig ab": "2021-01-31",
+      "Gültig bis": "2021-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-31"
+    },
+    {
+      "Gültig ab": "2020-11-30",
+      "Gültig bis": "2021-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-11-30"
+    },
+    {
+      "Gültig ab": "2020-11-30",
+      "Gültig bis": "2021-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-11-30"
+    },
+    {
+      "Gültig ab": "2020-11-30",
+      "Gültig bis": "2021-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-11-30"
+    },
+    {
+      "Gültig ab": "2020-11-30",
+      "Gültig bis": "2021-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-11-30"
+    },
+    {
+      "Gültig ab": "2020-09-29",
+      "Gültig bis": "2020-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "Gültig ab": "2020-09-29",
+      "Gültig bis": "2020-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "Gültig ab": "2020-09-29",
+      "Gültig bis": "2020-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "Gültig ab": "2020-09-29",
+      "Gültig bis": "2020-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "Gültig ab": "2020-07-29",
+      "Gültig bis": "2020-10-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-07-29"
+    },
+    {
+      "Gültig ab": "2020-07-29",
+      "Gültig bis": "2020-10-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-07-29"
+    },
+    {
+      "Gültig ab": "2020-07-29",
+      "Gültig bis": "2020-10-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-07-29"
+    },
+    {
+      "Gültig ab": "2020-07-29",
+      "Gültig bis": "2020-10-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-07-29"
+    },
+    {
+      "Gültig ab": "2020-05-24",
+      "Gültig bis": "2020-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-05-24"
+    },
+    {
+      "Gültig ab": "2020-05-24",
+      "Gültig bis": "2020-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-05-24"
+    },
+    {
+      "Gültig ab": "2020-05-24",
+      "Gültig bis": "2020-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-05-24"
+    },
+    {
+      "Gültig ab": "2020-05-24",
+      "Gültig bis": "2020-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-05-24"
+    },
+    {
+      "Gültig ab": "2020-03-23",
+      "Gültig bis": "2020-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-23"
+    },
+    {
+      "Gültig ab": "2020-03-23",
+      "Gültig bis": "2020-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-23"
+    },
+    {
+      "Gültig ab": "2020-03-23",
+      "Gültig bis": "2020-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-23"
+    },
+    {
+      "Gültig ab": "2020-03-23",
+      "Gültig bis": "2020-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-23"
+    },
+    {
+      "Gültig ab": "2020-01-21",
+      "Gültig bis": "2020-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-01-21"
+    },
+    {
+      "Gültig ab": "2020-01-21",
+      "Gültig bis": "2020-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-01-21"
+    },
+    {
+      "Gültig ab": "2020-01-21",
+      "Gültig bis": "2020-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-01-21"
+    },
+    {
+      "Gültig ab": "2020-01-21",
+      "Gültig bis": "2020-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-01-21"
+    },
+    {
+      "Gültig ab": "2019-11-20",
+      "Gültig bis": "2020-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-11-20"
+    },
+    {
+      "Gültig ab": "2019-11-20",
+      "Gültig bis": "2020-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-11-20"
+    },
+    {
+      "Gültig ab": "2019-11-20",
+      "Gültig bis": "2020-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-11-20"
+    },
+    {
+      "Gültig ab": "2019-11-20",
+      "Gültig bis": "2020-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-11-20"
+    },
+    {
+      "Gültig ab": "2019-09-19",
+      "Gültig bis": "2019-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-09-19"
+    },
+    {
+      "Gültig ab": "2019-09-19",
+      "Gültig bis": "2019-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-09-19"
+    },
+    {
+      "Gültig ab": "2019-09-19",
+      "Gültig bis": "2019-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-09-19"
+    },
+    {
+      "Gültig ab": "2019-09-19",
+      "Gültig bis": "2019-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-09-19"
+    },
+    {
+      "Gültig ab": "2019-07-19",
+      "Gültig bis": "2019-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-07-19"
+    },
+    {
+      "Gültig ab": "2019-07-19",
+      "Gültig bis": "2019-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-07-19"
+    },
+    {
+      "Gültig ab": "2019-07-19",
+      "Gültig bis": "2019-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-07-19"
+    },
+    {
+      "Gültig ab": "2019-07-19",
+      "Gültig bis": "2019-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-07-19"
+    },
+    {
+      "Gültig ab": "2019-05-18",
+      "Gültig bis": "2019-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-05-18"
+    },
+    {
+      "Gültig ab": "2019-05-18",
+      "Gültig bis": "2019-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-05-18"
+    },
+    {
+      "Gültig ab": "2019-05-18",
+      "Gültig bis": "2019-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-05-18"
+    },
+    {
+      "Gültig ab": "2019-05-18",
+      "Gültig bis": "2019-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-05-18"
+    },
+    {
+      "Gültig ab": "2019-03-17",
+      "Gültig bis": "2019-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-03-17"
+    },
+    {
+      "Gültig ab": "2019-03-17",
+      "Gültig bis": "2019-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-03-17"
+    },
+    {
+      "Gültig ab": "2019-03-17",
+      "Gültig bis": "2019-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-03-17"
+    },
+    {
+      "Gültig ab": "2019-03-17",
+      "Gültig bis": "2019-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-03-17"
+    },
+    {
+      "Gültig ab": "2019-01-14",
+      "Gültig bis": "2019-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-14"
+    },
+    {
+      "Gültig ab": "2019-01-14",
+      "Gültig bis": "2019-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-14"
+    },
+    {
+      "Gültig ab": "2019-01-14",
+      "Gültig bis": "2019-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-14"
+    },
+    {
+      "Gültig ab": "2019-01-14",
+      "Gültig bis": "2019-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-14"
+    },
+    {
+      "Gültig ab": "2018-11-13",
+      "Gültig bis": "2019-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-11-13"
+    },
+    {
+      "Gültig ab": "2018-11-13",
+      "Gültig bis": "2019-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-11-13"
+    },
+    {
+      "Gültig ab": "2018-11-13",
+      "Gültig bis": "2019-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-11-13"
+    },
+    {
+      "Gültig ab": "2018-11-13",
+      "Gültig bis": "2019-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-11-13"
+    },
+    {
+      "Gültig ab": "2018-09-12",
+      "Gültig bis": "2018-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-12"
+    },
+    {
+      "Gültig ab": "2018-09-12",
+      "Gültig bis": "2018-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-12"
+    },
+    {
+      "Gültig ab": "2018-09-12",
+      "Gültig bis": "2018-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-12"
+    },
+    {
+      "Gültig ab": "2018-09-12",
+      "Gültig bis": "2018-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-12"
+    },
+    {
+      "Gültig ab": "2018-09-12",
+      "Gültig bis": "2018-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-12"
+    },
+    {
+      "Gültig ab": "2018-09-12",
+      "Gültig bis": "2018-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-12"
+    },
+    {
+      "Gültig ab": "2018-09-12",
+      "Gültig bis": "2018-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-12"
+    },
+    {
+      "Gültig ab": "2018-09-12",
+      "Gültig bis": "2018-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-12"
+    },
+    {
+      "Gültig ab": "2018-07-12",
+      "Gültig bis": "2018-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-07-12"
+    },
+    {
+      "Gültig ab": "2018-07-12",
+      "Gültig bis": "2018-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-07-12"
+    },
+    {
+      "Gültig ab": "2018-07-12",
+      "Gültig bis": "2018-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-07-12"
+    },
+    {
+      "Gültig ab": "2018-07-12",
+      "Gültig bis": "2018-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-07-12"
+    },
+    {
+      "Gültig ab": "2018-07-12",
+      "Gültig bis": "2018-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-07-12"
+    },
+    {
+      "Gültig ab": "2018-07-12",
+      "Gültig bis": "2018-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-07-12"
+    },
+    {
+      "Gültig ab": "2018-07-12",
+      "Gültig bis": "2018-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-07-12"
+    },
+    {
+      "Gültig ab": "2018-07-12",
+      "Gültig bis": "2018-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.albl.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-07-12"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://albl.ch/essential_grid/gas-grill/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/gluehwein-oder-punschtopf/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/lukas-mini/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/popcorn/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/suppentopf/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid_category/event-mobiliar/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid_category/wc-wagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "URL": "https://albl.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "URL": "https://albl.ch/portrait/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/bauchladen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/pocorn-oder-zuckerwatte-stand/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid_category/foodgeraete/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid_category/huepfburgen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "URL": "https://albl.ch/mieten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "URL": "https://albl.ch/partner/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/gluecksrad-gross/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-21"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/gluecksrad-klein/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-21"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid_category/spiele-fuer-alle/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-21"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid_category/verkaufsstaende/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-21"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/4-gewinnt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/hot-dog/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/kinder-rutsche/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/wuerstchenwaermer-einfach/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/zuckerwatte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid_category/3m/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "URL": "https://albl.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "URL": "https://albl.ch/datenschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-24"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/nostalgie-marktstand/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-24"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/sex-test/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-24"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/wuerstchenwaermer-doppel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-24"
+    },
+    {
+      "URL": "https://albl.ch/eventmodule-kaufen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-24"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/tor-wand/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "URL": "https://albl.ch/publikationen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "URL": "https://albl.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://albl.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://albl.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://albl.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://albl.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://albl.ch/index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/Preisliste-09-24.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/Verkaufsliste-09-24.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/huepfburg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/electromaterial-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-09-07"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/karussell-3m/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-09-07"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid_category/karussell/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-09-07"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/hau-den-lukas/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/huepfburg-clown/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/kuehlzelt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/huepfburg-party/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-16"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/Preisliste-08-2310587.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/Verkaufsliste-08-23.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://www.albl.ch/_downloads/Preisliste_10_11.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://www.albl.ch/_downloads/Preisliste_05-17.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid_category-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "URL": "https://albl.ch/page-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "URL": "https://albl.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "URL": "https://albl.ch/sitemap_index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "URL": "https://albl.chSitemap:",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "URL": "https://albl.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-04"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/2017_Dieser_B%C3%A4r_braucht_einen_Namen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-04"
+    },
+    {
+      "URL": "https://albl.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://albl.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://albl.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://albl.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://albl.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://albl.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-01"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/30-Jahre-ALBL.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/Preisliste-02-21.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/2033-Fingerprint.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/fbrfg/site.webmanifest",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/fonts/abel-v18-latin-regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/fonts/abel-v18-latin-regular.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/fonts/dosis-v32-latin-regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/fonts/dosis-v32-latin-regular.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/fonts/playfair-display-v36-latin-regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/fonts/playfair-display-v36-latin-regular.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/Winterthurer-Zeitung-2014.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/abfallstaender-aus-metall/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid_category/ballspiele/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "URL": "https://www.albl.ch/html/portrait.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-08-30"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/behinderten-wc/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/huepfburg-clown-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/huepfburg-ritter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/huepfburg-schluempfe/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/kassen-haeuschen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/mohrenkopf-schleuder/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/monster/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/nagelbalken/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/steh-tisch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/torwand/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/verkaufs-haeuschen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/wc-wagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/wuerstchenwaermer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/Weihnachtsmaert-bilanz-Winterthurer-Zeitung-only.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-31"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/Winterthurer-Zeitung-2011-only.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-31"
+    },
+    {
+      "URL": "https://albl.ch/essential_grid/ballwerf-wagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-02-05"
+    },
+    {
+      "URL": "https://albl.ch/wp-admin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "URL": "https://albl.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/smile_fonts/Defaults/Defaults.eot?rfa9z8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-20"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-18"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-18"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-software-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-08-25"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-basic-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-08-24"
+    },
+    {
+      "URL": "https://albl.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-07-11"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-06-17"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/pixeden-stroke-7-icon/fonts/Pe-icon-7-stroke.woff?d7yf1v",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-06-11"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/revslider2/public/assets/fonts/revicons/revicons.ttf?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-29"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/essential-grid_old/public/assets/font/fontello/fonts/egfont.eot?85610117",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-22"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/lightgallery/fonts/lg.eot?n1z373",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-22"
+    },
+    {
+      "URL": "https://albl.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falbl.ch%2F&format=xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-03-08"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/2018-06_Preisliste.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-15"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-03-09"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-03-09"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-03-09"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/ult-silk.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-03-09"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/ult-silk.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-03-09"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/ult-silk.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-03-09"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-ecommerce-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-23"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-basic-elaboration-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-22"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-music-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-22"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-music-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-22"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-weather-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-22"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-weather-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-22"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-arrows-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-21"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/pixeden-stroke-7-icon/fonts/Pe-icon-7-stroke.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-20"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-19"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/essential-grid/public/assets/font/fontello/fonts/egfont.ttf?85610117",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-18"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-ecommerce-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-18"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-ecommerce-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-18"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-basic-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-17"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-software-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-17"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-arrows-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-14"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-software-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-14"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/pixeden-stroke-7-icon/fonts/Pe-icon-7-stroke.ttf?d7yf1v",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-13"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/essential-grid/public/assets/font/fontello/fonts/egfont.woff?85610117",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-12"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/smile_fonts/Defaults/Defaults.woff?rfa9z8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-12"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/revslider/public/assets/css/closedhand.cur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-11"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-11"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-basic-elaboration-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-11"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-10"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-10"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-basic-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-10"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-weather-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-10"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf?d7yf1v",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/lightgallery/fonts/lg.woff?n1z373",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-arrows-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/essential-grid/public/assets/font/fontello/fonts/egfont.eot?85610117",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-08"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-basic-elaboration-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-08"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/linea/fonts/linea-music-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-08"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-07"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/themes/tm-wilson/assets/libs/lightgallery/fonts/lg.ttf?n1z373",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-07"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-05"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-03"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-02"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/revslider/public/assets/css/openhand.cur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-30"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/smile_fonts/Defaults/Defaults.ttf?rfa9z8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-30"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/plugins/revslider/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff?d7yf1v",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-28"
+    },
+    {
+      "URL": "https://albl.ch/wp-content/uploads/fbrfg/browserconfig.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "https://albl.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "https://albl.ch/xmlrpc.php?rsd",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "URL": "http://albl.ch/link",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-06-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/spiele_fuer_alle/4_gewinnt/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-08-02"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-07-03"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/ballspiele/monster/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-07-02"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/elektromaterial/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-07-02"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/ballspiele/ballwerf_wagen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-09"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/huepfburgen/clown/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-09"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/huepfburgen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-09"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/spiele_fuer_alle/gluecksrad/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-09"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/spiele_fuer_alle/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-09"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/verkaufsstaende/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-09"
+    },
+    {
+      "URL": "http://www.albl.ch:80/links/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-03"
+    },
+    {
+      "URL": "http://www.albl.ch:80/fotos/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-01"
+    },
+    {
+      "URL": "http://www.albl.ch:80/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-01"
+    },
+    {
+      "URL": "http://www.albl.ch:80/infos/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-01"
+    },
+    {
+      "URL": "http://www.albl.ch:80/portrait/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-01"
+    },
+    {
+      "URL": "http://www.albl.ch:80/portrait/publikationen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-01"
+    },
+    {
+      "URL": "http://www.albl.ch:80/preisliste/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-01"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/ballspiele/ballwerf-stand/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-04-25"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/ballspiele/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-04-25"
+    },
+    {
+      "URL": "http://albl.ch/_downloads/Preisliste_02-16.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-11-23"
+    },
+    {
+      "URL": "http://albl.ch/mieten/event-mobiliar/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-11-23"
+    },
+    {
+      "URL": "http://albl.ch/mieten/foodgeraete/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-11-23"
+    },
+    {
+      "URL": "http://albl.ch/mieten/karussells/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-11-23"
+    },
+    {
+      "URL": "http://albl.ch/mieten/wc-wagen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-11-23"
+    },
+    {
+      "URL": "http://albl.ch/_pics/125/Miete_Flash_v5_show0.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-11-22"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/karussells/karussell_3_m/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-10-16"
+    },
+    {
+      "URL": "http://albl.ch/kontakt/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-10-13"
+    },
+    {
+      "URL": "http://albl.ch/referenzen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-10-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/huepfburgen/party/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2014-03-25"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/huepfburgen/ritter/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2014-03-25"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/huepfburgen/rutschi/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2014-03-25"
+    },
+    {
+      "URL": "http://albl.ch/_pics/585/Miete_Flash_v5_show0.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-12-16"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/foodgeraete/zuckerwatte/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-12-29"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/elektromaterial/kabel-abdeckung/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-12-28"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/foodgeraete/hot_dog/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-12-28"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/foodgeraete/grill/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-12-27"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/foodgeraete/popcorn/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-12-27"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/huepfburgen/schluempfe/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-12-27"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/ballspiele/kugelbahn/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-11-18"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/ballspiele/mohrenkopf/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-11-18"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/ballspiele/torwand/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-11-18"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/event-mobiliar/chilbi_lampen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-11-18"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/karussells/karussell_4m/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-11-18"
+    },
+    {
+      "URL": "http://www.albl.ch:80/kontakt/kontakt/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-10-22"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/wc-wagen/63/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-06-25"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/wc-wagen/wc_wagen_mittel/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2012-06-25"
+    },
+    {
+      "URL": "http://www.albl.ch:80/gaestebuch/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2011-12-17"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/wc_wagen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2011-12-17"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/wc_wagen/wc_wagen_gross/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2011-12-17"
+    },
+    {
+      "URL": "http://www.albl.ch:80/gaestebuch/gaestebuch/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2011-10-16"
+    },
+    {
+      "URL": "http://www.albl.ch:80/mieten/weitere_spiele/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2011-10-15"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/hotdog.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2011-01-27"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/muehle.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2011-01-10"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/waswiewo.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-11-14"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/marktstand.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-11-04"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/kontakt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-16"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/links.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-15"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-14"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/produkte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-14"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/adresse.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/ballspiele.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/diverses.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/food.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/geschicklichkeit.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/gumpis.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/karussell.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/news.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/plan.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/preise.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/verkaufsstaende.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/feuertopf.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/grill.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/zuckerwatte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-03-13"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/4gewinnt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2009-06-29"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/discolukas.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2009-06-29"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/swisslukas.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2009-06-29"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/freestyle.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2009-06-06"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/ballwurfbude.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2009-06-05"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/popcorn_wagen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2009-03-12"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/karussell_gross.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2008-07-04"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/karussell_mittel.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2008-07-02"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/waxfun.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2008-06-28"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/zoom/torwand.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2008-06-11"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/divfood.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2006-10-14"
+    },
+    {
+      "URL": "http://www.albl.ch:80/htpreise.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2006-10-11"
+    },
+    {
+      "URL": "http://www.albl.ch:80/htverkaufsstaende.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2006-10-11"
+    },
+    {
+      "URL": "http://www.albl.ch:80/htplan.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2006-10-10"
+    },
+    {
+      "URL": "http://www.albl.ch:80/htportrait.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2006-10-08"
+    },
+    {
+      "URL": "http://www.albl.ch:80/htwaswiewo.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2006-10-08"
+    },
+    {
+      "URL": "http://www.albl.ch:80/htprodukte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2006-10-07"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2003-02-15"
+    },
+    {
+      "URL": "http://www.albl.ch:80/html/kalender.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2001-04-30"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@albl.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41106309862",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-24"
+    },
+    {
+      "Telefonnummern": "+41522223040",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

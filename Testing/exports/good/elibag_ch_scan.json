@@ -1,0 +1,3930 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "23.88.95.37",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a01:4f8:1061:111d::2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "elibag-ch.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Name Server": "ns2.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=55B78FB68AF321B4956DAE257A3C0186C843FFE8\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"MS=ms57543388\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"google-site-verification=4q2An7ZYsbfWRH96Z4uYR73xNdMX4cfJYMCil9WJzzU\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"v=spf1 mx ip4:91.208.173.0/24 ip4:195.141.89.0/24 ip4:213.200.227.124/32 include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "1209600",
+      "Serial": "2022091604",
+      "Refresh": "14400",
+      "Hostmaster": "server.cyon.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "23.88.95.37",
+      "PTR-Domain": "dedi7372.your-server.de.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "IP-Adresse": "2a01:4f8:1061:111d::2",
+      "PTR-Domain": "dedi7372.your-server.de.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "autodiscover.elibag.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "mail.elibag.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "remote.elibag.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "elibag.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "link.elibag.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "remote.elibag.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-30",
+      "Gültig bis": "2025-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-30"
+    },
+    {
+      "Gültig ab": "2025-04-30",
+      "Gültig bis": "2025-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-30"
+    },
+    {
+      "Gültig ab": "2025-03-25",
+      "Gültig bis": "2025-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-25"
+    },
+    {
+      "Gültig ab": "2025-03-25",
+      "Gültig bis": "2025-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-25"
+    },
+    {
+      "Gültig ab": "2025-03-01",
+      "Gültig bis": "2025-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-01"
+    },
+    {
+      "Gültig ab": "2025-03-01",
+      "Gültig bis": "2025-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-01"
+    },
+    {
+      "Gültig ab": "2025-01-23",
+      "Gültig bis": "2025-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "Gültig ab": "2025-01-23",
+      "Gültig bis": "2025-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "Gültig ab": "2024-12-31",
+      "Gültig bis": "2025-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-31"
+    },
+    {
+      "Gültig ab": "2024-12-31",
+      "Gültig bis": "2025-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-31"
+    },
+    {
+      "Gültig ab": "2024-12-18",
+      "Gültig bis": "2025-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-18"
+    },
+    {
+      "Gültig ab": "2024-12-18",
+      "Gültig bis": "2025-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-18"
+    },
+    {
+      "Gültig ab": "2024-11-01",
+      "Gültig bis": "2025-01-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-01"
+    },
+    {
+      "Gültig ab": "2024-11-01",
+      "Gültig bis": "2025-01-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-01"
+    },
+    {
+      "Gültig ab": "2024-10-18",
+      "Gültig bis": "2025-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-18"
+    },
+    {
+      "Gültig ab": "2024-10-18",
+      "Gültig bis": "2025-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-18"
+    },
+    {
+      "Gültig ab": "2024-09-02",
+      "Gültig bis": "2024-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-02"
+    },
+    {
+      "Gültig ab": "2024-09-02",
+      "Gültig bis": "2024-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-02"
+    },
+    {
+      "Gültig ab": "2024-08-18",
+      "Gültig bis": "2024-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-18"
+    },
+    {
+      "Gültig ab": "2024-08-18",
+      "Gültig bis": "2024-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-18"
+    },
+    {
+      "Gültig ab": "2024-07-30",
+      "Gültig bis": "2024-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "Gültig ab": "2024-07-30",
+      "Gültig bis": "2024-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "Gültig ab": "2024-07-04",
+      "Gültig bis": "2024-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-04"
+    },
+    {
+      "Gültig ab": "2024-07-04",
+      "Gültig bis": "2024-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-04"
+    },
+    {
+      "Gültig ab": "2024-06-18",
+      "Gültig bis": "2024-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "Gültig ab": "2024-06-18",
+      "Gültig bis": "2024-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "Gültig ab": "2024-05-31",
+      "Gültig bis": "2024-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "Gültig ab": "2024-05-31",
+      "Gültig bis": "2024-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "Gültig ab": "2024-05-05",
+      "Gültig bis": "2024-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-05"
+    },
+    {
+      "Gültig ab": "2024-05-05",
+      "Gültig bis": "2024-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-05"
+    },
+    {
+      "Gültig ab": "2024-04-17",
+      "Gültig bis": "2024-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-17"
+    },
+    {
+      "Gültig ab": "2024-04-17",
+      "Gültig bis": "2024-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-17"
+    },
+    {
+      "Gültig ab": "2024-04-02",
+      "Gültig bis": "2024-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "Gültig ab": "2024-04-02",
+      "Gültig bis": "2024-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "Gültig ab": "2024-03-06",
+      "Gültig bis": "2024-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-06"
+    },
+    {
+      "Gültig ab": "2024-03-06",
+      "Gültig bis": "2024-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-06"
+    },
+    {
+      "Gültig ab": "2024-02-16",
+      "Gültig bis": "2024-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-16"
+    },
+    {
+      "Gültig ab": "2024-02-16",
+      "Gültig bis": "2024-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-16"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-01-06",
+      "Gültig bis": "2024-04-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-06"
+    },
+    {
+      "Gültig ab": "2024-01-06",
+      "Gültig bis": "2024-04-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-06"
+    },
+    {
+      "Gültig ab": "2023-12-16",
+      "Gültig bis": "2024-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "Gültig ab": "2023-12-16",
+      "Gültig bis": "2024-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "Gültig ab": "2023-12-04",
+      "Gültig bis": "2024-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "Gültig ab": "2023-12-04",
+      "Gültig bis": "2024-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "Gültig ab": "2023-11-07",
+      "Gültig bis": "2024-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-11-07"
+    },
+    {
+      "Gültig ab": "2023-11-07",
+      "Gültig bis": "2024-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-11-07"
+    },
+    {
+      "Gültig ab": "2023-10-16",
+      "Gültig bis": "2024-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-16"
+    },
+    {
+      "Gültig ab": "2023-10-16",
+      "Gültig bis": "2024-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-16"
+    },
+    {
+      "Gültig ab": "2023-10-05",
+      "Gültig bis": "2024-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-05"
+    },
+    {
+      "Gültig ab": "2023-10-05",
+      "Gültig bis": "2024-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-05"
+    },
+    {
+      "Gültig ab": "2023-09-08",
+      "Gültig bis": "2023-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-08"
+    },
+    {
+      "Gültig ab": "2023-09-08",
+      "Gültig bis": "2023-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-08"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-15"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-15"
+    },
+    {
+      "Gültig ab": "2023-08-06",
+      "Gültig bis": "2023-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-06"
+    },
+    {
+      "Gültig ab": "2023-08-06",
+      "Gültig bis": "2023-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-06"
+    },
+    {
+      "Gültig ab": "2023-06-24",
+      "Gültig bis": "2023-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "Gültig ab": "2023-06-24",
+      "Gültig bis": "2023-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "Gültig ab": "2023-06-15",
+      "Gültig bis": "2023-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "Gültig ab": "2023-06-15",
+      "Gültig bis": "2023-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "Gültig ab": "2023-06-07",
+      "Gültig bis": "2023-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-07"
+    },
+    {
+      "Gültig ab": "2023-06-07",
+      "Gültig bis": "2023-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-07"
+    },
+    {
+      "Gültig ab": "2023-04-15",
+      "Gültig bis": "2023-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-15"
+    },
+    {
+      "Gültig ab": "2023-04-15",
+      "Gültig bis": "2023-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-15"
+    },
+    {
+      "Gültig ab": "2023-04-15",
+      "Gültig bis": "2023-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-15"
+    },
+    {
+      "Gültig ab": "2023-04-15",
+      "Gültig bis": "2023-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-15"
+    },
+    {
+      "Gültig ab": "2023-04-08",
+      "Gültig bis": "2023-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-08"
+    },
+    {
+      "Gültig ab": "2023-04-08",
+      "Gültig bis": "2023-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-08"
+    },
+    {
+      "Gültig ab": "2023-02-13",
+      "Gültig bis": "2023-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-13"
+    },
+    {
+      "Gültig ab": "2023-02-13",
+      "Gültig bis": "2023-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-13"
+    },
+    {
+      "Gültig ab": "2023-02-13",
+      "Gültig bis": "2023-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-13"
+    },
+    {
+      "Gültig ab": "2023-02-13",
+      "Gültig bis": "2023-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-13"
+    },
+    {
+      "Gültig ab": "2023-02-07",
+      "Gültig bis": "2023-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-07"
+    },
+    {
+      "Gültig ab": "2023-02-07",
+      "Gültig bis": "2023-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-07"
+    },
+    {
+      "Gültig ab": "2022-12-14",
+      "Gültig bis": "2023-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-14"
+    },
+    {
+      "Gültig ab": "2022-12-14",
+      "Gültig bis": "2023-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-14"
+    },
+    {
+      "Gültig ab": "2022-12-14",
+      "Gültig bis": "2023-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-14"
+    },
+    {
+      "Gültig ab": "2022-12-14",
+      "Gültig bis": "2023-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-14"
+    },
+    {
+      "Gültig ab": "2022-12-09",
+      "Gültig bis": "2023-03-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-09"
+    },
+    {
+      "Gültig ab": "2022-12-09",
+      "Gültig bis": "2023-03-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-09"
+    },
+    {
+      "Gültig ab": "2022-10-14",
+      "Gültig bis": "2023-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-14"
+    },
+    {
+      "Gültig ab": "2022-10-14",
+      "Gültig bis": "2023-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-14"
+    },
+    {
+      "Gültig ab": "2022-10-11",
+      "Gültig bis": "2023-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-11"
+    },
+    {
+      "Gültig ab": "2022-10-11",
+      "Gültig bis": "2023-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-11"
+    },
+    {
+      "Gültig ab": "2022-10-10",
+      "Gültig bis": "2023-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-10"
+    },
+    {
+      "Gültig ab": "2022-10-10",
+      "Gültig bis": "2023-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-10"
+    },
+    {
+      "Gültig ab": "2022-08-14",
+      "Gültig bis": "2022-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-14"
+    },
+    {
+      "Gültig ab": "2022-08-14",
+      "Gültig bis": "2022-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-14"
+    },
+    {
+      "Gültig ab": "2022-08-11",
+      "Gültig bis": "2022-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "Gültig ab": "2022-08-11",
+      "Gültig bis": "2022-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "Gültig ab": "2022-08-11",
+      "Gültig bis": "2022-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "Gültig ab": "2022-08-11",
+      "Gültig bis": "2022-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "link.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-11"
+    },
+    {
+      "Gültig ab": "2022-06-14",
+      "Gültig bis": "2022-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-14"
+    },
+    {
+      "Gültig ab": "2022-06-14",
+      "Gültig bis": "2022-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-14"
+    },
+    {
+      "Gültig ab": "2022-04-14",
+      "Gültig bis": "2022-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-14"
+    },
+    {
+      "Gültig ab": "2022-04-14",
+      "Gültig bis": "2022-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-14"
+    },
+    {
+      "Gültig ab": "2022-02-10",
+      "Gültig bis": "2022-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-10"
+    },
+    {
+      "Gültig ab": "2022-02-10",
+      "Gültig bis": "2022-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-10"
+    },
+    {
+      "Gültig ab": "2021-12-08",
+      "Gültig bis": "2022-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-08"
+    },
+    {
+      "Gültig ab": "2021-12-08",
+      "Gültig bis": "2022-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-08"
+    },
+    {
+      "Gültig ab": "2021-10-05",
+      "Gültig bis": "2022-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-06"
+    },
+    {
+      "Gültig ab": "2021-10-05",
+      "Gültig bis": "2022-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-06"
+    },
+    {
+      "Gültig ab": "2021-09-29",
+      "Gültig bis": "2022-10-01",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.elibag.ch, mail.elibag.ch, remote.elibag.ch, www.remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-29"
+    },
+    {
+      "Gültig ab": "2021-09-29",
+      "Gültig bis": "2022-10-01",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.elibag.ch, mail.elibag.ch, remote.elibag.ch, www.remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-29"
+    },
+    {
+      "Gültig ab": "2021-08-03",
+      "Gültig bis": "2021-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-03"
+    },
+    {
+      "Gültig ab": "2021-08-03",
+      "Gültig bis": "2021-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-03"
+    },
+    {
+      "Gültig ab": "2021-06-02",
+      "Gültig bis": "2021-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-02"
+    },
+    {
+      "Gültig ab": "2021-06-02",
+      "Gültig bis": "2021-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-02"
+    },
+    {
+      "Gültig ab": "2021-03-13",
+      "Gültig bis": "2021-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-13"
+    },
+    {
+      "Gültig ab": "2021-03-13",
+      "Gültig bis": "2021-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-13"
+    },
+    {
+      "Gültig ab": "2021-01-11",
+      "Gültig bis": "2021-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-11"
+    },
+    {
+      "Gültig ab": "2021-01-11",
+      "Gültig bis": "2021-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-11"
+    },
+    {
+      "Gültig ab": "2020-11-11",
+      "Gültig bis": "2021-02-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-11"
+    },
+    {
+      "Gültig ab": "2020-11-11",
+      "Gültig bis": "2021-02-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-11"
+    },
+    {
+      "Gültig ab": "2020-10-15",
+      "Gültig bis": "2021-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-15"
+    },
+    {
+      "Gültig ab": "2020-10-15",
+      "Gültig bis": "2021-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-15"
+    },
+    {
+      "Gültig ab": "2020-08-16",
+      "Gültig bis": "2020-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-16"
+    },
+    {
+      "Gültig ab": "2020-08-16",
+      "Gültig bis": "2020-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-16"
+    },
+    {
+      "Gültig ab": "2020-06-17",
+      "Gültig bis": "2020-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-06-17"
+    },
+    {
+      "Gültig ab": "2020-06-17",
+      "Gültig bis": "2020-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-06-17"
+    },
+    {
+      "Gültig ab": "2020-04-18",
+      "Gültig bis": "2020-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-18"
+    },
+    {
+      "Gültig ab": "2020-04-18",
+      "Gültig bis": "2020-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-18"
+    },
+    {
+      "Gültig ab": "2020-02-18",
+      "Gültig bis": "2020-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-18"
+    },
+    {
+      "Gültig ab": "2020-02-18",
+      "Gültig bis": "2020-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-18"
+    },
+    {
+      "Gültig ab": "2020-02-12",
+      "Gültig bis": "2020-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-12"
+    },
+    {
+      "Gültig ab": "2020-02-12",
+      "Gültig bis": "2020-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-12"
+    },
+    {
+      "Gültig ab": "2019-12-14",
+      "Gültig bis": "2020-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-14"
+    },
+    {
+      "Gültig ab": "2019-12-14",
+      "Gültig bis": "2020-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-14"
+    },
+    {
+      "Gültig ab": "2019-10-15",
+      "Gültig bis": "2020-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-15"
+    },
+    {
+      "Gültig ab": "2019-10-15",
+      "Gültig bis": "2020-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-15"
+    },
+    {
+      "Gültig ab": "2019-09-27",
+      "Gültig bis": "2021-10-01",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.elibag.ch, mail.elibag.ch, remote.elibag.ch, www.remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-03"
+    },
+    {
+      "Gültig ab": "2019-09-27",
+      "Gültig bis": "2021-10-01",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.elibag.ch, mail.elibag.ch, remote.elibag.ch, www.remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-09-27"
+    },
+    {
+      "Gültig ab": "2019-09-27",
+      "Gültig bis": "2021-10-01",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.elibag.ch, mail.elibag.ch, remote.elibag.ch, www.remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-09-27"
+    },
+    {
+      "Gültig ab": "2019-08-16",
+      "Gültig bis": "2019-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-08-16"
+    },
+    {
+      "Gültig ab": "2019-08-16",
+      "Gültig bis": "2019-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-08-16"
+    },
+    {
+      "Gültig ab": "2019-06-17",
+      "Gültig bis": "2019-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-17"
+    },
+    {
+      "Gültig ab": "2019-06-17",
+      "Gültig bis": "2019-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-17"
+    },
+    {
+      "Gültig ab": "2019-04-18",
+      "Gültig bis": "2019-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-18"
+    },
+    {
+      "Gültig ab": "2019-04-18",
+      "Gültig bis": "2019-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-18"
+    },
+    {
+      "Gültig ab": "2019-02-17",
+      "Gültig bis": "2019-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-17"
+    },
+    {
+      "Gültig ab": "2019-02-17",
+      "Gültig bis": "2019-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-17"
+    },
+    {
+      "Gültig ab": "2018-12-19",
+      "Gültig bis": "2019-03-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-12-19"
+    },
+    {
+      "Gültig ab": "2018-12-19",
+      "Gültig bis": "2019-03-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-12-19"
+    },
+    {
+      "Gültig ab": "2018-10-20",
+      "Gültig bis": "2019-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-10-20"
+    },
+    {
+      "Gültig ab": "2018-10-20",
+      "Gültig bis": "2019-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-10-20"
+    },
+    {
+      "Gültig ab": "2018-08-21",
+      "Gültig bis": "2018-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-08-21"
+    },
+    {
+      "Gültig ab": "2018-08-21",
+      "Gültig bis": "2018-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-08-21"
+    },
+    {
+      "Gültig ab": "2018-06-22",
+      "Gültig bis": "2018-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-06-22"
+    },
+    {
+      "Gültig ab": "2018-06-22",
+      "Gültig bis": "2018-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-06-22"
+    },
+    {
+      "Gültig ab": "2018-04-23",
+      "Gültig bis": "2018-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-04-23"
+    },
+    {
+      "Gültig ab": "2018-04-23",
+      "Gültig bis": "2018-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-04-23"
+    },
+    {
+      "Gültig ab": "2018-02-22",
+      "Gültig bis": "2018-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-02-22"
+    },
+    {
+      "Gültig ab": "2015-10-01",
+      "Gültig bis": "2017-10-01",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.elibag.ch, mail.elibag.ch, remote.elibag.ch, www.remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-02-02"
+    },
+    {
+      "Gültig ab": "2017-09-17",
+      "Gültig bis": "2019-10-01",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.elibag.ch, mail.elibag.ch, remote.elibag.ch, www.remote.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-01-16"
+    },
+    {
+      "Gültig ab": "2017-11-22",
+      "Gültig bis": "2018-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, elibag.ch.vtxhosting.ch, www.elibag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-11-22"
+    },
+    {
+      "Gültig ab": "2017-11-22",
+      "Gültig bis": "2018-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "elibag.ch, elibag.ch.vtxhosting.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-11-22"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/2/csm_Mario-Habluetzel_b647dd4c6d.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/2/csm_Mario-Habluetzel_c4977bdcf6.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/2/csm_Mario-Habluetzel_de7a2fae02.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/3/csm_Andrea-Hartmann_5dc992b94e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/3/csm_Andrea-Hartmann_74c4b712c4.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/3/csm_Andrea-Hartmann_bc9c431be3.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/3/csm_Andrea-Hartmann_cad59eb88b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/6/csm_Allan_Luetdolf_9a59818586.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/6/csm_Allan_Luetdolf_c12cde08d0.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/6/csm_Allan_Luetdolf_dda957265f.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/6/csm_Dario-Thuer_498673437b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/6/csm_Dario-Thuer_6dea1e44a5.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/6/csm_Dario-Thuer_a37c10a8fb.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/6/csm_Dario-Thuer_c7fcfd6277.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/8/csm_Stefan-Thierstein-2_642e5133ad.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/8/csm_Stefan-Thierstein-2_6a6f44f64e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/8/csm_Stefan-Thierstein-2_ac7c252d1a.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/8/csm_Stefan-Thierstein-2_e270b308ad.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/9/csm_Seraina-Rahm-2_29a7df1240.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/9/csm_Seraina-Rahm-2_33a33397bd.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/9/csm_Seraina-Rahm-2_bd72d1b77b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/_assets/081fa96a07de1dccb64a8a83e1567439/Fonts/SourceSans/SourceSans3VF-Italic.otf.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/6/csm_Allan_Luetdolf_2716e98e3b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/f/csm_Andreas_Koller_1_b98a9c9139.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/3/b/csm_Stellvertreter-Werkstatt_1590cce6b5.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/0/csm_Noel-Hofmann_9c9b45db0e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/f/csm_Joeel-Speta_ae6250f8a4.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/c/3/csm_Felipe-Maciel_ea2d51a127.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://www.elibag.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://www.elibag.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://elibag.ch/typo3_src",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/_assets/081fa96a07de1dccb64a8a83e1567439/Fonts/SourceSans/SourceSans3VF-Roman.otf.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/datenschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/feed.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/feeds/all.atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/2/csm_Mario-Habluetzel_4356974c9d.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/7/csm_Cornelia-Mueller-1_dcafedc11d.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/8/csm_Timon-Blattner_4180b7d1bb.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/8/csm_Timon-Blattner_64ebb6dff2.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/8/csm_Timon-Blattner_aaf8e1cbef.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/8/csm_Timon-Blattner_be631d2b8e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/e/csm_Cornel-Imbre-1_54e5543d4c.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/e/csm_Cornel-Imbre-1_717a829136.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/e/csm_Cornel-Imbre-1_918725614f.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/e/csm_Cornel-Imbre-1_b010cb9013.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/3/b/csm_Stellvertreter-Werkstatt_0a18f211ec.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/3/b/csm_Stellvertreter-Werkstatt_4eaa0a0295.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/3/b/csm_Stellvertreter-Werkstatt_d09e917fc8.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/0/csm_Noel-Hofmann_30c817b92b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/0/csm_Noel-Hofmann_c61bf89fc0.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/0/csm_Noel-Hofmann_e551ec91a8.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/0/csm_Thomas-Schaffluetzel_16da9252f1.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/0/csm_Thomas-Schaffluetzel_2bbc470dc1.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/0/csm_Thomas-Schaffluetzel_618bb552d8.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/0/csm_Thomas-Schaffluetzel_e82a768d5a.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/e/csm_Urs-Fehlmann-1_7a853fb187.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/e/csm_Urs-Fehlmann-1_a87ff75899.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/e/csm_Urs-Fehlmann-1_b2ea53d297.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/e/csm_Urs-Fehlmann-1_b7514b46ca.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/f/csm_Ehren-Demircioglu_34f5532fd4.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/f/csm_Ehren-Demircioglu_895de3e64e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/f/csm_Ehren-Demircioglu_b333c5ff92.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/f/csm_Ehren-Demircioglu_d74347a9e0.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/f/csm_Joeel-Speta_16cdbf2cd9.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/f/csm_Joeel-Speta_2d12358ed1.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/4/f/csm_Joeel-Speta_974ad76557.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/5/2/csm_Angelo-Tortelli_0c6fa681e8.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/5/2/csm_Angelo-Tortelli_32fac80aee.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/7/d/csm_Urs-Fries-2_bbaae7978f.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/7/d/csm_Urs-Fries-2_dfda201978.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/8/a/csm_ELIBAG-2024-09-10_Kuechenausstelung_Foto_Peter-Bruetsch-31_391ef3ea5e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/8/a/csm_ELIBAG-2024-09-10_Kuechenausstelung_Foto_Peter-Bruetsch-31_50cbb1c773.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/8/a/csm_ELIBAG-2024-09-10_Kuechenausstelung_Foto_Peter-Bruetsch-31_b246e312b4.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/8/a/csm_ELIBAG-2024-09-10_Kuechenausstelung_Foto_Peter-Bruetsch-31_e538755366.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/9/5/csm_Silvio-Hunziker_3b4e87574a.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/9/5/csm_Silvio-Hunziker_808b9be70f.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/9/5/csm_Silvio-Hunziker_da6ee362f1.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/9/5/csm_Silvio-Hunziker_ea41d15505.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/a/1/csm_Erich-Weber_2ad686352f.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/a/1/csm_Erich-Weber_9b6008c177.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/a/1/csm_Erich-Weber_aeec6e789b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/a/1/csm_Erich-Weber_fe7dd7b5ab.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/a/e/csm_Andre-Eugster_0f2f24fbc3.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/a/e/csm_Andre-Eugster_620c85bfa9.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/a/e/csm_Andre-Eugster_7666a53e17.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/a/e/csm_Andre-Eugster_de86be8446.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/a/e/csm_Sami-Ismajili_0cfa18e664.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/a/e/csm_Sami-Ismajili_270974a72a.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/a/e/csm_Sami-Ismajili_3d051d7503.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/a/e/csm_Sami-Ismajili_4aa50dfdca.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/b/4/csm_Cornelia-Mueller-2_1655595e0b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/b/4/csm_Cornelia-Mueller-2_9598922e9d.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/b/4/csm_Cornelia-Mueller-2_b04bf84c06.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/b/4/csm_Cornelia-Mueller-2_f0251813f1.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/b/e/csm_Seuzach-Breitestr-17a-9n_0790efef47.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/b/e/csm_Seuzach-Breitestr-17a-9n_973ae4c6ab.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/b/e/csm_Seuzach-Breitestr-17a-9n_97c874de2d.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/b/e/csm_Seuzach-Breitestr-17a-9n_bdf6e8bd92.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/b/f/csm_Nadine-Weber-2_244fac3705.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/f/3/csm_Thomas-Lutz-1_93fae3b697.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/f/3/csm_Thomas-Lutz-1_f78b61658b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Bilder/Unternehmen/Jobs/Inserat_Schreiner-MonteurIn.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/kontakt-standort/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/typo3/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/karriere/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.elibag.ch/ausstellung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Bilder/Unternehmen/Ausbildung/Rechte_und_Pflichten_fuer_Lehrbetrieb__Lernende_und_Erziehungsverpflichtete_2024-12.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Bilder/Unternehmen/Firmengeschichte_Stand_2025.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Bilder/Unternehmen/Herkunftsdeklaration_Stand_2025.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Bilder/Unternehmen/Karriere/BVG-Absageschreiben_SwissLife_geschwaerzt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Bilder/Unternehmen/Soziales_Engagement/Engagement_2025.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/25_Kuechen_V2022.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Anfahrtspauschale_fuer_Kundendienst_2025.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Ausfuehrungsbeschrieb_Stahltuerzargen_2021_06.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Bauherren-Information.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/fuer_farbig_lackierte_Holzoberflaechen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/fuer_Glas-Oberflaechen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/fuer_Kuechenabdeckungen_aus_Naturstein.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/fuer_Kunstharzoberflaechen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/fuer_natuerlich_behandelte_Holzoberflaechen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/fuer_rostfreien_Stahl.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/fuer_transparent_lackierte_Holzoberflaechen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Gebrauchsanweisung_4-Punkt-Sicherheitsverschluss_GLUTZ_TREPLANE_1838__52_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Gebrauchsanweisung_4-Punkt-Sicherheitsverschluss_SCHAENIS_S-Lock_1270__49_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Granit-Rating.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/grundierte_Oberflaechen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Haustueren_Modelluebersicht_2019.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/ausbildung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/?tx_kochnews_list%5BcurrentPage%5D=2&cHash=7b5a52234725d0bd4fda18b9f702ba0d",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/betriebsausfluege/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/detail/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/detail/11102024-oktoberfest-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/detail/20122024-spaghettiplausch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/detail/22112024-billard/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/detail/betriebsausflug-2024-peka-buergenstock/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/detail/early-bird-fruehstueck/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/detail/firmenabend-wirtschaft-zur-eintracht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/detail/funcup-bubble-soccer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/funcup/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/mitarbeiteranlaesse/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/events/uebrige-events/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/produktion/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/soziales-engagement/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://elibag.ch/info_stellen/downloads",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/schlatt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/tueren",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-09"
+    },
+    {
+      "URL": "https://elibag.ch/_openfile/php/download.php?fileId=121_Nlf9y5",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "URL": "http://www.elibag.ch/Info/Downloads",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://elibag.ch/_files",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-22"
+    },
+    {
+      "URL": "https://elibag.ch/application",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-22"
+    },
+    {
+      "URL": "https://elibag.ch/cgi-bin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-22"
+    },
+    {
+      "URL": "https://elibag.ch/specialSites",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-22"
+    },
+    {
+      "URL": "https://elibag.ch/elggerkuechenlifting",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "https://elibag.ch/info_stellen/events",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/elgg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/fehraltorf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/gundetswil2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/hardau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/Hegi",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/kloten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/seuzach2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/wiesendangen2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Stellenschaffer2006BriefElgg_000.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/LehrbeginnvonGordana-1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-27"
+    },
+    {
+      "URL": "https://www.elibag.ch/elggerkuechen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "URL": "https://www.elibag.ch/portfolio",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/6.6_Blauer_Engel_-_lackierte_Tueren_WestaLack__286_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-20"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/6.7_Blauer_Engel_-_furnierte_Tueren_WestaLife__287_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-20"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Bericht_von_Adrian_Gogel.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-20"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/6.4_Blauer_Engel_-_Kunstharztueren_PortaLit__288_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-13"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/6.5_Blauer_Engel_-_Kunstharztueren_GetaLit__285_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-13"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/6.2_FSC-Zertifikat_fuer_Tueren__72_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/6.3_Minergie-Zertifikat_Haustueren_Typ_Portal-S__1.7_MB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://www.elibag.ch/Info/Stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://www.elibag.ch/home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "URL": "https://www.elibag.ch/_openfile/php/getImages.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-07"
+    },
+    {
+      "URL": "https://elibag.ch/info/sponsoring",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-27"
+    },
+    {
+      "URL": "https://www.elibag.ch/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-12"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/1.10._Rechte_und_Pflichten_fuer_Lehrbetrieb__Lernende_und_Eltern_2014.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/1.1_Bauherren-Information.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/1.6_KomfortPlus__49_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/1.8_AGBs_fuer_Schreinerarbeiten_VSSM__300_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/1.9_Regietarif_2016.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/2.3_fuer_transparent_lackierte_Holzoberflaechen__32_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/2.6_fuer_Kunstharzoberflaechen__32KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/2.9_fuer_Kuechenabdeckungen_aus_Silestone__31_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/3.1_Grundierte_Oberflaechen__39_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/3.5_Ausfuehrungsbeschrieb_Stahlzargentueren__36_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/3.9_Merkblatt_zum_Kochen_mit_Induktion__435_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/4_13_Handballtorwart_bei_ELIBAG.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/4_14_Bericht_ELGGER_ZEITUNG.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/5.2%20Case-System.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/PDF/winterthurer-zeitung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/1.7_Anfahrtspauschale_fuer_Kundendienst_2016.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-05"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/zeitungsartikel.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/4.16_SolarImpulse.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-03-26"
+    },
+    {
+      "URL": "http://www.elibag.ch/noMobile",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-02-17"
+    },
+    {
+      "URL": "http://www.elibag.ch/html/start.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2013-12-14"
+    },
+    {
+      "URL": "http://www.elibag.ch/images/navigation.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2013-12-14"
+    },
+    {
+      "URL": "http://www.elibag.ch/top.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2013-12-14"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/badezimmer.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-01-07"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/massangabencolorline.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-09-24"
+    },
+    {
+      "URL": "http://elibag.ch:80/nav.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-09-23"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/formularmondriano.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-07-31"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/massangabenmondriano.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-07-31"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/formularcolorline.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-04-20"
+    },
+    {
+      "URL": "http://elibag.ch:80/formular.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-04-15"
+    },
+    {
+      "URL": "http://elibag.ch:80/betriebsrundgang.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-16"
+    },
+    {
+      "URL": "http://elibag.ch:80/einbruch.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-16"
+    },
+    {
+      "URL": "http://elibag.ch:80/event.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-16"
+    },
+    {
+      "URL": "http://elibag.ch:80/gutscheinmoebelzentrum.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-16"
+    },
+    {
+      "URL": "http://elibag.ch:80/Innenausbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-16"
+    },
+    {
+      "URL": "http://elibag.ch:80/kompaktkuechen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-16"
+    },
+    {
+      "URL": "http://elibag.ch:80/kuechen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-16"
+    },
+    {
+      "URL": "http://elibag.ch:80/tueren.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-16"
+    },
+    {
+      "URL": "http://elibag.ch:80/umbauservice.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-16"
+    },
+    {
+      "URL": "http://elibag.ch:80/wir.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-16"
+    },
+    {
+      "URL": "http://elibag.ch:80/wosind.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-16"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/start.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-09"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/massangabenduoblock.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-08-28"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/massangabenkitcase.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-08-28"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/formularduoblock.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-08-11"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/formularkietcase.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-08-11"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/formularmondriano.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-06-05"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/bilder/planduokl.jpeg+",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-09-06"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/bilder/colorlinegr.jpeg+",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-09-03"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/bilder/bildkitcase.jpeg+",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-07-24"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/bilder/bad3.jpeg+",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-06-10"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/bilder/duoblock.jpeg+",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-06-10"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/bilder/duoblockgr.jpeg+",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-01-20"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/bilder/mondriano.jpeg+",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-10-14"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/bilder/planmondrianokl.jpeg+",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-10-14"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/e/csm_Stefan-Hagen_e746813814.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/e/csm_Stefan-Hagen_f0d809b448.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/2/csm_Reperaturservice-Fadil_2_01081badae.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/2/csm_Reperaturservice-Fadil_2_4c039a754a.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/2/csm_Reperaturservice-Fadil_2_8017c048de.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/2/csm_Reperaturservice-Fadil_2_90d1315329.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/4/csm_Martin-Tanner-1_8c62f4d43a.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/4/csm_Martin-Tanner-1_b8ce4cc113.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/4/csm_Martin-Tanner-1_c4b9986d3d.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/4/csm_Martin-Tanner-1_d9170e0812.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/c/csm_Elgg-Panorama-Ansicht._8f4a5d1fd0.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/c/csm_Elgg-Panorama-Ansicht._9a37a393ac.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/c/csm_Elgg-Panorama-Ansicht._cea9e3b50c.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/c/csm_Elgg-Panorama-Ansicht._dd9d7cdd11.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/c/csm_Gabriela-Mohr_18e2f85b96.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/c/csm_Gabriela-Mohr_c0a4d0f46e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/c/csm_Gabriela-Mohr_d71d909556.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/c/csm_Gabriela-Mohr_e9fde7de1f.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/f/csm_Andreas_Koller_1_3bc8b98d73.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/f/csm_Andreas_Koller_1_befd02e03c.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/f/csm_Andreas_Koller_1_f0defc0aa6.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/f/csm_Neklas-Beck-2_3600afcef1.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/f/csm_Neklas-Beck-2_bd5deaad89.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/f/csm_Neklas-Beck-2_d8111dae8e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/1/f/csm_Neklas-Beck-2_f41e30709f.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/3/csm_Urs-Keller_0f60da73d7.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/3/csm_Urs-Keller_76914a7cf8.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/3/csm_Urs-Keller_bd01118aaa.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/3/csm_Urs-Keller_c2ddf5a698.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/7/csm_Cornelia-Mueller-1_2997a0b622.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/7/csm_Cornelia-Mueller-1_9640cbf549.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/2/7/csm_Cornelia-Mueller-1_b27b09cd46.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/5/2/csm_Angelo-Tortelli_65636d961b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/5/2/csm_Angelo-Tortelli_faaf421163.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/0/csm_Eva-Wuethrich_6094d91ef2.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/0/csm_Eva-Wuethrich_de23c9becc.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/0/csm_Eva-Wuethrich_e94ade7066.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/0/csm_Eva-Wuethrich_fa2f6ffd23.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/0/csm_Markus-Schmid-1_4d351f8d00.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/0/csm_Markus-Schmid-1_b657d503e7.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/0/csm_Markus-Schmid-1_e38a721d37.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/0/csm_Markus-Schmid-1_f988b6f218.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/1/csm_Bugra-Bagci-2_60080f8855.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/1/csm_Bugra-Bagci-2_7ce0a78e54.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/1/csm_Bugra-Bagci-2_b4320f309c.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/1/csm_Bugra-Bagci-2_f6ddc97b4a.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/3/csm_Johannes-Rupprecht_0250363e71.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/3/csm_Johannes-Rupprecht_52d6bf7131.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/3/csm_Johannes-Rupprecht_f607669971.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/3/csm_Johannes-Rupprecht_f7f499dd97.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/d/csm_Markus-Schleuniger_01f7441c35.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/d/csm_Markus-Schleuniger_08a09b5e28.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/d/csm_Markus-Schleuniger_1df59a5127.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/6/d/csm_Markus-Schleuniger_61acd39605.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/7/9/csm_Philipp-Anderes-1_5c7272e852.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/7/9/csm_Philipp-Anderes-1_a0bd6277cf.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/7/9/csm_Philipp-Anderes-1_a3f8fd6223.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/7/9/csm_Philipp-Anderes-1_b3223ca35c.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/7/a/csm_Fadil-Aliu_59ab7ee196.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/7/a/csm_Fadil-Aliu_693b68a33c.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/7/a/csm_Fadil-Aliu_dccb2e2879.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/7/a/csm_Fadil-Aliu_ffeab08e4d.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/7/d/csm_Urs-Fries-2_0f5241dfc1.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/7/d/csm_Urs-Fries-2_6df858948f.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/b/f/csm_Nadine-Weber-2_4c0fbc4762.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/b/f/csm_Nadine-Weber-2_4dda140994.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/b/f/csm_Nadine-Weber-2_8364b18ca9.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/c/3/csm_Felipe-Maciel_0bfecf105b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/c/3/csm_Felipe-Maciel_ad4cff7f4f.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/c/3/csm_Felipe-Maciel_c9d5fb36aa.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/c/d/csm_Janos-Hunziker_0dbb043d22.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/c/d/csm_Janos-Hunziker_108aee9ef4.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/c/d/csm_Janos-Hunziker_6b841b4539.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/c/d/csm_Janos-Hunziker_d93b623be8.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/d/e/csm_Beat-Schmid_4072ef960c.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/d/e/csm_Beat-Schmid_41bf531d36.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/d/e/csm_Beat-Schmid_8572cbe1a3.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/d/e/csm_Beat-Schmid_daba2c78d5.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/5/csm_ELIBAG_-_Teamfoto_c8c93848f0.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/5/csm_ELIBAG_-_Teamfoto_d9e42e267e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/5/csm_ELIBAG_-_Teamfoto_ee354190e5.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/5/csm_ELIBAG_-_Teamfoto_f25fa6cc80.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/9/csm_Untertor_13__4.OG-06_21f98b49ca.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/9/csm_Untertor_13__4.OG-06_3ac37a613a.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/9/csm_Untertor_13__4.OG-06_4933e86624.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/9/csm_Untertor_13__4.OG-06_8b46dfaa0a.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/a/csm_Kevin_Baechlin_485352bf48.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/a/csm_Kevin_Baechlin_77f4b9283b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/a/csm_Kevin_Baechlin_874096da5f.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/a/csm_Kevin_Baechlin_95f73714c5.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/a/csm_Muzafer-Aliji-1_8983d5d395.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/a/csm_Muzafer-Aliji-1_b335b39dbf.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/a/csm_Muzafer-Aliji-1_ca797b1539.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/e/a/csm_Muzafer-Aliji-1_e38e0476d2.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/f/3/csm_Thomas-Lutz-1_43f720be92.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/f/3/csm_Thomas-Lutz-1_71bb76f921.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/kitcase_Prospekt_01___2018.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/KomfortPlus_2025.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Merkblatt_zum_Kochen_mit_Induktion.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Regietarif_2025.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Tipps_und_Hinweise_2023_11.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Tueren_ABC.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Tuerunterhalt_2024.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Wartung_der_Moebelscharniere.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Westag-Tueren_Katalog_2023.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/innenausbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/kontakt-standort/danke/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/kuechen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/oeffnungszeiten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/e-bahnhofstr-33/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/effretikon/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/elgg-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/elgg-leibueel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/hoeri-wehntaler/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/schlatt-lisihalde/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/seuzach-breitestrasse/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/seuzach-strehlgasse/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/seuzach/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/wiesendangen-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/wiesendangen-neinerstrasse/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/winterthur-breite/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/winterthur-obere-schoentalstrasse/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/winterthur-obertor/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/detail/zuerich-leutschenbach/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/kuechen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/objektkuechen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/referenzen/schreinerarbeiten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/reparaturservice/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/tueren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://www.elibag.ch/elggertueren",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "URL": "https://elibag.ch/elggerbuerokuechen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/info_stellen/sponsoring",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/info_stellen/stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/altstadt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/buecherregale",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/daettnau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/duebendorf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/Effretikon",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/elgg2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/elsau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/empfang",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/grafenstein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/gundetswil",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/hochwacht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/Naenikon",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/oberfeld",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/ohrbuehl",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/ossingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/Seuzach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/test",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/toess",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/toesstal",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/veltheim",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/veltheim3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/wiesendangen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/Wil",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/winterthur-veltheim2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.elibag.ch/elggerumbauservice",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.elibag.ch/unternehmen/standort",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/hochfelden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/mattenbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/schraenke",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/seen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/zuerich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://www.elibag.ch/elggerinnenausbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-08"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/glarnerland",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://elibag.ch/portfolio/west",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/user_upload/Downloads/Nachfolge-in-der-Geschaeftsleitung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-31"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/3.6_Granit-Rating__37_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-05"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/4_10_Zertifikat_Shipstern_2008.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-05"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/6.1_PEFC-Zertifikat_fuer_Tueren__68_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-05"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/PDF/1.2_Tipps_und_Hinweise.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-05"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/1.11_Engagement_2016.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-03"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/2.11_fuer_CORIAN-Oberflaechen__44_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-03"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/3.3_Wartung_der_Moebelscharniere__51_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-03"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/3.7_Tuerunterhalt__37_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-03"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/5.4_Rolldoor.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-03"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/1.10_Rechte_und_Pflichten_fuer_Lehrbetrieb__Lernende_und_Eltern.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/1.3_Tueren-Auftraege_2015_Q2_2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/1.4_Organigramm_2016.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/1.5_Spickzettel_fuer_die_Kuechenplanung__95_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/2.10_fuer_HiMacs-Oberflaechen__42_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/2.1_fuer_rostfreien_Stahl__36_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/2.2_fuer_farbig_lackierte_Holzoberflaechen__31_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/2.4_fuer_natuerlich_behandelte_Holzoberflaechen__33_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/2.5_fuer_Kuechenabdeckungen_aus_Naturstein__31_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/2.7_fuer_ACRYLUX-Oberflaechen__34_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/2.8_fuer_Glas-Oberflaechen__37_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/3.2_Gebrauchsanweisung_4-Punkt-Sicherheitsverschluss_GLUTZ_TREPLANE_1838__52_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/3.2_Gebrauchsanweisung_4-Punkt-Sicherheitsverschluss_SCHAENIS_S-Lock_1270__49_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/3.4_Tueren_ABC__58_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/3.8_Batteriewechsel_BLUM_SERVO-DRIVE__301_KB_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/4.17_RPK_Pruefbericht_Lohnbuchkontrolle_2015.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/4.4_BerichtZKB-Gipfeli.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/4_15_Artikel_Hollywood.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/5.1_Case_Buero.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/5.3_Color-Line.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/5.5_Design-Line.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch/fileadmin/user_upload/Downloads/winterthurer-zeitung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-02"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/info.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/kuechwahl.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-03-09"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/arnika.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-03-01"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/tuer.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-02-16"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/chrom.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-02-15"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/innen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-02-15"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/kuechkomp.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-02-15"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/kitcase.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-02-05"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/tueren.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-02-05"
+    },
+    {
+      "URL": "http://www.elibag.ch:80/default.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "1999-02-18"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/9/csm_Seraina-Rahm-2_d2fc32682c.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/c/csm_Stellvertreter-Buero_2fd57f8d2e.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/c/csm_Stellvertreter-Buero_3cec23ed33.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/c/csm_Stellvertreter-Buero_880c795f6b.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/c/csm_Stellvertreter-Buero_9da54ac3df.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/e/csm_Karin-Naindenel-Frauenfelder-3_299af51ad7.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/e/csm_Karin-Naindenel-Frauenfelder-3_2abaf1e457.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/e/csm_Karin-Naindenel-Frauenfelder-3_ba6c1af42a.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/e/csm_Karin-Naindenel-Frauenfelder-3_c63f28d618.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/e/csm_Stefan-Hagen_3d2dcd4a44.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.elibag.ch/fileadmin/_processed_/0/e/csm_Stefan-Hagen_a476342f03.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "Keine Daten gefunden",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "0000-00-00"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41523686161",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "Telefonnummern": "+41527289010",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    }
+  ],
+  "service": [
+    {
+      "Port": 443,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "170.17.140.58",
+      "Domain/Subdomain": "58.140.17.170.static.wline.lns.sme.cust.swisscom.ch, remote.elibag.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/o:fortinet:fortios",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

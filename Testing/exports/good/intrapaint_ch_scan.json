@@ -1,0 +1,2689 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "194.150.248.126",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx01.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx02.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns119.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Name Server": "ns120.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 ip4:194.150.248.126 include:_spf.tophost.ch include:relay.mailchannels.net +mx +a +ip4:194.150.248.66 ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "1209600",
+      "Serial": "2025042201",
+      "Refresh": "3600",
+      "Hostmaster": "admin.novatrend.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "ns119.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "194.150.248.126",
+      "PTR-Domain": "srv119.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "intrapaint.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "autodiscover.intrapaint.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "beta.intrapaint.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "beta.intrapaint.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "cpanel.intrapaint.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "cpcalendars.intrapaint.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "cpcontacts.intrapaint.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "mail.intrapaint.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "webdisk.intrapaint.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "webmail.intrapaint.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-22",
+      "Gültig bis": "2025-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Gültig ab": "2025-04-22",
+      "Gültig bis": "2025-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Gültig ab": "2025-03-26",
+      "Gültig bis": "2025-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-26"
+    },
+    {
+      "Gültig ab": "2025-03-26",
+      "Gültig bis": "2025-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-26"
+    },
+    {
+      "Gültig ab": "2025-02-20",
+      "Gültig bis": "2025-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-20"
+    },
+    {
+      "Gültig ab": "2025-02-20",
+      "Gültig bis": "2025-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-20"
+    },
+    {
+      "Gültig ab": "2025-01-24",
+      "Gültig bis": "2025-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-24"
+    },
+    {
+      "Gültig ab": "2025-01-24",
+      "Gültig bis": "2025-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-24"
+    },
+    {
+      "Gültig ab": "2024-12-21",
+      "Gültig bis": "2025-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-21"
+    },
+    {
+      "Gültig ab": "2024-12-21",
+      "Gültig bis": "2025-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-21"
+    },
+    {
+      "Gültig ab": "2024-11-24",
+      "Gültig bis": "2025-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-24"
+    },
+    {
+      "Gültig ab": "2024-11-24",
+      "Gültig bis": "2025-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-24"
+    },
+    {
+      "Gültig ab": "2024-10-21",
+      "Gültig bis": "2025-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-21"
+    },
+    {
+      "Gültig ab": "2024-10-21",
+      "Gültig bis": "2025-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-21"
+    },
+    {
+      "Gültig ab": "2024-09-23",
+      "Gültig bis": "2024-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "Gültig ab": "2024-09-23",
+      "Gültig bis": "2024-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "Gültig ab": "2024-08-21",
+      "Gültig bis": "2024-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-21"
+    },
+    {
+      "Gültig ab": "2024-08-21",
+      "Gültig bis": "2024-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-21"
+    },
+    {
+      "Gültig ab": "2024-07-24",
+      "Gültig bis": "2024-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-25"
+    },
+    {
+      "Gültig ab": "2024-07-24",
+      "Gültig bis": "2024-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-25"
+    },
+    {
+      "Gültig ab": "2024-06-21",
+      "Gültig bis": "2024-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-21"
+    },
+    {
+      "Gültig ab": "2024-06-21",
+      "Gültig bis": "2024-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-21"
+    },
+    {
+      "Gültig ab": "2024-05-24",
+      "Gültig bis": "2024-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-25"
+    },
+    {
+      "Gültig ab": "2024-05-24",
+      "Gültig bis": "2024-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-25"
+    },
+    {
+      "Gültig ab": "2024-04-21",
+      "Gültig bis": "2024-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "Gültig ab": "2024-04-21",
+      "Gültig bis": "2024-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-21"
+    },
+    {
+      "Gültig ab": "2024-03-24",
+      "Gültig bis": "2024-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-24"
+    },
+    {
+      "Gültig ab": "2024-03-24",
+      "Gültig bis": "2024-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-24"
+    },
+    {
+      "Gültig ab": "2024-02-20",
+      "Gültig bis": "2024-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "Gültig ab": "2024-02-20",
+      "Gültig bis": "2024-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "Gültig ab": "2024-01-23",
+      "Gültig bis": "2024-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-01-23"
+    },
+    {
+      "Gültig ab": "2024-01-23",
+      "Gültig bis": "2024-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-01-23"
+    },
+    {
+      "Gültig ab": "2023-12-21",
+      "Gültig bis": "2024-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-21"
+    },
+    {
+      "Gültig ab": "2023-12-21",
+      "Gültig bis": "2024-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-21"
+    },
+    {
+      "Gültig ab": "2023-11-23",
+      "Gültig bis": "2024-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-23"
+    },
+    {
+      "Gültig ab": "2023-11-23",
+      "Gültig bis": "2024-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-23"
+    },
+    {
+      "Gültig ab": "2023-10-20",
+      "Gültig bis": "2024-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-10-21"
+    },
+    {
+      "Gültig ab": "2023-10-20",
+      "Gültig bis": "2024-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-10-21"
+    },
+    {
+      "Gültig ab": "2023-09-23",
+      "Gültig bis": "2023-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-23"
+    },
+    {
+      "Gültig ab": "2023-09-23",
+      "Gültig bis": "2023-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-23"
+    },
+    {
+      "Gültig ab": "2023-08-20",
+      "Gültig bis": "2023-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-08-21"
+    },
+    {
+      "Gültig ab": "2023-08-20",
+      "Gültig bis": "2023-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-08-21"
+    },
+    {
+      "Gültig ab": "2023-07-24",
+      "Gültig bis": "2023-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-07-24"
+    },
+    {
+      "Gültig ab": "2023-07-24",
+      "Gültig bis": "2023-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-07-24"
+    },
+    {
+      "Gültig ab": "2023-06-20",
+      "Gültig bis": "2023-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-21"
+    },
+    {
+      "Gültig ab": "2023-06-20",
+      "Gültig bis": "2023-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-21"
+    },
+    {
+      "Gültig ab": "2023-05-24",
+      "Gültig bis": "2023-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-24"
+    },
+    {
+      "Gültig ab": "2023-05-24",
+      "Gültig bis": "2023-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-24"
+    },
+    {
+      "Gültig ab": "2023-04-20",
+      "Gültig bis": "2023-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-04-21"
+    },
+    {
+      "Gültig ab": "2023-04-20",
+      "Gültig bis": "2023-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-04-21"
+    },
+    {
+      "Gültig ab": "2023-04-20",
+      "Gültig bis": "2023-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-04-20"
+    },
+    {
+      "Gültig ab": "2023-04-20",
+      "Gültig bis": "2023-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-04-20"
+    },
+    {
+      "Gültig ab": "2023-03-27",
+      "Gültig bis": "2023-06-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-27"
+    },
+    {
+      "Gültig ab": "2023-03-27",
+      "Gültig bis": "2023-06-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-03-27"
+    },
+    {
+      "Gültig ab": "2023-02-21",
+      "Gültig bis": "2023-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-21"
+    },
+    {
+      "Gültig ab": "2023-02-21",
+      "Gültig bis": "2023-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-21"
+    },
+    {
+      "Gültig ab": "2023-02-20",
+      "Gültig bis": "2023-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-20"
+    },
+    {
+      "Gültig ab": "2023-02-20",
+      "Gültig bis": "2023-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-20"
+    },
+    {
+      "Gültig ab": "2023-01-28",
+      "Gültig bis": "2023-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-01-28"
+    },
+    {
+      "Gültig ab": "2023-01-28",
+      "Gültig bis": "2023-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-01-28"
+    },
+    {
+      "Gültig ab": "2022-12-24",
+      "Gültig bis": "2023-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-12-24"
+    },
+    {
+      "Gültig ab": "2022-12-24",
+      "Gültig bis": "2023-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-12-24"
+    },
+    {
+      "Gültig ab": "2022-12-23",
+      "Gültig bis": "2023-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-12-23"
+    },
+    {
+      "Gültig ab": "2022-12-23",
+      "Gültig bis": "2023-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-12-23"
+    },
+    {
+      "Gültig ab": "2022-12-01",
+      "Gültig bis": "2023-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-12-01"
+    },
+    {
+      "Gültig ab": "2022-12-01",
+      "Gültig bis": "2023-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-12-01"
+    },
+    {
+      "Gültig ab": "2022-10-25",
+      "Gültig bis": "2023-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-10-26"
+    },
+    {
+      "Gültig ab": "2022-10-25",
+      "Gültig bis": "2023-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-10-26"
+    },
+    {
+      "Gültig ab": "2022-10-25",
+      "Gültig bis": "2023-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-10-25"
+    },
+    {
+      "Gültig ab": "2022-10-25",
+      "Gültig bis": "2023-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-10-25"
+    },
+    {
+      "Gültig ab": "2022-10-04",
+      "Gültig bis": "2023-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-10-04"
+    },
+    {
+      "Gültig ab": "2022-10-04",
+      "Gültig bis": "2023-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-10-04"
+    },
+    {
+      "Gültig ab": "2022-08-27",
+      "Gültig bis": "2022-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-08-28"
+    },
+    {
+      "Gültig ab": "2022-08-27",
+      "Gültig bis": "2022-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-08-28"
+    },
+    {
+      "Gültig ab": "2022-08-27",
+      "Gültig bis": "2022-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-08-27"
+    },
+    {
+      "Gültig ab": "2022-08-27",
+      "Gültig bis": "2022-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-08-27"
+    },
+    {
+      "Gültig ab": "2022-08-06",
+      "Gültig bis": "2022-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-08-07"
+    },
+    {
+      "Gültig ab": "2022-08-06",
+      "Gültig bis": "2022-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-08-07"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-30"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-30"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-09",
+      "Gültig bis": "2022-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-09"
+    },
+    {
+      "Gültig ab": "2022-06-09",
+      "Gültig bis": "2022-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-09"
+    },
+    {
+      "Gültig ab": "2022-05-01",
+      "Gültig bis": "2022-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-02"
+    },
+    {
+      "Gültig ab": "2022-05-01",
+      "Gültig bis": "2022-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-02"
+    },
+    {
+      "Gültig ab": "2022-05-01",
+      "Gültig bis": "2022-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-01"
+    },
+    {
+      "Gültig ab": "2022-05-01",
+      "Gültig bis": "2022-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-01"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-04-12"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-04-12"
+    },
+    {
+      "Gültig ab": "2022-03-04",
+      "Gültig bis": "2022-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-03-04"
+    },
+    {
+      "Gültig ab": "2022-03-04",
+      "Gültig bis": "2022-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-03-04"
+    },
+    {
+      "Gültig ab": "2022-03-03",
+      "Gültig bis": "2022-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-03-03"
+    },
+    {
+      "Gültig ab": "2022-03-03",
+      "Gültig bis": "2022-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-03-03"
+    },
+    {
+      "Gültig ab": "2022-02-12",
+      "Gültig bis": "2022-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-02-12"
+    },
+    {
+      "Gültig ab": "2022-02-12",
+      "Gültig bis": "2022-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-02-12"
+    },
+    {
+      "Gültig ab": "2022-01-04",
+      "Gültig bis": "2022-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-01-04"
+    },
+    {
+      "Gültig ab": "2022-01-04",
+      "Gültig bis": "2022-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-01-04"
+    },
+    {
+      "Gültig ab": "2022-01-03",
+      "Gültig bis": "2022-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-01-03"
+    },
+    {
+      "Gültig ab": "2022-01-03",
+      "Gültig bis": "2022-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-01-03"
+    },
+    {
+      "Gültig ab": "2021-12-16",
+      "Gültig bis": "2022-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-12-16"
+    },
+    {
+      "Gültig ab": "2021-12-16",
+      "Gültig bis": "2022-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-12-16"
+    },
+    {
+      "Gültig ab": "2021-11-06",
+      "Gültig bis": "2022-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-11-06"
+    },
+    {
+      "Gültig ab": "2021-11-06",
+      "Gültig bis": "2022-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-11-06"
+    },
+    {
+      "Gültig ab": "2021-11-05",
+      "Gültig bis": "2022-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-11-05"
+    },
+    {
+      "Gültig ab": "2021-11-05",
+      "Gültig bis": "2022-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-11-05"
+    },
+    {
+      "Gültig ab": "2021-10-19",
+      "Gültig bis": "2022-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-10-19"
+    },
+    {
+      "Gültig ab": "2021-10-19",
+      "Gültig bis": "2022-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-10-19"
+    },
+    {
+      "Gültig ab": "2021-09-07",
+      "Gültig bis": "2021-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-09-08"
+    },
+    {
+      "Gültig ab": "2021-09-07",
+      "Gültig bis": "2021-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-09-08"
+    },
+    {
+      "Gültig ab": "2021-09-07",
+      "Gültig bis": "2021-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-09-07"
+    },
+    {
+      "Gültig ab": "2021-09-07",
+      "Gültig bis": "2021-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-09-07"
+    },
+    {
+      "Gültig ab": "2021-08-22",
+      "Gültig bis": "2021-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-08-22"
+    },
+    {
+      "Gültig ab": "2021-08-22",
+      "Gültig bis": "2021-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-08-22"
+    },
+    {
+      "Gültig ab": "2021-07-10",
+      "Gültig bis": "2021-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-07-11"
+    },
+    {
+      "Gültig ab": "2021-07-10",
+      "Gültig bis": "2021-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-07-11"
+    },
+    {
+      "Gültig ab": "2021-07-10",
+      "Gültig bis": "2021-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-07-10"
+    },
+    {
+      "Gültig ab": "2021-07-10",
+      "Gültig bis": "2021-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-07-10"
+    },
+    {
+      "Gültig ab": "2021-06-25",
+      "Gültig bis": "2021-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-06-25"
+    },
+    {
+      "Gültig ab": "2021-06-25",
+      "Gültig bis": "2021-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-06-25"
+    },
+    {
+      "Gültig ab": "2021-05-12",
+      "Gültig bis": "2021-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-13"
+    },
+    {
+      "Gültig ab": "2021-05-12",
+      "Gültig bis": "2021-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-13"
+    },
+    {
+      "Gültig ab": "2021-05-12",
+      "Gültig bis": "2021-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-12"
+    },
+    {
+      "Gültig ab": "2021-05-12",
+      "Gültig bis": "2021-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-12"
+    },
+    {
+      "Gültig ab": "2021-04-27",
+      "Gültig bis": "2021-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-04-27"
+    },
+    {
+      "Gültig ab": "2021-04-27",
+      "Gültig bis": "2021-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-04-27"
+    },
+    {
+      "Gültig ab": "2021-03-15",
+      "Gültig bis": "2021-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-03-15"
+    },
+    {
+      "Gültig ab": "2021-03-15",
+      "Gültig bis": "2021-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-03-15"
+    },
+    {
+      "Gültig ab": "2021-03-14",
+      "Gültig bis": "2021-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-03-14"
+    },
+    {
+      "Gültig ab": "2021-03-14",
+      "Gültig bis": "2021-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-03-14"
+    },
+    {
+      "Gültig ab": "2021-02-28",
+      "Gültig bis": "2021-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-02-28"
+    },
+    {
+      "Gültig ab": "2021-02-28",
+      "Gültig bis": "2021-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-02-28"
+    },
+    {
+      "Gültig ab": "2021-01-15",
+      "Gültig bis": "2021-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-01-15"
+    },
+    {
+      "Gültig ab": "2021-01-15",
+      "Gültig bis": "2021-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-01-15"
+    },
+    {
+      "Gültig ab": "2021-01-14",
+      "Gültig bis": "2021-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-01-14"
+    },
+    {
+      "Gültig ab": "2021-01-14",
+      "Gültig bis": "2021-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-01-14"
+    },
+    {
+      "Gültig ab": "2020-12-31",
+      "Gültig bis": "2021-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-12-31"
+    },
+    {
+      "Gültig ab": "2020-12-31",
+      "Gültig bis": "2021-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-12-31"
+    },
+    {
+      "Gültig ab": "2020-11-17",
+      "Gültig bis": "2021-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-11-17"
+    },
+    {
+      "Gültig ab": "2020-11-17",
+      "Gültig bis": "2021-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-11-17"
+    },
+    {
+      "Gültig ab": "2020-11-16",
+      "Gültig bis": "2021-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-11-16"
+    },
+    {
+      "Gültig ab": "2020-11-16",
+      "Gültig bis": "2021-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-11-16"
+    },
+    {
+      "Gültig ab": "2020-11-03",
+      "Gültig bis": "2021-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-11-03"
+    },
+    {
+      "Gültig ab": "2020-11-03",
+      "Gültig bis": "2021-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-11-03"
+    },
+    {
+      "Gültig ab": "2020-09-18",
+      "Gültig bis": "2020-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "Gültig ab": "2020-09-18",
+      "Gültig bis": "2020-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "Gültig ab": "2020-09-18",
+      "Gültig bis": "2020-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-18"
+    },
+    {
+      "Gültig ab": "2020-09-18",
+      "Gültig bis": "2020-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-18"
+    },
+    {
+      "Gültig ab": "2020-09-06",
+      "Gültig bis": "2020-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-06"
+    },
+    {
+      "Gültig ab": "2020-09-06",
+      "Gültig bis": "2020-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-06"
+    },
+    {
+      "Gültig ab": "2020-07-21",
+      "Gültig bis": "2020-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-22"
+    },
+    {
+      "Gültig ab": "2020-07-21",
+      "Gültig bis": "2020-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.intrapaint.ch, intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-22"
+    },
+    {
+      "Gültig ab": "2020-07-09",
+      "Gültig bis": "2020-10-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-09"
+    },
+    {
+      "Gültig ab": "2020-07-09",
+      "Gültig bis": "2020-10-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-09"
+    },
+    {
+      "Gültig ab": "2020-07-09",
+      "Gültig bis": "2020-10-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-09"
+    },
+    {
+      "Gültig ab": "2020-07-09",
+      "Gültig bis": "2020-10-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-09"
+    },
+    {
+      "Gültig ab": "2020-07-08",
+      "Gültig bis": "2020-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-08"
+    },
+    {
+      "Gültig ab": "2020-07-08",
+      "Gültig bis": "2020-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-08"
+    },
+    {
+      "Gültig ab": "2020-07-08",
+      "Gültig bis": "2020-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-08"
+    },
+    {
+      "Gültig ab": "2020-07-08",
+      "Gültig bis": "2020-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.intrapaint.ch, www.beta.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-08"
+    },
+    {
+      "Gültig ab": "2020-07-01",
+      "Gültig bis": "2020-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, cpcalendars.intrapaint.ch, cpcontacts.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-01"
+    },
+    {
+      "Gültig ab": "2020-07-01",
+      "Gültig bis": "2020-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, cpcalendars.intrapaint.ch, cpcontacts.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-07-01"
+    },
+    {
+      "Gültig ab": "2020-06-30",
+      "Gültig bis": "2020-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-06-30"
+    },
+    {
+      "Gültig ab": "2020-06-30",
+      "Gültig bis": "2020-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-06-30"
+    },
+    {
+      "Gültig ab": "2020-05-03",
+      "Gültig bis": "2020-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, cpcalendars.intrapaint.ch, cpcontacts.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-05-03"
+    },
+    {
+      "Gültig ab": "2020-05-03",
+      "Gültig bis": "2020-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, cpcalendars.intrapaint.ch, cpcontacts.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-05-03"
+    },
+    {
+      "Gültig ab": "2020-05-02",
+      "Gültig bis": "2020-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-05-02"
+    },
+    {
+      "Gültig ab": "2020-05-02",
+      "Gültig bis": "2020-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-05-02"
+    },
+    {
+      "Gültig ab": "2020-03-05",
+      "Gültig bis": "2020-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, cpcalendars.intrapaint.ch, cpcontacts.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-03-05"
+    },
+    {
+      "Gültig ab": "2020-03-05",
+      "Gültig bis": "2020-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, cpcalendars.intrapaint.ch, cpcontacts.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-03-05"
+    },
+    {
+      "Gültig ab": "2020-03-03",
+      "Gültig bis": "2020-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-03-03"
+    },
+    {
+      "Gültig ab": "2020-03-03",
+      "Gültig bis": "2020-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-03-03"
+    },
+    {
+      "Gültig ab": "2020-03-03",
+      "Gültig bis": "2020-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-03-03"
+    },
+    {
+      "Gültig ab": "2020-03-03",
+      "Gültig bis": "2020-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-03-03"
+    },
+    {
+      "Gültig ab": "2020-01-05",
+      "Gültig bis": "2020-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-01-05"
+    },
+    {
+      "Gültig ab": "2020-01-05",
+      "Gültig bis": "2020-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-01-05"
+    },
+    {
+      "Gültig ab": "2020-01-04",
+      "Gültig bis": "2020-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-01-04"
+    },
+    {
+      "Gültig ab": "2020-01-04",
+      "Gültig bis": "2020-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-01-04"
+    },
+    {
+      "Gültig ab": "2019-11-07",
+      "Gültig bis": "2020-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-11-07"
+    },
+    {
+      "Gültig ab": "2019-11-07",
+      "Gültig bis": "2020-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-11-07"
+    },
+    {
+      "Gültig ab": "2019-11-06",
+      "Gültig bis": "2020-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-11-06"
+    },
+    {
+      "Gültig ab": "2019-11-06",
+      "Gültig bis": "2020-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-11-06"
+    },
+    {
+      "Gültig ab": "2019-09-08",
+      "Gültig bis": "2019-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-09-09"
+    },
+    {
+      "Gültig ab": "2019-09-08",
+      "Gültig bis": "2019-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-09-09"
+    },
+    {
+      "Gültig ab": "2019-09-08",
+      "Gültig bis": "2019-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-09-08"
+    },
+    {
+      "Gültig ab": "2019-09-08",
+      "Gültig bis": "2019-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-09-08"
+    },
+    {
+      "Gültig ab": "2019-07-11",
+      "Gültig bis": "2019-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-07-12"
+    },
+    {
+      "Gültig ab": "2019-07-11",
+      "Gültig bis": "2019-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-07-12"
+    },
+    {
+      "Gültig ab": "2019-07-11",
+      "Gültig bis": "2019-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-07-11"
+    },
+    {
+      "Gültig ab": "2019-07-11",
+      "Gültig bis": "2019-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-07-11"
+    },
+    {
+      "Gültig ab": "2019-05-13",
+      "Gültig bis": "2019-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-05-14"
+    },
+    {
+      "Gültig ab": "2019-05-13",
+      "Gültig bis": "2019-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-05-14"
+    },
+    {
+      "Gültig ab": "2019-05-13",
+      "Gültig bis": "2019-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-05-13"
+    },
+    {
+      "Gültig ab": "2019-05-13",
+      "Gültig bis": "2019-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-05-13"
+    },
+    {
+      "Gültig ab": "2019-03-16",
+      "Gültig bis": "2019-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-03-16"
+    },
+    {
+      "Gültig ab": "2019-03-16",
+      "Gültig bis": "2019-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-03-16"
+    },
+    {
+      "Gültig ab": "2019-03-15",
+      "Gültig bis": "2019-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-03-15"
+    },
+    {
+      "Gültig ab": "2019-03-15",
+      "Gültig bis": "2019-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-03-15"
+    },
+    {
+      "Gültig ab": "2019-01-16",
+      "Gültig bis": "2019-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "Gültig ab": "2019-01-16",
+      "Gültig bis": "2019-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "Gültig ab": "2019-01-15",
+      "Gültig bis": "2019-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-01-15"
+    },
+    {
+      "Gültig ab": "2019-01-15",
+      "Gültig bis": "2019-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-01-15"
+    },
+    {
+      "Gültig ab": "2018-11-18",
+      "Gültig bis": "2019-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-11-18"
+    },
+    {
+      "Gültig ab": "2018-11-18",
+      "Gültig bis": "2019-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-11-18"
+    },
+    {
+      "Gültig ab": "2018-11-17",
+      "Gültig bis": "2019-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-11-17"
+    },
+    {
+      "Gültig ab": "2018-11-17",
+      "Gültig bis": "2019-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-11-17"
+    },
+    {
+      "Gültig ab": "2018-09-19",
+      "Gültig bis": "2018-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-20"
+    },
+    {
+      "Gültig ab": "2018-09-19",
+      "Gültig bis": "2018-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-20"
+    },
+    {
+      "Gültig ab": "2018-09-19",
+      "Gültig bis": "2018-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-20"
+    },
+    {
+      "Gültig ab": "2018-09-19",
+      "Gültig bis": "2018-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-20"
+    },
+    {
+      "Gültig ab": "2018-07-23",
+      "Gültig bis": "2018-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-07-24"
+    },
+    {
+      "Gültig ab": "2018-07-23",
+      "Gültig bis": "2018-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-07-24"
+    },
+    {
+      "Gültig ab": "2018-07-23",
+      "Gültig bis": "2018-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-07-23"
+    },
+    {
+      "Gültig ab": "2018-07-23",
+      "Gültig bis": "2018-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-07-23"
+    },
+    {
+      "Gültig ab": "2018-05-25",
+      "Gültig bis": "2018-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-05-26"
+    },
+    {
+      "Gültig ab": "2018-05-25",
+      "Gültig bis": "2018-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-05-26"
+    },
+    {
+      "Gültig ab": "2018-05-25",
+      "Gültig bis": "2018-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-05-26"
+    },
+    {
+      "Gültig ab": "2018-05-25",
+      "Gültig bis": "2018-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-05-26"
+    },
+    {
+      "Gültig ab": "2018-03-28",
+      "Gültig bis": "2018-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-03-29"
+    },
+    {
+      "Gültig ab": "2018-03-28",
+      "Gültig bis": "2018-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-03-28"
+    },
+    {
+      "Gültig ab": "2018-01-29",
+      "Gültig bis": "2018-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-01-29"
+    },
+    {
+      "Gültig ab": "2018-01-19",
+      "Gültig bis": "2018-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    },
+    {
+      "Gültig ab": "2018-01-18",
+      "Gültig bis": "2018-04-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-01-18"
+    },
+    {
+      "Gültig ab": "2018-01-13",
+      "Gültig bis": "2018-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-01-13"
+    },
+    {
+      "Gültig ab": "2017-11-13",
+      "Gültig bis": "2018-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-11-13"
+    },
+    {
+      "Gültig ab": "2017-09-12",
+      "Gültig bis": "2017-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.intrapaint.ch, cpanel.intrapaint.ch, intrapaint.ch, mail.intrapaint.ch, webdisk.intrapaint.ch, webmail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-09-13"
+    },
+    {
+      "Gültig ab": "2017-07-11",
+      "Gültig bis": "2017-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "intrapaint.ch, mail.intrapaint.ch, www.intrapaint.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-07-11"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details/wandtattoo-schriften.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/dienstleistungen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/kontakt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/news-details/grandel.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/news-details/kueche-klinkert-dachsen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/news-details/schlafzimmer-petra.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://intrapaint.ch/danke.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://intrapaint.ch/partner.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details/hochzeitsgeschenk-sonnenhof.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details/waage.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/news-leser.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-04-13"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-04-13"
+    },
+    {
+      "URL": "https://intrapaint.ch/das-intrapaint-team-aus-dem-weinland.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-11-28"
+    },
+    {
+      "URL": "https://intrapaint.ch/referenzen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-11-28"
+    },
+    {
+      "URL": "https://intrapaint.ch/unsere-partner.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-11-28"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details/103.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details/105.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details/107.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details/113.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details/117.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details/118.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details/119.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details/124.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details/125.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details/126.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details/ferienhaus-mettlen-tg-41.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/referenzen-details/waage-114.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2020-09-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/system/modules/pct_customelements/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-26"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/system/modules/pct_customelements/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-22"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/cto_layout/scripts/rs-plugin/font/revicons.ttf?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-21"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/cto_layout/scripts/rs-plugin/font/revicons.eot?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-20"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/system/modules/pct_customelements/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-19"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/cto_layout/scripts/rs-plugin/font/revicons.woff?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-15"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/favicon/manifest.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-14"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/system/modules/pct_customelements/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.woff?v=4.5.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-11"
+    },
+    {
+      "URL": "http://www.intrapaint.ch/startseite-malergeschaeft-intrapaint.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-10-27"
+    },
+    {
+      "URL": "http://www.intrapaint.ch:80/partner-781.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-08-26"
+    },
+    {
+      "URL": "http://www.intrapaint.ch:80/referenzen-details/121.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-08-26"
+    },
+    {
+      "URL": "http://www.intrapaint.ch:80/system/cron/cron.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-08-26"
+    },
+    {
+      "URL": "http://www.intrapaint.ch:80/startseite-malergeschaeft-intrabudda.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-08-25"
+    },
+    {
+      "URL": "https://intrapaint.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://intrapaint.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://intrapaint.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://intrapaint.ch/_contao/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-29"
+    },
+    {
+      "URL": "https://intrapaint.ch/contao/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-29"
+    },
+    {
+      "URL": "https://intrapaint.ch/contao/login?_hash=L0%2BnNUr5fx%2B9mOxxQpLrLMQC640MYSO0QEFQg4xbn1U%3D&redirect=https%3A%2F%2Fintrapaint.ch%2Fcontao%2F",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-29"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/_contao/captcha/de",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-29"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/team-detail/melanie-lanz.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/team-detail/thara-intrabudda.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/fonts/ubuntucondensed-regular-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-07-11"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/fonts/ubuntucondensed-regular-webfont.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-07-11"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/fonts/Trebuchet%20MS.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-28"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/fonts/Trebuchet%20MS.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-28"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/fonts/Trebuchet%20MS%20Bold.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-25"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/fonts/Trebuchet%20MS.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-25"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/fonts/ubuntucondensed-regular-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-25"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/cto_layout/font/icons.eot?158270",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-24"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/fonts/Trebuchet%20MS%20Bold.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-24"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/fonts/ubuntucondensed-regular-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-24"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/fonts/Trebuchet%20MS%20Bold.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-23"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/cto_layout/font/icons.woff?158270",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-22"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/files/cto_layout/font/icons.ttf?158270",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-21"
+    },
+    {
+      "URL": "https://intrapaint.ch/'https://intrapaint.ch/'",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-04-10"
+    },
+    {
+      "URL": "https://intrapaint.ch/referenzen-details/116.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-06"
+    },
+    {
+      "URL": "https://intrapaint.ch/referenzen-details/127.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-06"
+    },
+    {
+      "URL": "https://intrapaint.ch/referenzen-details/einfamilienhaus-in-benken.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-06"
+    },
+    {
+      "URL": "https://intrapaint.ch/referenzen-details/fachwerkhaus-marthalen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-06"
+    },
+    {
+      "URL": "https://intrapaint.ch/referenzen-details/gemeindehaus-marthalen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-06"
+    },
+    {
+      "URL": "https://intrapaint.ch/referenzen-details/hochzeitsgeschenk-sonnenhof.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-06"
+    },
+    {
+      "URL": "https://intrapaint.ch/referenzen-details/landihalle.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-06"
+    },
+    {
+      "URL": "https://intrapaint.ch/referenzen-details/verschiedene-arbeiten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-05-06"
+    },
+    {
+      "URL": "https://intrapaint.ch/news-leser/134.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-04-13"
+    },
+    {
+      "URL": "https://intrapaint.ch/news-leser/136.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-04-13"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/imprint.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-04-13"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details/fachwerkhaus-marthalen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details/gemeindehaus-zum-hirschen-marthalen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/news-details.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/news-details/seit-20-jahren-ein-auge-fuer-farben.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details/einfamilienhaus-benken.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details/fahnenmast.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details/fensterlaeden-lackierung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details/ferienhaus-im-mettlen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details/mehrfamilienhaus-rorbas.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details/parkpoller.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/arbeitsreferenzen-details/verschiedene-arbeiten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/inhaltsobjekte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/news-details/autobeschriftung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/news-details/kueche-marconi.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "URL": "https://www.intrapaint.ch/team-detail.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-21"
+    },
+    {
+      "URL": "https://intrapaint.ch/news-details/lehrabschluss.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://intrapaint.ch/ueber-uns.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://intrapaint.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-05"
+    },
+    {
+      "URL": "https://intrapaint.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://intrapaint.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://intrapaint.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://intrapaint.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://intrapaint.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://intrapaint.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://intrapaint.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://intrapaint.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@intrapaint.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41786020205",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

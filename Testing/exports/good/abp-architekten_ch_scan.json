@@ -1,0 +1,914 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "80.74.135.2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mail.abp-architekten.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ch.pro.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Name Server": "nl.pro.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Name Server": "p.dnh.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 include:_spf.sui-inter.net +mx +a -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "604800",
+      "Serial": "2023030600",
+      "Refresh": "10800",
+      "Hostmaster": "hostmaster.metanet.ch.",
+      "Minimum TTL": "1440",
+      "Primary Nameserver": "ch.pro.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "80.74.135.2",
+      "PTR-Domain": "valerius.ch-meta.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "abp-architekten.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "webmail.abp-architekten.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-24",
+      "Gültig bis": "2025-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-25"
+    },
+    {
+      "Gültig ab": "2025-04-24",
+      "Gültig bis": "2025-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-25"
+    },
+    {
+      "Gültig ab": "2025-02-23",
+      "Gültig bis": "2025-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-23"
+    },
+    {
+      "Gültig ab": "2025-02-23",
+      "Gültig bis": "2025-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-23"
+    },
+    {
+      "Gültig ab": "2024-12-25",
+      "Gültig bis": "2025-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-25"
+    },
+    {
+      "Gültig ab": "2024-12-25",
+      "Gültig bis": "2025-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-25"
+    },
+    {
+      "Gültig ab": "2024-10-25",
+      "Gültig bis": "2025-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-26"
+    },
+    {
+      "Gültig ab": "2024-10-25",
+      "Gültig bis": "2025-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-26"
+    },
+    {
+      "Gültig ab": "2024-08-26",
+      "Gültig bis": "2024-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-27"
+    },
+    {
+      "Gültig ab": "2024-08-26",
+      "Gültig bis": "2024-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-27"
+    },
+    {
+      "Gültig ab": "2024-06-27",
+      "Gültig bis": "2024-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-28"
+    },
+    {
+      "Gültig ab": "2024-06-27",
+      "Gültig bis": "2024-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-28"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-29"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-29"
+    },
+    {
+      "Gültig ab": "2024-02-29",
+      "Gültig bis": "2024-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "Gültig ab": "2024-02-29",
+      "Gültig bis": "2024-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "Gültig ab": "2023-12-31",
+      "Gültig bis": "2024-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-31"
+    },
+    {
+      "Gültig ab": "2023-12-31",
+      "Gültig bis": "2024-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-31"
+    },
+    {
+      "Gültig ab": "2023-11-01",
+      "Gültig bis": "2024-01-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-11-01"
+    },
+    {
+      "Gültig ab": "2023-11-01",
+      "Gültig bis": "2024-01-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-11-01"
+    },
+    {
+      "Gültig ab": "2023-09-01",
+      "Gültig bis": "2023-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-09-02"
+    },
+    {
+      "Gültig ab": "2023-09-01",
+      "Gültig bis": "2023-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-09-02"
+    },
+    {
+      "Gültig ab": "2023-07-03",
+      "Gültig bis": "2023-10-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-07-04"
+    },
+    {
+      "Gültig ab": "2023-07-03",
+      "Gültig bis": "2023-10-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-07-04"
+    },
+    {
+      "Gültig ab": "2023-05-04",
+      "Gültig bis": "2023-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-05-04",
+      "Gültig bis": "2023-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-03-05",
+      "Gültig bis": "2023-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-05"
+    },
+    {
+      "Gültig ab": "2023-03-05",
+      "Gültig bis": "2023-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, webmail.abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-05"
+    },
+    {
+      "Gültig ab": "2023-02-21",
+      "Gültig bis": "2023-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-02-21"
+    },
+    {
+      "Gültig ab": "2023-02-21",
+      "Gültig bis": "2023-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-02-21"
+    },
+    {
+      "Gültig ab": "2022-12-23",
+      "Gültig bis": "2023-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-12-23"
+    },
+    {
+      "Gültig ab": "2022-12-23",
+      "Gültig bis": "2023-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-12-23"
+    },
+    {
+      "Gültig ab": "2022-10-23",
+      "Gültig bis": "2023-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-10-24"
+    },
+    {
+      "Gültig ab": "2022-10-23",
+      "Gültig bis": "2023-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-10-24"
+    },
+    {
+      "Gültig ab": "2022-08-24",
+      "Gültig bis": "2022-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-08-25"
+    },
+    {
+      "Gültig ab": "2022-08-24",
+      "Gültig bis": "2022-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-08-25"
+    },
+    {
+      "Gültig ab": "2022-06-25",
+      "Gültig bis": "2022-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-06-26"
+    },
+    {
+      "Gültig ab": "2022-06-25",
+      "Gültig bis": "2022-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-06-26"
+    },
+    {
+      "Gültig ab": "2022-04-26",
+      "Gültig bis": "2022-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-27"
+    },
+    {
+      "Gültig ab": "2022-04-26",
+      "Gültig bis": "2022-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-27"
+    },
+    {
+      "Gültig ab": "2022-02-26",
+      "Gültig bis": "2022-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-02-26"
+    },
+    {
+      "Gültig ab": "2022-02-26",
+      "Gültig bis": "2022-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-02-26"
+    },
+    {
+      "Gültig ab": "2021-12-27",
+      "Gültig bis": "2022-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-12-27"
+    },
+    {
+      "Gültig ab": "2021-12-27",
+      "Gültig bis": "2022-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-12-27"
+    },
+    {
+      "Gültig ab": "2021-10-27",
+      "Gültig bis": "2022-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-10-28"
+    },
+    {
+      "Gültig ab": "2021-10-27",
+      "Gültig bis": "2022-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-10-28"
+    },
+    {
+      "Gültig ab": "2021-08-28",
+      "Gültig bis": "2021-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-08-29"
+    },
+    {
+      "Gültig ab": "2021-08-28",
+      "Gültig bis": "2021-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-08-29"
+    },
+    {
+      "Gültig ab": "2021-06-29",
+      "Gültig bis": "2021-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-06-30"
+    },
+    {
+      "Gültig ab": "2021-06-29",
+      "Gültig bis": "2021-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-06-30"
+    },
+    {
+      "Gültig ab": "2021-04-30",
+      "Gültig bis": "2021-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-05-01"
+    },
+    {
+      "Gültig ab": "2021-04-30",
+      "Gültig bis": "2021-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-05-01"
+    },
+    {
+      "Gültig ab": "2021-03-01",
+      "Gültig bis": "2021-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-03-01"
+    },
+    {
+      "Gültig ab": "2021-03-01",
+      "Gültig bis": "2021-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-03-01"
+    },
+    {
+      "Gültig ab": "2020-12-30",
+      "Gültig bis": "2021-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-12-30"
+    },
+    {
+      "Gültig ab": "2020-12-30",
+      "Gültig bis": "2021-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-12-30"
+    },
+    {
+      "Gültig ab": "2020-10-30",
+      "Gültig bis": "2021-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-10-30"
+    },
+    {
+      "Gültig ab": "2020-10-30",
+      "Gültig bis": "2021-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "abp-architekten.ch, www.abp-architekten.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-10-30"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.abp-architekten.ch/wp-sitemap-taxonomies-portfolio_category-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://abp-architekten.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/abp-team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/contact-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/wp-admin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/wp-login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/wp-sitemap-posts-page-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/wp-sitemap-posts-personnel-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/wp-sitemap-posts-portfolio-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/wp-sitemap-users-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/wp-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-20"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-20"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.abp-architekten.ch%2F&format=xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-20"
+    },
+    {
+      "URL": "https://www.abp-architekten.ch/xmlrpc.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-07"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch/seiten/winterthurarchitekt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-19"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch/seiten/aktuell.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch/seiten/bauten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch/seiten/energie.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch/seiten/kontakt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch/seiten/links.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch/seiten/taetigkeiten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch/seiten/werkverzeichnis.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/aeschlimann.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-03-09"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/philosophie.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-03-09"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/bruetsch.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-03-08"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/00-02_efh-vogelsang.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-08"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/00-03-mfh-dussnang.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-08"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/11-04_leuberg.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-08"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/11-05_goeldi.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-08"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/12-07_aligro.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-08"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/00-01_efh-winterthur.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-07"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/11-08_waldstrasse.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-07"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/11-10_talguetli.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-07"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/11-18_kirchgasse.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-07"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/12-05-adlergarten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-07"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/12-16_salzi.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-07"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/12-12_guetrain.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-05"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/11-01_efh-dussnang.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-04"
+    },
+    {
+      "URL": "http://www.abp-architekten.ch:80/seiten/start.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-02-04"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "db@abp-architekten.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-03-08"
+    },
+    {
+      "E-Mail": "info@abp-architekten.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "E-Mail": "ra@abp-architekten.ch",
+      "Passwort geleakt (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-03-09"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41525345907",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "Telefonnummern": "+41525345908",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "Telefonnummern": "+4152 5345907",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

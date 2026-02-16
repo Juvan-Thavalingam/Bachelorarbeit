@@ -1,0 +1,1782 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "85.13.157.203",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "w01f6c7e.kasserver.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "dimitris.ns.cloudflare.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "sloan.ns.cloudflare.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms38184303\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Text Record": "\"google-site-verification=3t37XLOoYjmdfopaZq0mBSwcMudJ8FSa37IwUQLZ7cw\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Text Record": "\"v=spf1 include:_spf.odoo.com include:secureserver.net include:kasserver.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "2400",
+      "Expire": "604800",
+      "Serial": "2372108889",
+      "Refresh": "10000",
+      "Hostmaster": "dns.cloudflare.com.",
+      "Minimum TTL": "1800",
+      "Primary Nameserver": "dimitris.ns.cloudflare.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "85.13.157.203",
+      "PTR-Domain": "dd41528.kasserver.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "gb-luescher.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "autodiscover.gb-luescher.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "cpanel.gb-luescher.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "mail.gb-luescher.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "webdisk.gb-luescher.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "webmail.gb-luescher.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2024-09-04",
+      "Gültig bis": "2024-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-04"
+    },
+    {
+      "Gültig ab": "2025-05-07",
+      "Gültig bis": "2025-08-05",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-07"
+    },
+    {
+      "Gültig ab": "2025-03-26",
+      "Gültig bis": "2025-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-26"
+    },
+    {
+      "Gültig ab": "2025-03-26",
+      "Gültig bis": "2025-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-26"
+    },
+    {
+      "Gültig ab": "2025-03-09",
+      "Gültig bis": "2025-06-07",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-09"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2025-01-09",
+      "Gültig bis": "2025-04-09",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-09"
+    },
+    {
+      "Gültig ab": "2024-11-16",
+      "Gültig bis": "2025-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-16"
+    },
+    {
+      "Gültig ab": "2024-11-16",
+      "Gültig bis": "2025-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-16"
+    },
+    {
+      "Gültig ab": "2024-11-11",
+      "Gültig bis": "2025-02-09",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-11"
+    },
+    {
+      "Gültig ab": "2024-09-13",
+      "Gültig bis": "2024-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "Gültig ab": "2024-09-13",
+      "Gültig bis": "2024-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "Gültig ab": "2024-09-13",
+      "Gültig bis": "2025-09-13",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "Gültig ab": "2024-09-13",
+      "Gültig bis": "2025-09-13",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "Gültig ab": "2024-09-13",
+      "Gültig bis": "2024-12-12",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "Gültig ab": "2024-09-08",
+      "Gültig bis": "2024-12-07",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-08"
+    },
+    {
+      "Gültig ab": "2024-09-08",
+      "Gültig bis": "2024-12-07",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-08"
+    },
+    {
+      "Gültig ab": "2024-09-07",
+      "Gültig bis": "2024-12-06",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-07"
+    },
+    {
+      "Gültig ab": "2024-09-07",
+      "Gültig bis": "2024-12-06",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-07"
+    },
+    {
+      "Gültig ab": "2024-09-04",
+      "Gültig bis": "2024-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-04"
+    },
+    {
+      "Gültig ab": "2024-09-04",
+      "Gültig bis": "2024-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-04"
+    },
+    {
+      "Gültig ab": "2024-09-04",
+      "Gültig bis": "2024-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-04"
+    },
+    {
+      "Gültig ab": "2024-09-03",
+      "Gültig bis": "2024-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-03"
+    },
+    {
+      "Gültig ab": "2024-09-03",
+      "Gültig bis": "2024-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-03"
+    },
+    {
+      "Gültig ab": "2024-09-03",
+      "Gültig bis": "2024-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-03"
+    },
+    {
+      "Gültig ab": "2024-09-03",
+      "Gültig bis": "2024-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-03"
+    },
+    {
+      "Gültig ab": "2024-07-31",
+      "Gültig bis": "2024-10-29",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-31"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-07-06",
+      "Gültig bis": "2024-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "Gültig ab": "2024-07-06",
+      "Gültig bis": "2024-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "Gültig ab": "2024-07-06",
+      "Gültig bis": "2024-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "Gültig ab": "2024-07-06",
+      "Gültig bis": "2024-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "Gültig ab": "2024-05-24",
+      "Gültig bis": "2025-05-24",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-24"
+    },
+    {
+      "Gültig ab": "2024-05-09",
+      "Gültig bis": "2024-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-09"
+    },
+    {
+      "Gültig ab": "2024-05-09",
+      "Gültig bis": "2024-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-09"
+    },
+    {
+      "Gültig ab": "2024-05-09",
+      "Gültig bis": "2024-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-09"
+    },
+    {
+      "Gültig ab": "2024-05-09",
+      "Gültig bis": "2024-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-09"
+    },
+    {
+      "Gültig ab": "2024-05-08",
+      "Gültig bis": "2024-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-08"
+    },
+    {
+      "Gültig ab": "2024-05-08",
+      "Gültig bis": "2024-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-08"
+    },
+    {
+      "Gültig ab": "2024-05-08",
+      "Gültig bis": "2024-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-08"
+    },
+    {
+      "Gültig ab": "2024-05-08",
+      "Gültig bis": "2024-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-08"
+    },
+    {
+      "Gültig ab": "2024-03-21",
+      "Gültig bis": "2025-03-21",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-21"
+    },
+    {
+      "Gültig ab": "2024-03-11",
+      "Gültig bis": "2024-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-11"
+    },
+    {
+      "Gültig ab": "2024-03-11",
+      "Gültig bis": "2024-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-11"
+    },
+    {
+      "Gültig ab": "2024-03-11",
+      "Gültig bis": "2024-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-11"
+    },
+    {
+      "Gültig ab": "2024-03-11",
+      "Gültig bis": "2024-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-11"
+    },
+    {
+      "Gültig ab": "2024-03-10",
+      "Gültig bis": "2024-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-10"
+    },
+    {
+      "Gültig ab": "2024-03-10",
+      "Gültig bis": "2024-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-10"
+    },
+    {
+      "Gültig ab": "2024-03-10",
+      "Gültig bis": "2024-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-10"
+    },
+    {
+      "Gültig ab": "2024-03-10",
+      "Gültig bis": "2024-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-10"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-11",
+      "Gültig bis": "2024-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "Gültig ab": "2024-01-11",
+      "Gültig bis": "2024-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "Gültig ab": "2024-01-11",
+      "Gültig bis": "2024-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "Gültig ab": "2024-01-11",
+      "Gültig bis": "2024-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-05",
+      "Gültig bis": "2024-11-05",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-05"
+    },
+    {
+      "Gültig ab": "2023-09-15",
+      "Gültig bis": "2023-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-15"
+    },
+    {
+      "Gültig ab": "2023-09-15",
+      "Gültig bis": "2023-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-15"
+    },
+    {
+      "Gültig ab": "2023-09-15",
+      "Gültig bis": "2023-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-15"
+    },
+    {
+      "Gültig ab": "2023-09-15",
+      "Gültig bis": "2023-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-15"
+    },
+    {
+      "Gültig ab": "2023-09-15",
+      "Gültig bis": "2023-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-15"
+    },
+    {
+      "Gültig ab": "2023-09-15",
+      "Gültig bis": "2023-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-15"
+    },
+    {
+      "Gültig ab": "2023-09-15",
+      "Gültig bis": "2023-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-15"
+    },
+    {
+      "Gültig ab": "2023-09-15",
+      "Gültig bis": "2023-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-15"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2024-03-20",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc ECC CA-3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2024-03-20",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc ECC CA-3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2024-03-20",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc RSA CA-2",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2024-03-20",
+      "Ausgestellt von": "C=US, O=\"Cloudflare, Inc.\", CN=Cloudflare Inc RSA CA-2",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2024-04-21",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2024-04-21",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-01-22",
+      "Gültig bis": "2023-04-22",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "autodiscover.gb-luescher.ch, cpanel.gb-luescher.ch, gb-luescher.ch, mail.gb-luescher.ch, webdisk.gb-luescher.ch, webmail.gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-22"
+    },
+    {
+      "Gültig ab": "2023-01-22",
+      "Gültig bis": "2023-04-22",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "autodiscover.gb-luescher.ch, cpanel.gb-luescher.ch, gb-luescher.ch, mail.gb-luescher.ch, webdisk.gb-luescher.ch, webmail.gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-22"
+    },
+    {
+      "Gültig ab": "2023-01-20",
+      "Gültig bis": "2024-01-20",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "gb-luescher.ch, www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-20"
+    },
+    {
+      "Gültig ab": "2022-12-26",
+      "Gültig bis": "2023-03-26",
+      "Ausgestellt von": "C=US, O=Google Trust Services LLC, CN=GTS CA 1P5",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-26"
+    },
+    {
+      "Gültig ab": "2022-12-26",
+      "Gültig bis": "2023-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-26"
+    },
+    {
+      "Gültig ab": "2022-12-26",
+      "Gültig bis": "2023-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-26"
+    },
+    {
+      "Gültig ab": "2022-10-28",
+      "Gültig bis": "2023-01-26",
+      "Ausgestellt von": "C=US, O=Google Trust Services LLC, CN=GTS CA 1P5",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-28"
+    },
+    {
+      "Gültig ab": "2022-10-28",
+      "Gültig bis": "2023-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-28"
+    },
+    {
+      "Gültig ab": "2022-10-28",
+      "Gültig bis": "2023-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-28"
+    },
+    {
+      "Gültig ab": "2022-08-30",
+      "Gültig bis": "2022-11-28",
+      "Ausgestellt von": "C=US, O=Google Trust Services LLC, CN=GTS CA 1P5",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-30"
+    },
+    {
+      "Gültig ab": "2022-08-30",
+      "Gültig bis": "2022-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-30"
+    },
+    {
+      "Gültig ab": "2022-08-30",
+      "Gültig bis": "2022-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-30"
+    },
+    {
+      "Gültig ab": "2022-07-02",
+      "Gültig bis": "2022-09-30",
+      "Ausgestellt von": "C=US, O=Google Trust Services LLC, CN=GTS CA 1P5",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-02"
+    },
+    {
+      "Gültig ab": "2022-07-02",
+      "Gültig bis": "2022-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-02"
+    },
+    {
+      "Gültig ab": "2022-07-02",
+      "Gültig bis": "2022-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-02"
+    },
+    {
+      "Gültig ab": "2022-05-04",
+      "Gültig bis": "2022-08-02",
+      "Ausgestellt von": "C=US, O=Google Trust Services LLC, CN=GTS CA 1P5",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-04"
+    },
+    {
+      "Gültig ab": "2022-05-04",
+      "Gültig bis": "2022-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-04"
+    },
+    {
+      "Gültig ab": "2022-05-04",
+      "Gültig bis": "2022-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.gb-luescher.ch, gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-04"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-12"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-12"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-12"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-12"
+    },
+    {
+      "Gültig ab": "2022-02-11",
+      "Gültig bis": "2022-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-11"
+    },
+    {
+      "Gültig ab": "2022-02-11",
+      "Gültig bis": "2022-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-11"
+    },
+    {
+      "Gültig ab": "2022-02-11",
+      "Gültig bis": "2022-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-11"
+    },
+    {
+      "Gültig ab": "2022-02-11",
+      "Gültig bis": "2022-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-11"
+    },
+    {
+      "Gültig ab": "2021-12-13",
+      "Gültig bis": "2022-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-13"
+    },
+    {
+      "Gültig ab": "2021-12-13",
+      "Gültig bis": "2022-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-13"
+    },
+    {
+      "Gültig ab": "2021-12-13",
+      "Gültig bis": "2022-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-13"
+    },
+    {
+      "Gültig ab": "2021-12-13",
+      "Gültig bis": "2022-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-13"
+    },
+    {
+      "Gültig ab": "2021-10-14",
+      "Gültig bis": "2022-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-14"
+    },
+    {
+      "Gültig ab": "2021-10-14",
+      "Gültig bis": "2022-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-14"
+    },
+    {
+      "Gültig ab": "2021-10-14",
+      "Gültig bis": "2022-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-14"
+    },
+    {
+      "Gültig ab": "2021-10-14",
+      "Gültig bis": "2022-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-14"
+    },
+    {
+      "Gültig ab": "2021-08-15",
+      "Gültig bis": "2021-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-15"
+    },
+    {
+      "Gültig ab": "2021-08-15",
+      "Gültig bis": "2021-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-15"
+    },
+    {
+      "Gültig ab": "2021-08-15",
+      "Gültig bis": "2021-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-15"
+    },
+    {
+      "Gültig ab": "2021-08-15",
+      "Gültig bis": "2021-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-15"
+    },
+    {
+      "Gültig ab": "2021-06-15",
+      "Gültig bis": "2021-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-15"
+    },
+    {
+      "Gültig ab": "2021-06-15",
+      "Gültig bis": "2021-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-15"
+    },
+    {
+      "Gültig ab": "2021-06-15",
+      "Gültig bis": "2021-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-15"
+    },
+    {
+      "Gültig ab": "2021-06-15",
+      "Gültig bis": "2021-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "gb-luescher.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-15"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://gb-luescher.ch/den-rasen-vertikutieren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://gb-luescher.ch/dienstleistungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://gb-luescher.ch/galerie/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://gb-luescher.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://gb-luescher.ch/teich-bauen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-json/wp/v2/pages/1045",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-13"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-json/wp/v2/pages/14",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-13"
+    },
+    {
+      "URL": "https://gb-luescher.ch/comments/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-12"
+    },
+    {
+      "URL": "https://gb-luescher.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-12"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?g1sb0l",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-12"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.ttf?g1sb0l",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-12"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.woff?g1sb0l",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-12"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.woff?g1sb0l",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-12"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-json/wp/v2/pages/16",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-12"
+    },
+    {
+      "URL": "https://gb-luescher.ch/2023/10/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-06"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-06"
+    },
+    {
+      "URL": "https://gb-luescher.ch/xmlrpc.php?rsd",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-05"
+    },
+    {
+      "URL": "https://gb-luescher.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-11"
+    },
+    {
+      "URL": "https://gb-luescher.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://gb-luescher.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://gb-luescher.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://gb-luescher.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://gb-luescher.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://gb-luescher.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://gb-luescher.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://gb-luescher.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://gb-luescher.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://gb-luescher.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-28"
+    },
+    {
+      "URL": "https://gb-luescher.ch/page-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-27"
+    },
+    {
+      "URL": "https://gb-luescher.ch/elementor-hf-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://gb-luescher.ch/sitemap_index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/author/gartenbau_login/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-30"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/2022/04/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-10"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/category/uncategorized/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-25"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/hello-world/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-25"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1201529640.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1201530072.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1202892634.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1202892643.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1202892652.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://gb-luescher.ch/mostbet-bahis-siteleri-mef-metal-ve-reklam-urunler/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/rollrasen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/sichtschutz-holz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/uber-uns/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/winterschnitt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/datenschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://gb-luescher.ch/gartenbau-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://gb-luescher.ch/gartenmauer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://gb-luescher.ch/unser-angebot/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "URL": "https://gb-luescher.ch/cdn-cgi/l/email-protection",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.25.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.25.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.25.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.25.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/swiper/css/%22data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox='0%200%20120%20120'%20xmlns='http:/www.w3.org/2000/svg'%20xmlns:xlink='http:/www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cpath%20id='a'%20stroke='%236c6c6c'%20stroke-width='11'%20stroke-linecap='round'%20d='M60%207v20'/%3E%3C/defs%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'/%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'%20transform='rotate(30%2060%2060",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementor/assets/lib/swiper/css/%22data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox='0%200%20120%20120'%20xmlns='http:/www.w3.org/2000/svg'%20xmlns:xlink='http:/www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cpath%20id='a'%20stroke='%23fff'%20stroke-width='11'%20stroke-linecap='round'%20d='M60%207v20'/%3E%3C/defs%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'/%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'%20transform='rotate(30%2060%2060",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-04"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.ttf?g1sb0l",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?g1sb0l",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-13"
+    },
+    {
+      "URL": "https://gb-luescher.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgb-luescher.ch%2Fdatenschutz%2F",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-13"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1510227625.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1545903467.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1545904302.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1545904862.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1545905821.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1545913407.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1545914292.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1545926809.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1545928486.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1545939853.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1545941024.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1545941628.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/1545946850.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://www.gb-luescher.ch/index.php?op=contactus",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "URL": "https://gb-luescher.ch/modules/kontakt/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-25"
+    },
+    {
+      "URL": "https://gb-luescher.ch/unsere-partner/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://gb-luescher.ch/zaunbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://gb-luescher.ch/angebot/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/baeume-schneiden/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/category/mostbet/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/gaertner/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/garten-bewaesserung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/gartengestalter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/gartenpfleger/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/gartenterrasse/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://gb-luescher.ch/gartenweg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@gb-luescher.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41791993344",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

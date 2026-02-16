@@ -1,0 +1,573 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "185.101.158.113",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mein-gaertner1.cleanmail.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mein-gaertner2.cleanmail.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.hosttech.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Name Server": "ns2.hosttech.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Name Server": "ns3.hosttech.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "120",
+      "Expire": "2419200",
+      "Serial": "2024072285",
+      "Refresh": "7200",
+      "Hostmaster": "dns.hosttech.eu.",
+      "Minimum TTL": "10800",
+      "Primary Nameserver": "ns1.hosttech.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "185.101.158.113",
+      "PTR-Domain": "default.hosttech.eu.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "mein-gaertner.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "mail.mein-gaertner.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2019-03-13",
+      "Gültig bis": "2019-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mein-gaertner.ch, www.mein-gaertner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-03-14"
+    },
+    {
+      "Gültig ab": "2019-03-13",
+      "Gültig bis": "2019-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mein-gaertner.ch, www.mein-gaertner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-03-14"
+    },
+    {
+      "Gültig ab": "2019-01-11",
+      "Gültig bis": "2019-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mein-gaertner.ch, www.mein-gaertner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-12"
+    },
+    {
+      "Gültig ab": "2019-01-11",
+      "Gültig bis": "2019-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mein-gaertner.ch, www.mein-gaertner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-12"
+    },
+    {
+      "Gültig ab": "2018-11-12",
+      "Gültig bis": "2019-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mein-gaertner.ch, www.mein-gaertner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-11-13"
+    },
+    {
+      "Gültig ab": "2018-11-12",
+      "Gültig bis": "2019-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mein-gaertner.ch, www.mein-gaertner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-11-13"
+    },
+    {
+      "Gültig ab": "2018-09-13",
+      "Gültig bis": "2018-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mein-gaertner.ch, www.mein-gaertner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-13"
+    },
+    {
+      "Gültig ab": "2018-09-13",
+      "Gültig bis": "2018-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mein-gaertner.ch, www.mein-gaertner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-13"
+    },
+    {
+      "Gültig ab": "2018-08-02",
+      "Gültig bis": "2018-10-31",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.mein-gaertner.ch, mein-gaertner.ch, www.mein-gaertner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-02"
+    },
+    {
+      "Gültig ab": "2018-08-02",
+      "Gültig bis": "2018-10-31",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.mein-gaertner.ch, mein-gaertner.ch, www.mein-gaertner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-02"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/sitzplaetze,-wege,-treppen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "http://mein-gaertner.ch/'https://'https://www.meingaertner.ch'",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-04"
+    },
+    {
+      "URL": "http://mein-gaertner.ch/'https://www.meingaertner.ch'",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-04"
+    },
+    {
+      "URL": "http://mein-gaertner.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-04"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/addons/phpThump/phpThumb.php?src=../../data/Ressources/21_7-2014-04-09_13.58.45.jpg&f=jpeg&h=76&q=100",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/gartenideen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/gartenideen/gestaltungselemente",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/gartenideen/mediterrane-gaerten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/gartenideen/moorbeet",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/gartenideen/naturgaerten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/gartenideen/rosenbeet",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/gartenideen/stahl-im-garten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/gartenideen/steingaerten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/gartenmauern",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/pflanzen,-bepflanzung/english-borders",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/pflanzen,-bepflanzung/fassadenbegruenung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/pflanzen,-bepflanzung/mixed-borders",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/pflanzen,-bepflanzung/solitaergehoelze",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/pflanzen,-bepflanzung/terassenbepflanzung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/home/galerie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/home/home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/home/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/home/lageplan",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/home/links",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/home/sitemap",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/meta/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartengestaltung/themengaerten/moorbeet",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-03-30"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartengestaltung/themengaerten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-03-28"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartengestaltung/themengaerten/naturgaerten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-03-28"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartengestaltung/themengaerten/steingaerten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-03-27"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartengestaltung/themengaerten/gestaltungselemente",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-06-07"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartengestaltung/themengaerten/obst-und-beeren",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-06-07"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch:80/gartengestaltung/themengaerten/rosenbeet",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-05-21"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch:80/piwik.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-28"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch:80/gartengestaltung/spezialgaerten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2012-01-02"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch:80/gartengestaltung/spezialgaerten/steingaerten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2011-08-29"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch:80/gartengestaltung/spezialgaerten/naturgaerten/natursteinarbeiten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2011-07-17"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch:80/gartengestaltung/sitzplaetze,-wege,-treppen/bauen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2011-04-07"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch:80/data/Ressources/28_1-Schwarze_Liste_invasive_Neophyten.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-10-09"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch:80/gartengestaltung/spezialgaerten/naturgaerten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-10-03"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/sitzplaetze,-wege,-treppen/plattenbelaege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/sitzplaetze,-wege,-treppen/sichtschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/sitzplaetze,-wege,-treppen/treppen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartenpflege/baumpflege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartenpflege/bewaesserung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartenpflege/rasenpflege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartenpflege/rasenpflege/duengung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartenpflege/rasenpflege/rasenprobleme",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartenpflege/rasenpflege/rasensanierung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartenpflege/rasenpflege/rollrasen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartenpflege/winterschnitt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gut-zu-wissen/buchsbaumzuensler",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gut-zu-wissen/invasive-neophyten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gut-zu-wissen/jahresplanung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gut-zu-wissen/schnecken",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/ueber-uns/kompetenzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/ueber-uns/offene-stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/ueber-uns/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-16"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/gartenideen/obst-und-beeren",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-15"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/pflanzen,-bepflanzung/pflanzenverwendung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-15"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/pflanzen,-bepflanzung/rabattengestaltung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-15"
+    },
+    {
+      "URL": "https://www.mein-gaertner.ch/gartengestaltung/pflanzen,-bepflanzung/wechselfloorrabatten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-15"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartengestaltung/gartenmauern/terassierung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-29"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartengestaltung/pflanzen,-bepflanzung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-29"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartengestaltung/pflanzen,-bepflanzung/schattengarten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-29"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartengestaltung/sitzplaetze,-wege,-treppen/pflastersteinbelaege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-29"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartenpflege/obst--und-beerenpflege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-29"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartenpflege/rasenpflege/ansaat",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-29"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/fckeditor.html?id=1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartengestaltung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gartenpflege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gewerbeschau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://www.mein-gaertner.ch/gut-zu-wissen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "widmer@mein-gaertner.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-04"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41792181551",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-04"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

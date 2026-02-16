@@ -1,0 +1,1356 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "217.26.52.12",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "20",
+      "Mailserver (MX)": "elba.iway.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Präferenz": "20",
+      "Mailserver (MX)": "malta.interway.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Name Server": "ns2.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Name Server": "ns3.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 include:spf.iway.ch -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "604800",
+      "Serial": "1747267200",
+      "Refresh": "14400",
+      "Hostmaster": "hostmaster.hostpoint.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "217.26.52.12",
+      "PTR-Domain": "sl32.web.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "jobdesign.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-03-23",
+      "Gültig bis": "2025-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Gültig ab": "2025-03-23",
+      "Gültig bis": "2025-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Gültig ab": "2025-03-23",
+      "Gültig bis": "2025-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Gültig ab": "2025-03-23",
+      "Gültig bis": "2025-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2024-11-19",
+      "Gültig bis": "2025-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-19"
+    },
+    {
+      "Gültig ab": "2024-11-19",
+      "Gültig bis": "2025-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-19"
+    },
+    {
+      "Gültig ab": "2024-11-19",
+      "Gültig bis": "2025-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-19"
+    },
+    {
+      "Gültig ab": "2024-11-19",
+      "Gültig bis": "2025-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-19"
+    },
+    {
+      "Gültig ab": "2024-09-18",
+      "Gültig bis": "2024-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "Gültig ab": "2024-09-18",
+      "Gültig bis": "2024-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "Gültig ab": "2024-09-18",
+      "Gültig bis": "2024-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "Gültig ab": "2024-09-18",
+      "Gültig bis": "2024-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "Gültig ab": "2024-07-19",
+      "Gültig bis": "2024-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "Gültig ab": "2024-07-19",
+      "Gültig bis": "2024-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "Gültig ab": "2024-07-19",
+      "Gültig bis": "2024-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "Gültig ab": "2024-07-19",
+      "Gültig bis": "2024-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "Gültig ab": "2024-05-18",
+      "Gültig bis": "2024-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "Gültig ab": "2024-05-18",
+      "Gültig bis": "2024-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "Gültig ab": "2024-05-18",
+      "Gültig bis": "2024-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "Gültig ab": "2024-05-18",
+      "Gültig bis": "2024-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "Gültig ab": "2024-03-17",
+      "Gültig bis": "2024-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-17"
+    },
+    {
+      "Gültig ab": "2024-03-17",
+      "Gültig bis": "2024-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-17"
+    },
+    {
+      "Gültig ab": "2024-03-17",
+      "Gültig bis": "2024-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-17"
+    },
+    {
+      "Gültig ab": "2024-03-17",
+      "Gültig bis": "2024-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-17"
+    },
+    {
+      "Gültig ab": "2024-01-15",
+      "Gültig bis": "2024-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "Gültig ab": "2024-01-15",
+      "Gültig bis": "2024-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "Gültig ab": "2024-01-15",
+      "Gültig bis": "2024-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "Gültig ab": "2024-01-15",
+      "Gültig bis": "2024-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "Gültig ab": "2023-09-13",
+      "Gültig bis": "2023-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-13"
+    },
+    {
+      "Gültig ab": "2023-09-13",
+      "Gültig bis": "2023-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-13"
+    },
+    {
+      "Gültig ab": "2023-09-13",
+      "Gültig bis": "2023-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-13"
+    },
+    {
+      "Gültig ab": "2023-09-13",
+      "Gültig bis": "2023-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-09-13"
+    },
+    {
+      "Gültig ab": "2023-07-13",
+      "Gültig bis": "2023-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-07-13"
+    },
+    {
+      "Gültig ab": "2023-07-13",
+      "Gültig bis": "2023-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-07-13"
+    },
+    {
+      "Gültig ab": "2023-07-13",
+      "Gültig bis": "2023-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-07-13"
+    },
+    {
+      "Gültig ab": "2023-07-13",
+      "Gültig bis": "2023-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-07-13"
+    },
+    {
+      "Gültig ab": "2023-05-12",
+      "Gültig bis": "2023-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "Gültig ab": "2023-05-12",
+      "Gültig bis": "2023-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "Gültig ab": "2023-05-12",
+      "Gültig bis": "2023-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "Gültig ab": "2023-05-12",
+      "Gültig bis": "2023-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "Gültig ab": "2023-05-12",
+      "Gültig bis": "2023-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "Gültig ab": "2023-05-12",
+      "Gültig bis": "2023-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.jobdesign.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.jobdesign.ch/angebot-fur-einzelpersonen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wp-sitemap-users-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wp-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wp-sitemap-posts-page-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2018/04/Job-Design-IVF-HARTMANN-AG.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/wordpress/wp-content/uploads/2013/08/kursprogramm_stellensuche.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-02"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/wordpress/wp-content/uploads/2015/09/fit_fuer_den_arbeitsmarkt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-02"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/wordpress/wp-content/uploads/2020/06/B.A.Success_Story.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-02"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/wordpress/wp-content/uploads/2024/01/Erich-Weber-Lebenslauf-01.2024.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-05-02"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/akquisitionstraining/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/author/jd/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/gruppen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/mentaltraining/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/out-und-inplacement/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/teamentwicklung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/einzelpersonen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/firmenportrait/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/gruppen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/lerntraining/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/mentaltraining/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/motivationstraining/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/referenzen-4/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/unsere-instrumente/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/lerntraining/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/verkaufstraining/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/wirksame-fuhrung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/konfliktlosung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/life-design/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/referenzen-pw/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/special-out-inplacement-%E2%80%8E/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/themen-fur-gruppen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/verkaufstraining/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/visionsbildung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/angebot-fur-einzelpersonen/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-13"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/motivationstraining/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-13"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/visionsbildung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-13"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/coaching-by-walking/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-13"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/galerie/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-13"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/kmu-max/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-13"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/laufbahn-design/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-13"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wirksame-kommunikation/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-11-13"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/wordpress/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-14"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/wordpress/xmlrpc.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2019-02-07"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/aktuelle-kurse/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-03"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/coaching/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-03"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/kontakt/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-03"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/firmenportrait/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-02"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/referenzen/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-12-02"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/wordpress/wp-content/themes/display/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-11-26"
+    },
+    {
+      "URL": "http://jobdesign.ch:80/firmenportrait.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-09-16"
+    },
+    {
+      "URL": "http://jobdesign.ch/coaching.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-06"
+    },
+    {
+      "URL": "http://jobdesign.ch/coachingbywalking.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-06"
+    },
+    {
+      "URL": "http://jobdesign.ch/kontakt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-06"
+    },
+    {
+      "URL": "http://jobdesign.ch/laufbahndesign.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-06"
+    },
+    {
+      "URL": "http://jobdesign.ch/lifedesign.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-06"
+    },
+    {
+      "URL": "http://jobdesign.ch/referenzen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-06"
+    },
+    {
+      "URL": "http://jobdesign.ch/vernetztesdenken.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-06"
+    },
+    {
+      "URL": "http://jobdesign.ch/aktuell.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-05"
+    },
+    {
+      "URL": "http://jobdesign.ch/schulungen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-03-05"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/frame.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-01-15"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/indextxt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-01-15"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/top.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-01-15"
+    },
+    {
+      "URL": "http://jobdesign.ch/bilder/seit1992_neu.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-01-14"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/dokumente/kursprogramm_spezial_coaching.doc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2006-08-20"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/dokumente/kursprogramm_spezial_coaching.PDF",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2006-08-20"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/schulungen/spezialoutin.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2006-08-14"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/werkannprofitieren.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2006-06-04"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/schulungen/teamentwicklung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2006-01-16"
+    },
+    {
+      "URL": "http://jobdesign.ch:80/dokumente/geschaeftsprogramm.PDF",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-09-13"
+    },
+    {
+      "URL": "http://jobdesign.ch:80/dokumente/kursprogramm_stellensuche.PDF",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-09-11"
+    },
+    {
+      "URL": "http://jobdesign.ch:80/schulungen/erfolgreichestellensuche.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-09-07"
+    },
+    {
+      "URL": "http://jobdesign.ch:80/dokumente/kursprogramm_stellensuche.doc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-06-01"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/schulungen/visionsbildung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-05-26"
+    },
+    {
+      "URL": "http://jobdesign.ch:80/dokumente/geschaeftsprogramm.doc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-05-15"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/schulungen/konfliktloesung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-05-08"
+    },
+    {
+      "URL": "http://jobdesign.ch:80/bilder/seit1992.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-05-04"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/lageplan.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-03-09"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/schulungen/lerntraining.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/angebot-fur-gruppen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/blog/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/konfliktlosung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/unternehmensgrundung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/coaching/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/einzelcoaching/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/presse/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/referenzen/presse/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/teamentwicklung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wirksame-fuhrung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2019/07/F%c3%bchrungs-und-Teamentwicklungsworkshop-Feedback-07.2019.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2023/08/Datenschutzerkaerung30.08.2023.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/aktuelle-kurse/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/erfolgreiche-stellensuche/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/referenzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/unternehmensgrundung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2018/04/Job_-Design_Rieter-2018.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/aktuell/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/aktuelle-kurse/einzelpersonen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/angebot-fur-gruppen/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/author/jd/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/akquisitionstraining/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/einzelpersonen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/wirksame-kommunikation/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/links/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/themen-fur-einzelpersonen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2013/08/kursprogramm_spezial_coaching.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2019/01/RS-Coaching-in-schwieriger-Situation.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-09"
+    },
+    {
+      "URL": "https://jobdesign.ch/wordpress/wp-admin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://jobdesign.ch/wordpress/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wp-sitemap-posts-post-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wp-sitemap-taxonomies-category-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "http://jobdesign.ch:80/dokumente/kursprogramm_coaching.PDF",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-02-27"
+    },
+    {
+      "URL": "http://jobdesign.ch:80/dokumente/lebenslauf.doc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-02-12"
+    },
+    {
+      "URL": "http://jobdesign.ch:80/schulungen/akquisitionstraining.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-02-12"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/bilder/12years.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-01-28"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/schulungen/wirksamefuehrung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-01-12"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/schulungen/wirksamekommunikation.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-01-12"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/schulungen/verkaufstraining.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-01-10"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/schulungen/unternehmensgruendung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-01-09"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/schulungen/motivationstraining.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-01-06"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/schulungen/mentaltraining.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2005-01-04"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/dokumente/kursprogramm_coaching.doc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2004-09-23"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/karte1.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2003-11-23"
+    },
+    {
+      "URL": "http://www.jobdesign.ch:80/bilder/10years.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2003-08-12"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2018/12/Wehrli-Nadia-Anerkennung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/erfolgreiche-stellensuche/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/themen-fur-gruppen/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/category/gruppen/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-23"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-23"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2018/12/Datenschutz.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-23"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2015/09/Das-meinen-die-Coaches-hrtoday.ch_.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2015/09/Schaffhauser-Zeitung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-19"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2015/09/was_bin_ich_selbst_noch_wert.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-19"
+    },
+    {
+      "URL": "https://jobdesign.ch/dokumente/lebenslauf.PDF",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2020/12/Bericht_Bewerbungsprozess-1-002.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2020/09/K.H.L.-Dankesschreiben-Sept.2020-1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-10"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2021/04/S.S.-TG-Erfahrungen-mit-Jobcoaching-von-Jobdesign-April.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-10"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wordpress/wp-content/uploads/2023/12/Lageplan-Casllano-1.docx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-10"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-10"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.jobdesign.ch%2Fkontakt%2F",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-10"
+    },
+    {
+      "URL": "https://www.jobdesign.ch/wp-json/wp/v2/pages/18",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-05-10"
+    },
+    {
+      "URL": "https://jobdesign.ch/presse.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/category/einzelpersonen/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-07"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/themen-fur-einzelpersonen/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-07"
+    },
+    {
+      "URL": "http://www.jobdesign.ch/wordpress/wp-content/uploads/2015/09/W%C3%BClflinger-Zytig.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-04-14"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@jobdesign.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522220207",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "Telefonnummern": "+41794208021",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "Telefonnummern": "+41794208081",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

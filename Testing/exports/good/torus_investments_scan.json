@@ -1,0 +1,2679 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "75.2.70.75",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "IPv4-Adresse": "99.83.190.102",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "aspmx.l.google.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Präferenz": "20",
+      "Mailserver (MX)": "alt1.aspmx.l.google.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Präferenz": "30",
+      "Mailserver (MX)": "alt2.aspmx.l.google.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Präferenz": "40",
+      "Mailserver (MX)": "aspmx2.googlemail.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Präferenz": "50",
+      "Mailserver (MX)": "aspmx3.googlemail.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1qsy.name.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Name Server": "ns2dfg.name.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Name Server": "ns3fhx.name.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Name Server": "ns4fqz.name.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms86502223\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Text Record": "\"google-site-verification=8ypHGZuhETLZMrrpFxGr9_nUH26E3gw5_nJYoQDF0j0\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "604800",
+      "Serial": "1658406414",
+      "Refresh": "7200",
+      "Hostmaster": "hostmaster.nsone.net.",
+      "Minimum TTL": "300",
+      "Primary Nameserver": "ns1.name.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "75.2.70.75",
+      "PTR-Domain": "aacb0a264e514dd48.awsglobalaccelerator.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "IP-Adresse": "99.83.190.102",
+      "PTR-Domain": "aacb0a264e514dd48.awsglobalaccelerator.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "torus.investments",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "dev.torus.investments",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "grafana.torus.investments",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "wsproxy2.torus.investments",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-06",
+      "Gültig bis": "2025-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-05-07"
+    },
+    {
+      "Gültig ab": "2025-05-06",
+      "Gültig bis": "2025-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-05-07"
+    },
+    {
+      "Gültig ab": "2025-04-26",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-26"
+    },
+    {
+      "Gültig ab": "2025-04-26",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-26"
+    },
+    {
+      "Gültig ab": "2025-04-26",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-26"
+    },
+    {
+      "Gültig ab": "2025-04-26",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-26"
+    },
+    {
+      "Gültig ab": "2025-02-26",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-26"
+    },
+    {
+      "Gültig ab": "2025-04-26",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-26"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-06",
+      "Gültig bis": "2025-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-06",
+      "Gültig bis": "2025-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-03-18",
+      "Gültig bis": "2025-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "grafana.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "Gültig ab": "2025-03-18",
+      "Gültig bis": "2025-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "grafana.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "Gültig ab": "2025-03-07",
+      "Gültig bis": "2025-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-08"
+    },
+    {
+      "Gültig ab": "2025-03-07",
+      "Gültig bis": "2025-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-08"
+    },
+    {
+      "Gültig ab": "2025-02-26",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-26"
+    },
+    {
+      "Gültig ab": "2025-02-26",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-26"
+    },
+    {
+      "Gültig ab": "2025-02-26",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-26"
+    },
+    {
+      "Gültig ab": "2025-02-26",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-26"
+    },
+    {
+      "Gültig ab": "2025-02-05",
+      "Gültig bis": "2025-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "Gültig ab": "2025-02-05",
+      "Gültig bis": "2025-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "Gültig ab": "2025-01-19",
+      "Gültig bis": "2025-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "Gültig ab": "2025-01-19",
+      "Gültig bis": "2025-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "Gültig ab": "2025-01-19",
+      "Gültig bis": "2025-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "Gültig ab": "2025-01-19",
+      "Gültig bis": "2025-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "Gültig ab": "2025-01-19",
+      "Gültig bis": "2025-04-19",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "Gültig ab": "2025-01-19",
+      "Gültig bis": "2025-03-29",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "Gültig ab": "2025-01-18",
+      "Gültig bis": "2025-04-19",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "Gültig ab": "2025-01-18",
+      "Gültig bis": "2025-03-29",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "Gültig ab": "2025-01-06",
+      "Gültig bis": "2025-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-07"
+    },
+    {
+      "Gültig ab": "2025-01-06",
+      "Gültig bis": "2025-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-07"
+    },
+    {
+      "Gültig ab": "2024-12-07",
+      "Gültig bis": "2025-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-08"
+    },
+    {
+      "Gültig ab": "2024-12-07",
+      "Gültig bis": "2025-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-08"
+    },
+    {
+      "Gültig ab": "2024-11-08",
+      "Gültig bis": "2025-02-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "Gültig ab": "2024-11-08",
+      "Gültig bis": "2025-02-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "Gültig ab": "2024-11-07",
+      "Gültig bis": "2025-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "Gültig ab": "2024-11-07",
+      "Gültig bis": "2025-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "Gültig ab": "2024-11-02",
+      "Gültig bis": "2025-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "Gültig ab": "2024-11-02",
+      "Gültig bis": "2025-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "Gültig ab": "2024-11-02",
+      "Gültig bis": "2025-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "Gültig ab": "2024-11-02",
+      "Gültig bis": "2025-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "Gültig ab": "2024-10-31",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-10-31",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-10-30",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-10-30",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-10-08",
+      "Gültig bis": "2025-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "Gültig ab": "2024-10-08",
+      "Gültig bis": "2025-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "Gültig ab": "2024-09-09",
+      "Gültig bis": "2024-12-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "Gültig ab": "2024-09-09",
+      "Gültig bis": "2024-12-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "Gültig ab": "2024-09-08",
+      "Gültig bis": "2024-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "Gültig ab": "2024-09-08",
+      "Gültig bis": "2024-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "Gültig ab": "2024-08-16",
+      "Gültig bis": "2024-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-16"
+    },
+    {
+      "Gültig ab": "2024-08-16",
+      "Gültig bis": "2024-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-16"
+    },
+    {
+      "Gültig ab": "2024-08-16",
+      "Gültig bis": "2024-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-16"
+    },
+    {
+      "Gültig ab": "2024-08-16",
+      "Gültig bis": "2024-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-16"
+    },
+    {
+      "Gültig ab": "2024-08-09",
+      "Gültig bis": "2024-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-10"
+    },
+    {
+      "Gültig ab": "2024-08-09",
+      "Gültig bis": "2024-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-10"
+    },
+    {
+      "Gültig ab": "2024-07-11",
+      "Gültig bis": "2024-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-11"
+    },
+    {
+      "Gültig ab": "2024-07-11",
+      "Gültig bis": "2024-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-11"
+    },
+    {
+      "Gültig ab": "2024-07-10",
+      "Gültig bis": "2024-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-11"
+    },
+    {
+      "Gültig ab": "2024-07-10",
+      "Gültig bis": "2024-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-11"
+    },
+    {
+      "Gültig ab": "2024-07-05",
+      "Gültig bis": "2024-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "Gültig ab": "2024-07-05",
+      "Gültig bis": "2024-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "Gültig ab": "2024-06-10",
+      "Gültig bis": "2024-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-11"
+    },
+    {
+      "Gültig ab": "2024-06-10",
+      "Gültig bis": "2024-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-11"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "Gültig ab": "2024-05-06",
+      "Gültig bis": "2024-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-07"
+    },
+    {
+      "Gültig ab": "2024-05-06",
+      "Gültig bis": "2024-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-07"
+    },
+    {
+      "Gültig ab": "2024-04-11",
+      "Gültig bis": "2024-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-12"
+    },
+    {
+      "Gültig ab": "2024-04-11",
+      "Gültig bis": "2024-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-12"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-13"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-13"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-13"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-13"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-08",
+      "Gültig bis": "2024-06-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-08"
+    },
+    {
+      "Gültig ab": "2024-03-08",
+      "Gültig bis": "2024-06-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-08"
+    },
+    {
+      "Gültig ab": "2024-02-11",
+      "Gültig bis": "2024-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-11"
+    },
+    {
+      "Gültig ab": "2024-02-11",
+      "Gültig bis": "2024-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-11"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-08",
+      "Gültig bis": "2024-04-07",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-08"
+    },
+    {
+      "Gültig ab": "2024-01-08",
+      "Gültig bis": "2024-04-07",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-08"
+    },
+    {
+      "Gültig ab": "2023-12-13",
+      "Gültig bis": "2024-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-13"
+    },
+    {
+      "Gültig ab": "2023-12-13",
+      "Gültig bis": "2024-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-13"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-09",
+      "Gültig bis": "2024-02-07",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-09"
+    },
+    {
+      "Gültig ab": "2023-11-09",
+      "Gültig bis": "2024-02-07",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-09"
+    },
+    {
+      "Gültig ab": "2023-11-09",
+      "Gültig bis": "2024-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-09"
+    },
+    {
+      "Gültig ab": "2023-11-09",
+      "Gültig bis": "2024-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-09"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "Gültig ab": "2023-09-14",
+      "Gültig bis": "2023-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-14"
+    },
+    {
+      "Gültig ab": "2023-09-14",
+      "Gültig bis": "2023-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-14"
+    },
+    {
+      "Gültig ab": "2023-09-14",
+      "Gültig bis": "2023-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-14"
+    },
+    {
+      "Gültig ab": "2023-09-14",
+      "Gültig bis": "2023-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-14"
+    },
+    {
+      "Gültig ab": "2023-09-10",
+      "Gültig bis": "2023-12-09",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-10"
+    },
+    {
+      "Gültig ab": "2023-09-10",
+      "Gültig bis": "2023-12-09",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-10"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-15"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-15"
+    },
+    {
+      "Gültig ab": "2023-07-16",
+      "Gültig bis": "2023-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-16"
+    },
+    {
+      "Gültig ab": "2023-07-16",
+      "Gültig bis": "2023-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-16"
+    },
+    {
+      "Gültig ab": "2023-07-16",
+      "Gültig bis": "2023-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-16"
+    },
+    {
+      "Gültig ab": "2023-07-16",
+      "Gültig bis": "2023-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-16"
+    },
+    {
+      "Gültig ab": "2023-07-12",
+      "Gültig bis": "2023-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "Gültig ab": "2023-07-12",
+      "Gültig bis": "2023-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-12"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-16",
+      "Gültig bis": "2023-08-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-16"
+    },
+    {
+      "Gültig ab": "2023-05-16",
+      "Gültig bis": "2023-08-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-16"
+    },
+    {
+      "Gültig ab": "2023-05-14",
+      "Gültig bis": "2023-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "Gültig ab": "2023-05-14",
+      "Gültig bis": "2023-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "Gültig ab": "2023-04-17",
+      "Gültig bis": "2023-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-17"
+    },
+    {
+      "Gültig ab": "2023-04-17",
+      "Gültig bis": "2023-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-17"
+    },
+    {
+      "Gültig ab": "2023-03-18",
+      "Gültig bis": "2023-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-18"
+    },
+    {
+      "Gültig ab": "2023-03-18",
+      "Gültig bis": "2023-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-18"
+    },
+    {
+      "Gültig ab": "2023-03-17",
+      "Gültig bis": "2023-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-17"
+    },
+    {
+      "Gültig ab": "2023-03-17",
+      "Gültig bis": "2023-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-17"
+    },
+    {
+      "Gültig ab": "2023-03-15",
+      "Gültig bis": "2023-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-15"
+    },
+    {
+      "Gültig ab": "2023-03-15",
+      "Gültig bis": "2023-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-15"
+    },
+    {
+      "Gültig ab": "2023-02-16",
+      "Gültig bis": "2023-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-16"
+    },
+    {
+      "Gültig ab": "2023-02-16",
+      "Gültig bis": "2023-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-16"
+    },
+    {
+      "Gültig ab": "2023-01-17",
+      "Gültig bis": "2023-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-17"
+    },
+    {
+      "Gültig ab": "2023-01-17",
+      "Gültig bis": "2023-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-17"
+    },
+    {
+      "Gültig ab": "2023-01-16",
+      "Gültig bis": "2023-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-16"
+    },
+    {
+      "Gültig ab": "2023-01-16",
+      "Gültig bis": "2023-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-16"
+    },
+    {
+      "Gültig ab": "2023-01-15",
+      "Gültig bis": "2023-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-15"
+    },
+    {
+      "Gültig ab": "2023-01-15",
+      "Gültig bis": "2023-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wsproxy2.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-15"
+    },
+    {
+      "Gültig ab": "2023-01-14",
+      "Gültig bis": "2023-04-14",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-14"
+    },
+    {
+      "Gültig ab": "2023-01-14",
+      "Gültig bis": "2023-04-14",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-14"
+    },
+    {
+      "Gültig ab": "2022-11-17",
+      "Gültig bis": "2023-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-11-17"
+    },
+    {
+      "Gültig ab": "2022-11-17",
+      "Gültig bis": "2023-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-11-17"
+    },
+    {
+      "Gültig ab": "2022-11-15",
+      "Gültig bis": "2023-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-11-15"
+    },
+    {
+      "Gültig ab": "2022-11-15",
+      "Gültig bis": "2023-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-11-15"
+    },
+    {
+      "Gültig ab": "2022-09-17",
+      "Gültig bis": "2022-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-09-17"
+    },
+    {
+      "Gültig ab": "2022-09-17",
+      "Gültig bis": "2022-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-09-17"
+    },
+    {
+      "Gültig ab": "2022-09-16",
+      "Gültig bis": "2022-12-15",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-09-16"
+    },
+    {
+      "Gültig ab": "2022-09-16",
+      "Gültig bis": "2022-12-15",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-09-16"
+    },
+    {
+      "Gültig ab": "2022-07-18",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-07-27"
+    },
+    {
+      "Gültig ab": "2022-07-19",
+      "Gültig bis": "2022-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-07-19"
+    },
+    {
+      "Gültig ab": "2022-07-19",
+      "Gültig bis": "2022-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-07-19"
+    },
+    {
+      "Gültig ab": "2022-07-18",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-07-18"
+    },
+    {
+      "Gültig ab": "2022-07-18",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-07-18"
+    },
+    {
+      "Gültig ab": "2022-07-18",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "torus.investments, www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-07-18"
+    },
+    {
+      "Gültig ab": "2022-05-26",
+      "Gültig bis": "2022-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-05-26"
+    },
+    {
+      "Gültig ab": "2022-05-26",
+      "Gültig bis": "2022-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-05-26"
+    },
+    {
+      "Gültig ab": "2022-05-26",
+      "Gültig bis": "2022-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-05-26"
+    },
+    {
+      "Gültig ab": "2022-05-26",
+      "Gültig bis": "2022-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-05-26"
+    },
+    {
+      "Gültig ab": "2022-03-26",
+      "Gültig bis": "2022-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-03-26"
+    },
+    {
+      "Gültig ab": "2022-03-26",
+      "Gültig bis": "2022-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-03-26"
+    },
+    {
+      "Gültig ab": "2022-03-26",
+      "Gültig bis": "2022-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-03-26"
+    },
+    {
+      "Gültig ab": "2022-03-26",
+      "Gültig bis": "2022-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-03-26"
+    },
+    {
+      "Gültig ab": "2022-01-25",
+      "Gültig bis": "2022-04-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-01-25"
+    },
+    {
+      "Gültig ab": "2022-01-25",
+      "Gültig bis": "2022-04-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-01-25"
+    },
+    {
+      "Gültig ab": "2022-01-25",
+      "Gültig bis": "2022-04-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-01-25"
+    },
+    {
+      "Gültig ab": "2022-01-25",
+      "Gültig bis": "2022-04-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-01-25"
+    },
+    {
+      "Gültig ab": "2021-11-26",
+      "Gültig bis": "2022-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-11-26"
+    },
+    {
+      "Gültig ab": "2021-11-26",
+      "Gültig bis": "2022-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-11-26"
+    },
+    {
+      "Gültig ab": "2021-11-26",
+      "Gültig bis": "2022-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-11-26"
+    },
+    {
+      "Gültig ab": "2021-11-26",
+      "Gültig bis": "2022-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-11-26"
+    },
+    {
+      "Gültig ab": "2021-09-26",
+      "Gültig bis": "2021-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-26"
+    },
+    {
+      "Gültig ab": "2021-09-26",
+      "Gültig bis": "2021-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-26"
+    },
+    {
+      "Gültig ab": "2021-09-26",
+      "Gültig bis": "2021-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-26"
+    },
+    {
+      "Gültig ab": "2021-09-26",
+      "Gültig bis": "2021-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-26"
+    },
+    {
+      "Gültig ab": "2021-07-28",
+      "Gültig bis": "2021-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "Gültig ab": "2021-07-28",
+      "Gültig bis": "2021-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "Gültig ab": "2021-07-28",
+      "Gültig bis": "2021-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "Gültig ab": "2021-07-28",
+      "Gültig bis": "2021-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "Gültig ab": "2021-05-29",
+      "Gültig bis": "2021-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-05-29"
+    },
+    {
+      "Gültig ab": "2021-05-29",
+      "Gültig bis": "2021-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-05-29"
+    },
+    {
+      "Gültig ab": "2021-05-29",
+      "Gültig bis": "2021-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-05-29"
+    },
+    {
+      "Gültig ab": "2021-05-29",
+      "Gültig bis": "2021-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-05-29"
+    },
+    {
+      "Gültig ab": "2021-03-29",
+      "Gültig bis": "2021-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-03-29"
+    },
+    {
+      "Gültig ab": "2021-03-29",
+      "Gültig bis": "2021-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-03-29"
+    },
+    {
+      "Gültig ab": "2021-03-29",
+      "Gültig bis": "2021-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-03-29"
+    },
+    {
+      "Gültig ab": "2021-03-29",
+      "Gültig bis": "2021-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-03-29"
+    },
+    {
+      "Gültig ab": "2021-01-28",
+      "Gültig bis": "2021-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-28"
+    },
+    {
+      "Gültig ab": "2021-01-28",
+      "Gültig bis": "2021-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-28"
+    },
+    {
+      "Gültig ab": "2021-01-28",
+      "Gültig bis": "2021-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-28"
+    },
+    {
+      "Gültig ab": "2021-01-28",
+      "Gültig bis": "2021-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-28"
+    },
+    {
+      "Gültig ab": "2020-11-29",
+      "Gültig bis": "2021-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-11-29"
+    },
+    {
+      "Gültig ab": "2020-11-29",
+      "Gültig bis": "2021-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-11-29"
+    },
+    {
+      "Gültig ab": "2020-11-29",
+      "Gültig bis": "2021-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-11-29"
+    },
+    {
+      "Gültig ab": "2020-11-29",
+      "Gültig bis": "2021-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-11-29"
+    },
+    {
+      "Gültig ab": "2020-09-30",
+      "Gültig bis": "2020-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-30"
+    },
+    {
+      "Gültig ab": "2020-09-30",
+      "Gültig bis": "2020-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-30"
+    },
+    {
+      "Gültig ab": "2020-09-30",
+      "Gültig bis": "2020-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-30"
+    },
+    {
+      "Gültig ab": "2020-09-30",
+      "Gültig bis": "2020-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-30"
+    },
+    {
+      "Gültig ab": "2020-08-01",
+      "Gültig bis": "2020-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-01"
+    },
+    {
+      "Gültig ab": "2020-08-01",
+      "Gültig bis": "2020-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-01"
+    },
+    {
+      "Gültig ab": "2020-08-01",
+      "Gültig bis": "2020-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-01"
+    },
+    {
+      "Gültig ab": "2020-08-01",
+      "Gültig bis": "2020-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-01"
+    },
+    {
+      "Gültig ab": "2020-06-02",
+      "Gültig bis": "2020-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-06-02"
+    },
+    {
+      "Gültig ab": "2020-06-02",
+      "Gültig bis": "2020-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-06-02"
+    },
+    {
+      "Gültig ab": "2020-06-02",
+      "Gültig bis": "2020-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-06-02"
+    },
+    {
+      "Gültig ab": "2020-06-02",
+      "Gültig bis": "2020-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-06-02"
+    },
+    {
+      "Gültig ab": "2020-04-02",
+      "Gültig bis": "2020-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-04-02"
+    },
+    {
+      "Gültig ab": "2020-04-02",
+      "Gültig bis": "2020-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-04-02"
+    },
+    {
+      "Gültig ab": "2020-04-02",
+      "Gültig bis": "2020-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-04-02"
+    },
+    {
+      "Gültig ab": "2020-04-02",
+      "Gültig bis": "2020-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-04-02"
+    },
+    {
+      "Gültig ab": "2020-02-02",
+      "Gültig bis": "2020-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-02"
+    },
+    {
+      "Gültig ab": "2020-02-02",
+      "Gültig bis": "2020-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-02"
+    },
+    {
+      "Gültig ab": "2020-02-02",
+      "Gültig bis": "2020-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-02"
+    },
+    {
+      "Gültig ab": "2020-02-02",
+      "Gültig bis": "2020-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-02"
+    },
+    {
+      "Gültig ab": "2019-12-04",
+      "Gültig bis": "2020-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-04"
+    },
+    {
+      "Gültig ab": "2019-12-04",
+      "Gültig bis": "2020-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-04"
+    },
+    {
+      "Gültig ab": "2019-12-04",
+      "Gültig bis": "2020-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-04"
+    },
+    {
+      "Gültig ab": "2019-12-04",
+      "Gültig bis": "2020-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-04"
+    },
+    {
+      "Gültig ab": "2019-10-04",
+      "Gültig bis": "2020-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-04"
+    },
+    {
+      "Gültig ab": "2019-10-04",
+      "Gültig bis": "2020-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-04"
+    },
+    {
+      "Gültig ab": "2019-10-04",
+      "Gültig bis": "2020-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-04"
+    },
+    {
+      "Gültig ab": "2019-10-04",
+      "Gültig bis": "2020-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-04"
+    },
+    {
+      "Gültig ab": "2019-08-05",
+      "Gültig bis": "2019-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-08-05"
+    },
+    {
+      "Gültig ab": "2019-08-05",
+      "Gültig bis": "2019-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-08-05"
+    },
+    {
+      "Gültig ab": "2019-08-05",
+      "Gültig bis": "2019-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-08-05"
+    },
+    {
+      "Gültig ab": "2019-08-05",
+      "Gültig bis": "2019-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-08-05"
+    },
+    {
+      "Gültig ab": "2019-06-06",
+      "Gültig bis": "2019-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-06-06"
+    },
+    {
+      "Gültig ab": "2019-06-06",
+      "Gültig bis": "2019-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-06-06"
+    },
+    {
+      "Gültig ab": "2019-06-06",
+      "Gültig bis": "2019-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-06-06"
+    },
+    {
+      "Gültig ab": "2019-06-06",
+      "Gültig bis": "2019-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-06-06"
+    },
+    {
+      "Gültig ab": "2019-04-07",
+      "Gültig bis": "2019-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-04-07"
+    },
+    {
+      "Gültig ab": "2019-04-07",
+      "Gültig bis": "2019-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-04-07"
+    },
+    {
+      "Gültig ab": "2019-04-07",
+      "Gültig bis": "2019-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-04-07"
+    },
+    {
+      "Gültig ab": "2019-04-07",
+      "Gültig bis": "2019-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-04-07"
+    },
+    {
+      "Gültig ab": "2019-02-05",
+      "Gültig bis": "2019-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-05"
+    },
+    {
+      "Gültig ab": "2019-02-05",
+      "Gültig bis": "2019-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-05"
+    },
+    {
+      "Gültig ab": "2019-02-05",
+      "Gültig bis": "2019-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-05"
+    },
+    {
+      "Gültig ab": "2019-02-05",
+      "Gültig bis": "2019-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "torus.investments",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-05"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.torus.investments/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/connectors",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.torus.investments/home-copy",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-13"
+    },
+    {
+      "URL": "https://www.torus.investments/0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "URL": "https://www.torus.investments/0,%200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "URL": "https://www.torus.investments/0,%2010rem,%200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "URL": "https://www.torus.investments/1,%201,%201",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "URL": "https://www.torus.investments/10deg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "URL": "https://www.torus.investments/about",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "URL": "https://www.torus.investments/ai-powered-chatbot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-27"
+    },
+    {
+      "URL": "https://www.torus.investments/algorithmic-trading",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-27"
+    },
+    {
+      "URL": "https://www.torus.investments/12,%201fr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.torus.investments/_api/v2/dynamicmodel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.torus.investments/_api/wix-code-public-dispatcher-ng/siteview",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.torus.investments/al_c",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.torus.investments/blur_2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.torus.investments/h_110",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.torus.investments/h_36",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.torus.investments/manifests/14271d6f-ba62-d045-549b-ab972ae1f70e/25/manifests.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.torus.investments/min-content,%20max-content",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.torus.investments/q_80",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.torus.investments/q_85",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.torus.investments/usm_0.66_1.00_0.01",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.torus.investments/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/10",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/about-us",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/blog-feed.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/contact-9",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/online-programs-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/pages-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://www.torus.investments/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "URL": "https://torus.investments/index",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-25"
+    },
+    {
+      "URL": "https://torus.investments/css/fonts/AkkuratStd/ttf/AkkuratStd-Light.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-19"
+    },
+    {
+      "URL": "http://torus.investments/css/fonts/AkkuratStd/ttf/AkkuratStd-Regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-05"
+    },
+    {
+      "URL": "http://torus.investments/css/fonts/AkkuratStd/woff/AkkuratStd-Light.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-04"
+    },
+    {
+      "URL": "http://torus.investments/css/fonts/AkkuratStd/eot/AkkuratStd-Bold.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-30"
+    },
+    {
+      "URL": "http://torus.investments/css/fonts/AkkuratStd/eot/AkkuratStd-Light.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-30"
+    },
+    {
+      "URL": "http://torus.investments/css/fonts/AkkuratStd/woff/AkkuratStd-Bold.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-29"
+    },
+    {
+      "URL": "http://torus.investments/css/fonts/AkkuratStd/eot/AkkuratStd-Regular.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-25"
+    },
+    {
+      "URL": "http://torus.investments/css/fonts/AkkuratStd/ttf/AkkuratStd-Bold.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-25"
+    },
+    {
+      "URL": "http://torus.investments/css/fonts/AkkuratStd/woff/AkkuratStd-Regular.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-25"
+    },
+    {
+      "URL": "http://torus.investments/media/background.mp4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-20"
+    },
+    {
+      "URL": "http://torus.investments:80/career.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-12-10"
+    },
+    {
+      "URL": "http://torus.investments:80/firm.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-12-10"
+    },
+    {
+      "URL": "http://torus.investments:80/investor.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-12-10"
+    },
+    {
+      "URL": "http://torus.investments:80/product.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-11-09"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "E-Mail": "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "E-Mail": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "E-Mail": "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "E-Mail": "98b21aa53d68482b8414e892d9af0e5f@sentry-next.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "E-Mail": "abuse@name.com",
+      "Passwort geleakt (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-05-15"
+    },
+    {
+      "E-Mail": "example@mysite.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "E-Mail": "info@monsite.fr",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-20"
+    },
+    {
+      "E-Mail": "info@torus.investments",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41166015625",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-27"
+    },
+    {
+      "Telefonnummern": "+41525510300",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "Telefonnummern": "+41693359375",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-27"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

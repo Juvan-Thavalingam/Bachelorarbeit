@@ -1,0 +1,2359 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "80.74.128.40",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mail.salzgeberag.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.chromaflex.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Name Server": "ns2.chromaflex.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 a mx a:relay.corvent.ch ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "604800",
+      "Serial": "2024050401",
+      "Refresh": "3600",
+      "Hostmaster": "hostmaster.corvent.ch.",
+      "Minimum TTL": "600",
+      "Primary Nameserver": "ns1.chromaflex.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "80.74.128.40",
+      "PTR-Domain": "tacitus.sui-inter.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "salzgeberag.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "cloud.salzgeberag.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "imap.salzgeberag.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "mail.salzgeberag.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "pop.salzgeberag.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "smtp.salzgeberag.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-20",
+      "Gültig bis": "2025-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-20"
+    },
+    {
+      "Gültig ab": "2025-05-20",
+      "Gültig bis": "2025-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-20"
+    },
+    {
+      "Gültig ab": "2025-05-18",
+      "Gültig bis": "2025-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-18"
+    },
+    {
+      "Gültig ab": "2025-05-18",
+      "Gültig bis": "2025-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-18"
+    },
+    {
+      "Gültig ab": "2025-03-20",
+      "Gültig bis": "2025-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-20"
+    },
+    {
+      "Gültig ab": "2025-03-20",
+      "Gültig bis": "2025-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-20"
+    },
+    {
+      "Gültig ab": "2025-03-18",
+      "Gültig bis": "2025-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "Gültig ab": "2025-03-18",
+      "Gültig bis": "2025-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "Gültig ab": "2025-01-18",
+      "Gültig bis": "2025-04-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "Gültig ab": "2025-01-18",
+      "Gültig bis": "2025-04-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "Gültig ab": "2025-01-17",
+      "Gültig bis": "2025-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "Gültig ab": "2025-01-17",
+      "Gültig bis": "2025-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "Gültig ab": "2024-11-19",
+      "Gültig bis": "2025-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-19"
+    },
+    {
+      "Gültig ab": "2024-11-19",
+      "Gültig bis": "2025-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-19"
+    },
+    {
+      "Gültig ab": "2024-11-18",
+      "Gültig bis": "2025-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-18"
+    },
+    {
+      "Gültig ab": "2024-11-18",
+      "Gültig bis": "2025-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-18"
+    },
+    {
+      "Gültig ab": "2024-09-20",
+      "Gültig bis": "2024-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "Gültig ab": "2024-09-20",
+      "Gültig bis": "2024-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "Gültig ab": "2024-09-13",
+      "Gültig bis": "2024-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "Gültig ab": "2024-09-13",
+      "Gültig bis": "2024-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "Gültig ab": "2024-07-22",
+      "Gültig bis": "2024-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "Gültig ab": "2024-07-22",
+      "Gültig bis": "2024-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "Gültig ab": "2024-07-15",
+      "Gültig bis": "2024-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "Gültig ab": "2024-07-15",
+      "Gültig bis": "2024-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "Gültig ab": "2024-05-23",
+      "Gültig bis": "2024-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-23"
+    },
+    {
+      "Gültig ab": "2024-05-23",
+      "Gültig bis": "2024-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-23"
+    },
+    {
+      "Gültig ab": "2024-05-15",
+      "Gültig bis": "2024-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-16"
+    },
+    {
+      "Gültig ab": "2024-05-15",
+      "Gültig bis": "2024-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-16"
+    },
+    {
+      "Gültig ab": "2024-03-23",
+      "Gültig bis": "2024-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-23"
+    },
+    {
+      "Gültig ab": "2024-03-23",
+      "Gültig bis": "2024-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-23"
+    },
+    {
+      "Gültig ab": "2024-03-16",
+      "Gültig bis": "2024-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-16"
+    },
+    {
+      "Gültig ab": "2024-03-16",
+      "Gültig bis": "2024-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-16"
+    },
+    {
+      "Gültig ab": "2024-01-22",
+      "Gültig bis": "2024-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-22"
+    },
+    {
+      "Gültig ab": "2024-01-22",
+      "Gültig bis": "2024-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-22"
+    },
+    {
+      "Gültig ab": "2024-01-16",
+      "Gültig bis": "2024-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "Gültig ab": "2024-01-16",
+      "Gültig bis": "2024-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "Gültig ab": "2023-11-23",
+      "Gültig bis": "2024-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-23"
+    },
+    {
+      "Gültig ab": "2023-11-23",
+      "Gültig bis": "2024-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-23"
+    },
+    {
+      "Gültig ab": "2023-11-17",
+      "Gültig bis": "2024-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-17"
+    },
+    {
+      "Gültig ab": "2023-11-17",
+      "Gültig bis": "2024-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-17"
+    },
+    {
+      "Gültig ab": "2023-09-24",
+      "Gültig bis": "2023-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "Gültig ab": "2023-09-24",
+      "Gültig bis": "2023-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "Gültig ab": "2023-09-17",
+      "Gültig bis": "2023-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-17"
+    },
+    {
+      "Gültig ab": "2023-09-17",
+      "Gültig bis": "2023-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-17"
+    },
+    {
+      "Gültig ab": "2023-07-26",
+      "Gültig bis": "2023-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-26"
+    },
+    {
+      "Gültig ab": "2023-07-26",
+      "Gültig bis": "2023-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-26"
+    },
+    {
+      "Gültig ab": "2023-07-19",
+      "Gültig bis": "2023-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-19"
+    },
+    {
+      "Gültig ab": "2023-07-19",
+      "Gültig bis": "2023-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-19"
+    },
+    {
+      "Gültig ab": "2023-05-27",
+      "Gültig bis": "2023-08-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-27"
+    },
+    {
+      "Gültig ab": "2023-05-27",
+      "Gültig bis": "2023-08-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-27"
+    },
+    {
+      "Gültig ab": "2023-05-20",
+      "Gültig bis": "2023-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-20"
+    },
+    {
+      "Gültig ab": "2023-05-20",
+      "Gültig bis": "2023-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-20"
+    },
+    {
+      "Gültig ab": "2023-03-27",
+      "Gültig bis": "2023-06-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-27"
+    },
+    {
+      "Gültig ab": "2023-03-27",
+      "Gültig bis": "2023-06-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-27"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2023-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2023-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-02-15",
+      "Gültig bis": "2023-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-16"
+    },
+    {
+      "Gültig ab": "2023-02-15",
+      "Gültig bis": "2023-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-16"
+    },
+    {
+      "Gültig ab": "2023-01-20",
+      "Gültig bis": "2023-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-20"
+    },
+    {
+      "Gültig ab": "2023-01-20",
+      "Gültig bis": "2023-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-20"
+    },
+    {
+      "Gültig ab": "2022-12-17",
+      "Gültig bis": "2023-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-17"
+    },
+    {
+      "Gültig ab": "2022-12-17",
+      "Gültig bis": "2023-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-17"
+    },
+    {
+      "Gültig ab": "2022-11-17",
+      "Gültig bis": "2023-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-17"
+    },
+    {
+      "Gültig ab": "2022-11-17",
+      "Gültig bis": "2023-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-17"
+    },
+    {
+      "Gültig ab": "2022-10-18",
+      "Gültig bis": "2023-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-18"
+    },
+    {
+      "Gültig ab": "2022-10-18",
+      "Gültig bis": "2023-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-18"
+    },
+    {
+      "Gültig ab": "2022-09-17",
+      "Gültig bis": "2022-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-17"
+    },
+    {
+      "Gültig ab": "2022-09-17",
+      "Gültig bis": "2022-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-17"
+    },
+    {
+      "Gültig ab": "2022-08-18",
+      "Gültig bis": "2022-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-18"
+    },
+    {
+      "Gültig ab": "2022-08-18",
+      "Gültig bis": "2022-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-18"
+    },
+    {
+      "Gültig ab": "2022-07-19",
+      "Gültig bis": "2022-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-19"
+    },
+    {
+      "Gültig ab": "2022-07-19",
+      "Gültig bis": "2022-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-19"
+    },
+    {
+      "Gültig ab": "2022-06-19",
+      "Gültig bis": "2022-09-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-19"
+    },
+    {
+      "Gültig ab": "2022-06-19",
+      "Gültig bis": "2022-09-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-19"
+    },
+    {
+      "Gültig ab": "2022-05-20",
+      "Gültig bis": "2022-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-20"
+    },
+    {
+      "Gültig ab": "2022-05-20",
+      "Gültig bis": "2022-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-20"
+    },
+    {
+      "Gültig ab": "2022-04-20",
+      "Gültig bis": "2022-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-20"
+    },
+    {
+      "Gültig ab": "2022-04-20",
+      "Gültig bis": "2022-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-20"
+    },
+    {
+      "Gültig ab": "2022-03-20",
+      "Gültig bis": "2022-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-20"
+    },
+    {
+      "Gültig ab": "2022-03-20",
+      "Gültig bis": "2022-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-20"
+    },
+    {
+      "Gültig ab": "2022-02-19",
+      "Gültig bis": "2022-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-19"
+    },
+    {
+      "Gültig ab": "2022-02-19",
+      "Gültig bis": "2022-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-19"
+    },
+    {
+      "Gültig ab": "2022-01-19",
+      "Gültig bis": "2022-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "Gültig ab": "2022-01-19",
+      "Gültig bis": "2022-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "Gültig ab": "2021-12-20",
+      "Gültig bis": "2022-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-20"
+    },
+    {
+      "Gültig ab": "2021-12-20",
+      "Gültig bis": "2022-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-20"
+    },
+    {
+      "Gültig ab": "2021-11-20",
+      "Gültig bis": "2022-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-20"
+    },
+    {
+      "Gültig ab": "2021-11-20",
+      "Gültig bis": "2022-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-20"
+    },
+    {
+      "Gültig ab": "2021-10-21",
+      "Gültig bis": "2022-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-21"
+    },
+    {
+      "Gültig ab": "2021-10-21",
+      "Gültig bis": "2022-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-21"
+    },
+    {
+      "Gültig ab": "2021-09-20",
+      "Gültig bis": "2021-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-20"
+    },
+    {
+      "Gültig ab": "2021-09-20",
+      "Gültig bis": "2021-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-20"
+    },
+    {
+      "Gültig ab": "2021-08-22",
+      "Gültig bis": "2021-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-22"
+    },
+    {
+      "Gültig ab": "2021-08-22",
+      "Gültig bis": "2021-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-22"
+    },
+    {
+      "Gültig ab": "2021-07-22",
+      "Gültig bis": "2021-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-22"
+    },
+    {
+      "Gültig ab": "2021-07-22",
+      "Gültig bis": "2021-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-22"
+    },
+    {
+      "Gültig ab": "2021-06-22",
+      "Gültig bis": "2021-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-22"
+    },
+    {
+      "Gültig ab": "2021-06-22",
+      "Gültig bis": "2021-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-22"
+    },
+    {
+      "Gültig ab": "2021-05-23",
+      "Gültig bis": "2021-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-23"
+    },
+    {
+      "Gültig ab": "2021-05-23",
+      "Gültig bis": "2021-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-23"
+    },
+    {
+      "Gültig ab": "2021-04-12",
+      "Gültig bis": "2021-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-12"
+    },
+    {
+      "Gültig ab": "2021-04-12",
+      "Gültig bis": "2021-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-12"
+    },
+    {
+      "Gültig ab": "2021-03-24",
+      "Gültig bis": "2021-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-24"
+    },
+    {
+      "Gültig ab": "2021-03-24",
+      "Gültig bis": "2021-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-24"
+    },
+    {
+      "Gültig ab": "2021-02-11",
+      "Gültig bis": "2021-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-11"
+    },
+    {
+      "Gültig ab": "2021-02-11",
+      "Gültig bis": "2021-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-11"
+    },
+    {
+      "Gültig ab": "2021-01-22",
+      "Gültig bis": "2021-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-23"
+    },
+    {
+      "Gültig ab": "2021-01-22",
+      "Gültig bis": "2021-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-23"
+    },
+    {
+      "Gültig ab": "2020-12-13",
+      "Gültig bis": "2021-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-13"
+    },
+    {
+      "Gültig ab": "2020-12-13",
+      "Gültig bis": "2021-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-13"
+    },
+    {
+      "Gültig ab": "2020-11-23",
+      "Gültig bis": "2021-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-11-23"
+    },
+    {
+      "Gültig ab": "2020-11-23",
+      "Gültig bis": "2021-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-11-23"
+    },
+    {
+      "Gültig ab": "2020-10-14",
+      "Gültig bis": "2021-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-14"
+    },
+    {
+      "Gültig ab": "2020-10-14",
+      "Gültig bis": "2021-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-14"
+    },
+    {
+      "Gültig ab": "2020-09-24",
+      "Gültig bis": "2020-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-09-24"
+    },
+    {
+      "Gültig ab": "2020-09-24",
+      "Gültig bis": "2020-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-09-24"
+    },
+    {
+      "Gültig ab": "2020-08-14",
+      "Gültig bis": "2020-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-14"
+    },
+    {
+      "Gültig ab": "2020-08-14",
+      "Gültig bis": "2020-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-14"
+    },
+    {
+      "Gültig ab": "2020-07-26",
+      "Gültig bis": "2020-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-07-26"
+    },
+    {
+      "Gültig ab": "2020-07-26",
+      "Gültig bis": "2020-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-07-26"
+    },
+    {
+      "Gültig ab": "2020-06-15",
+      "Gültig bis": "2020-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-15"
+    },
+    {
+      "Gültig ab": "2020-06-15",
+      "Gültig bis": "2020-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-15"
+    },
+    {
+      "Gültig ab": "2020-05-26",
+      "Gültig bis": "2020-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-05-26"
+    },
+    {
+      "Gültig ab": "2020-05-26",
+      "Gültig bis": "2020-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-05-26"
+    },
+    {
+      "Gültig ab": "2020-04-16",
+      "Gültig bis": "2020-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-16"
+    },
+    {
+      "Gültig ab": "2020-04-16",
+      "Gültig bis": "2020-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-16"
+    },
+    {
+      "Gültig ab": "2020-03-27",
+      "Gültig bis": "2020-06-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-03-27"
+    },
+    {
+      "Gültig ab": "2020-03-27",
+      "Gültig bis": "2020-06-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-03-27"
+    },
+    {
+      "Gültig ab": "2020-02-15",
+      "Gültig bis": "2020-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-15"
+    },
+    {
+      "Gültig ab": "2020-02-15",
+      "Gültig bis": "2020-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-15"
+    },
+    {
+      "Gültig ab": "2020-01-27",
+      "Gültig bis": "2020-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-01-27"
+    },
+    {
+      "Gültig ab": "2020-01-27",
+      "Gültig bis": "2020-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-01-27"
+    },
+    {
+      "Gültig ab": "2019-12-17",
+      "Gültig bis": "2020-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-17"
+    },
+    {
+      "Gültig ab": "2019-12-17",
+      "Gültig bis": "2020-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "salzgeberag.ch, www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-17"
+    },
+    {
+      "Gültig ab": "2019-12-17",
+      "Gültig bis": "2020-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-17"
+    },
+    {
+      "Gültig ab": "2019-12-17",
+      "Gültig bis": "2020-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-17"
+    },
+    {
+      "Gültig ab": "2019-11-21",
+      "Gültig bis": "2020-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-21"
+    },
+    {
+      "Gültig ab": "2019-11-21",
+      "Gültig bis": "2020-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-21"
+    },
+    {
+      "Gültig ab": "2019-09-18",
+      "Gültig bis": "2019-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-09-18"
+    },
+    {
+      "Gültig ab": "2019-09-18",
+      "Gültig bis": "2019-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-09-18"
+    },
+    {
+      "Gültig ab": "2019-07-10",
+      "Gültig bis": "2019-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-07-10"
+    },
+    {
+      "Gültig ab": "2019-07-10",
+      "Gültig bis": "2019-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-07-10"
+    },
+    {
+      "Gültig ab": "2019-04-30",
+      "Gültig bis": "2019-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-04-30"
+    },
+    {
+      "Gültig ab": "2019-04-30",
+      "Gültig bis": "2019-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-04-30"
+    },
+    {
+      "Gültig ab": "2019-01-28",
+      "Gültig bis": "2019-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-28"
+    },
+    {
+      "Gültig ab": "2019-01-28",
+      "Gültig bis": "2019-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-28"
+    },
+    {
+      "Gültig ab": "2019-01-01",
+      "Gültig bis": "2019-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-01"
+    },
+    {
+      "Gültig ab": "2019-01-01",
+      "Gültig bis": "2019-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-01"
+    },
+    {
+      "Gültig ab": "2018-11-02",
+      "Gültig bis": "2019-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-11-02"
+    },
+    {
+      "Gültig ab": "2018-11-02",
+      "Gültig bis": "2019-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-11-02"
+    },
+    {
+      "Gültig ab": "2018-09-02",
+      "Gültig bis": "2018-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-02"
+    },
+    {
+      "Gültig ab": "2018-09-02",
+      "Gültig bis": "2018-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-02"
+    },
+    {
+      "Gültig ab": "2018-07-04",
+      "Gültig bis": "2018-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-07-04"
+    },
+    {
+      "Gültig ab": "2018-07-04",
+      "Gültig bis": "2018-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-07-04"
+    },
+    {
+      "Gültig ab": "2018-07-04",
+      "Gültig bis": "2018-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-07-04"
+    },
+    {
+      "Gültig ab": "2018-07-04",
+      "Gültig bis": "2018-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "imap.salzgeberag.ch, mail.salzgeberag.ch, pop.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-07-04"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.salzgeberag.ch/laeppen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/partner/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/portfolio-item/laserschneiden/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/portfolio-item/programmieren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/portfolio-item/wasserstrahlschneiden/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/rundnen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/service/rundnen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/stickstoffgenerator/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/wp-content/themes/allegiant/core/fonts/fa-solid-900.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-26"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/wp-content/themes/allegiant/core/fonts/fa-solid-900.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-26"
+    },
+    {
+      "URL": "https://salzgeberag.chSitemap:",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/stanzen/sieb-3/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/taetigkeiten/20150425_174330/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/taetigkeiten/20150430_163345/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/taetigkeiten/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/179/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/192/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/2-rad-center-edi-kaegi-elgg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/750-jahre-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/author/firma-salzgeber/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/author/support/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/axa-siftung-praevention/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/blechbearbeitung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/bleche-biegen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/bleche-walzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/blechverarbeitung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/entgraten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/gruenraum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/kostenrechner-ventilplatten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/laeppen-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/meyco-equipment/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/photonenfalle/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/prime-tower/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/rundnen-walzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/stanzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/superfinish-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/ventilplatte-epx185/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/ventilplatte-exp245/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/wepshop-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch/wp-content/themes/yoo_venice_wp/warp/vendor/uikit/fonts/fontawesome-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-28"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch/wp-content/themes/yoo_venice_wp/warp/vendor/uikit/fonts/fontawesome-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-27"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch/wp-content/themes/yoo_venice_wp/fonts/yootheme.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-26"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch/wp-content/themes/yoo_venice_wp/warp/vendor/uikit/fonts/fontawesome-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch/wp-content/themes/yoo_venice_wp/warp/vendor/uikit/fonts/fontawesome-webfont.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-25"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch/wp-content/themes/yoo_venice_wp/fonts/yootheme.ttf?w5n8lw",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-23"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch/wp-content/themes/yoo_venice_wp/fonts/yootheme.woff?w5n8lw",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-15"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/taetigkeiten.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-29"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/cpo_portfolio-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/cpo_service-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/datenschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/impressum-haftungsausschluss/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/jobs/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/page-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/sitemap_index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/wp-content/plugins/cpo-companion/assets/fonts/fontawesome-webfont.woff2?v=4.3.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-12"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/abkanten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-06"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/blechshop/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-06"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/gleitschleifen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-03"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/referenzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-03"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/schweissen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-03"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/laserschneiden/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-14"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/scheren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-14"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/service/abkanten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-14"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/taetigkeiten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-14"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-11"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/xmlrpc.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-11"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/geschichte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-04"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/sonstiges/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-04"
+    },
+    {
+      "URL": "https://salzgeberag.ch/wp-admin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-27"
+    },
+    {
+      "URL": "https://salzgeberag.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-27"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/agbs/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/author/dnaga91011/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/ersatzteil-fuer-kompressorventil/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch/category/referenzen/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-12-09"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/rundmaschine/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-05-24"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/abkanten/wellen-blech/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-03-27"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/taetigkeiten/20170324_072322_1490469235550/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-03-27"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/solderbond/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-03-26"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch/biegen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-03-08"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch/trowalisieren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-03-07"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch/home/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-12-28"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/maschinenpark.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-04-14"
+    },
+    {
+      "URL": "http://salzgeberag.ch/firmengeschichte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-02-20"
+    },
+    {
+      "URL": "http://salzgeberag.ch/referenzen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-02-20"
+    },
+    {
+      "URL": "http://salzgeberag.ch/material.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-02-19"
+    },
+    {
+      "URL": "http://salzgeberag.ch/salzgeber-ag-home/drucken.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-02-19"
+    },
+    {
+      "URL": "http://salzgeberag.ch/standort.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-02-19"
+    },
+    {
+      "URL": "http://salzgeberag.ch/taetigkeiten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-02-19"
+    },
+    {
+      "URL": "http://salzgeberag.ch/team.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-02-19"
+    },
+    {
+      "URL": "http://salzgeberag.ch/testseite.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-02-19"
+    },
+    {
+      "URL": "http://salzgeberag.ch/feed/atom.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-12-25"
+    },
+    {
+      "URL": "http://salzgeberag.ch/feed/rss.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-12-25"
+    },
+    {
+      "URL": "http://salzgeberag.ch/zu-verkaufen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-10-26"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/component/option,com_dfcontact/Itemid,10/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-02-04"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/danke.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-31"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/imagesseiten/abkantpresse.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-31"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/imagesseiten/hausgeschichte.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-31"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/imagesseiten/raskin.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-31"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/imagesseiten/rechnung.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-31"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/imagesseiten/saege.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-31"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/imagesseiten/schweissgeraet.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-31"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/imagesseiten/uhr.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-31"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/imagesseiten/wasserstrahl.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-31"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/imagesseiten/zwei_teile.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-31"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/geschichte.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-29"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/index.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-29"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/kontakt.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-29"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/maschinenpark.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-29"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/material.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-29"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/standort.shtml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2007-08-29"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/ueber-uns/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/ventilplatte-epx180-gelb/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/wasserstrahlschneiden/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-28"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/entgraten-verrunden-finishschleifen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/maschinenpark/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/oberflaechenbehandlung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/programmieren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/service/schweissen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/ventilplatte-pitx240-braun/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/wp-content/uploads/2020/05/EPX-180-gelb-1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-19"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/wp-content/uploads/2020/05/EPX-180-gelb.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-19"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/wp-content/uploads/2020/05/PITX240-braun-1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-19"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/wp-content/uploads/2020/05/PITX240-braun.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-19"
+    },
+    {
+      "URL": "https://www.salzgeberag.ch/wp-content/uploads/2020/05/Ventilplatten-Fachbeitrag.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-19"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/category/referenzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-22"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/wasserstrahlscheiden/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-21"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/oberflaechenbehandling/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/material/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-17"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/abkanten/siebdruck/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-10"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/laserschneiden/steuerung-elekro/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-09"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/material/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-09"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/oberflaechenbehandling/20150427_081629/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-09"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/taetigkeiten/20170324_071806_1490469235967/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-09"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/wasserstrahlscheiden/20170128_135135/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-23"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/category/referenzen/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-05"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/laserschneiden/20190314_072237/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/salzgeber-ag-2/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "URL": "http://www.salzgeberag.ch:80/stanzen/sieb-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@salzgeberag.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522336655",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    }
+  ],
+  "service": [
+    {
+      "Port": 443,
+      "Dienst": "Apache httpd",
+      "Version": "2.4.29",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "188.60.168.238",
+      "Domain/Subdomain": "cloud.salzgeberag.ch, pop.salzgeberag.ch, 238.168.60.188.dynamic.cust.swisscom.net, salzgeber.corvent.ch, imap.salzgeberag.ch, mail.salzgeberag.ch, smtp.salzgeberag.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:apache:http_server:2.4.29",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "Common Vulnerabilities and Exposures (CVE)": [
+        "CVE-CVE-2019-0196",
+        "CVE-CVE-2024-27316",
+        "CVE-CVE-2011-2688",
+        "CVE-CVE-2013-2765",
+        "CVE-CVE-2020-1934",
+        "CVE-CVE-2018-17189",
+        "CVE-CVE-2022-36760",
+        "CVE-CVE-2020-35452",
+        "CVE-CVE-2022-29404",
+        "CVE-CVE-2021-33193",
+        "CVE-CVE-2009-0796",
+        "CVE-CVE-2013-4365",
+        "CVE-CVE-2018-1333",
+        "CVE-CVE-2022-22720",
+        "CVE-CVE-2018-11763",
+        "CVE-CVE-2022-28330",
+        "CVE-CVE-2020-11993",
+        "CVE-CVE-2021-32791",
+        "CVE-CVE-2021-32792",
+        "CVE-CVE-2023-31122",
+        "CVE-CVE-2019-9517",
+        "CVE-CVE-2024-38476",
+        "CVE-CVE-2024-38477",
+        "CVE-CVE-2024-38474",
+        "CVE-CVE-2024-38475",
+        "CVE-CVE-2019-0211",
+        "CVE-CVE-2022-22721",
+        "CVE-CVE-2006-20001",
+        "CVE-CVE-2019-10092",
+        "CVE-CVE-2013-0941",
+        "CVE-CVE-2019-17567",
+        "CVE-CVE-2017-15715",
+        "CVE-CVE-2022-31813",
+        "CVE-CVE-2012-4001",
+        "CVE-CVE-2019-10098",
+        "CVE-CVE-2022-37436",
+        "CVE-CVE-2012-4360",
+        "CVE-CVE-2021-40438",
+        "CVE-CVE-2011-1176",
+        "CVE-CVE-2022-23943",
+        "CVE-CVE-2020-1927",
+        "CVE-CVE-2018-17199",
+        "CVE-CVE-2019-0220",
+        "CVE-CVE-2017-15710",
+        "CVE-CVE-2018-1301",
+        "CVE-CVE-2018-1302",
+        "CVE-CVE-2018-1303",
+        "CVE-CVE-2021-34798",
+        "CVE-CVE-2023-25690",
+        "CVE-CVE-2021-32786",
+        "CVE-CVE-2021-32785",
+        "CVE-CVE-2020-9490",
+        "CVE-CVE-2021-44224",
+        "CVE-CVE-2007-4723",
+        "CVE-CVE-2021-44790",
+        "CVE-CVE-2013-0942",
+        "CVE-CVE-2021-26690",
+        "CVE-CVE-2021-26691",
+        "CVE-CVE-2022-26377",
+        "CVE-CVE-2023-45802",
+        "CVE-CVE-2022-28614",
+        "CVE-CVE-2020-13938",
+        "CVE-CVE-2019-10081",
+        "CVE-CVE-2018-1283",
+        "CVE-CVE-2019-10082",
+        "CVE-CVE-2018-1312",
+        "CVE-CVE-2012-3526",
+        "CVE-CVE-2024-40898",
+        "CVE-CVE-2019-0217",
+        "CVE-CVE-2009-2299",
+        "CVE-CVE-2021-39275",
+        "CVE-CVE-2022-28615",
+        "CVE-CVE-2022-30556",
+        "CVE-CVE-2022-22719"
+      ]
+    }
+  ]
+}

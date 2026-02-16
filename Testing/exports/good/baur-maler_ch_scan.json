@@ -1,0 +1,2122 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "217.26.61.224",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a00:d70:0:b:2002:0:d91a:3de0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "baurmaler-ch01b.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Name Server": "ns2.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Name Server": "ns3.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms48550296\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Text Record": "\"v=spf1 include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "3628800",
+      "Serial": "1747267200",
+      "Refresh": "86400",
+      "Hostmaster": "hostmaster.hostpoint.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "217.26.61.224",
+      "PTR-Domain": "sl2222.web.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "IP-Adresse": "2a00:d70:0:b:2002:0:d91a:3de0",
+      "PTR-Domain": "sl2222.web.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "baur-maler.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "mail.baur-maler.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-03-16",
+      "Gültig bis": "2025-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "Gültig ab": "2025-03-16",
+      "Gültig bis": "2025-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "Gültig ab": "2025-03-16",
+      "Gültig bis": "2025-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "Gültig ab": "2025-03-16",
+      "Gültig bis": "2025-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "Gültig ab": "2025-01-13",
+      "Gültig bis": "2025-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "Gültig ab": "2025-01-13",
+      "Gültig bis": "2025-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "Gültig ab": "2025-01-13",
+      "Gültig bis": "2025-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "Gültig ab": "2025-01-13",
+      "Gültig bis": "2025-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "Gültig ab": "2024-11-12",
+      "Gültig bis": "2025-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "Gültig ab": "2024-11-12",
+      "Gültig bis": "2025-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "Gültig ab": "2024-11-12",
+      "Gültig bis": "2025-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "Gültig ab": "2024-11-12",
+      "Gültig bis": "2025-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "Gültig ab": "2024-09-11",
+      "Gültig bis": "2024-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "Gültig ab": "2024-09-11",
+      "Gültig bis": "2024-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "Gültig ab": "2024-09-11",
+      "Gültig bis": "2024-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "Gültig ab": "2024-09-11",
+      "Gültig bis": "2024-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "Gültig ab": "2024-07-12",
+      "Gültig bis": "2024-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "Gültig ab": "2024-07-12",
+      "Gültig bis": "2024-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "Gültig ab": "2024-07-12",
+      "Gültig bis": "2024-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "Gültig ab": "2024-07-12",
+      "Gültig bis": "2024-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "Gültig ab": "2024-03-10",
+      "Gültig bis": "2024-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-10"
+    },
+    {
+      "Gültig ab": "2024-03-10",
+      "Gültig bis": "2024-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-10"
+    },
+    {
+      "Gültig ab": "2024-03-10",
+      "Gültig bis": "2024-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-10"
+    },
+    {
+      "Gültig ab": "2024-03-10",
+      "Gültig bis": "2024-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-10"
+    },
+    {
+      "Gültig ab": "2024-01-08",
+      "Gültig bis": "2024-04-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-08"
+    },
+    {
+      "Gültig ab": "2024-01-08",
+      "Gültig bis": "2024-04-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-08"
+    },
+    {
+      "Gültig ab": "2024-01-08",
+      "Gültig bis": "2024-04-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-08"
+    },
+    {
+      "Gültig ab": "2024-01-08",
+      "Gültig bis": "2024-04-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-08"
+    },
+    {
+      "Gültig ab": "2023-11-07",
+      "Gültig bis": "2024-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-07"
+    },
+    {
+      "Gültig ab": "2023-11-07",
+      "Gültig bis": "2024-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-07"
+    },
+    {
+      "Gültig ab": "2023-11-07",
+      "Gültig bis": "2024-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-07"
+    },
+    {
+      "Gültig ab": "2023-11-07",
+      "Gültig bis": "2024-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-07"
+    },
+    {
+      "Gültig ab": "2023-09-06",
+      "Gültig bis": "2023-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-06"
+    },
+    {
+      "Gültig ab": "2023-09-06",
+      "Gültig bis": "2023-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-06"
+    },
+    {
+      "Gültig ab": "2023-09-06",
+      "Gültig bis": "2023-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-06"
+    },
+    {
+      "Gültig ab": "2023-09-06",
+      "Gültig bis": "2023-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-06"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-03-04",
+      "Gültig bis": "2023-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-04"
+    },
+    {
+      "Gültig ab": "2023-03-04",
+      "Gültig bis": "2023-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-04"
+    },
+    {
+      "Gültig ab": "2023-03-04",
+      "Gültig bis": "2023-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-04"
+    },
+    {
+      "Gültig ab": "2023-03-04",
+      "Gültig bis": "2023-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-04"
+    },
+    {
+      "Gültig ab": "2023-01-01",
+      "Gültig bis": "2023-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-01"
+    },
+    {
+      "Gültig ab": "2023-01-01",
+      "Gültig bis": "2023-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-01"
+    },
+    {
+      "Gültig ab": "2023-01-01",
+      "Gültig bis": "2023-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-01"
+    },
+    {
+      "Gültig ab": "2023-01-01",
+      "Gültig bis": "2023-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-01"
+    },
+    {
+      "Gültig ab": "2022-10-31",
+      "Gültig bis": "2023-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-31"
+    },
+    {
+      "Gültig ab": "2022-10-31",
+      "Gültig bis": "2023-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-31"
+    },
+    {
+      "Gültig ab": "2022-10-31",
+      "Gültig bis": "2023-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-31"
+    },
+    {
+      "Gültig ab": "2022-10-31",
+      "Gültig bis": "2023-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-31"
+    },
+    {
+      "Gültig ab": "2022-08-30",
+      "Gültig bis": "2022-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-30"
+    },
+    {
+      "Gültig ab": "2022-08-30",
+      "Gültig bis": "2022-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-30"
+    },
+    {
+      "Gültig ab": "2022-08-30",
+      "Gültig bis": "2022-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-30"
+    },
+    {
+      "Gültig ab": "2022-08-30",
+      "Gültig bis": "2022-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-30"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-03-22",
+      "Gültig bis": "2022-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-22"
+    },
+    {
+      "Gültig ab": "2022-03-22",
+      "Gültig bis": "2022-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-22"
+    },
+    {
+      "Gültig ab": "2022-03-22",
+      "Gültig bis": "2022-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-22"
+    },
+    {
+      "Gültig ab": "2022-03-22",
+      "Gültig bis": "2022-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-22"
+    },
+    {
+      "Gültig ab": "2022-02-07",
+      "Gültig bis": "2022-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-02-07"
+    },
+    {
+      "Gültig ab": "2022-02-07",
+      "Gültig bis": "2022-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-02-07"
+    },
+    {
+      "Gültig ab": "2021-12-27",
+      "Gültig bis": "2022-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-27"
+    },
+    {
+      "Gültig ab": "2021-12-27",
+      "Gültig bis": "2022-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-27"
+    },
+    {
+      "Gültig ab": "2021-12-27",
+      "Gültig bis": "2022-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-27"
+    },
+    {
+      "Gültig ab": "2021-12-27",
+      "Gültig bis": "2022-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-27"
+    },
+    {
+      "Gültig ab": "2021-11-14",
+      "Gültig bis": "2022-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-11-14"
+    },
+    {
+      "Gültig ab": "2021-11-14",
+      "Gültig bis": "2022-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-11-14"
+    },
+    {
+      "Gültig ab": "2021-11-14",
+      "Gültig bis": "2022-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-11-14"
+    },
+    {
+      "Gültig ab": "2021-11-14",
+      "Gültig bis": "2022-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-11-14"
+    },
+    {
+      "Gültig ab": "2021-10-01",
+      "Gültig bis": "2021-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-01"
+    },
+    {
+      "Gültig ab": "2021-10-01",
+      "Gültig bis": "2021-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-01"
+    },
+    {
+      "Gültig ab": "2021-10-01",
+      "Gültig bis": "2021-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-01"
+    },
+    {
+      "Gültig ab": "2021-10-01",
+      "Gültig bis": "2021-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-01"
+    },
+    {
+      "Gültig ab": "2021-08-18",
+      "Gültig bis": "2021-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-18"
+    },
+    {
+      "Gültig ab": "2021-08-18",
+      "Gültig bis": "2021-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-18"
+    },
+    {
+      "Gültig ab": "2021-08-18",
+      "Gültig bis": "2021-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-18"
+    },
+    {
+      "Gültig ab": "2021-08-18",
+      "Gültig bis": "2021-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-18"
+    },
+    {
+      "Gültig ab": "2021-08-18",
+      "Gültig bis": "2021-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-18"
+    },
+    {
+      "Gültig ab": "2021-08-18",
+      "Gültig bis": "2021-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-18"
+    },
+    {
+      "Gültig ab": "2021-07-06",
+      "Gültig bis": "2021-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-07-06"
+    },
+    {
+      "Gültig ab": "2021-07-06",
+      "Gültig bis": "2021-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-07-06"
+    },
+    {
+      "Gültig ab": "2021-05-22",
+      "Gültig bis": "2021-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-05-22"
+    },
+    {
+      "Gültig ab": "2021-05-22",
+      "Gültig bis": "2021-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-05-22"
+    },
+    {
+      "Gültig ab": "2021-04-11",
+      "Gültig bis": "2021-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "Gültig ab": "2021-04-11",
+      "Gültig bis": "2021-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "Gültig ab": "2021-03-01",
+      "Gültig bis": "2021-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-03-01"
+    },
+    {
+      "Gültig ab": "2021-03-01",
+      "Gültig bis": "2021-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-03-01"
+    },
+    {
+      "Gültig ab": "2021-01-19",
+      "Gültig bis": "2021-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-19"
+    },
+    {
+      "Gültig ab": "2021-01-19",
+      "Gültig bis": "2021-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-19"
+    },
+    {
+      "Gültig ab": "2021-01-19",
+      "Gültig bis": "2021-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-19"
+    },
+    {
+      "Gültig ab": "2021-01-19",
+      "Gültig bis": "2021-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-19"
+    },
+    {
+      "Gültig ab": "2020-12-11",
+      "Gültig bis": "2021-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-12-11"
+    },
+    {
+      "Gültig ab": "2020-12-11",
+      "Gültig bis": "2021-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-12-11"
+    },
+    {
+      "Gültig ab": "2020-10-27",
+      "Gültig bis": "2021-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-10-28"
+    },
+    {
+      "Gültig ab": "2020-10-27",
+      "Gültig bis": "2021-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-10-28"
+    },
+    {
+      "Gültig ab": "2020-10-27",
+      "Gültig bis": "2021-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-10-28"
+    },
+    {
+      "Gültig ab": "2020-10-27",
+      "Gültig bis": "2021-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-10-28"
+    },
+    {
+      "Gültig ab": "2020-09-17",
+      "Gültig bis": "2020-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-17"
+    },
+    {
+      "Gültig ab": "2020-09-17",
+      "Gültig bis": "2020-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-17"
+    },
+    {
+      "Gültig ab": "2020-08-07",
+      "Gültig bis": "2020-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-07"
+    },
+    {
+      "Gültig ab": "2020-08-07",
+      "Gültig bis": "2020-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-07"
+    },
+    {
+      "Gültig ab": "2020-07-08",
+      "Gültig bis": "2020-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-07-08"
+    },
+    {
+      "Gültig ab": "2020-07-08",
+      "Gültig bis": "2020-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-07-08"
+    },
+    {
+      "Gültig ab": "2020-06-08",
+      "Gültig bis": "2020-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-06-08"
+    },
+    {
+      "Gültig ab": "2020-06-08",
+      "Gültig bis": "2020-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-06-08"
+    },
+    {
+      "Gültig ab": "2020-05-09",
+      "Gültig bis": "2020-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-05-09"
+    },
+    {
+      "Gültig ab": "2020-05-09",
+      "Gültig bis": "2020-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-05-09"
+    },
+    {
+      "Gültig ab": "2020-04-09",
+      "Gültig bis": "2020-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-04-09"
+    },
+    {
+      "Gültig ab": "2020-04-09",
+      "Gültig bis": "2020-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-04-09"
+    },
+    {
+      "Gültig ab": "2020-03-10",
+      "Gültig bis": "2020-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-03-10"
+    },
+    {
+      "Gültig ab": "2020-03-10",
+      "Gültig bis": "2020-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-03-10"
+    },
+    {
+      "Gültig ab": "2020-03-10",
+      "Gültig bis": "2020-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-03-10"
+    },
+    {
+      "Gültig ab": "2020-03-10",
+      "Gültig bis": "2020-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-03-10"
+    },
+    {
+      "Gültig ab": "2020-03-10",
+      "Gültig bis": "2020-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-03-10"
+    },
+    {
+      "Gültig ab": "2020-03-10",
+      "Gültig bis": "2020-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-03-10"
+    },
+    {
+      "Gültig ab": "2020-02-06",
+      "Gültig bis": "2020-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-02-06"
+    },
+    {
+      "Gültig ab": "2020-02-06",
+      "Gültig bis": "2020-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-02-06"
+    },
+    {
+      "Gültig ab": "2019-12-30",
+      "Gültig bis": "2020-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-12-30"
+    },
+    {
+      "Gültig ab": "2019-12-30",
+      "Gültig bis": "2020-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-12-30"
+    },
+    {
+      "Gültig ab": "2019-10-30",
+      "Gültig bis": "2020-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-10-31"
+    },
+    {
+      "Gültig ab": "2019-10-30",
+      "Gültig bis": "2020-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-10-31"
+    },
+    {
+      "Gültig ab": "2019-08-31",
+      "Gültig bis": "2019-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-08-31"
+    },
+    {
+      "Gültig ab": "2019-08-31",
+      "Gültig bis": "2019-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-08-31"
+    },
+    {
+      "Gültig ab": "2019-07-02",
+      "Gültig bis": "2019-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-07-02"
+    },
+    {
+      "Gültig ab": "2019-07-02",
+      "Gültig bis": "2019-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-07-02"
+    },
+    {
+      "Gültig ab": "2019-05-02",
+      "Gültig bis": "2019-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-05-02"
+    },
+    {
+      "Gültig ab": "2019-05-02",
+      "Gültig bis": "2019-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-05-02"
+    },
+    {
+      "Gültig ab": "2019-03-03",
+      "Gültig bis": "2019-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-03-03"
+    },
+    {
+      "Gültig ab": "2019-03-03",
+      "Gültig bis": "2019-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-03-03"
+    },
+    {
+      "Gültig ab": "2019-01-01",
+      "Gültig bis": "2019-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-02"
+    },
+    {
+      "Gültig ab": "2019-01-01",
+      "Gültig bis": "2019-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-02"
+    },
+    {
+      "Gültig ab": "2018-11-02",
+      "Gültig bis": "2019-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-11-02"
+    },
+    {
+      "Gültig ab": "2018-11-02",
+      "Gültig bis": "2019-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-11-02"
+    },
+    {
+      "Gültig ab": "2018-10-14",
+      "Gültig bis": "2019-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-14"
+    },
+    {
+      "Gültig ab": "2018-10-14",
+      "Gültig bis": "2019-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-14"
+    },
+    {
+      "Gültig ab": "2018-09-03",
+      "Gültig bis": "2018-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "Gültig ab": "2018-09-03",
+      "Gültig bis": "2018-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-03"
+    },
+    {
+      "Gültig ab": "2018-08-17",
+      "Gültig bis": "2018-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-08-17"
+    },
+    {
+      "Gültig ab": "2018-08-17",
+      "Gültig bis": "2018-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-08-17"
+    },
+    {
+      "Gültig ab": "2018-08-03",
+      "Gültig bis": "2018-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-08-04"
+    },
+    {
+      "Gültig ab": "2018-08-03",
+      "Gültig bis": "2018-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-08-04"
+    },
+    {
+      "Gültig ab": "2018-07-04",
+      "Gültig bis": "2018-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-04"
+    },
+    {
+      "Gültig ab": "2018-07-04",
+      "Gültig bis": "2018-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-04"
+    },
+    {
+      "Gültig ab": "2018-06-20",
+      "Gültig bis": "2018-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-06-20"
+    },
+    {
+      "Gültig ab": "2018-06-20",
+      "Gültig bis": "2018-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-06-20"
+    },
+    {
+      "Gültig ab": "2018-05-27",
+      "Gültig bis": "2018-08-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-05-27"
+    },
+    {
+      "Gültig ab": "2018-05-27",
+      "Gültig bis": "2018-08-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baur-maler.ch, www.baur-maler.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-05-27"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://baur-maler.ch/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "http://www.baur-maler.ch/de",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-10-20"
+    },
+    {
+      "URL": "https://baur-maler.ch/gitterzaun",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-05"
+    },
+    {
+      "URL": "https://baur-maler.ch/dekorativ-techniken",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://baur-maler.ch/leistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://baur-maler.ch/geschichte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-21"
+    },
+    {
+      "URL": "https://baur-maler.ch/spritz-lackierarbeiten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-21"
+    },
+    {
+      "URL": "https://baur-maler.ch/innere-arbeiten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://baur-maler.ch/oekologie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "URL": "https://baur-maler.ch/ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://baur-maler.ch/arbeiten-aussen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-25"
+    },
+    {
+      "URL": "https://baur-maler.ch/partnerschaft",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-25"
+    },
+    {
+      "URL": "https://baur-maler.ch/referenzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-25"
+    },
+    {
+      "URL": "https://baur-maler.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-25"
+    },
+    {
+      "URL": "https://baur-maler.ch/css/...",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-19"
+    },
+    {
+      "URL": "https://baur-maler.ch/css/404.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-19"
+    },
+    {
+      "URL": "https://baur-maler.ch/css/style_img/404.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-19"
+    },
+    {
+      "URL": "https://baur-maler.ch/favicon/404.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-19"
+    },
+    {
+      "URL": "https://baur-maler.ch/jscripts/jquery/images/404.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-19"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/contentpics/Image/404.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-19"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/angebot/404.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/angebot/angebot-farbberatung--farbgestaltung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/angebot/angebot-malerarbeiten-aussen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/angebot/angebot-malerarbeiten-innen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/angebot/angebot-weitere-leistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/referenzen/referenzen-innenbereich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/.well-known/404.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/404.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://baur-maler.ch/impressum-datenschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-05"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-29"
+    },
+    {
+      "URL": "https://baur-maler.ch/referenzen/320",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-19"
+    },
+    {
+      "URL": "https://baur-maler.ch/referenzen/317/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-06"
+    },
+    {
+      "URL": "https://baur-maler.ch/referenzen/319/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-06"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/referenzen/referenzen-arbeiten-unserer-lehrlinge",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-20"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/referenzen/referenzen-aussenbereich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-20"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/uber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-20"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/de/angebot-farbberatung--farbgestaltung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-11-23"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/de/angebot-malerarbeiten-aussen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-11-23"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/de/angebot-malerarbeiten-innen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-11-23"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/assets/css/fonts/fontawesome-webfont.eot?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/assets/css/fonts/fontawesome-webfont.ttf?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/assets/css/fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/assets/css/fonts/fontawesome-webfont.woff?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/service/2.43.0/captcha/de/_/fd70bd17e1c5d22c6052fb1e8452e1730c929f50dd625272",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-08"
+    },
+    {
+      "URL": "https://www.baur-maler.ch/service/2.43.0/captcha/de/_/fd70bd17e1c5d22ce27093ebdd250e19e870d35f0ddd3ead",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-08"
+    },
+    {
+      "URL": "http://www.baur-maler.ch/service/2.38.0/captcha/de/_/55524233aa8118dc89a046d257856773c7eae37eed937de2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-11-06"
+    },
+    {
+      "URL": "http://www.baur-maler.ch/service/2.38.0/captcha/de/_/55524233aa8118dcf506e7973c80a9523986e7f1687ecab5",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-11-06"
+    },
+    {
+      "URL": "http://www.baur-maler.ch/de/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-10-02"
+    },
+    {
+      "URL": "http://baur-maler.ch/news-einzeln/items/lehrlingswettbewerb-2015-baur-lernende-in-den-top-ten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-01-22"
+    },
+    {
+      "URL": "http://baur-maler.ch/news-einzeln/items/herzliche-willkommen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-01-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/startseite.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-01-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/assets/css/assets/css3pie/1.0.0/PIE.htc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-27"
+    },
+    {
+      "URL": "http://baur-maler.ch/beton-rissanierungen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/dekorative-techniken.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/farbgestaltung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/fassaden-renovation.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/geschichte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/impressum.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/kontakt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/malen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/news-einzeln/items/farbenfroh-auf-dem-klo.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/news.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/portrait.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/spritz-lackierarbeiten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/tapezieren.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/und-mehr.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-21"
+    },
+    {
+      "URL": "http://baur-maler.ch/news-einzeln/items/herzlich-gratulieren.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2015-02-08"
+    },
+    {
+      "URL": "http://baur-maler.ch/news-einzeln/items/interfamiliaere-uebernahme.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2014-08-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/aktuell/archiv.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/aktuell/news-detail/article/8/8.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/betrieb.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/betrieb/geschichte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/betrieb/mitarbeiter.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/betrieb/verbandszugehrigkeiten-arge.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/betrieb/zertifikate-autorisierngn-awar.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/leistungen/bautenschutz-nanotechnologie.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/leistungen/beton-riss-sanierungen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/leistungen/dekorativetechniken.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/leistungen/farbgestaltung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/leistungen/fassaden-renovationen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/leistungen/spritz-lackierarbeiten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/links.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-13"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/aktuell.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-11-11"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/dienstleistungen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-11-11"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/leistungen/malentapezieren.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-11-11"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/referenzen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-11-11"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/aktuell/news-detail/article/4/8.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2012-02-04"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/aktuell/news-detail/article/5/8.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2012-02-04"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/fileadmin/templates/intro/intro_typo3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2008-04-12"
+    },
+    {
+      "URL": "http://www.baur-maler.ch:80/index.php?id=8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2008-01-20"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@baur-maler.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-05"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522022045",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-25"
+    },
+    {
+      "Telefonnummern": "+41522022807",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-05"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

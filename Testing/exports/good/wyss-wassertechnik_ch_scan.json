@@ -1,0 +1,2744 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "193.9.122.24",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "wysswassertechnik-ch01b.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "dns1.escapenet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Name Server": "dns2.escapenet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms60384351\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Text Record": "\"v=spf1 ip4:95.143.60.254 ip4:95.143.60.229 include:spf.protection.outlook.com include:spf.escapenet.ch -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "604800",
+      "Serial": "2025041606",
+      "Refresh": "28800",
+      "Hostmaster": "hostmaster.escapenet.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "dns1.escapenet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "193.9.122.24",
+      "PTR-Domain": "plesk.escapenet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "wyss-wassertechnik.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "asmmobile.wyss-wassertechnik.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "asmmobile.wyss-wassertechnik.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "dev.wyss-wassertechnik.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-07",
+      "Gültig bis": "2025-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-07"
+    },
+    {
+      "Gültig ab": "2025-05-07",
+      "Gültig bis": "2025-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-07"
+    },
+    {
+      "Gültig ab": "2025-04-06",
+      "Gültig bis": "2025-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-06"
+    },
+    {
+      "Gültig ab": "2025-04-06",
+      "Gültig bis": "2025-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-06"
+    },
+    {
+      "Gültig ab": "2025-04-03",
+      "Gültig bis": "2025-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-03"
+    },
+    {
+      "Gültig ab": "2025-04-03",
+      "Gültig bis": "2025-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-03"
+    },
+    {
+      "Gültig ab": "2025-03-25",
+      "Gültig bis": "2025-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-25"
+    },
+    {
+      "Gültig ab": "2025-03-25",
+      "Gültig bis": "2025-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-25"
+    },
+    {
+      "Gültig ab": "2025-03-07",
+      "Gültig bis": "2025-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-08"
+    },
+    {
+      "Gültig ab": "2025-03-07",
+      "Gültig bis": "2025-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-08"
+    },
+    {
+      "Gültig ab": "2025-02-05",
+      "Gültig bis": "2025-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-05"
+    },
+    {
+      "Gültig ab": "2025-02-05",
+      "Gültig bis": "2025-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-05"
+    },
+    {
+      "Gültig ab": "2025-02-02",
+      "Gültig bis": "2025-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "Gültig ab": "2025-02-02",
+      "Gültig bis": "2025-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "Gültig ab": "2025-01-24",
+      "Gültig bis": "2025-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-24"
+    },
+    {
+      "Gültig ab": "2025-01-24",
+      "Gültig bis": "2025-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-24"
+    },
+    {
+      "Gültig ab": "2025-01-06",
+      "Gültig bis": "2025-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-06"
+    },
+    {
+      "Gültig ab": "2025-01-06",
+      "Gültig bis": "2025-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-06"
+    },
+    {
+      "Gültig ab": "2024-12-07",
+      "Gültig bis": "2025-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-07"
+    },
+    {
+      "Gültig ab": "2024-12-07",
+      "Gültig bis": "2025-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-07"
+    },
+    {
+      "Gültig ab": "2024-12-04",
+      "Gültig bis": "2025-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "Gültig ab": "2024-12-04",
+      "Gültig bis": "2025-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "Gültig ab": "2024-11-25",
+      "Gültig bis": "2025-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-25"
+    },
+    {
+      "Gültig ab": "2024-11-25",
+      "Gültig bis": "2025-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-25"
+    },
+    {
+      "Gültig ab": "2024-11-07",
+      "Gültig bis": "2025-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-07"
+    },
+    {
+      "Gültig ab": "2024-11-07",
+      "Gültig bis": "2025-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-07"
+    },
+    {
+      "Gültig ab": "2024-10-08",
+      "Gültig bis": "2025-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "Gültig ab": "2024-10-08",
+      "Gültig bis": "2025-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "Gültig ab": "2024-10-05",
+      "Gültig bis": "2025-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "Gültig ab": "2024-10-05",
+      "Gültig bis": "2025-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "Gültig ab": "2024-09-26",
+      "Gültig bis": "2024-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-26"
+    },
+    {
+      "Gültig ab": "2024-09-26",
+      "Gültig bis": "2024-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-26"
+    },
+    {
+      "Gültig ab": "2024-09-08",
+      "Gültig bis": "2024-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-08"
+    },
+    {
+      "Gültig ab": "2024-09-08",
+      "Gültig bis": "2024-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-08"
+    },
+    {
+      "Gültig ab": "2024-08-09",
+      "Gültig bis": "2024-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-09"
+    },
+    {
+      "Gültig ab": "2024-08-09",
+      "Gültig bis": "2024-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-09"
+    },
+    {
+      "Gültig ab": "2024-08-06",
+      "Gültig bis": "2024-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "Gültig ab": "2024-08-06",
+      "Gültig bis": "2024-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "Gültig ab": "2024-07-28",
+      "Gültig bis": "2024-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-07-28"
+    },
+    {
+      "Gültig ab": "2024-07-28",
+      "Gültig bis": "2024-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-07-28"
+    },
+    {
+      "Gültig ab": "2024-07-10",
+      "Gültig bis": "2024-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-07-10"
+    },
+    {
+      "Gültig ab": "2024-07-10",
+      "Gültig bis": "2024-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-07-10"
+    },
+    {
+      "Gültig ab": "2024-06-10",
+      "Gültig bis": "2024-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-10"
+    },
+    {
+      "Gültig ab": "2024-06-10",
+      "Gültig bis": "2024-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-10"
+    },
+    {
+      "Gültig ab": "2024-06-07",
+      "Gültig bis": "2024-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-07"
+    },
+    {
+      "Gültig ab": "2024-06-07",
+      "Gültig bis": "2024-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-07"
+    },
+    {
+      "Gültig ab": "2024-05-29",
+      "Gültig bis": "2024-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-29"
+    },
+    {
+      "Gültig ab": "2024-05-29",
+      "Gültig bis": "2024-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-29"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "Gültig ab": "2024-04-11",
+      "Gültig bis": "2024-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "Gültig ab": "2024-04-11",
+      "Gültig bis": "2024-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "Gültig ab": "2024-04-08",
+      "Gültig bis": "2024-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-08"
+    },
+    {
+      "Gültig ab": "2024-04-08",
+      "Gültig bis": "2024-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-08"
+    },
+    {
+      "Gültig ab": "2024-03-30",
+      "Gültig bis": "2024-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-30"
+    },
+    {
+      "Gültig ab": "2024-03-30",
+      "Gültig bis": "2024-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-30"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-02-11",
+      "Gültig bis": "2024-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-11"
+    },
+    {
+      "Gültig ab": "2024-02-11",
+      "Gültig bis": "2024-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-11"
+    },
+    {
+      "Gültig ab": "2024-02-08",
+      "Gültig bis": "2024-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-08"
+    },
+    {
+      "Gültig ab": "2024-02-08",
+      "Gültig bis": "2024-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-08"
+    },
+    {
+      "Gültig ab": "2024-01-30",
+      "Gültig bis": "2024-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-30"
+    },
+    {
+      "Gültig ab": "2024-01-30",
+      "Gültig bis": "2024-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-30"
+    },
+    {
+      "Gültig ab": "2024-01-30",
+      "Gültig bis": "2024-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-30"
+    },
+    {
+      "Gültig ab": "2024-01-30",
+      "Gültig bis": "2024-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.wyss-wassertechnik.ch, wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-30"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2023-12-13",
+      "Gültig bis": "2024-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-13"
+    },
+    {
+      "Gültig ab": "2023-12-13",
+      "Gültig bis": "2024-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-13"
+    },
+    {
+      "Gültig ab": "2023-12-10",
+      "Gültig bis": "2024-03-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-10"
+    },
+    {
+      "Gültig ab": "2023-12-10",
+      "Gültig bis": "2024-03-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-10"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "Gültig ab": "2023-10-11",
+      "Gültig bis": "2024-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-11"
+    },
+    {
+      "Gültig ab": "2023-10-11",
+      "Gültig bis": "2024-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-11"
+    },
+    {
+      "Gültig ab": "2023-09-14",
+      "Gültig bis": "2023-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-14"
+    },
+    {
+      "Gültig ab": "2023-09-14",
+      "Gültig bis": "2023-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-14"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-15"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-15"
+    },
+    {
+      "Gültig ab": "2023-08-12",
+      "Gültig bis": "2023-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-12"
+    },
+    {
+      "Gültig ab": "2023-08-12",
+      "Gültig bis": "2023-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-12"
+    },
+    {
+      "Gültig ab": "2023-07-16",
+      "Gültig bis": "2023-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-07-16"
+    },
+    {
+      "Gültig ab": "2023-07-16",
+      "Gültig bis": "2023-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-07-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-13",
+      "Gültig bis": "2023-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-13"
+    },
+    {
+      "Gültig ab": "2023-06-13",
+      "Gültig bis": "2023-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-13"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-04-17",
+      "Gültig bis": "2023-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-04-17"
+    },
+    {
+      "Gültig ab": "2023-04-17",
+      "Gültig bis": "2023-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-04-17"
+    },
+    {
+      "Gültig ab": "2023-04-14",
+      "Gültig bis": "2023-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-04-14"
+    },
+    {
+      "Gültig ab": "2023-04-14",
+      "Gültig bis": "2023-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-04-14"
+    },
+    {
+      "Gültig ab": "2023-03-18",
+      "Gültig bis": "2023-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-18"
+    },
+    {
+      "Gültig ab": "2023-03-18",
+      "Gültig bis": "2023-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-18"
+    },
+    {
+      "Gültig ab": "2023-02-16",
+      "Gültig bis": "2023-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-02-16"
+    },
+    {
+      "Gültig ab": "2023-02-16",
+      "Gültig bis": "2023-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-02-16"
+    },
+    {
+      "Gültig ab": "2023-02-13",
+      "Gültig bis": "2023-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-02-13"
+    },
+    {
+      "Gültig ab": "2023-02-13",
+      "Gültig bis": "2023-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-02-13"
+    },
+    {
+      "Gültig ab": "2023-02-13",
+      "Gültig bis": "2023-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-02-13"
+    },
+    {
+      "Gültig ab": "2023-02-13",
+      "Gültig bis": "2023-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-02-13"
+    },
+    {
+      "Gültig ab": "2023-01-17",
+      "Gültig bis": "2023-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-01-17"
+    },
+    {
+      "Gültig ab": "2023-01-17",
+      "Gültig bis": "2023-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-01-17"
+    },
+    {
+      "Gültig ab": "2022-12-18",
+      "Gültig bis": "2023-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-18"
+    },
+    {
+      "Gültig ab": "2022-12-18",
+      "Gültig bis": "2023-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-18"
+    },
+    {
+      "Gültig ab": "2022-11-18",
+      "Gültig bis": "2023-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-11-18"
+    },
+    {
+      "Gültig ab": "2022-11-18",
+      "Gültig bis": "2023-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-11-18"
+    },
+    {
+      "Gültig ab": "2022-10-19",
+      "Gültig bis": "2023-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-19"
+    },
+    {
+      "Gültig ab": "2022-10-19",
+      "Gültig bis": "2023-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-19"
+    },
+    {
+      "Gültig ab": "2022-09-19",
+      "Gültig bis": "2022-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-09-19"
+    },
+    {
+      "Gültig ab": "2022-09-19",
+      "Gültig bis": "2022-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-09-19"
+    },
+    {
+      "Gültig ab": "2022-08-20",
+      "Gültig bis": "2022-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-20"
+    },
+    {
+      "Gültig ab": "2022-08-20",
+      "Gültig bis": "2022-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-20"
+    },
+    {
+      "Gültig ab": "2022-07-21",
+      "Gültig bis": "2022-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-07-21"
+    },
+    {
+      "Gültig ab": "2022-07-21",
+      "Gültig bis": "2022-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-07-21"
+    },
+    {
+      "Gültig ab": "2020-08-18",
+      "Gültig bis": "2022-08-18",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2",
+      "Domain/Subdomain": "asmmobile.wyss-wassertechnik.ch, www.asmmobile.wyss-wassertechnik.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-18"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://wyss-wassertechnik.ch/agb/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/boilerreinigungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/category/uncategorized/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/leitungssanierungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/tag/news/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/tag/residential/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/tag/updates/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/erich-unterberger/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/pascal-unterberger/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/patricia-luond-krucker/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/ursula-unterberger/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasseraufbereitung/umkehrosmoseanlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasserbehandlung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasserbehandlung/haertestabilisatoren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasserbehandlung/korrosionsschutzmittel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/weitere-dienstleistungen/kuehltuerme-optimal-behandeln/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/weitere-dienstleistungen/wartung-kontrolle-systemtrenner/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/datenschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/entkalkungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/entkalkungen/leitungsentkalkungen-leitungsentrostungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/stellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/tag/design-build/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/marcel-krucker/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/peter-vajda/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/thomas-geugel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasseraufbereitung/filter-sandfilter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/weitere-dienstleistungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/entkalkungen/entkalkung-von-industriellen-wasserfuehrenden-anlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/tag/commercial/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/tag/plumber/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/gianni-ferraro/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/heidi-krug/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasseraufbereitung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasseraufbereitung/absalzungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasseraufbereitung/enthaertungsanlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/weitere-dienstleistungen/kundenspezifische-schulungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/weitere-dienstleistungen/vollservice-fuer-feldanalysen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/weitere-dienstleistungen/wartung-service-wasseraufbereitungsanlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/author/andreas-gemperle/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/category/aktuelles-team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/category/geschaftsleitung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/category/innendienst-lager/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/category/offene-stellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/category/service-verkauf/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/offene-stellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/adrian-rother/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/andreas-huber/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/karin-hasler/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/nico-bernard/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/offene-stelle-b/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/romeo-luthi/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/servicetechniker-wasserfachmann-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/stefan-bigger/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/stefan-frei/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/ueber-uns/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasseraufbereitung/dosieranlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/weitere-dienstleistungen/wasseranalysen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/entkalkungen/boilerentkalkungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/entkalkungen/luftkuehler-hybride-kuehler-registerreinigungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasseraufbereitung/uv-anlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasserbehandlung/biocide-biodispergatoren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasserbehandlung/teststrecken/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/weitere-dienstleistungen/beratung-vor-ort/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasseraufbereitung/permeattank-und-druckerhoehungsanlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasserbehandlung/3d-trasar-onlinetechnik/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.34.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.34.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.34.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wp-content/plugins/trx_addons/css/font-icons/font/trx_addons_icons.woff2?59264814",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wp-content/themes/plumbing/css/font-icons/font/fontello.ttf?54563786",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wp-content/themes/plumbing/css/font-icons/font/fontello.woff2?54563786",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/category/neuigkeiten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wp-content/themes/plumbing/css/font-icons/font/fontello.woff?54563786",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/layouts/footer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/layouts/header-main-with-cart/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/layouts/main-footer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/messe-wohga-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/andreas-gemperle/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/julian-sommer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/leon-kalinovic/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/neuer-mitarbeiter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/page/3/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/patricia-lueoend-krucker/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/ruth-wyss/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team_group/service-verkauf/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasseraufbereitung/reinstwasseranlagen-elektrodeionisation/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/wasseraufbereitung/vollentsalzungspatronen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/layouts/header-fixed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/layouts/header-main-alter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/layouts/header-main-with-title/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/layouts/header-main/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/layouts/header-submenu/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/simone-hutter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/walter-boppart/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team_group/service-verkauf/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/layouts/footer-store/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/layouts/header-main-with-title-with-cart/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/fabian-welschen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/manuel-fernandez-gonzalez/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/romeo-luethi/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team_group/geschaeftsleitung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team_group/innendienst-lager/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team_group/offene-stellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/testimonials/jane-doe/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/layouts/main-footer-alter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/lorenz-mertens/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/maik-vollrath/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team/offene-stelle-b-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/team_group/aktuelles-team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/layouts/header/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-09"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-05"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.chSitemap:",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-05"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-03"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/about/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/author-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/category-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/cpt_layouts-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/cpt_team-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/cpt_team_group-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/cpt_testimonials-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/page-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/post-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "https://wyss-wassertechnik.ch/sitemap_index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/aktuell",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/dienstleistungen/feldanalysen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/dienstleistungen/wartung-wasseraufbereitungsanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/entkalkungen/luftkuehler",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/dienstleistungen/kuehltuerme",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/entkalkungen/entkalkung-anlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/wasseraufbereitung/permeattank-druckerhoehungsanlagen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/wasserbehandlung/3-d-trasar-onlinetechnik",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/dienstleistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/dienstleistungen/beratung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/dienstleistungen/schulungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/dienstleistungen/sponsoring-konzept",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/dienstleistungen/wartung-systemtrenner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/dienstleistungen/wasseranalysen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/entkalkungen/leitungsentkalkungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/firma/ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/jobs",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/wasseraufbereitung/enthaertungsanlagen/gewerbe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/wasseraufbereitung/enthaertungsanlagen/mehrfamilienhaeuser",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/anfrage",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-29"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-23"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/firma/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-05-22"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/humans.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-01"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/wasseraufbereitung/enthaertungsanlagen/einfamilienhaeuser",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-06"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/icons/icons.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/icons/icons.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/icons/icons.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/lato-bold-webfont/lato-bold-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/lato-bold-webfont/lato-bold-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/lato-bold-webfont/lato-bold-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/sourcesanspro-light-webfont/sourcesanspro-light-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/sourcesanspro-light-webfont/sourcesanspro-light-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/sourcesanspro-light-webfont/sourcesanspro-light-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/sourcesanspro-regular-webfont/sourcesanspro-regular-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/sourcesanspro-regular-webfont/sourcesanspro-regular-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/sourcesanspro-regular-webfont/sourcesanspro-regular-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/sourcesanspro-semibold-webfont/sourcesanspro-semibold-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/sourcesanspro-semibold-webfont/sourcesanspro-semibold-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch/fonts/sourcesanspro-semibold-webfont/sourcesanspro-semibold-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "URL": "http://wyss-wassertechnik.ch/node/2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-08"
+    },
+    {
+      "URL": "http://wyss-wassertechnik.ch/node/56",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-08"
+    },
+    {
+      "URL": "http://wyss-wassertechnik.ch/node/57",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-08"
+    },
+    {
+      "URL": "http://wyss-wassertechnik.ch/reinigung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-08"
+    },
+    {
+      "URL": "http://wyss-wassertechnik.ch/service",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-08"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/reinigung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-28"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/events/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/partner/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/reinigung/entfettung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/reinigung/entkalkung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/reinigung/entrostung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/reinigung/pumpen/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/seminare/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/service/analysen/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/service/beratung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/service/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/unternehmen/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasseraufbereitung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasserbehandlung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/aktuell/dokumente/test3.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-24"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/aktuell/dokumente/test2.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-20"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/aktuell/dokumente/test1.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-15"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/seminare/anmelden.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/seminare/SeminarKuelw1Tg.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/seminare/Seminarprog_2_Tag_06.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/seminare/Seminarprog_2_Tag_07.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/service/entkalken/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/service/kontrollen/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/service/reperaturen/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/service/wartung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/unternehmen/geschichte/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/unternehmen/jobs/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/unternehmen/lehrstellen/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/unternehmen/standorte/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/unternehmen/team/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasseraufbereitung/absalzung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasseraufbereitung/dosieranlage/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasseraufbereitung/enthaerter/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasseraufbereitung/entsalzung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasseraufbereitung/filter/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasseraufbereitung/umkehrosmose/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasseraufbereitung/uv_entkeimung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasserbehandlung/geschlossene/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasserbehandlung/kesselwasser/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasserbehandlung/klimawasser/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasserbehandlung/kuehlwasser/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasserbehandlung/legionellen/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/wasserbehandlung/trinkwasser/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-14"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/aktuell/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/impressum/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/kontakt/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/reinigung/desinfektion/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/reinigung/produkte/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/sitemap/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/de/suchen/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2007-01-12"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/editdata.mso",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/filelist.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/image002_jpg_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/image005_jpg_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/image006_jpg_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/image007_jpg_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/image008_jpg_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-002S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-003S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-004S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-005S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-006S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-007S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-009S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-010S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-011S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-012S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-013S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/zom.bmp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-27"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/HP500-1250RStext.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-25"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/deutsch/mehr_info.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-24"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/index-Dateien/editdata.mso",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-24"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/index-Dateien/filelist.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-24"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Seminarprogramm.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-24"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/french/..\\index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-23"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/french/home-Dateien/editdata.mso",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-23"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/french/home-Dateien/filelist.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-23"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/deutsch/ecowater.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-21"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-19"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/french/ecowater.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-18"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/french/home.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-12-18"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/french/mehr_info.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-05-28"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-04-11"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-01-24"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-001S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-08-15"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/french/index-Dateien/filelist.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-08-13"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/french/Seminarprogramm.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-08-13"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/french/index-Dateien/editdata.mso",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-07-10"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/image009_jpg_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-07-08"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/ecowater.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-06-06"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/deutsch\\mehr_info.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-06-05"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Seminarprogramm-Dateien/filelist.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-06-05"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Messe-Dateien/MVC-008S_JPG_view.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-03-29"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/french/Messe.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-04"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/index-Dateien/image001.jpg\"/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-01"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/index-Dateien/image003.jpg\"/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-02-01"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/index-Dateien/filelist.xml\"/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2004-01-30"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/deutsch%5cmehr_info.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-05-11"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/french/contact_confirm.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2003-01-22"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Seminarprogramm-Dateien/editdata.mso",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2001-11-19"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/nalco.com",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2001-11-17"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/deutsch/Seminarprogramm.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2001-01-24"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/deutsch/2000.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2000-10-01"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/french/2000.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2000-10-01"
+    },
+    {
+      "URL": "http://www.wyss-wassertechnik.ch:80/Default.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "1999-09-21"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "ahuber@wyss-wassertechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "E-Mail": "eunterberger@wyss-wassertechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "E-Mail": "gferraro@wyss-wassertechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "hkrug@wyss-wassertechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "info@wyss-wassertechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "E-Mail": "plueoend@wyss-wassertechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "E-Mail": "punterberger@wyss-wassertechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "E-Mail": "tgeugel@wyss-wassertechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "E-Mail": "uunterberger@wyss-wassertechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "E-Mail": "Winterthurinfo@wyss-wassertechnik.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522335060",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Telefonnummern": "+41522353822",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "Telefonnummern": "+41522353824",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    },
+    {
+      "Telefonnummern": "+41522353825",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Telefonnummern": "+41522353826",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Telefonnummern": "+41522353828",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Telefonnummern": "+41522353831",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Telefonnummern": "+41718414488",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-08"
+    }
+  ],
+  "service": [
+    {
+      "Port": 80,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "95.143.60.232",
+      "Domain/Subdomain": "mail.wyss-wassertechnik.ch, asmmobile.wyss-wassertechnik.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "Microsoft IIS httpd",
+      "Version": "10.0",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "95.143.60.232",
+      "Domain/Subdomain": "mail.wyss-wassertechnik.ch, asmmobile.wyss-wassertechnik.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:microsoft:internet_information_services, cpe:/a:microsoft:internet_information_services:10.0, cpe:/o:microsoft:windows",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

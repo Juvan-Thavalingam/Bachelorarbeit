@@ -1,0 +1,1731 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "193.33.128.151",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx01.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx02.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns29.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Name Server": "ns30.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 ip4:193.33.128.151 include:_spf.tophost.ch +mx +a include:relay.mailchannels.net ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "1209600",
+      "Serial": "2025040501",
+      "Refresh": "3600",
+      "Hostmaster": "info.novatrend.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "ns29.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "193.33.128.151",
+      "PTR-Domain": "srv29.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "malerfeusi.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "2018.malerfeusi.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "2018.malerfeusi.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "neu.malerfeusi.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "neu.malerfeusi.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-05",
+      "Gültig bis": "2025-07-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-05"
+    },
+    {
+      "Gültig ab": "2025-04-05",
+      "Gültig bis": "2025-07-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-05"
+    },
+    {
+      "Gültig ab": "2025-02-03",
+      "Gültig bis": "2025-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-03"
+    },
+    {
+      "Gültig ab": "2025-02-03",
+      "Gültig bis": "2025-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-03"
+    },
+    {
+      "Gültig ab": "2024-12-04",
+      "Gültig bis": "2025-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "Gültig ab": "2024-12-04",
+      "Gültig bis": "2025-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "Gültig ab": "2024-10-04",
+      "Gültig bis": "2025-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-04"
+    },
+    {
+      "Gültig ab": "2024-10-04",
+      "Gültig bis": "2025-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-04"
+    },
+    {
+      "Gültig ab": "2024-08-04",
+      "Gültig bis": "2024-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "Gültig ab": "2024-08-04",
+      "Gültig bis": "2024-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "Gültig ab": "2024-06-04",
+      "Gültig bis": "2024-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-04"
+    },
+    {
+      "Gültig ab": "2024-06-04",
+      "Gültig bis": "2024-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-06-04"
+    },
+    {
+      "Gültig ab": "2024-04-04",
+      "Gültig bis": "2024-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-04-04",
+      "Gültig bis": "2024-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-02-03",
+      "Gültig bis": "2024-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-03"
+    },
+    {
+      "Gültig ab": "2024-02-03",
+      "Gültig bis": "2024-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-03"
+    },
+    {
+      "Gültig ab": "2023-12-04",
+      "Gültig bis": "2024-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "Gültig ab": "2023-12-04",
+      "Gültig bis": "2024-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-08-04",
+      "Gültig bis": "2023-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-04"
+    },
+    {
+      "Gültig ab": "2023-08-04",
+      "Gültig bis": "2023-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-04"
+    },
+    {
+      "Gültig ab": "2023-06-04",
+      "Gültig bis": "2023-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-04"
+    },
+    {
+      "Gültig ab": "2023-06-04",
+      "Gültig bis": "2023-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.malerfeusi.ch, malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-04"
+    },
+    {
+      "Gültig ab": "2023-05-15",
+      "Gültig bis": "2023-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-15"
+    },
+    {
+      "Gültig ab": "2023-05-15",
+      "Gültig bis": "2023-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-15"
+    },
+    {
+      "Gültig ab": "2023-03-18",
+      "Gültig bis": "2023-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-18"
+    },
+    {
+      "Gültig ab": "2023-03-18",
+      "Gültig bis": "2023-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-18"
+    },
+    {
+      "Gültig ab": "2023-01-19",
+      "Gültig bis": "2023-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-01-19"
+    },
+    {
+      "Gültig ab": "2023-01-19",
+      "Gültig bis": "2023-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-01-19"
+    },
+    {
+      "Gültig ab": "2022-11-22",
+      "Gültig bis": "2023-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-11-22"
+    },
+    {
+      "Gültig ab": "2022-11-22",
+      "Gültig bis": "2023-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-11-22"
+    },
+    {
+      "Gültig ab": "2022-09-25",
+      "Gültig bis": "2022-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "Gültig ab": "2022-09-25",
+      "Gültig bis": "2022-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "Gültig ab": "2022-07-28",
+      "Gültig bis": "2022-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-07-28"
+    },
+    {
+      "Gültig ab": "2022-07-28",
+      "Gültig bis": "2022-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-07-28"
+    },
+    {
+      "Gültig ab": "2022-05-31",
+      "Gültig bis": "2022-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-05-31"
+    },
+    {
+      "Gültig ab": "2022-05-31",
+      "Gültig bis": "2022-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-05-31"
+    },
+    {
+      "Gültig ab": "2022-04-03",
+      "Gültig bis": "2022-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-03"
+    },
+    {
+      "Gültig ab": "2022-04-03",
+      "Gültig bis": "2022-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-03"
+    },
+    {
+      "Gültig ab": "2022-02-04",
+      "Gültig bis": "2022-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-04"
+    },
+    {
+      "Gültig ab": "2022-02-04",
+      "Gültig bis": "2022-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-04"
+    },
+    {
+      "Gültig ab": "2021-12-08",
+      "Gültig bis": "2022-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-08"
+    },
+    {
+      "Gültig ab": "2021-12-08",
+      "Gültig bis": "2022-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-08"
+    },
+    {
+      "Gültig ab": "2021-10-10",
+      "Gültig bis": "2022-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-10-10"
+    },
+    {
+      "Gültig ab": "2021-10-10",
+      "Gültig bis": "2022-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-10-10"
+    },
+    {
+      "Gültig ab": "2021-08-13",
+      "Gültig bis": "2021-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-08-13"
+    },
+    {
+      "Gültig ab": "2021-08-13",
+      "Gültig bis": "2021-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-08-13"
+    },
+    {
+      "Gültig ab": "2021-06-16",
+      "Gültig bis": "2021-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "Gültig ab": "2021-06-16",
+      "Gültig bis": "2021-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "Gültig ab": "2021-04-19",
+      "Gültig bis": "2021-07-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-04-19"
+    },
+    {
+      "Gültig ab": "2021-04-19",
+      "Gültig bis": "2021-07-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-04-19"
+    },
+    {
+      "Gültig ab": "2021-02-19",
+      "Gültig bis": "2021-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-02-19"
+    },
+    {
+      "Gültig ab": "2021-02-19",
+      "Gültig bis": "2021-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-02-19"
+    },
+    {
+      "Gültig ab": "2020-12-23",
+      "Gültig bis": "2021-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-12-23"
+    },
+    {
+      "Gültig ab": "2020-12-23",
+      "Gültig bis": "2021-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-12-23"
+    },
+    {
+      "Gültig ab": "2020-10-26",
+      "Gültig bis": "2021-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-10-26"
+    },
+    {
+      "Gültig ab": "2020-10-26",
+      "Gültig bis": "2021-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-10-26"
+    },
+    {
+      "Gültig ab": "2020-08-29",
+      "Gültig bis": "2020-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-29"
+    },
+    {
+      "Gültig ab": "2020-08-29",
+      "Gültig bis": "2020-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-29"
+    },
+    {
+      "Gültig ab": "2020-07-02",
+      "Gültig bis": "2020-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-07-02"
+    },
+    {
+      "Gültig ab": "2020-07-02",
+      "Gültig bis": "2020-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-07-02"
+    },
+    {
+      "Gültig ab": "2020-05-05",
+      "Gültig bis": "2020-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-05-05"
+    },
+    {
+      "Gültig ab": "2020-05-05",
+      "Gültig bis": "2020-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-05-05"
+    },
+    {
+      "Gültig ab": "2020-03-07",
+      "Gültig bis": "2020-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-03-07"
+    },
+    {
+      "Gültig ab": "2020-03-07",
+      "Gültig bis": "2020-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-03-07"
+    },
+    {
+      "Gültig ab": "2020-01-08",
+      "Gültig bis": "2020-04-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-01-08"
+    },
+    {
+      "Gültig ab": "2020-01-08",
+      "Gültig bis": "2020-04-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-01-08"
+    },
+    {
+      "Gültig ab": "2019-11-11",
+      "Gültig bis": "2020-02-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-11-11"
+    },
+    {
+      "Gültig ab": "2019-11-11",
+      "Gültig bis": "2020-02-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-11-11"
+    },
+    {
+      "Gültig ab": "2019-09-14",
+      "Gültig bis": "2019-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-14"
+    },
+    {
+      "Gültig ab": "2019-09-14",
+      "Gültig bis": "2019-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-14"
+    },
+    {
+      "Gültig ab": "2019-07-18",
+      "Gültig bis": "2019-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-07-18"
+    },
+    {
+      "Gültig ab": "2019-07-18",
+      "Gültig bis": "2019-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-07-18"
+    },
+    {
+      "Gültig ab": "2019-05-21",
+      "Gültig bis": "2019-08-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-21"
+    },
+    {
+      "Gültig ab": "2019-05-21",
+      "Gültig bis": "2019-08-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-21"
+    },
+    {
+      "Gültig ab": "2019-05-21",
+      "Gültig bis": "2019-08-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-21"
+    },
+    {
+      "Gültig ab": "2019-05-21",
+      "Gültig bis": "2019-08-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-21"
+    },
+    {
+      "Gültig ab": "2019-05-01",
+      "Gültig bis": "2019-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-01"
+    },
+    {
+      "Gültig ab": "2019-05-01",
+      "Gültig bis": "2019-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-01"
+    },
+    {
+      "Gültig ab": "2019-03-23",
+      "Gültig bis": "2019-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-03-23"
+    },
+    {
+      "Gültig ab": "2019-03-23",
+      "Gültig bis": "2019-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-03-23"
+    },
+    {
+      "Gültig ab": "2019-03-23",
+      "Gültig bis": "2019-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-03-23"
+    },
+    {
+      "Gültig ab": "2019-03-23",
+      "Gültig bis": "2019-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-03-23"
+    },
+    {
+      "Gültig ab": "2019-03-04",
+      "Gültig bis": "2019-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-03-04"
+    },
+    {
+      "Gültig ab": "2019-03-04",
+      "Gültig bis": "2019-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-03-04"
+    },
+    {
+      "Gültig ab": "2019-01-24",
+      "Gültig bis": "2019-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-24"
+    },
+    {
+      "Gültig ab": "2019-01-24",
+      "Gültig bis": "2019-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-24"
+    },
+    {
+      "Gültig ab": "2019-01-24",
+      "Gültig bis": "2019-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-24"
+    },
+    {
+      "Gültig ab": "2019-01-24",
+      "Gültig bis": "2019-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-24"
+    },
+    {
+      "Gültig ab": "2019-01-04",
+      "Gültig bis": "2019-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-04"
+    },
+    {
+      "Gültig ab": "2019-01-04",
+      "Gültig bis": "2019-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-04"
+    },
+    {
+      "Gültig ab": "2018-11-27",
+      "Gültig bis": "2019-02-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-11-27"
+    },
+    {
+      "Gültig ab": "2018-11-27",
+      "Gültig bis": "2019-02-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-11-27"
+    },
+    {
+      "Gültig ab": "2018-11-27",
+      "Gültig bis": "2019-02-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-11-27"
+    },
+    {
+      "Gültig ab": "2018-11-27",
+      "Gültig bis": "2019-02-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-11-27"
+    },
+    {
+      "Gültig ab": "2018-11-07",
+      "Gültig bis": "2019-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-11-07"
+    },
+    {
+      "Gültig ab": "2018-11-07",
+      "Gültig bis": "2019-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-11-07"
+    },
+    {
+      "Gültig ab": "2018-09-30",
+      "Gültig bis": "2018-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-30"
+    },
+    {
+      "Gültig ab": "2018-09-30",
+      "Gültig bis": "2018-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-30"
+    },
+    {
+      "Gültig ab": "2018-09-30",
+      "Gültig bis": "2018-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-30"
+    },
+    {
+      "Gültig ab": "2018-09-30",
+      "Gültig bis": "2018-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-30"
+    },
+    {
+      "Gültig ab": "2018-09-10",
+      "Gültig bis": "2018-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-10"
+    },
+    {
+      "Gültig ab": "2018-09-10",
+      "Gültig bis": "2018-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-10"
+    },
+    {
+      "Gültig ab": "2018-08-03",
+      "Gültig bis": "2018-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-03"
+    },
+    {
+      "Gültig ab": "2018-08-03",
+      "Gültig bis": "2018-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-03"
+    },
+    {
+      "Gültig ab": "2018-08-03",
+      "Gültig bis": "2018-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-03"
+    },
+    {
+      "Gültig ab": "2018-08-03",
+      "Gültig bis": "2018-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-03"
+    },
+    {
+      "Gültig ab": "2018-07-14",
+      "Gültig bis": "2018-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-07-14"
+    },
+    {
+      "Gültig ab": "2018-07-14",
+      "Gültig bis": "2018-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-07-14"
+    },
+    {
+      "Gültig ab": "2018-06-05",
+      "Gültig bis": "2018-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-06-05"
+    },
+    {
+      "Gültig ab": "2018-06-05",
+      "Gültig bis": "2018-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-06-05"
+    },
+    {
+      "Gültig ab": "2018-06-05",
+      "Gültig bis": "2018-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-06-05"
+    },
+    {
+      "Gültig ab": "2018-06-05",
+      "Gültig bis": "2018-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-06-05"
+    },
+    {
+      "Gültig ab": "2018-05-16",
+      "Gültig bis": "2018-08-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-05-16"
+    },
+    {
+      "Gültig ab": "2018-05-16",
+      "Gültig bis": "2018-08-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-05-16"
+    },
+    {
+      "Gültig ab": "2018-04-08",
+      "Gültig bis": "2018-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-04-09"
+    },
+    {
+      "Gültig ab": "2018-04-08",
+      "Gültig bis": "2018-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-04-09"
+    },
+    {
+      "Gültig ab": "2018-04-08",
+      "Gültig bis": "2018-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-04-08"
+    },
+    {
+      "Gültig ab": "2018-04-08",
+      "Gültig bis": "2018-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-04-08"
+    },
+    {
+      "Gültig ab": "2018-03-19",
+      "Gültig bis": "2018-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2018.malerfeusi.ch, www.2018.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-03-19"
+    },
+    {
+      "Gültig ab": "2018-02-09",
+      "Gültig bis": "2018-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-02-09"
+    },
+    {
+      "Gültig ab": "2018-02-09",
+      "Gültig bis": "2018-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-02-09"
+    },
+    {
+      "Gültig ab": "2017-12-13",
+      "Gültig bis": "2018-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-12-13"
+    },
+    {
+      "Gültig ab": "2017-12-13",
+      "Gültig bis": "2018-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-12-13"
+    },
+    {
+      "Gültig ab": "2017-10-16",
+      "Gültig bis": "2018-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-10-16"
+    },
+    {
+      "Gültig ab": "2017-10-16",
+      "Gültig bis": "2018-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-10-16"
+    },
+    {
+      "Gültig ab": "2017-08-17",
+      "Gültig bis": "2017-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-08-17"
+    },
+    {
+      "Gültig ab": "2017-08-17",
+      "Gültig bis": "2017-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-08-17"
+    },
+    {
+      "Gültig ab": "2017-06-17",
+      "Gültig bis": "2017-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "Gültig ab": "2017-06-17",
+      "Gültig bis": "2017-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "Gültig ab": "2017-04-18",
+      "Gültig bis": "2017-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-04-18"
+    },
+    {
+      "Gültig ab": "2017-04-18",
+      "Gültig bis": "2017-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-04-18"
+    },
+    {
+      "Gültig ab": "2017-02-17",
+      "Gültig bis": "2017-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-02-17"
+    },
+    {
+      "Gültig ab": "2017-02-17",
+      "Gültig bis": "2017-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-02-17"
+    },
+    {
+      "Gültig ab": "2016-12-18",
+      "Gültig bis": "2017-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-12-18"
+    },
+    {
+      "Gültig ab": "2016-12-18",
+      "Gültig bis": "2017-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-12-18"
+    },
+    {
+      "Gültig ab": "2016-10-19",
+      "Gültig bis": "2017-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-10-19"
+    },
+    {
+      "Gültig ab": "2016-10-19",
+      "Gültig bis": "2017-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-10-19"
+    },
+    {
+      "Gültig ab": "2016-08-20",
+      "Gültig bis": "2016-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-08-20"
+    },
+    {
+      "Gültig ab": "2016-08-20",
+      "Gültig bis": "2016-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-08-20"
+    },
+    {
+      "Gültig ab": "2016-06-20",
+      "Gültig bis": "2016-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-20"
+    },
+    {
+      "Gültig ab": "2016-06-20",
+      "Gültig bis": "2016-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-20"
+    },
+    {
+      "Gültig ab": "2016-04-21",
+      "Gültig bis": "2016-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-04-21"
+    },
+    {
+      "Gültig ab": "2016-04-21",
+      "Gültig bis": "2016-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-04-21"
+    },
+    {
+      "Gültig ab": "2016-02-20",
+      "Gültig bis": "2016-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X1",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-02-20"
+    },
+    {
+      "Gültig ab": "2016-02-20",
+      "Gültig bis": "2016-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X1",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-02-20"
+    },
+    {
+      "Gültig ab": "2015-12-22",
+      "Gültig bis": "2016-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X1",
+      "Domain/Subdomain": "neu.malerfeusi.ch, www.neu.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2015-12-22"
+    },
+    {
+      "Gültig ab": "2015-12-22",
+      "Gültig bis": "2016-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X1",
+      "Domain/Subdomain": "malerfeusi.ch, www.malerfeusi.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2015-12-22"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://malerfeusi.ch/stucco-und-kalkputz.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://malerfeusi.ch/team-at-work.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "URL": "https://malerfeusi.ch/assets/components/bootstrap/vendor/js/*/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/bauhof.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/coiffeur-nouvelle.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/dekorative-gestaltung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/farbenshop.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/fassadenrenovation.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/kontakt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/links/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/maler-und-tapezierarbeiten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/malergeschaeft.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/mitarbeiter.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/neubauten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/referenzbilder/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/spritzarbeiten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/ueber-uns.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://malerfeusi.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-22"
+    },
+    {
+      "URL": "https://www.malerfeusi.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-22"
+    },
+    {
+      "URL": "https://malerfeusi.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "URL": "https://malerfeusi.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "URL": "https://malerfeusi.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "URL": "https://malerfeusi.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "URL": "https://malerfeusi.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "URL": "https://malerfeusi.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "URL": "https://malerfeusi.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "URL": "https://malerfeusi.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-02-20"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/links.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-15"
+    },
+    {
+      "URL": "http://malerfeusi.ch/assets/modules/easy2/show.easy2gallery.php?fid=255",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-12-09"
+    },
+    {
+      "URL": "http://malerfeusi.ch/schablonenarbeit.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-12-09"
+    },
+    {
+      "URL": "http://malerfeusi.ch/assets/css/)",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-12-05"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch/Seiten/Umweltschutz%20Zertifikat.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-12-04"
+    },
+    {
+      "URL": "http://malerfeusi.ch/manager/includes/veriword.php?rand=846160862",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-25"
+    },
+    {
+      "URL": "http://malerfeusi.ch/referenzbilder.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-17"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/Seiten/Malergeschaeft.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-02-14"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-02-01"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/Referenzbilder/ATS00000.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-02-01"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/Seiten/Kontakt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-02-01"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/Seiten/Links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-02-01"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/Seiten/Mitarbeiter.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-02-01"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/Seiten/ueber%20uns.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-02-01"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/Seiten/Farbenshop.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-01-31"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/info.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/left.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/right.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/rollover.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.malerfeusi.ch:80/info2.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2005-02-07"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@malerfeusi.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "E-Mail": "peter@mondgenast.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-12-09"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522123685",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "Telefonnummern": "+41522123686",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "Telefonnummern": "+41522425703",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "Telefonnummern": "+41625658523",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-15"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

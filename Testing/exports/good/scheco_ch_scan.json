@@ -1,0 +1,2131 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "104.21.50.140",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "IPv4-Adresse": "172.67.163.173",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2606:4700:3034::6815:328c",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "IPv6-Adresse": "2606:4700:3035::ac43:a3ad",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "scheco-ch.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "jeff.ns.cloudflare.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Name Server": "uma.ns.cloudflare.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms24608653\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Text Record": "\"apple-domain-verification=rSrlsN86SsL4yC7S\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Text Record": "\"duo_sso_verification=l0xrh3iYHQLb0xF9xs6z84CgHxnBpD9wpe1J15M8UBbhmBxnBAguK3VWxQGtQnsb\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Text Record": "\"facebook-domain-verification=zm2wlks1bgd68ug7rqs00odvop31sz\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Text Record": "\"google-site-verification=U7Q6L2U45Duvgjcl1wb-Qg4iFheVvzUTI4SyCPGzZAo\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Text Record": "\"v=spf1 mx a:mail.scheco.ch include:spf.abacuscity.ch include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "2400",
+      "Expire": "604800",
+      "Serial": "2371392088",
+      "Refresh": "10000",
+      "Hostmaster": "dns.cloudflare.com.",
+      "Minimum TTL": "1800",
+      "Primary Nameserver": "jeff.ns.cloudflare.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "Keine Daten gefunden",
+      "PTR-Domain": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "scheco.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "autodiscover.scheco.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "owa.scheco.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "owa.scheco.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "schwid3.scheco.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "stage.scheco.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2024-05-09",
+      "Gültig bis": "2024-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-09"
+    },
+    {
+      "Gültig ab": "2024-11-10",
+      "Gültig bis": "2025-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-10"
+    },
+    {
+      "Gültig ab": "2025-05-13",
+      "Gültig bis": "2025-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-13"
+    },
+    {
+      "Gültig ab": "2025-05-13",
+      "Gültig bis": "2025-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-13"
+    },
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-04-29",
+      "Gültig bis": "2025-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-29"
+    },
+    {
+      "Gültig ab": "2025-04-29",
+      "Gültig bis": "2025-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-29"
+    },
+    {
+      "Gültig ab": "2025-04-28",
+      "Gültig bis": "2025-07-27",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-28"
+    },
+    {
+      "Gültig ab": "2025-04-28",
+      "Gültig bis": "2025-07-27",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-28"
+    },
+    {
+      "Gültig ab": "2025-03-13",
+      "Gültig bis": "2025-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-13"
+    },
+    {
+      "Gültig ab": "2025-03-13",
+      "Gültig bis": "2025-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-13"
+    },
+    {
+      "Gültig ab": "2025-03-12",
+      "Gültig bis": "2025-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-12"
+    },
+    {
+      "Gültig ab": "2025-03-12",
+      "Gültig bis": "2025-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-12"
+    },
+    {
+      "Gültig ab": "2025-02-28",
+      "Gültig bis": "2025-05-29",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-10"
+    },
+    {
+      "Gültig ab": "2025-03-10",
+      "Gültig bis": "2026-03-10",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-10"
+    },
+    {
+      "Gültig ab": "2025-02-28",
+      "Gültig bis": "2025-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-28"
+    },
+    {
+      "Gültig ab": "2025-02-28",
+      "Gültig bis": "2025-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-28"
+    },
+    {
+      "Gültig ab": "2025-02-28",
+      "Gültig bis": "2025-05-29",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-28"
+    },
+    {
+      "Gültig ab": "2025-01-11",
+      "Gültig bis": "2025-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "Gültig ab": "2025-01-11",
+      "Gültig bis": "2025-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "Gültig ab": "2025-01-10",
+      "Gültig bis": "2025-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-10"
+    },
+    {
+      "Gültig ab": "2025-01-10",
+      "Gültig bis": "2025-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-10"
+    },
+    {
+      "Gültig ab": "2024-12-31",
+      "Gültig bis": "2025-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-31"
+    },
+    {
+      "Gültig ab": "2024-12-31",
+      "Gültig bis": "2025-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-31"
+    },
+    {
+      "Gültig ab": "2024-12-31",
+      "Gültig bis": "2025-03-31",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-31"
+    },
+    {
+      "Gültig ab": "2024-12-31",
+      "Gültig bis": "2025-03-31",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-31"
+    },
+    {
+      "Gültig ab": "2024-11-10",
+      "Gültig bis": "2025-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-10"
+    },
+    {
+      "Gültig ab": "2024-11-10",
+      "Gültig bis": "2025-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-10"
+    },
+    {
+      "Gültig ab": "2024-11-10",
+      "Gültig bis": "2025-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-10"
+    },
+    {
+      "Gültig ab": "2024-11-02",
+      "Gültig bis": "2025-01-31",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "Gültig ab": "2024-11-02",
+      "Gültig bis": "2025-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "Gültig ab": "2024-11-02",
+      "Gültig bis": "2025-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "Gültig ab": "2024-11-02",
+      "Gültig bis": "2025-01-31",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "Gültig ab": "2024-09-11",
+      "Gültig bis": "2024-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-11"
+    },
+    {
+      "Gültig ab": "2024-09-11",
+      "Gültig bis": "2024-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-11"
+    },
+    {
+      "Gültig ab": "2024-09-10",
+      "Gültig bis": "2024-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "Gültig ab": "2024-09-10",
+      "Gültig bis": "2024-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "Gültig ab": "2024-09-04",
+      "Gültig bis": "2024-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-04"
+    },
+    {
+      "Gültig ab": "2024-09-04",
+      "Gültig bis": "2024-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-04"
+    },
+    {
+      "Gültig ab": "2024-09-04",
+      "Gültig bis": "2024-12-03",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-04"
+    },
+    {
+      "Gültig ab": "2024-07-12",
+      "Gültig bis": "2024-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "Gültig ab": "2024-07-12",
+      "Gültig bis": "2024-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "Gültig ab": "2024-07-11",
+      "Gültig bis": "2024-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-11"
+    },
+    {
+      "Gültig ab": "2024-07-11",
+      "Gültig bis": "2024-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-11"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-05-12",
+      "Gültig bis": "2024-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "Gültig ab": "2024-05-12",
+      "Gültig bis": "2024-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "Gültig ab": "2024-05-09",
+      "Gültig bis": "2024-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-09"
+    },
+    {
+      "Gültig ab": "2024-05-09",
+      "Gültig bis": "2024-08-07",
+      "Ausgestellt von": "C=US, O=Google Trust Services LLC, CN=GTS CA 1P5",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-09"
+    },
+    {
+      "Gültig ab": "2024-05-09",
+      "Gültig bis": "2024-08-07",
+      "Ausgestellt von": "C=US, O=Google Trust Services LLC, CN=GTS CA 1P5",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-09"
+    },
+    {
+      "Gültig ab": "2024-03-20",
+      "Gültig bis": "2025-03-20",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-20"
+    },
+    {
+      "Gültig ab": "2024-03-13",
+      "Gültig bis": "2024-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-13"
+    },
+    {
+      "Gültig ab": "2024-03-13",
+      "Gültig bis": "2024-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "scheco.ch, www.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-13"
+    },
+    {
+      "Gültig ab": "2024-03-11",
+      "Gültig bis": "2024-06-09",
+      "Ausgestellt von": "C=US, O=Google Trust Services LLC, CN=GTS CA 1P5",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-11",
+      "Gültig bis": "2024-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-11"
+    },
+    {
+      "Gültig ab": "2024-03-11",
+      "Gültig bis": "2024-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-11"
+    },
+    {
+      "Gültig ab": "2024-03-11",
+      "Gültig bis": "2024-06-09",
+      "Ausgestellt von": "C=US, O=Google Trust Services LLC, CN=GTS CA 1P5",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-11"
+    },
+    {
+      "Gültig ab": "2023-02-21",
+      "Gültig bis": "2024-03-23",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-21"
+    },
+    {
+      "Gültig ab": "2023-02-21",
+      "Gültig bis": "2024-03-23",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-21"
+    },
+    {
+      "Gültig ab": "2022-02-11",
+      "Gültig bis": "2023-03-14",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-11"
+    },
+    {
+      "Gültig ab": "2022-02-11",
+      "Gültig bis": "2023-03-14",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-11"
+    },
+    {
+      "Gültig ab": "2021-01-18",
+      "Gültig bis": "2022-02-18",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-18"
+    },
+    {
+      "Gültig ab": "2021-01-18",
+      "Gültig bis": "2022-02-18",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-18"
+    },
+    {
+      "Gültig ab": "2018-01-17",
+      "Gültig bis": "2021-01-31",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-02-14"
+    },
+    {
+      "Gültig ab": "2017-02-01",
+      "Gültig bis": "2018-02-01",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.scheco.ch, scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-01-15"
+    },
+    {
+      "Gültig ab": "2013-09-23",
+      "Gültig bis": "2018-09-23",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certificates.starfieldtech.com/repository, CN=Starfield Secure Certification Authority, serialNumber=10688435",
+      "Domain/Subdomain": "autodiscover.scheco.ch, owa.scheco.ch, scheco.ch, schwid3.scheco.ch, www.owa.scheco.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-25"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.scheco.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.scheco.ch%2Fdatenschutz%2F",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.scheco.ch/styles/compability/responsive-ie9.css0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/gewerbekaelte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/eismaschinen/details/3044",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/fasskuehler-und-nassmuellkuehler/details/3053",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/katafalke/details/3102",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/kuehlkorpusse-und-tiefkuehlkorpusse/details/3046",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/kuehlmoebel-und-tiefkuehlmoebel/details/3047",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/kuehlschraenke-und-tiefkuehlschraenke/details/3015",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/kuehlvitrinen/details/3100",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/kuehlzellen-und-tiefkuehlzellen/details/3184",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/regalsysteme/details/3054",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "URL": "https://www.scheco.ch/karriere/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenz-kategorie-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "URL": "https://www.scheco.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/bewerbungsformular/?job=kaltesystem-monteur-in-efz-service-80-100-region-ostschweiz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/datenschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/gblocks_pattern_collections-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/karriere/ausbildung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/page-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/post-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenz-tag-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/search/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/sitemap_index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/unternehmen/team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/wp-content/uploads/AGB_230918.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/wp-content/uploads/Neuburg-600x367.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/wp-content/uploads/Neuburg-768x469.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/wp-content/uploads/Neuburg.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/wp-content/uploads/scheco-bufis-ag.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/themis-files/dokumente/5397/7298.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.scheco.ch/themis-files/dokumente/1468/1865.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/themis-files/dokumente/1466/1863.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/themis-files/dokumente/5396/7297.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/themis-files/dokumente/5398/7299.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-01"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/kunden.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-05"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-05"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/mitarbeiter.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-05"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/neues.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-05"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/organigramm.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-05"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/projektierung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-05"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/service.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-05"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/stellen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-05"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/ueberuns.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-05"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/az.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-03"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/referenzen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-03"
+    },
+    {
+      "URL": "http://scheco.ch/images/map.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-12-25"
+    },
+    {
+      "URL": "http://scheco.ch/adresse.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-10-19"
+    },
+    {
+      "URL": "http://www.scheco.ch/scheco133.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2012-05-08"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/flyer/Neue%20Stoffverordnung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2011-07-26"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/images/spektrum_07_01.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2011-07-26"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/images/vortrag-dgvo.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2011-07-26"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/flyer/forum2005.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2011-07-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/images/103070_de_dgr%20a1-h_08.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-05-09"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/images/agb.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-05-09"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/images/Zertifikat_103070_de_9001_08.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-05-09"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/hochzeit%20.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2008-08-25"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/hochzeit/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2008-08-25"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/hochzeit/Seiten/100-0023_img_jpg.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2008-08-25"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/hochzeit.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2008-08-24"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/danke.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2006-07-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/images/Haustech_06_043.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2006-07-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/intro101.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2006-07-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/scheco",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2006-07-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2006-07-08"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/mainframe1.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2006-07-08"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/mittarbeiter.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2006-07-08"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/oben.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2006-07-08"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/occasionen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2006-07-08"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/organigram.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2006-07-08"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/sueberuns.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2006-07-08"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/mainframe.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-09-22"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/rechts.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-09-20"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/jww/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-02-09"
+    },
+    {
+      "URL": "https://www.scheco.ch/themis-files/dokumente/5623/7562.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://www.scheco.ch/themis-files/dokumente/5620/7559.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/engineering",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/industriekaelte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/waermepumpen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/kompetenzen/gewerbe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/kompetenzen/home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/kompetenzen/industrie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/leistungen/home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/leistungen/service",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/fleischverarbeitung/details/7361",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/friseursalon/details/3007",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/hochschule/details/2877",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/logistikzentrum/details/3185",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/schulkueche/details/6434",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/spitalkueche/details/2965",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/supermarkt/details/2991",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/unternehmen/home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/unternehmen/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/unternehmen/stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/fonts/flexslider/flexslider-icon.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.scheco.ch/fonts/flexslider/flexslider-icon.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.scheco.ch/fonts/flexslider/flexslider-icon.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/alle",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-28"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/klimageraete",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/klimakaelte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/regelsysteme",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/kompetenzen/gebaeudetechnik",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/leistungen/ausfuehrung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/leistungen/planung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/blutspendezentrum/details/2927",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/tiefkuehllager/details/7362",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/katafalk/details/3102",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "URL": "https://www.scheco.ch/humans.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/hofladen/details/5653",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/industriekueche-fuer-catering/details/3038",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/kuehllager-fuer-gefahrengut-atex/details/4581",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/lebensmittelproduktion/details/6079",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/mehrfamilienhaus/details/7326",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/metzgerei-verkaufsladen/details/2964",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/museum/details/2963",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/schaukaeserei/details/3865",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/tiefkuehllager-fuer-grossbaeckerei/details/3006",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/unternehmen-fuer-praezisionsoptik/details/2956",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/verteilzentrale/details/2957",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/werk-und-tagesstaette/details/4129",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/themis-files/dokumente/1467/1864.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/disclaimer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-04"
+    },
+    {
+      "URL": "https://www.scheco.ch/unternehmen/credo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-04"
+    },
+    {
+      "URL": "https://www.scheco.ch/unternehmen/geschichte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-04"
+    },
+    {
+      "URL": "https://www.scheco.ch/pdf/agb.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/musterwarenhaus/details/2839",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-06"
+    },
+    {
+      "URL": "https://www.scheco.ch/downloads/dokumente/5200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-17"
+    },
+    {
+      "URL": "https://www.scheco.ch/downloads/dokumente/3300",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-27"
+    },
+    {
+      "URL": "https://www.scheco.ch/downloads/dokumente/4839",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-27"
+    },
+    {
+      "URL": "https://www.scheco.ch/downloads/dokumente/4844",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-27"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/angebot/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-06-14"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/kompetenzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-06-14"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/leistungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-06-14"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/referenzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-06-14"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/unternehmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-06-14"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/downloads/dokumente/1466",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-06-20"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/downloads/dokumente/1467",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-06-20"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/downloads/dokumente/1468",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-06-20"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/150/jubilaeumsfest/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-11-25"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/150/tagderoffenentuer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-11-25"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/angebot/images/pdf/agb.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-08-30"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/leistungen/images/pdf/agb.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-08-30"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/anfahrt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-05"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/anfrage.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-05"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/ausfuehrung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2014-04-05"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/adresse.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/anfahrt.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/anfrage.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/ausfuehrung.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/az.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/intern.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/kunden.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/links.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/mittarbeiter.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/neues.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/occasionen.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/organigramm.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/referenzen.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/cgi-bin/service.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-10-12"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/frames1.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2000-09-30"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/frBanner.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2000-02-02"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/frHaupts.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2000-02-02"
+    },
+    {
+      "URL": "http://www.scheco.ch:80/inhalt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2000-02-02"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/saladetten/details/3055",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/schockkuehler-und-schockfroster/details/3048",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/angebot/kuehlgeraete/weinkuehlschraenke/details/3110",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/buerogebaeude/details/7045",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/schulinternat/details/6121",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/spezialist-fuer-hoerakustik/details/2975",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "URL": "http://www.scheco.ch/referenzen/klaeranl",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-14"
+    },
+    {
+      "URL": "http://www.scheco.ch/referenzen/klaeranlage/details/3366.[33",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-14"
+    },
+    {
+      "URL": "http://www.scheco.ch/referenzen/thermal",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-14"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/klaeranlage/details/3366",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-14"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/thermalbad/details/2930",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-14"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/betrieb-fuer-oberflaechenbeschichtungen/details/7291",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-06"
+    },
+    {
+      "URL": "https://www.scheco.ch/unternehmen/netzwerk",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-06"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/anodiesierwerk/details/2841",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/apotheke/details/3873",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/botanisches-institut/details/6078",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/brauerei/details/6510",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/entsorgungs-und-energieunternehmen/details/2970",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/feinkost-distribution/details/7410",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/fisch-und-spezialiaeten-verarbeitung/details/3005",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/forschungszentrum/details/3039",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/fotolabor/details/2955",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    },
+    {
+      "URL": "https://www.scheco.ch/referenzen/geschaeftshaus/details/7619",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-01"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "alexandra.henke@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "beat.meili@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "chantal.habluetzel@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "contact@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "E-Mail": "irene.reali@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "marc.gruenig@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "marcel.wenger@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "maristella.veras@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "Peter.Leisi@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "richard.slangen@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "roger.graf@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "Roger.gutknecht@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "roland.bosshard@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "roman.isler@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "romeo.marena@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "stefan.rohrer@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "stefanie.badertscher@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "sven.hueftle@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "sylvia.gresch@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "thomas.kruegel@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "thomas.lehmann@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "E-Mail": "tobias.meier@scheco.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522244010",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244014",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244016",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244017",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244018",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244020",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244022",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244024",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244026",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244028",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244030",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244032",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244034",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244036",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244038",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244040",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "Telefonnummern": "+41522244050",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244052",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244054",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244062",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244064",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244065",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244066",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244072",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244074",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244076",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244077",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244078",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244080",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Telefonnummern": "+41522244082",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    }
+  ],
+  "service": [
+    {
+      "Port": 4433,
+      "Dienst": "SonicWall",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "81.62.151.218",
+      "Domain/Subdomain": "mail.scheco.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "nginx",
+      "Version": "1.22.1",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "46.14.203.55",
+      "Domain/Subdomain": "scheco.ch, 55.203.14.46.static.wline.lns.sme.cust.swisscom.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:angularjs:angular.js, cpe:/a:f5:nginx:1.22.1, cpe:/a:jquery:jquery, cpe:/a:lodash:lodash",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

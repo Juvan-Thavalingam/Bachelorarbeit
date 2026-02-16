@@ -1,0 +1,4364 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "80.74.145.45",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "expertinum-ch.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ch.pro.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "nl.pro.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "p.dnh.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms38495591\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Text Record": "\"v=spf1 include:_spf.mlsend.com mx include:spf.protection.outlook.com include:_spf.supportsystem.com include:spf.hornetsecurity.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "604800",
+      "Serial": "2025021203",
+      "Refresh": "10800",
+      "Hostmaster": "hostmaster.expertinum.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ch.pro.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "80.74.145.45",
+      "PTR-Domain": "fahrenheit.sui-inter.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "expertinum.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "abacus.expertinum.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "abasupport.expertinum.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "autodiscover.expertinum.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "daten.expertinum.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "email.expertinum.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "online.expertinum.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "online2.expertinum.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "smtp.expertinum.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "test.expertinum.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "treuhand.expertinum.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-03-12",
+      "Gültig bis": "2025-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-12"
+    },
+    {
+      "Gültig ab": "2025-02-10",
+      "Gültig bis": "2025-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "Gültig ab": "2025-01-13",
+      "Gültig bis": "2025-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "Gültig ab": "2025-01-11",
+      "Gültig bis": "2025-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "Gültig ab": "2024-12-12",
+      "Gültig bis": "2025-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "Gültig ab": "2024-11-12",
+      "Gültig bis": "2025-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "Gültig ab": "2024-11-08",
+      "Gültig bis": "2025-02-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "Gültig ab": "2024-10-24",
+      "Gültig bis": "2025-11-24",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte TLS RSA CA G1",
+      "Domain/Subdomain": "*.expertinum.ch, expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-07"
+    },
+    {
+      "Gültig ab": "2024-11-06",
+      "Gültig bis": "2025-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-06"
+    },
+    {
+      "Gültig ab": "2024-10-24",
+      "Gültig bis": "2025-11-24",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte TLS RSA CA G1",
+      "Domain/Subdomain": "*.expertinum.ch, expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-24"
+    },
+    {
+      "Gültig ab": "2024-10-13",
+      "Gültig bis": "2025-01-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-13"
+    },
+    {
+      "Gültig ab": "2024-10-09",
+      "Gültig bis": "2025-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "Gültig ab": "2024-09-13",
+      "Gültig bis": "2024-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "Gültig ab": "2024-09-09",
+      "Gültig bis": "2024-12-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "Gültig ab": "2024-09-09",
+      "Gültig bis": "2024-12-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "Gültig ab": "2024-08-31",
+      "Gültig bis": "2024-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-31"
+    },
+    {
+      "Gültig ab": "2024-08-14",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "Gültig ab": "2024-08-10",
+      "Gültig bis": "2024-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-10"
+    },
+    {
+      "Gültig ab": "2024-08-10",
+      "Gültig bis": "2024-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-10"
+    },
+    {
+      "Gültig ab": "2024-08-10",
+      "Gültig bis": "2024-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-10"
+    },
+    {
+      "Gültig ab": "2024-07-17",
+      "Gültig bis": "2024-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "Gültig ab": "2024-07-17",
+      "Gültig bis": "2024-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "Gültig ab": "2024-07-15",
+      "Gültig bis": "2024-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "Gültig ab": "2024-06-24",
+      "Gültig bis": "2024-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-24"
+    },
+    {
+      "Gültig ab": "2024-06-17",
+      "Gültig bis": "2024-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "Gültig ab": "2024-06-17",
+      "Gültig bis": "2024-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-06-12",
+      "Gültig bis": "2024-09-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "Gültig ab": "2024-06-11",
+      "Gültig bis": "2024-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-11"
+    },
+    {
+      "Gültig ab": "2024-05-18",
+      "Gültig bis": "2024-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "Gültig ab": "2024-05-18",
+      "Gültig bis": "2024-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "Gültig ab": "2024-05-16",
+      "Gültig bis": "2024-08-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-16"
+    },
+    {
+      "Gültig ab": "2024-05-16",
+      "Gültig bis": "2024-08-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-16"
+    },
+    {
+      "Gültig ab": "2024-05-13",
+      "Gültig bis": "2024-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-13"
+    },
+    {
+      "Gültig ab": "2024-05-13",
+      "Gültig bis": "2024-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-13"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "Gültig ab": "2024-05-11",
+      "Gültig bis": "2024-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "Gültig ab": "2024-04-25",
+      "Gültig bis": "2024-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-25"
+    },
+    {
+      "Gültig ab": "2024-04-25",
+      "Gültig bis": "2024-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-25"
+    },
+    {
+      "Gültig ab": "2024-04-24",
+      "Gültig bis": "2024-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-24"
+    },
+    {
+      "Gültig ab": "2024-04-24",
+      "Gültig bis": "2024-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-24"
+    },
+    {
+      "Gültig ab": "2024-04-16",
+      "Gültig bis": "2024-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-17"
+    },
+    {
+      "Gültig ab": "2024-04-16",
+      "Gültig bis": "2024-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-17"
+    },
+    {
+      "Gültig ab": "2024-04-16",
+      "Gültig bis": "2024-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-16"
+    },
+    {
+      "Gültig ab": "2024-04-16",
+      "Gültig bis": "2024-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-16"
+    },
+    {
+      "Gültig ab": "2024-04-13",
+      "Gültig bis": "2024-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "Gültig ab": "2024-04-13",
+      "Gültig bis": "2024-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "Gültig ab": "2024-04-11",
+      "Gültig bis": "2024-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "Gültig ab": "2024-04-11",
+      "Gültig bis": "2024-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "Gültig ab": "2024-03-25",
+      "Gültig bis": "2024-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "Gültig ab": "2024-03-25",
+      "Gültig bis": "2024-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "Gültig ab": "2024-03-17",
+      "Gültig bis": "2024-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-17"
+    },
+    {
+      "Gültig ab": "2024-03-17",
+      "Gültig bis": "2024-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-17"
+    },
+    {
+      "Gültig ab": "2024-03-14",
+      "Gültig bis": "2024-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-14"
+    },
+    {
+      "Gültig ab": "2024-03-14",
+      "Gültig bis": "2024-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-14"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-02-26",
+      "Gültig bis": "2024-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-26"
+    },
+    {
+      "Gültig ab": "2024-02-26",
+      "Gültig bis": "2024-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-26"
+    },
+    {
+      "Gültig ab": "2024-02-24",
+      "Gültig bis": "2024-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-24"
+    },
+    {
+      "Gültig ab": "2024-02-24",
+      "Gültig bis": "2024-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-24"
+    },
+    {
+      "Gültig ab": "2024-02-16",
+      "Gültig bis": "2024-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-16"
+    },
+    {
+      "Gültig ab": "2024-02-16",
+      "Gültig bis": "2024-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-16"
+    },
+    {
+      "Gültig ab": "2024-02-15",
+      "Gültig bis": "2024-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-15"
+    },
+    {
+      "Gültig ab": "2024-02-15",
+      "Gültig bis": "2024-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-15"
+    },
+    {
+      "Gültig ab": "2024-02-13",
+      "Gültig bis": "2024-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-13"
+    },
+    {
+      "Gültig ab": "2024-02-13",
+      "Gültig bis": "2024-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-13"
+    },
+    {
+      "Gültig ab": "2024-02-13",
+      "Gültig bis": "2024-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-13"
+    },
+    {
+      "Gültig ab": "2024-02-13",
+      "Gültig bis": "2024-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-13"
+    },
+    {
+      "Gültig ab": "2024-02-13",
+      "Gültig bis": "2024-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-13"
+    },
+    {
+      "Gültig ab": "2024-02-13",
+      "Gültig bis": "2024-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-13"
+    },
+    {
+      "Gültig ab": "2024-02-11",
+      "Gültig bis": "2024-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-11"
+    },
+    {
+      "Gültig ab": "2024-02-11",
+      "Gültig bis": "2024-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-11"
+    },
+    {
+      "Gültig ab": "2024-01-31",
+      "Gültig bis": "2024-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-31"
+    },
+    {
+      "Gültig ab": "2024-01-31",
+      "Gültig bis": "2024-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-31"
+    },
+    {
+      "Gültig ab": "2024-01-17",
+      "Gültig bis": "2024-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "Gültig ab": "2024-01-17",
+      "Gültig bis": "2024-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "Gültig ab": "2024-01-17",
+      "Gültig bis": "2024-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "Gültig ab": "2024-01-17",
+      "Gültig bis": "2024-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "Gültig ab": "2024-01-14",
+      "Gültig bis": "2024-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-14"
+    },
+    {
+      "Gültig ab": "2024-01-14",
+      "Gültig bis": "2024-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-14"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-12",
+      "Gültig bis": "2024-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-12"
+    },
+    {
+      "Gültig ab": "2024-01-01",
+      "Gültig bis": "2024-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-01"
+    },
+    {
+      "Gültig ab": "2024-01-01",
+      "Gültig bis": "2024-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-01"
+    },
+    {
+      "Gültig ab": "2023-12-18",
+      "Gültig bis": "2024-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "Gültig ab": "2023-12-18",
+      "Gültig bis": "2024-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "Gültig ab": "2023-12-18",
+      "Gültig bis": "2024-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "Gültig ab": "2023-12-18",
+      "Gültig bis": "2024-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "Gültig ab": "2023-12-17",
+      "Gültig bis": "2024-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-17"
+    },
+    {
+      "Gültig ab": "2023-12-17",
+      "Gültig bis": "2024-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-17"
+    },
+    {
+      "Gültig ab": "2023-12-13",
+      "Gültig bis": "2024-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-13"
+    },
+    {
+      "Gültig ab": "2023-12-13",
+      "Gültig bis": "2024-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-13"
+    },
+    {
+      "Gültig ab": "2023-12-13",
+      "Gültig bis": "2024-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-13"
+    },
+    {
+      "Gültig ab": "2023-12-13",
+      "Gültig bis": "2024-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-13"
+    },
+    {
+      "Gültig ab": "2023-12-12",
+      "Gültig bis": "2024-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-12"
+    },
+    {
+      "Gültig ab": "2023-12-12",
+      "Gültig bis": "2024-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-12"
+    },
+    {
+      "Gültig ab": "2023-12-02",
+      "Gültig bis": "2024-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "Gültig ab": "2023-12-02",
+      "Gültig bis": "2024-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "Gültig ab": "2023-11-22",
+      "Gültig bis": "2024-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-22"
+    },
+    {
+      "Gültig ab": "2023-11-22",
+      "Gültig bis": "2024-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-22"
+    },
+    {
+      "Gültig ab": "2023-11-18",
+      "Gültig bis": "2024-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-18"
+    },
+    {
+      "Gültig ab": "2023-11-18",
+      "Gültig bis": "2024-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-18"
+    },
+    {
+      "Gültig ab": "2023-11-18",
+      "Gültig bis": "2024-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-18"
+    },
+    {
+      "Gültig ab": "2023-11-18",
+      "Gültig bis": "2024-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-18"
+    },
+    {
+      "Gültig ab": "2023-11-15",
+      "Gültig bis": "2024-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-15"
+    },
+    {
+      "Gültig ab": "2023-11-15",
+      "Gültig bis": "2024-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-15"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-10-23",
+      "Gültig bis": "2024-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-23"
+    },
+    {
+      "Gültig ab": "2023-10-23",
+      "Gültig bis": "2024-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-23"
+    },
+    {
+      "Gültig ab": "2023-10-23",
+      "Gültig bis": "2024-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-23"
+    },
+    {
+      "Gültig ab": "2023-10-23",
+      "Gültig bis": "2024-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-23"
+    },
+    {
+      "Gültig ab": "2023-10-19",
+      "Gültig bis": "2024-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-19"
+    },
+    {
+      "Gültig ab": "2023-10-19",
+      "Gültig bis": "2024-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-19"
+    },
+    {
+      "Gültig ab": "2023-10-19",
+      "Gültig bis": "2024-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-19"
+    },
+    {
+      "Gültig ab": "2023-10-19",
+      "Gültig bis": "2024-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-19"
+    },
+    {
+      "Gültig ab": "2023-10-17",
+      "Gültig bis": "2024-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-18"
+    },
+    {
+      "Gültig ab": "2023-10-17",
+      "Gültig bis": "2024-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-18"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "Gültig ab": "2023-09-23",
+      "Gültig bis": "2023-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-23"
+    },
+    {
+      "Gültig ab": "2023-09-23",
+      "Gültig bis": "2023-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-23"
+    },
+    {
+      "Gültig ab": "2023-09-23",
+      "Gültig bis": "2023-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-23"
+    },
+    {
+      "Gültig ab": "2023-09-23",
+      "Gültig bis": "2023-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-23"
+    },
+    {
+      "Gültig ab": "2023-09-19",
+      "Gültig bis": "2023-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-19"
+    },
+    {
+      "Gültig ab": "2023-09-19",
+      "Gültig bis": "2023-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-19"
+    },
+    {
+      "Gültig ab": "2023-09-19",
+      "Gültig bis": "2023-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-19"
+    },
+    {
+      "Gültig ab": "2023-09-19",
+      "Gültig bis": "2023-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-19"
+    },
+    {
+      "Gültig ab": "2023-09-19",
+      "Gültig bis": "2023-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-19"
+    },
+    {
+      "Gültig ab": "2023-09-19",
+      "Gültig bis": "2023-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-19"
+    },
+    {
+      "Gültig ab": "2023-09-16",
+      "Gültig bis": "2023-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-16"
+    },
+    {
+      "Gültig ab": "2023-09-16",
+      "Gültig bis": "2023-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-16"
+    },
+    {
+      "Gültig ab": "2023-09-14",
+      "Gültig bis": "2023-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-14"
+    },
+    {
+      "Gültig ab": "2023-09-14",
+      "Gültig bis": "2023-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-14"
+    },
+    {
+      "Gültig ab": "2023-09-14",
+      "Gültig bis": "2023-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-14"
+    },
+    {
+      "Gültig ab": "2023-09-14",
+      "Gültig bis": "2023-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-14"
+    },
+    {
+      "Gültig ab": "2023-08-31",
+      "Gültig bis": "2023-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-31"
+    },
+    {
+      "Gültig ab": "2023-08-31",
+      "Gültig bis": "2023-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-31"
+    },
+    {
+      "Gültig ab": "2023-08-30",
+      "Gültig bis": "2023-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-31"
+    },
+    {
+      "Gültig ab": "2023-08-30",
+      "Gültig bis": "2023-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-31"
+    },
+    {
+      "Gültig ab": "2023-08-20",
+      "Gültig bis": "2023-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-20"
+    },
+    {
+      "Gültig ab": "2023-08-20",
+      "Gültig bis": "2023-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-20"
+    },
+    {
+      "Gültig ab": "2023-08-18",
+      "Gültig bis": "2023-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-19"
+    },
+    {
+      "Gültig ab": "2023-08-18",
+      "Gültig bis": "2023-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-19"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-15"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-15"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-15"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-15"
+    },
+    {
+      "Gültig ab": "2023-07-31",
+      "Gültig bis": "2023-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-01"
+    },
+    {
+      "Gültig ab": "2023-07-31",
+      "Gültig bis": "2023-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-01"
+    },
+    {
+      "Gültig ab": "2023-07-31",
+      "Gültig bis": "2023-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-31"
+    },
+    {
+      "Gültig ab": "2023-07-31",
+      "Gültig bis": "2023-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-31"
+    },
+    {
+      "Gültig ab": "2023-07-26",
+      "Gültig bis": "2023-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-27"
+    },
+    {
+      "Gültig ab": "2023-07-26",
+      "Gültig bis": "2023-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-27"
+    },
+    {
+      "Gültig ab": "2023-07-21",
+      "Gültig bis": "2023-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-21"
+    },
+    {
+      "Gültig ab": "2023-07-21",
+      "Gültig bis": "2023-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-21"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-16",
+      "Gültig bis": "2023-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-16"
+    },
+    {
+      "Gültig ab": "2023-07-16",
+      "Gültig bis": "2023-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-16"
+    },
+    {
+      "Gültig ab": "2023-07-16",
+      "Gültig bis": "2023-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-16"
+    },
+    {
+      "Gültig ab": "2023-07-16",
+      "Gültig bis": "2023-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-16"
+    },
+    {
+      "Gültig ab": "2023-07-01",
+      "Gültig bis": "2023-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-01"
+    },
+    {
+      "Gültig ab": "2023-07-01",
+      "Gültig bis": "2023-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-01"
+    },
+    {
+      "Gültig ab": "2023-07-01",
+      "Gültig bis": "2023-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-01"
+    },
+    {
+      "Gültig ab": "2023-07-01",
+      "Gültig bis": "2023-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-01"
+    },
+    {
+      "Gültig ab": "2023-06-22",
+      "Gültig bis": "2023-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-22"
+    },
+    {
+      "Gültig ab": "2023-06-22",
+      "Gültig bis": "2023-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-22"
+    },
+    {
+      "Gültig ab": "2023-06-21",
+      "Gültig bis": "2023-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-21"
+    },
+    {
+      "Gültig ab": "2023-06-21",
+      "Gültig bis": "2023-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-21"
+    },
+    {
+      "Gültig ab": "2023-06-19",
+      "Gültig bis": "2023-09-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-20"
+    },
+    {
+      "Gültig ab": "2023-06-19",
+      "Gültig bis": "2023-09-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-20"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-08",
+      "Gültig bis": "2023-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-08"
+    },
+    {
+      "Gültig ab": "2023-06-08",
+      "Gültig bis": "2023-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-08"
+    },
+    {
+      "Gültig ab": "2023-05-27",
+      "Gültig bis": "2023-08-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-28"
+    },
+    {
+      "Gültig ab": "2023-05-27",
+      "Gültig bis": "2023-08-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-28"
+    },
+    {
+      "Gültig ab": "2023-05-23",
+      "Gültig bis": "2023-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-24"
+    },
+    {
+      "Gültig ab": "2023-05-23",
+      "Gültig bis": "2023-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-24"
+    },
+    {
+      "Gültig ab": "2023-05-19",
+      "Gültig bis": "2023-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-19"
+    },
+    {
+      "Gültig ab": "2023-05-19",
+      "Gültig bis": "2023-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-19"
+    },
+    {
+      "Gültig ab": "2023-05-08",
+      "Gültig bis": "2023-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-09"
+    },
+    {
+      "Gültig ab": "2023-05-08",
+      "Gültig bis": "2023-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-09"
+    },
+    {
+      "Gültig ab": "2023-04-23",
+      "Gültig bis": "2023-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-23"
+    },
+    {
+      "Gültig ab": "2023-04-23",
+      "Gültig bis": "2023-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-23"
+    },
+    {
+      "Gültig ab": "2023-04-20",
+      "Gültig bis": "2023-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-21"
+    },
+    {
+      "Gültig ab": "2023-04-20",
+      "Gültig bis": "2023-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-21"
+    },
+    {
+      "Gültig ab": "2023-04-14",
+      "Gültig bis": "2023-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-14"
+    },
+    {
+      "Gültig ab": "2023-04-14",
+      "Gültig bis": "2023-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-14"
+    },
+    {
+      "Gültig ab": "2023-04-08",
+      "Gültig bis": "2023-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-08"
+    },
+    {
+      "Gültig ab": "2023-04-08",
+      "Gültig bis": "2023-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-08"
+    },
+    {
+      "Gültig ab": "2023-03-28",
+      "Gültig bis": "2023-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "Gültig ab": "2023-03-28",
+      "Gültig bis": "2023-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "Gültig ab": "2023-03-24",
+      "Gültig bis": "2023-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-24"
+    },
+    {
+      "Gültig ab": "2023-03-24",
+      "Gültig bis": "2023-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-24"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2023-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2023-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-20",
+      "Gültig bis": "2023-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "Gültig ab": "2023-03-20",
+      "Gültig bis": "2023-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "Gültig ab": "2023-03-16",
+      "Gültig bis": "2023-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-16"
+    },
+    {
+      "Gültig ab": "2023-03-16",
+      "Gültig bis": "2023-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-16"
+    },
+    {
+      "Gültig ab": "2023-02-22",
+      "Gültig bis": "2023-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-22"
+    },
+    {
+      "Gültig ab": "2023-02-22",
+      "Gültig bis": "2023-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-22"
+    },
+    {
+      "Gültig ab": "2023-02-19",
+      "Gültig bis": "2023-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-19"
+    },
+    {
+      "Gültig ab": "2023-02-19",
+      "Gültig bis": "2023-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-19"
+    },
+    {
+      "Gültig ab": "2023-02-14",
+      "Gültig bis": "2023-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-14"
+    },
+    {
+      "Gültig ab": "2023-02-14",
+      "Gültig bis": "2023-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-14"
+    },
+    {
+      "Gültig ab": "2023-01-27",
+      "Gültig bis": "2023-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-27"
+    },
+    {
+      "Gültig ab": "2023-01-27",
+      "Gültig bis": "2023-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-27"
+    },
+    {
+      "Gültig ab": "2023-01-23",
+      "Gültig bis": "2023-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-23"
+    },
+    {
+      "Gültig ab": "2023-01-23",
+      "Gültig bis": "2023-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-23"
+    },
+    {
+      "Gültig ab": "2023-01-19",
+      "Gültig bis": "2023-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-19"
+    },
+    {
+      "Gültig ab": "2023-01-19",
+      "Gültig bis": "2023-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-19"
+    },
+    {
+      "Gültig ab": "2023-01-17",
+      "Gültig bis": "2023-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-17"
+    },
+    {
+      "Gültig ab": "2023-01-17",
+      "Gültig bis": "2023-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-17"
+    },
+    {
+      "Gültig ab": "2023-01-15",
+      "Gültig bis": "2023-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-15"
+    },
+    {
+      "Gültig ab": "2023-01-15",
+      "Gültig bis": "2023-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-15"
+    },
+    {
+      "Gültig ab": "2022-12-28",
+      "Gültig bis": "2023-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-28"
+    },
+    {
+      "Gültig ab": "2022-12-28",
+      "Gültig bis": "2023-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-28"
+    },
+    {
+      "Gültig ab": "2022-12-28",
+      "Gültig bis": "2023-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-28"
+    },
+    {
+      "Gültig ab": "2022-12-28",
+      "Gültig bis": "2023-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-28"
+    },
+    {
+      "Gültig ab": "2022-12-24",
+      "Gültig bis": "2023-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-24"
+    },
+    {
+      "Gültig ab": "2022-12-24",
+      "Gültig bis": "2023-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-24"
+    },
+    {
+      "Gültig ab": "2022-12-21",
+      "Gültig bis": "2023-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "Gültig ab": "2022-12-21",
+      "Gültig bis": "2023-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "Gültig ab": "2022-11-28",
+      "Gültig bis": "2023-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-28"
+    },
+    {
+      "Gültig ab": "2022-11-28",
+      "Gültig bis": "2023-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abacus.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-28"
+    },
+    {
+      "Gültig ab": "2022-11-28",
+      "Gültig bis": "2023-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-28"
+    },
+    {
+      "Gültig ab": "2022-11-28",
+      "Gültig bis": "2023-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-28"
+    },
+    {
+      "Gültig ab": "2022-11-28",
+      "Gültig bis": "2023-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-28"
+    },
+    {
+      "Gültig ab": "2022-11-28",
+      "Gültig bis": "2023-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "daten.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-28"
+    },
+    {
+      "Gültig ab": "2022-11-28",
+      "Gültig bis": "2023-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-28"
+    },
+    {
+      "Gültig ab": "2022-11-28",
+      "Gültig bis": "2023-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-28"
+    },
+    {
+      "Gültig ab": "2022-11-28",
+      "Gültig bis": "2023-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-28"
+    },
+    {
+      "Gültig ab": "2022-11-28",
+      "Gültig bis": "2023-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-28"
+    },
+    {
+      "Gültig ab": "2022-11-25",
+      "Gültig bis": "2023-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-25"
+    },
+    {
+      "Gültig ab": "2022-11-25",
+      "Gültig bis": "2023-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-25"
+    },
+    {
+      "Gültig ab": "2022-11-24",
+      "Gültig bis": "2023-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-24"
+    },
+    {
+      "Gültig ab": "2022-11-24",
+      "Gültig bis": "2023-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-24"
+    },
+    {
+      "Gültig ab": "2022-11-22",
+      "Gültig bis": "2023-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-22"
+    },
+    {
+      "Gültig ab": "2022-11-22",
+      "Gültig bis": "2023-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-22"
+    },
+    {
+      "Gültig ab": "2022-11-20",
+      "Gültig bis": "2023-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-20"
+    },
+    {
+      "Gültig ab": "2022-11-20",
+      "Gültig bis": "2023-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-20"
+    },
+    {
+      "Gültig ab": "2022-10-25",
+      "Gültig bis": "2023-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-25"
+    },
+    {
+      "Gültig ab": "2022-10-25",
+      "Gültig bis": "2023-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-25"
+    },
+    {
+      "Gültig ab": "2022-10-23",
+      "Gültig bis": "2023-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-23"
+    },
+    {
+      "Gültig ab": "2022-10-23",
+      "Gültig bis": "2023-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-23"
+    },
+    {
+      "Gültig ab": "2022-10-21",
+      "Gültig bis": "2023-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-22"
+    },
+    {
+      "Gültig ab": "2022-10-21",
+      "Gültig bis": "2023-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-22"
+    },
+    {
+      "Gültig ab": "2022-10-12",
+      "Gültig bis": "2023-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-12"
+    },
+    {
+      "Gültig ab": "2022-10-12",
+      "Gültig bis": "2023-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-12"
+    },
+    {
+      "Gültig ab": "2022-10-12",
+      "Gültig bis": "2023-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-12"
+    },
+    {
+      "Gültig ab": "2022-10-12",
+      "Gültig bis": "2023-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-12"
+    },
+    {
+      "Gültig ab": "2022-10-12",
+      "Gültig bis": "2023-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-12"
+    },
+    {
+      "Gültig ab": "2022-10-12",
+      "Gültig bis": "2023-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-12"
+    },
+    {
+      "Gültig ab": "2022-09-28",
+      "Gültig bis": "2022-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-29"
+    },
+    {
+      "Gültig ab": "2022-09-28",
+      "Gültig bis": "2022-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-29"
+    },
+    {
+      "Gültig ab": "2022-09-27",
+      "Gültig bis": "2022-12-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "Gültig ab": "2022-09-27",
+      "Gültig bis": "2022-12-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "Gültig ab": "2022-09-25",
+      "Gültig bis": "2022-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "Gültig ab": "2022-09-25",
+      "Gültig bis": "2022-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "Gültig ab": "2022-09-21",
+      "Gültig bis": "2022-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "Gültig ab": "2022-09-21",
+      "Gültig bis": "2022-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "Gültig ab": "2022-08-29",
+      "Gültig bis": "2022-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-30"
+    },
+    {
+      "Gültig ab": "2022-08-29",
+      "Gültig bis": "2022-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-30"
+    },
+    {
+      "Gültig ab": "2022-08-26",
+      "Gültig bis": "2022-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-26"
+    },
+    {
+      "Gültig ab": "2022-08-26",
+      "Gültig bis": "2022-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-26"
+    },
+    {
+      "Gültig ab": "2022-08-22",
+      "Gültig bis": "2022-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-23"
+    },
+    {
+      "Gültig ab": "2022-08-22",
+      "Gültig bis": "2022-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-23"
+    },
+    {
+      "Gültig ab": "2022-07-30",
+      "Gültig bis": "2022-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-30"
+    },
+    {
+      "Gültig ab": "2022-07-30",
+      "Gültig bis": "2022-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-30"
+    },
+    {
+      "Gültig ab": "2022-07-29",
+      "Gültig bis": "2022-10-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-30"
+    },
+    {
+      "Gültig ab": "2022-07-29",
+      "Gültig bis": "2022-10-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-30"
+    },
+    {
+      "Gültig ab": "2022-07-27",
+      "Gültig bis": "2022-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-27"
+    },
+    {
+      "Gültig ab": "2022-07-27",
+      "Gültig bis": "2022-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-27"
+    },
+    {
+      "Gültig ab": "2022-07-25",
+      "Gültig bis": "2022-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-25"
+    },
+    {
+      "Gültig ab": "2022-07-25",
+      "Gültig bis": "2022-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "smtp.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-25"
+    },
+    {
+      "Gültig ab": "2022-07-23",
+      "Gültig bis": "2022-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-23"
+    },
+    {
+      "Gültig ab": "2022-07-23",
+      "Gültig bis": "2022-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-23"
+    },
+    {
+      "Gültig ab": "2022-07-18",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-18"
+    },
+    {
+      "Gültig ab": "2022-07-18",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-18"
+    },
+    {
+      "Gültig ab": "2022-06-27",
+      "Gültig bis": "2022-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-27"
+    },
+    {
+      "Gültig ab": "2022-06-27",
+      "Gültig bis": "2022-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-27"
+    },
+    {
+      "Gültig ab": "2022-06-23",
+      "Gültig bis": "2022-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-24"
+    },
+    {
+      "Gültig ab": "2022-06-23",
+      "Gültig bis": "2022-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-24"
+    },
+    {
+      "Gültig ab": "2022-05-30",
+      "Gültig bis": "2022-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-31"
+    },
+    {
+      "Gültig ab": "2022-05-30",
+      "Gültig bis": "2022-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-31"
+    },
+    {
+      "Gültig ab": "2022-05-28",
+      "Gültig bis": "2022-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-28"
+    },
+    {
+      "Gültig ab": "2022-05-28",
+      "Gültig bis": "2022-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-28"
+    },
+    {
+      "Gültig ab": "2022-05-24",
+      "Gültig bis": "2022-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-24"
+    },
+    {
+      "Gültig ab": "2022-05-24",
+      "Gültig bis": "2022-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-24"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-04-24",
+      "Gültig bis": "2022-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-25"
+    },
+    {
+      "Gültig ab": "2022-04-24",
+      "Gültig bis": "2022-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-25"
+    },
+    {
+      "Gültig ab": "2022-04-21",
+      "Gültig bis": "2022-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-21"
+    },
+    {
+      "Gültig ab": "2022-04-21",
+      "Gültig bis": "2022-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-21"
+    },
+    {
+      "Gültig ab": "2022-03-31",
+      "Gültig bis": "2022-06-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-01"
+    },
+    {
+      "Gültig ab": "2022-03-31",
+      "Gültig bis": "2022-06-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-01"
+    },
+    {
+      "Gültig ab": "2022-03-29",
+      "Gültig bis": "2022-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-29"
+    },
+    {
+      "Gültig ab": "2022-03-29",
+      "Gültig bis": "2022-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-29"
+    },
+    {
+      "Gültig ab": "2022-03-24",
+      "Gültig bis": "2022-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-24"
+    },
+    {
+      "Gültig ab": "2022-03-24",
+      "Gültig bis": "2022-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-24"
+    },
+    {
+      "Gültig ab": "2022-02-27",
+      "Gültig bis": "2022-05-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-27"
+    },
+    {
+      "Gültig ab": "2022-02-27",
+      "Gültig bis": "2022-05-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-27"
+    },
+    {
+      "Gültig ab": "2022-02-23",
+      "Gültig bis": "2022-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-23"
+    },
+    {
+      "Gültig ab": "2022-02-23",
+      "Gültig bis": "2022-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-23"
+    },
+    {
+      "Gültig ab": "2022-02-22",
+      "Gültig bis": "2022-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-22"
+    },
+    {
+      "Gültig ab": "2022-02-22",
+      "Gültig bis": "2022-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-22"
+    },
+    {
+      "Gültig ab": "2022-02-07",
+      "Gültig bis": "2022-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-07"
+    },
+    {
+      "Gültig ab": "2022-02-07",
+      "Gültig bis": "2022-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-07"
+    },
+    {
+      "Gültig ab": "2022-01-30",
+      "Gültig bis": "2022-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-30"
+    },
+    {
+      "Gültig ab": "2022-01-30",
+      "Gültig bis": "2022-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-30"
+    },
+    {
+      "Gültig ab": "2022-01-28",
+      "Gültig bis": "2022-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-28"
+    },
+    {
+      "Gültig ab": "2022-01-28",
+      "Gültig bis": "2022-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-28"
+    },
+    {
+      "Gültig ab": "2022-01-23",
+      "Gültig bis": "2022-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-23"
+    },
+    {
+      "Gültig ab": "2022-01-23",
+      "Gültig bis": "2022-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-23"
+    },
+    {
+      "Gültig ab": "2021-12-29",
+      "Gültig bis": "2022-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-29"
+    },
+    {
+      "Gültig ab": "2021-12-29",
+      "Gültig bis": "2022-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-29"
+    },
+    {
+      "Gültig ab": "2021-12-01",
+      "Gültig bis": "2022-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-01"
+    },
+    {
+      "Gültig ab": "2021-12-01",
+      "Gültig bis": "2022-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-01"
+    },
+    {
+      "Gültig ab": "2021-11-29",
+      "Gültig bis": "2022-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-29"
+    },
+    {
+      "Gültig ab": "2021-11-29",
+      "Gültig bis": "2022-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-29"
+    },
+    {
+      "Gültig ab": "2021-11-24",
+      "Gültig bis": "2022-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-24"
+    },
+    {
+      "Gültig ab": "2021-11-24",
+      "Gültig bis": "2022-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "abasupport.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-24"
+    },
+    {
+      "Gültig ab": "2021-10-30",
+      "Gültig bis": "2022-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-30"
+    },
+    {
+      "Gültig ab": "2021-10-30",
+      "Gültig bis": "2022-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-30"
+    },
+    {
+      "Gültig ab": "2021-10-01",
+      "Gültig bis": "2021-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-02"
+    },
+    {
+      "Gültig ab": "2021-10-01",
+      "Gültig bis": "2021-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-02"
+    },
+    {
+      "Gültig ab": "2021-09-30",
+      "Gültig bis": "2021-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-30"
+    },
+    {
+      "Gültig ab": "2021-09-30",
+      "Gültig bis": "2021-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-30"
+    },
+    {
+      "Gültig ab": "2021-09-03",
+      "Gültig bis": "2021-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-03"
+    },
+    {
+      "Gültig ab": "2021-09-03",
+      "Gültig bis": "2021-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-03"
+    },
+    {
+      "Gültig ab": "2021-08-04",
+      "Gültig bis": "2021-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-04"
+    },
+    {
+      "Gültig ab": "2021-08-04",
+      "Gültig bis": "2021-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-04"
+    },
+    {
+      "Gültig ab": "2021-08-02",
+      "Gültig bis": "2021-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-03"
+    },
+    {
+      "Gültig ab": "2021-08-02",
+      "Gültig bis": "2021-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-03"
+    },
+    {
+      "Gültig ab": "2021-07-05",
+      "Gültig bis": "2021-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-05"
+    },
+    {
+      "Gültig ab": "2021-07-05",
+      "Gültig bis": "2021-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-05"
+    },
+    {
+      "Gültig ab": "2021-06-05",
+      "Gültig bis": "2021-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-05"
+    },
+    {
+      "Gültig ab": "2021-06-05",
+      "Gültig bis": "2021-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-05"
+    },
+    {
+      "Gültig ab": "2021-06-03",
+      "Gültig bis": "2021-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-04"
+    },
+    {
+      "Gültig ab": "2021-06-03",
+      "Gültig bis": "2021-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-04"
+    },
+    {
+      "Gültig ab": "2021-05-06",
+      "Gültig bis": "2021-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-06"
+    },
+    {
+      "Gültig ab": "2021-05-06",
+      "Gültig bis": "2021-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-06"
+    },
+    {
+      "Gültig ab": "2021-04-06",
+      "Gültig bis": "2021-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-04-06"
+    },
+    {
+      "Gültig ab": "2021-04-06",
+      "Gültig bis": "2021-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-04-06"
+    },
+    {
+      "Gültig ab": "2021-04-04",
+      "Gültig bis": "2021-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-04-05"
+    },
+    {
+      "Gültig ab": "2021-04-04",
+      "Gültig bis": "2021-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-04-05"
+    },
+    {
+      "Gültig ab": "2021-03-07",
+      "Gültig bis": "2021-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-07"
+    },
+    {
+      "Gültig ab": "2021-03-07",
+      "Gültig bis": "2021-06-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-07"
+    },
+    {
+      "Gültig ab": "2021-02-05",
+      "Gültig bis": "2021-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-05"
+    },
+    {
+      "Gültig ab": "2021-02-05",
+      "Gültig bis": "2021-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-05"
+    },
+    {
+      "Gültig ab": "2021-02-05",
+      "Gültig bis": "2021-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch, expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-05"
+    },
+    {
+      "Gültig ab": "2021-02-05",
+      "Gültig bis": "2021-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch, expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-05"
+    },
+    {
+      "Gültig ab": "2021-02-05",
+      "Gültig bis": "2021-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-05"
+    },
+    {
+      "Gültig ab": "2021-02-05",
+      "Gültig bis": "2021-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-05"
+    },
+    {
+      "Gültig ab": "2021-02-04",
+      "Gültig bis": "2021-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-04"
+    },
+    {
+      "Gültig ab": "2021-02-04",
+      "Gültig bis": "2021-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-04"
+    },
+    {
+      "Gültig ab": "2020-12-06",
+      "Gültig bis": "2021-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-06"
+    },
+    {
+      "Gültig ab": "2020-12-06",
+      "Gültig bis": "2021-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-06"
+    },
+    {
+      "Gültig ab": "2020-10-06",
+      "Gültig bis": "2021-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-07"
+    },
+    {
+      "Gültig ab": "2020-10-06",
+      "Gültig bis": "2021-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-07"
+    },
+    {
+      "Gültig ab": "2020-08-07",
+      "Gültig bis": "2020-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-08-08"
+    },
+    {
+      "Gültig ab": "2020-08-07",
+      "Gültig bis": "2020-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-08-08"
+    },
+    {
+      "Gültig ab": "2020-06-22",
+      "Gültig bis": "2020-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-06-22"
+    },
+    {
+      "Gültig ab": "2020-06-22",
+      "Gültig bis": "2020-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-06-22"
+    },
+    {
+      "Gültig ab": "2020-06-08",
+      "Gültig bis": "2020-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-06-09"
+    },
+    {
+      "Gültig ab": "2020-06-08",
+      "Gültig bis": "2020-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-06-09"
+    },
+    {
+      "Gültig ab": "2020-04-23",
+      "Gültig bis": "2020-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-23"
+    },
+    {
+      "Gültig ab": "2020-04-23",
+      "Gültig bis": "2020-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-23"
+    },
+    {
+      "Gültig ab": "2020-04-09",
+      "Gültig bis": "2020-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-09"
+    },
+    {
+      "Gültig ab": "2020-04-09",
+      "Gültig bis": "2020-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "test.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-09"
+    },
+    {
+      "Gültig ab": "2020-02-23",
+      "Gültig bis": "2020-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-24"
+    },
+    {
+      "Gültig ab": "2020-02-23",
+      "Gültig bis": "2020-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-24"
+    },
+    {
+      "Gültig ab": "2020-02-14",
+      "Gültig bis": "2022-02-18",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA",
+      "Domain/Subdomain": "*.expertinum.ch, expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-14"
+    },
+    {
+      "Gültig ab": "2019-12-25",
+      "Gültig bis": "2020-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-12-25"
+    },
+    {
+      "Gültig ab": "2019-12-25",
+      "Gültig bis": "2020-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-12-25"
+    },
+    {
+      "Gültig ab": "2019-12-23",
+      "Gültig bis": "2020-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-12-23"
+    },
+    {
+      "Gültig ab": "2019-12-23",
+      "Gültig bis": "2020-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-12-23"
+    },
+    {
+      "Gültig ab": "2019-11-25",
+      "Gültig bis": "2020-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-25"
+    },
+    {
+      "Gültig ab": "2019-11-25",
+      "Gültig bis": "2020-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "treuhand.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-25"
+    },
+    {
+      "Gültig ab": "2018-12-23",
+      "Gültig bis": "2019-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-23"
+    },
+    {
+      "Gültig ab": "2018-12-23",
+      "Gültig bis": "2019-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-23"
+    },
+    {
+      "Gültig ab": "2018-10-24",
+      "Gültig bis": "2019-01-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-10-24"
+    },
+    {
+      "Gültig ab": "2018-10-24",
+      "Gültig bis": "2019-01-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-10-24"
+    },
+    {
+      "Gültig ab": "2018-08-25",
+      "Gültig bis": "2018-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-08-25"
+    },
+    {
+      "Gültig ab": "2018-08-25",
+      "Gültig bis": "2018-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-08-25"
+    },
+    {
+      "Gültig ab": "2018-06-26",
+      "Gültig bis": "2018-09-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-06-26"
+    },
+    {
+      "Gültig ab": "2018-06-26",
+      "Gültig bis": "2018-09-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-06-26"
+    },
+    {
+      "Gültig ab": "2018-04-27",
+      "Gültig bis": "2018-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-04-27"
+    },
+    {
+      "Gültig ab": "2018-04-27",
+      "Gültig bis": "2018-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-04-27"
+    },
+    {
+      "Gültig ab": "2018-04-27",
+      "Gültig bis": "2018-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-04-27"
+    },
+    {
+      "Gültig ab": "2018-04-27",
+      "Gültig bis": "2018-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "expertinum.ch, www.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-04-27"
+    },
+    {
+      "Gültig ab": "2017-12-17",
+      "Gültig bis": "2020-02-20",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA",
+      "Domain/Subdomain": "abacus.expertinum.ch, autodiscover.expertinum.ch, daten.expertinum.ch, email.expertinum.ch, online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    },
+    {
+      "Gültig ab": "2017-12-14",
+      "Gültig bis": "2020-02-20",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA",
+      "Domain/Subdomain": "abacus.expertinum.ch, daten.expertinum.ch, email.expertinum.ch, online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    },
+    {
+      "Gültig ab": "2017-12-15",
+      "Gültig bis": "2020-02-20",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA",
+      "Domain/Subdomain": "abacus.expertinum.ch, daten.expertinum.ch, email.expertinum.ch, online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    },
+    {
+      "Gültig ab": "2018-01-05",
+      "Gültig bis": "2020-02-20",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA",
+      "Domain/Subdomain": "abacus.expertinum.ch, autodiscover.expertinum.ch, daten.expertinum.ch, email.expertinum.ch, online.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    },
+    {
+      "Gültig ab": "2017-08-31",
+      "Gültig bis": "2017-12-22",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA",
+      "Domain/Subdomain": "autodiscover.expertinum.ch, email.expertinum.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-10-02"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://expertinum.ch/2024/10/21/hoeherer-eigenmietwert-ab-2026/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://expertinum.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/category/steuern/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/datenschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/jobs/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "URL": "https://expertinum.ch/en/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "http://expertinum.ch/home/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-02-22"
+    },
+    {
+      "URL": "https://expertinum.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://expertinum.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://expertinum.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://expertinum.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://expertinum.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-json/wp/v2/pages/124",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-json/wp/v2/pages/2098",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-json/wp/v2/pages/3138",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-json/wp/v2/pages/44",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-post-p1-2022-09.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-08"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-page-p1-2018-10.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-page-p1-2020-03.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-page-p1-2020-04.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-page-p1-2020-06.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-page-p1-2020-10.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-page-p1-2023-08.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-page-p1-2023-10.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-post-p1-2020-03.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-post-p1-2020-06.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-post-p1-2020-10.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-post-p1-2020-11.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-post-p1-2020-12.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-post-p1-2021-02.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-post-p1-2021-08.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-post-p1-2021-12.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-post-p1-2022-12.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-post-p1-2023-05.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-pt-post-p1-2023-12.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/uploads/2023/02/Dielsdorf-Stellenausschreibung-2023.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-03"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/uploads/2023/02/Stellenausschreibung-2023_cw.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-03"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-03"
+    },
+    {
+      "URL": "https://expertinum.ch/comments/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/en/comments/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/en/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fexpertinum.ch%2Fen%2F&format=xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/en/wp-json/wp/v2/pages/2160",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/divi-icons-pro/assets/fonts/B3-Line-Icons.eot?c7jjfc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/divi-icons-pro/assets/fonts/B3-Line-Icons.ttf?c7jjfc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/divi-icons-pro/assets/fonts/B3-Line-Icons.woff?c7jjfc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/teampress/css/font-awesome/webfonts/fa-brands-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/teampress/css/font-awesome/webfonts/fa-brands-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/teampress/css/font-awesome/webfonts/fa-brands-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/teampress/css/font-awesome/webfonts/fa-brands-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/teampress/css/font-awesome/webfonts/fa-regular-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/teampress/css/font-awesome/webfonts/fa-regular-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/teampress/css/font-awesome/webfonts/fa-regular-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/teampress/css/font-awesome/webfonts/fa-regular-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/teampress/css/font-awesome/webfonts/fa-solid-900.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/teampress/css/font-awesome/webfonts/fa-solid-900.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/teampress/css/font-awesome/webfonts/fa-solid-900.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/plugins/teampress/css/font-awesome/webfonts/fa-solid-900.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/xmlrpc.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-includes/js/mediaelement/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-22"
+    },
+    {
+      "URL": "https://expertinum.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/news-archiv",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/page-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/post-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap-misc.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-json/wp/v2/categories/29",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "URL": "https://expertinum.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fexpertinum.ch%2Fdatenschutz%2F",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-28"
+    },
+    {
+      "URL": "https://expertinum.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "dielsdorf@expertinum.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "E-Mail": "job@expertinum.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "E-Mail": "winterthur@expertinum.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "E-Mail": "zurich-city@expertinum.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "E-Mail": "zurich-seefeld@expertinum.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "E-Mail": "zurich-wollishofen@expertinum.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41433997878",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41434992020",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41443444545",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41448548989",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41522090810",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "217.26.60.80",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a00:d70:0:b:2002:0:d91a:3c50",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "frehnergoerner-ch01i.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns-anycast1.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "ns-anycast2.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "ns-ch.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms41913732\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Text Record": "\"v=spf1 include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "3628800",
+      "Serial": "1747267200",
+      "Refresh": "86400",
+      "Hostmaster": "hostmaster.hostpoint.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns-ch.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "217.26.60.80",
+      "PTR-Domain": "sl1707.web.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "IP-Adresse": "2a00:d70:0:b:2002:0:d91a:3c50",
+      "PTR-Domain": "sl1707.web.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "frehner-goerner.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-16",
+      "Gültig bis": "2025-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-16"
+    },
+    {
+      "Gültig ab": "2025-04-16",
+      "Gültig bis": "2025-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-16"
+    },
+    {
+      "Gültig ab": "2025-02-13",
+      "Gültig bis": "2025-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "Gültig ab": "2025-02-13",
+      "Gültig bis": "2025-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "Gültig ab": "2024-12-13",
+      "Gültig bis": "2025-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "Gültig ab": "2024-12-13",
+      "Gültig bis": "2025-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "Gültig ab": "2024-10-12",
+      "Gültig bis": "2025-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "Gültig ab": "2024-10-12",
+      "Gültig bis": "2025-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "Gültig ab": "2024-08-11",
+      "Gültig bis": "2024-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "Gültig ab": "2024-08-11",
+      "Gültig bis": "2024-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "Gültig ab": "2024-06-10",
+      "Gültig bis": "2024-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-10"
+    },
+    {
+      "Gültig ab": "2024-06-10",
+      "Gültig bis": "2024-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-10"
+    },
+    {
+      "Gültig ab": "2024-04-09",
+      "Gültig bis": "2024-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-09"
+    },
+    {
+      "Gültig ab": "2024-04-09",
+      "Gültig bis": "2024-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-09"
+    },
+    {
+      "Gültig ab": "2024-02-07",
+      "Gültig bis": "2024-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-07"
+    },
+    {
+      "Gültig ab": "2024-02-07",
+      "Gültig bis": "2024-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-07"
+    },
+    {
+      "Gültig ab": "2023-12-07",
+      "Gültig bis": "2024-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-07"
+    },
+    {
+      "Gültig ab": "2023-12-07",
+      "Gültig bis": "2024-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-07"
+    },
+    {
+      "Gültig ab": "2023-10-06",
+      "Gültig bis": "2024-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-06"
+    },
+    {
+      "Gültig ab": "2023-10-06",
+      "Gültig bis": "2024-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-06"
+    },
+    {
+      "Gültig ab": "2023-08-05",
+      "Gültig bis": "2023-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-05"
+    },
+    {
+      "Gültig ab": "2023-08-05",
+      "Gültig bis": "2023-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-05"
+    },
+    {
+      "Gültig ab": "2023-06-04",
+      "Gültig bis": "2023-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-04"
+    },
+    {
+      "Gültig ab": "2023-06-04",
+      "Gültig bis": "2023-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-04"
+    },
+    {
+      "Gültig ab": "2023-04-03",
+      "Gültig bis": "2023-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-03"
+    },
+    {
+      "Gültig ab": "2023-04-03",
+      "Gültig bis": "2023-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-03"
+    },
+    {
+      "Gültig ab": "2023-01-31",
+      "Gültig bis": "2023-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "Gültig ab": "2023-01-31",
+      "Gültig bis": "2023-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "Gültig ab": "2022-11-30",
+      "Gültig bis": "2023-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "Gültig ab": "2022-11-30",
+      "Gültig bis": "2023-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "Gültig ab": "2022-11-30",
+      "Gültig bis": "2023-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "Gültig ab": "2022-11-30",
+      "Gültig bis": "2023-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "Gültig ab": "2022-11-30",
+      "Gültig bis": "2023-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "Gültig ab": "2022-11-30",
+      "Gültig bis": "2023-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "Gültig ab": "2022-09-21",
+      "Gültig bis": "2022-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "Gültig ab": "2022-09-21",
+      "Gültig bis": "2022-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "Gültig ab": "2022-09-08",
+      "Gültig bis": "2022-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-08"
+    },
+    {
+      "Gültig ab": "2022-09-08",
+      "Gültig bis": "2022-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-08"
+    },
+    {
+      "Gültig ab": "2022-07-04",
+      "Gültig bis": "2022-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-04"
+    },
+    {
+      "Gültig ab": "2022-07-04",
+      "Gültig bis": "2022-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-04"
+    },
+    {
+      "Gültig ab": "2022-06-23",
+      "Gültig bis": "2022-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-23"
+    },
+    {
+      "Gültig ab": "2022-06-23",
+      "Gültig bis": "2022-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-23"
+    },
+    {
+      "Gültig ab": "2022-04-15",
+      "Gültig bis": "2022-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-15"
+    },
+    {
+      "Gültig ab": "2022-04-15",
+      "Gültig bis": "2022-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-15"
+    },
+    {
+      "Gültig ab": "2022-03-30",
+      "Gültig bis": "2022-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-30"
+    },
+    {
+      "Gültig ab": "2022-03-30",
+      "Gültig bis": "2022-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-30"
+    },
+    {
+      "Gültig ab": "2022-01-20",
+      "Gültig bis": "2022-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-20"
+    },
+    {
+      "Gültig ab": "2022-01-20",
+      "Gültig bis": "2022-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-20"
+    },
+    {
+      "Gültig ab": "2022-01-15",
+      "Gültig bis": "2022-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-15"
+    },
+    {
+      "Gültig ab": "2022-01-15",
+      "Gültig bis": "2022-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-15"
+    },
+    {
+      "Gültig ab": "2021-11-16",
+      "Gültig bis": "2022-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-16"
+    },
+    {
+      "Gültig ab": "2021-11-16",
+      "Gültig bis": "2022-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-16"
+    },
+    {
+      "Gültig ab": "2021-09-13",
+      "Gültig bis": "2021-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-13"
+    },
+    {
+      "Gültig ab": "2021-09-13",
+      "Gültig bis": "2021-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-13"
+    },
+    {
+      "Gültig ab": "2021-07-10",
+      "Gültig bis": "2021-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-10"
+    },
+    {
+      "Gültig ab": "2021-07-10",
+      "Gültig bis": "2021-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "frehner-goerner.ch, www.frehner-goerner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-10"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/analysen_fachplanung/alte_kaserne_zuerich.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/analysen_fachplanung/schulhaus_muenchhalde.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/leistungen/grabmalkunst.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/leistungen/kunstlogistik.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/jobs.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/fonts/gentium-book-basic-bold/gentium-book-basic-bold",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/fonts/gentium-book-basic-bold/gentium-book-basic-bold.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/fonts/gentium-book-basic-bold/gentium-book-basic-bold.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/fonts/gentium-book-basic-bold/gentium-book-basic-bold.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/fonts/gentium-book-basic-bold/gentium-book-basic-bold.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/fonts/roboto/roboto-v27-latin-regular.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/fonts/roboto/roboto-v27-latin-regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/fonts/roboto/roboto-v27-latin-regular.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/fonts/roboto/roboto-v27-latin-regular.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.frehner-goerner.ch/philosophie.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/aktuelles.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/datenschutz.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/impressum.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/kontakt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/analysen_fachplanung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/garten_wasserbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/garten_wasserbau/brunnen_am_roemerholz.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/garten_wasserbau/brunnen_rikon.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/garten_wasserbau/juchpark_brunnen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/garten_wasserbau/stuetzmauer_zollikon.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/grabmalkunst/gemeinschaftsgrab_birkenhain.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/grabmalkunst/grabmal_ernst.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/konservierung_restaurierung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/konservierung_restaurierung/graffiti_entfernung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/konservierung_restaurierung/konstruktion.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/konservierung_restaurierung/schulhaus_wolfbach.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/konservierung_restaurierung/skulpturen_huenerwadel.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/konservierung_restaurierung/stadthausfiguren.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/konservierung_restaurierung/stadtobservatorium.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/kunstlogistik/messerstein.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/kunstlogistik/rotation.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/kunstlogistik/stadtloewen_in_winterthur.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/kunstlogistik/vogelskulptur.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/steinmetz_bildhauerarbeiten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/steinmetz_bildhauerarbeiten/kirchturm_wuelflingen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/steinmetz_bildhauerarbeiten/usterstrasse_illnau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/leistungen/steinmetz_bildhauerarbeiten/villa_wiedingstrasse.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/team.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://frehner-goerner.ch/frehner-goerner.ch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-14"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "f.mueller@frehner-goerner.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "E-Mail": "gregor.frehner@bluewin.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "E-Mail": "info@frehner-goerner.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "w.goerner@frehner-goerner.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522332256",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Telefonnummern": "+41795505152",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

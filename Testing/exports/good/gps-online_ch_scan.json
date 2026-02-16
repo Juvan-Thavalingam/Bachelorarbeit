@@ -1,0 +1,2180 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "185.117.169.34",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx1.hostfactory.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Präferenz": "20",
+      "Mailserver (MX)": "mx2.hostfactory.swiss.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Präferenz": "30",
+      "Mailserver (MX)": "mx3.hostfactory.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Präferenz": "40",
+      "Mailserver (MX)": "mx4.hostfactory.swiss.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Präferenz": "50",
+      "Mailserver (MX)": "mx.gurtam.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns01.hostfactory.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "ns02.hostfactory.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 a:spf.hostfactory.ch include:_spf.google.com ip4:62.12.149.0/24 include:web15.glarotech.ch -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "604800",
+      "Serial": "2025010200",
+      "Refresh": "7200",
+      "Hostmaster": "christian\\.hartmann.gotthard-handel.ch.",
+      "Minimum TTL": "10800",
+      "Primary Nameserver": "ns01.hostfactory.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "185.117.169.34",
+      "PTR-Domain": "server46.hostfactory.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "gps-online.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "shop.gps-online.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "shop.gps-online.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "mail.shop.gps-online.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "tracking.gps-online.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "tracking.gps-online.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-17",
+      "Gültig bis": "2025-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-17"
+    },
+    {
+      "Gültig ab": "2025-05-17",
+      "Gültig bis": "2025-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-17"
+    },
+    {
+      "Gültig ab": "2025-04-23",
+      "Gültig bis": "2025-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-23"
+    },
+    {
+      "Gültig ab": "2025-04-23",
+      "Gültig bis": "2025-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-23"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2025-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.tracking.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2025-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.tracking.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-03-31",
+      "Gültig bis": "2025-06-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "tracking.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "Gültig ab": "2025-03-31",
+      "Gültig bis": "2025-06-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "tracking.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "Gültig ab": "2025-03-17",
+      "Gültig bis": "2025-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "Gültig ab": "2025-03-17",
+      "Gültig bis": "2025-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "Gültig ab": "2025-02-21",
+      "Gültig bis": "2025-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-21"
+    },
+    {
+      "Gültig ab": "2025-02-21",
+      "Gültig bis": "2025-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-21"
+    },
+    {
+      "Gültig ab": "2025-01-15",
+      "Gültig bis": "2025-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "Gültig ab": "2025-01-15",
+      "Gültig bis": "2025-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "Gültig ab": "2025-01-01",
+      "Gültig bis": "2026-02-01",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-01"
+    },
+    {
+      "Gültig ab": "2025-01-01",
+      "Gültig bis": "2026-02-01",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-01"
+    },
+    {
+      "Gültig ab": "2024-12-22",
+      "Gültig bis": "2025-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-22"
+    },
+    {
+      "Gültig ab": "2024-12-22",
+      "Gültig bis": "2025-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-22"
+    },
+    {
+      "Gültig ab": "2024-11-15",
+      "Gültig bis": "2025-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-15"
+    },
+    {
+      "Gültig ab": "2024-11-15",
+      "Gültig bis": "2025-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-15"
+    },
+    {
+      "Gültig ab": "2024-10-22",
+      "Gültig bis": "2025-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-22"
+    },
+    {
+      "Gültig ab": "2024-10-22",
+      "Gültig bis": "2025-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-22"
+    },
+    {
+      "Gültig ab": "2024-09-15",
+      "Gültig bis": "2024-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-15"
+    },
+    {
+      "Gültig ab": "2024-09-15",
+      "Gültig bis": "2024-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-15"
+    },
+    {
+      "Gültig ab": "2024-08-22",
+      "Gültig bis": "2024-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-22"
+    },
+    {
+      "Gültig ab": "2024-08-22",
+      "Gültig bis": "2024-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-22"
+    },
+    {
+      "Gültig ab": "2024-07-16",
+      "Gültig bis": "2024-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-16"
+    },
+    {
+      "Gültig ab": "2024-07-16",
+      "Gültig bis": "2024-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-16"
+    },
+    {
+      "Gültig ab": "2024-06-22",
+      "Gültig bis": "2024-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-22"
+    },
+    {
+      "Gültig ab": "2024-06-22",
+      "Gültig bis": "2024-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-22"
+    },
+    {
+      "Gültig ab": "2024-05-16",
+      "Gültig bis": "2024-08-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-16"
+    },
+    {
+      "Gültig ab": "2024-05-16",
+      "Gültig bis": "2024-08-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-16"
+    },
+    {
+      "Gültig ab": "2024-04-22",
+      "Gültig bis": "2024-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-22"
+    },
+    {
+      "Gültig ab": "2024-04-22",
+      "Gültig bis": "2024-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-22"
+    },
+    {
+      "Gültig ab": "2024-03-15",
+      "Gültig bis": "2024-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-16"
+    },
+    {
+      "Gültig ab": "2024-03-15",
+      "Gültig bis": "2024-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-16"
+    },
+    {
+      "Gültig ab": "2024-02-20",
+      "Gültig bis": "2024-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-21"
+    },
+    {
+      "Gültig ab": "2024-02-20",
+      "Gültig bis": "2024-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-21"
+    },
+    {
+      "Gültig ab": "2024-01-14",
+      "Gültig bis": "2024-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "Gültig ab": "2024-01-14",
+      "Gültig bis": "2024-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "Gültig ab": "2024-01-01",
+      "Gültig bis": "2025-01-31",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-01"
+    },
+    {
+      "Gültig ab": "2024-01-01",
+      "Gültig bis": "2025-01-31",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-01"
+    },
+    {
+      "Gültig ab": "2023-12-21",
+      "Gültig bis": "2024-03-20",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-21"
+    },
+    {
+      "Gültig ab": "2023-12-21",
+      "Gültig bis": "2024-03-20",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-21"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "Gültig ab": "2023-10-06",
+      "Gültig bis": "2024-01-04",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-06"
+    },
+    {
+      "Gültig ab": "2023-10-06",
+      "Gültig bis": "2024-01-04",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-06"
+    },
+    {
+      "Gültig ab": "2023-08-30",
+      "Gültig bis": "2023-11-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-30"
+    },
+    {
+      "Gültig ab": "2023-08-30",
+      "Gültig bis": "2023-11-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-30"
+    },
+    {
+      "Gültig ab": "2023-07-22",
+      "Gültig bis": "2023-10-20",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-22"
+    },
+    {
+      "Gültig ab": "2023-07-22",
+      "Gültig bis": "2023-10-20",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-22"
+    },
+    {
+      "Gültig ab": "2023-06-15",
+      "Gültig bis": "2023-09-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "Gültig ab": "2023-06-15",
+      "Gültig bis": "2023-09-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "Gültig ab": "2023-05-07",
+      "Gültig bis": "2023-08-05",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-07"
+    },
+    {
+      "Gültig ab": "2023-05-07",
+      "Gültig bis": "2023-08-05",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-07"
+    },
+    {
+      "Gültig ab": "2023-03-31",
+      "Gültig bis": "2023-06-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-31"
+    },
+    {
+      "Gültig ab": "2023-03-31",
+      "Gültig bis": "2023-06-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-31"
+    },
+    {
+      "Gültig ab": "2023-02-18",
+      "Gültig bis": "2023-05-19",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-18"
+    },
+    {
+      "Gültig ab": "2023-02-18",
+      "Gültig bis": "2023-05-19",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-18"
+    },
+    {
+      "Gültig ab": "2023-01-14",
+      "Gültig bis": "2023-04-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-14"
+    },
+    {
+      "Gültig ab": "2023-01-14",
+      "Gültig bis": "2023-04-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-14"
+    },
+    {
+      "Gültig ab": "2023-01-03",
+      "Gültig bis": "2024-02-03",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-03"
+    },
+    {
+      "Gültig ab": "2023-01-03",
+      "Gültig bis": "2024-02-03",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-03"
+    },
+    {
+      "Gültig ab": "2022-12-04",
+      "Gültig bis": "2023-03-04",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-04"
+    },
+    {
+      "Gültig ab": "2022-12-04",
+      "Gültig bis": "2023-03-04",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-04"
+    },
+    {
+      "Gültig ab": "2022-10-29",
+      "Gültig bis": "2023-01-27",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-29"
+    },
+    {
+      "Gültig ab": "2022-10-29",
+      "Gültig bis": "2023-01-27",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-10-29"
+    },
+    {
+      "Gültig ab": "2022-09-19",
+      "Gültig bis": "2022-12-18",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-19"
+    },
+    {
+      "Gültig ab": "2022-09-19",
+      "Gültig bis": "2022-12-18",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-19"
+    },
+    {
+      "Gültig ab": "2022-08-14",
+      "Gültig bis": "2022-11-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-14"
+    },
+    {
+      "Gültig ab": "2022-08-14",
+      "Gültig bis": "2022-11-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-14"
+    },
+    {
+      "Gültig ab": "2022-06-30",
+      "Gültig bis": "2022-09-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-30"
+    },
+    {
+      "Gültig ab": "2022-06-30",
+      "Gültig bis": "2022-09-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-30"
+    },
+    {
+      "Gültig ab": "2022-05-30",
+      "Gültig bis": "2022-08-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-30"
+    },
+    {
+      "Gültig ab": "2022-05-30",
+      "Gültig bis": "2022-08-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-30"
+    },
+    {
+      "Gültig ab": "2022-04-15",
+      "Gültig bis": "2022-07-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-15"
+    },
+    {
+      "Gültig ab": "2022-04-15",
+      "Gültig bis": "2022-07-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-15"
+    },
+    {
+      "Gültig ab": "2022-03-15",
+      "Gültig bis": "2022-06-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-15"
+    },
+    {
+      "Gültig ab": "2022-03-15",
+      "Gültig bis": "2022-06-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-15"
+    },
+    {
+      "Gültig ab": "2022-01-28",
+      "Gültig bis": "2022-04-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-28"
+    },
+    {
+      "Gültig ab": "2022-01-28",
+      "Gültig bis": "2022-04-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-28"
+    },
+    {
+      "Gültig ab": "2021-12-29",
+      "Gültig bis": "2022-03-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-29"
+    },
+    {
+      "Gültig ab": "2021-12-29",
+      "Gültig bis": "2022-03-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-29"
+    },
+    {
+      "Gültig ab": "2021-12-22",
+      "Gültig bis": "2023-01-22",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-22"
+    },
+    {
+      "Gültig ab": "2021-12-22",
+      "Gültig bis": "2023-01-22",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-22"
+    },
+    {
+      "Gültig ab": "2021-11-13",
+      "Gültig bis": "2022-02-11",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-13"
+    },
+    {
+      "Gültig ab": "2021-11-13",
+      "Gültig bis": "2022-02-11",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-13"
+    },
+    {
+      "Gültig ab": "2021-10-14",
+      "Gültig bis": "2022-01-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-14"
+    },
+    {
+      "Gültig ab": "2021-10-14",
+      "Gültig bis": "2022-01-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-14"
+    },
+    {
+      "Gültig ab": "2021-08-29",
+      "Gültig bis": "2021-11-27",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-29"
+    },
+    {
+      "Gültig ab": "2021-08-29",
+      "Gültig bis": "2021-11-27",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-29"
+    },
+    {
+      "Gültig ab": "2021-07-30",
+      "Gültig bis": "2021-10-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-30"
+    },
+    {
+      "Gültig ab": "2021-07-30",
+      "Gültig bis": "2021-10-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-30"
+    },
+    {
+      "Gültig ab": "2021-06-14",
+      "Gültig bis": "2021-09-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "Gültig ab": "2021-06-14",
+      "Gültig bis": "2021-09-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "Gültig ab": "2021-05-15",
+      "Gültig bis": "2021-08-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-15"
+    },
+    {
+      "Gültig ab": "2021-05-15",
+      "Gültig bis": "2021-08-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-15"
+    },
+    {
+      "Gültig ab": "2021-03-30",
+      "Gültig bis": "2021-06-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-30"
+    },
+    {
+      "Gültig ab": "2021-03-30",
+      "Gültig bis": "2021-06-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-30"
+    },
+    {
+      "Gültig ab": "2021-02-28",
+      "Gültig bis": "2021-05-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-28"
+    },
+    {
+      "Gültig ab": "2021-02-28",
+      "Gültig bis": "2021-05-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-28"
+    },
+    {
+      "Gültig ab": "2021-01-13",
+      "Gültig bis": "2021-04-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-01-13"
+    },
+    {
+      "Gültig ab": "2021-01-13",
+      "Gültig bis": "2021-04-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-01-13"
+    },
+    {
+      "Gültig ab": "2020-12-14",
+      "Gültig bis": "2021-03-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-14"
+    },
+    {
+      "Gültig ab": "2020-12-14",
+      "Gültig bis": "2021-03-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-14"
+    },
+    {
+      "Gültig ab": "2020-12-10",
+      "Gültig bis": "2022-01-10",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-10"
+    },
+    {
+      "Gültig ab": "2020-12-10",
+      "Gültig bis": "2022-01-10",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-10"
+    },
+    {
+      "Gültig ab": "2020-10-29",
+      "Gültig bis": "2021-01-27",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-29"
+    },
+    {
+      "Gültig ab": "2020-10-29",
+      "Gültig bis": "2021-01-27",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-29"
+    },
+    {
+      "Gültig ab": "2020-09-29",
+      "Gültig bis": "2020-12-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "Gültig ab": "2020-09-29",
+      "Gültig bis": "2020-12-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "Gültig ab": "2020-08-14",
+      "Gültig bis": "2020-11-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-08-14"
+    },
+    {
+      "Gültig ab": "2020-08-14",
+      "Gültig bis": "2020-11-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-08-14"
+    },
+    {
+      "Gültig ab": "2020-07-15",
+      "Gültig bis": "2020-10-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-07-15"
+    },
+    {
+      "Gültig ab": "2020-07-15",
+      "Gültig bis": "2020-10-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-07-15"
+    },
+    {
+      "Gültig ab": "2020-05-30",
+      "Gültig bis": "2020-08-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-05-30"
+    },
+    {
+      "Gültig ab": "2020-05-30",
+      "Gültig bis": "2020-08-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-05-30"
+    },
+    {
+      "Gültig ab": "2020-04-30",
+      "Gültig bis": "2020-07-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-30"
+    },
+    {
+      "Gültig ab": "2020-04-30",
+      "Gültig bis": "2020-07-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-30"
+    },
+    {
+      "Gültig ab": "2020-04-30",
+      "Gültig bis": "2020-07-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-30"
+    },
+    {
+      "Gültig ab": "2020-04-30",
+      "Gültig bis": "2020-07-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-30"
+    },
+    {
+      "Gültig ab": "2020-02-14",
+      "Gültig bis": "2020-05-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-14"
+    },
+    {
+      "Gültig ab": "2020-02-14",
+      "Gültig bis": "2020-05-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-14"
+    },
+    {
+      "Gültig ab": "2020-02-14",
+      "Gültig bis": "2020-05-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-14"
+    },
+    {
+      "Gültig ab": "2020-02-14",
+      "Gültig bis": "2020-05-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-14"
+    },
+    {
+      "Gültig ab": "2019-12-10",
+      "Gültig bis": "2020-12-29",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-12-10"
+    },
+    {
+      "Gültig ab": "2019-12-10",
+      "Gültig bis": "2020-12-29",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-12-10"
+    },
+    {
+      "Gültig ab": "2019-11-30",
+      "Gültig bis": "2020-02-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-30"
+    },
+    {
+      "Gültig ab": "2019-11-30",
+      "Gültig bis": "2020-02-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-30"
+    },
+    {
+      "Gültig ab": "2019-11-30",
+      "Gültig bis": "2020-02-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-30"
+    },
+    {
+      "Gültig ab": "2019-11-30",
+      "Gültig bis": "2020-02-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-30"
+    },
+    {
+      "Gültig ab": "2019-09-15",
+      "Gültig bis": "2019-12-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-09-15"
+    },
+    {
+      "Gültig ab": "2019-09-15",
+      "Gültig bis": "2019-12-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-09-15"
+    },
+    {
+      "Gültig ab": "2019-09-15",
+      "Gültig bis": "2019-12-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-09-15"
+    },
+    {
+      "Gültig ab": "2019-09-15",
+      "Gültig bis": "2019-12-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-09-15"
+    },
+    {
+      "Gültig ab": "2019-07-01",
+      "Gültig bis": "2019-09-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-01"
+    },
+    {
+      "Gültig ab": "2019-07-01",
+      "Gültig bis": "2019-09-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-01"
+    },
+    {
+      "Gültig ab": "2019-07-01",
+      "Gültig bis": "2019-09-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-01"
+    },
+    {
+      "Gültig ab": "2019-07-01",
+      "Gültig bis": "2019-09-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-01"
+    },
+    {
+      "Gültig ab": "2019-07-01",
+      "Gültig bis": "2019-09-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.shop.gps-online.ch, shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-01"
+    },
+    {
+      "Gültig ab": "2019-07-01",
+      "Gültig bis": "2019-09-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.shop.gps-online.ch, shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-01"
+    },
+    {
+      "Gültig ab": "2019-07-01",
+      "Gültig bis": "2019-09-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-01"
+    },
+    {
+      "Gültig ab": "2019-07-01",
+      "Gültig bis": "2019-09-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-01"
+    },
+    {
+      "Gültig ab": "2019-06-30",
+      "Gültig bis": "2019-09-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.shop.gps-online.ch, shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-06-30"
+    },
+    {
+      "Gültig ab": "2019-06-30",
+      "Gültig bis": "2019-09-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.shop.gps-online.ch, shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-06-30"
+    },
+    {
+      "Gültig ab": "2019-04-15",
+      "Gültig bis": "2019-07-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.shop.gps-online.ch, shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-04-15"
+    },
+    {
+      "Gültig ab": "2019-04-15",
+      "Gültig bis": "2019-07-14",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.shop.gps-online.ch, shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-04-15"
+    },
+    {
+      "Gültig ab": "2019-01-29",
+      "Gültig bis": "2019-04-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.shop.gps-online.ch, shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-01-29"
+    },
+    {
+      "Gültig ab": "2019-01-29",
+      "Gültig bis": "2019-04-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.shop.gps-online.ch, shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-01-29"
+    },
+    {
+      "Gültig ab": "2018-12-24",
+      "Gültig bis": "2019-12-29",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-24"
+    },
+    {
+      "Gültig ab": "2018-12-24",
+      "Gültig bis": "2019-12-29",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-24"
+    },
+    {
+      "Gültig ab": "2018-11-14",
+      "Gültig bis": "2019-02-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.shop.gps-online.ch, shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-11-14"
+    },
+    {
+      "Gültig ab": "2018-11-14",
+      "Gültig bis": "2019-02-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.shop.gps-online.ch, shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-11-14"
+    },
+    {
+      "Gültig ab": "2018-08-30",
+      "Gültig bis": "2018-11-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.shop.gps-online.ch, shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-08-30"
+    },
+    {
+      "Gültig ab": "2018-08-30",
+      "Gültig bis": "2018-11-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.shop.gps-online.ch, shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-08-30"
+    },
+    {
+      "Gültig ab": "2018-08-14",
+      "Gültig bis": "2018-11-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-08-15"
+    },
+    {
+      "Gültig ab": "2018-08-14",
+      "Gültig bis": "2018-11-12",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-08-15"
+    },
+    {
+      "Gültig ab": "2018-05-30",
+      "Gültig bis": "2018-08-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-05-30"
+    },
+    {
+      "Gültig ab": "2018-05-30",
+      "Gültig bis": "2018-08-28",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-05-30"
+    },
+    {
+      "Gültig ab": "2018-03-15",
+      "Gültig bis": "2018-06-13",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-03-16"
+    },
+    {
+      "Gültig ab": "2017-12-29",
+      "Gültig bis": "2018-03-29",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-12-30"
+    },
+    {
+      "Gültig ab": "2017-12-24",
+      "Gültig bis": "2018-12-30",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-12-27"
+    },
+    {
+      "Gültig ab": "2017-11-22",
+      "Gültig bis": "2018-02-20",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-11-23"
+    },
+    {
+      "Gültig ab": "2017-09-07",
+      "Gültig bis": "2017-12-06",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-09-09"
+    },
+    {
+      "Gültig ab": "2017-06-23",
+      "Gültig bis": "2017-09-21",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-25"
+    },
+    {
+      "Gültig ab": "2017-06-20",
+      "Gültig bis": "2017-09-18",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-24"
+    },
+    {
+      "Gültig ab": "2017-06-22",
+      "Gültig bis": "2017-09-20",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "shop.gps-online.ch, www.shop.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-24"
+    },
+    {
+      "Gültig ab": "2016-12-25",
+      "Gültig bis": "2017-12-30",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-12-26"
+    },
+    {
+      "Gültig ab": "2016-01-01",
+      "Gültig bis": "2016-12-31",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "gps-online.ch, www.gps-online.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-01-03"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://gps-online.ch/content/wp-content/themes/tonic/library/fonts/fontawesome-webfont.ttf?v=3.0.1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-19"
+    },
+    {
+      "URL": "https://www.gps-online.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-08"
+    },
+    {
+      "URL": "https://gps-online.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-07"
+    },
+    {
+      "URL": "https://www.gps-online.ch/sitemap_categories_1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-07"
+    },
+    {
+      "URL": "https://www.gps-online.ch/sitemap_index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-07"
+    },
+    {
+      "URL": "https://www.gps-online.ch/sitemap_pages.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-07"
+    },
+    {
+      "URL": "https://www.gps-online.ch/sitemap_products_1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-07"
+    },
+    {
+      "URL": "https://gps-online.ch/content/wp-content/plugins/tablepress/css/tablepress.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-19"
+    },
+    {
+      "URL": "https://gps-online.ch/content/wp-content/plugins/tablepress/css/tablepress.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-19"
+    },
+    {
+      "URL": "https://gps-online.ch/content/wp-content/themes/tonic/library/fonts/fontawesome-webfont.eot?v=3.0.1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-19"
+    },
+    {
+      "URL": "http://gps-online.ch:80/pi.php/Hunde-GPS-Tracker.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Ortungsplattform-GPS-Online-Professional.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-03-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/shop/kunde_account.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-03-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Hunde-GPS-Tracker-32.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-03-06"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Ortungsplattform-41.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-10-30"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Zubehoer-36.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-10-30"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/shop/transaction_proxy.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-10-30"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/shop/USER_BESTELLUNG_1.php?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-10-30"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Allround-GPS-Tracker-30.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-10-27"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Armband-GPS-Tracker-38.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-10-27"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Tracking-Portal-41.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-10-26"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Motorrad-E-Bike-GPS-Tracker-35.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-09-26"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Wasserdichter-Beutel.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-09-26"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/shop/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-09-26"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Velo-GPS-Tracker-39.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-08-24"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Was-ist-eine-Ortungsplattform-41.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-08-24"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Ortungsplattform-gps-onlinech.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-08-24"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Kinder-GPS-Tracker-33.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-08-22"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Allround-GPS-Tracker-Extreme.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-04-26"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Welche-SIM-Karte-brauche-ich-37.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-10-05"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/shop/ProdukteDetails/GPS%20Tracker%20Original%20Kopie.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-08-02"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Auto-Tracker-31.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-07-29"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Welche-SIM-Karte-37.html?lang=de&sort=Preis&order=desc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-07-29"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Welchen-GPS-Tracker-brauche-ich-43.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-07-29"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Wie-funktioneren-GPS-Tracker-42.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-07-28"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Katzen-GPS-Tracker.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-04-21"
+    },
+    {
+      "URL": "http://gps-online.ch:80/pi.php/Kuehe-Pferde-GPS-Tracker.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/pi.php/Langzeit-GPS-Tracker.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/pi.php/Motorrad-E-Bike-GPS-Tracker.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/pi.php/Sonderleistungen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/shop/inhalt.php?content=verlaesslicheinkaufen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/shop/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/shop/USER_BESTELLUNG_AUFRUF.php?darstellen=1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch/content/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-10-23"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-08-22"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/shop/USER_ARTIKEL_HANDLING_AUFRUF.php?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-08-18"
+    },
+    {
+      "URL": "http://gps-online.ch:80/content/40-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-08-14"
+    },
+    {
+      "URL": "http://gps-online.ch:80/content/welche-sim-karte-brauche-ich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-08-14"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Allround-GPS-Tracker-Mini.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-08-14"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Hunde-GPS-Tracker.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-07-03"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Alle-GPS-Tracker-28.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-30"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Auto-GPS-Tracker-31.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-30"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Katzen-GPS-Tracker-40.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-30"
+    },
+    {
+      "URL": "http://gps-online.ch:80/content/category/allgemein/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-26"
+    },
+    {
+      "URL": "http://gps-online.ch:80/content/welchen-gps-tracker-brauche-ich/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-26"
+    },
+    {
+      "URL": "http://gps-online.ch:80/content/wie-funktioneren-gps-live-tracker",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-25"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/ki.php/Kleine-GPS-Tracker-30.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-25"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Autoeinbau-GPS-Tracker.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-25"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Langzeit-GPS-Tracker.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-25"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Motorrad-E-Bike-GPS-Tracker.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-21"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/shop/inhalt.php?content=einsatzbeispiele",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-21"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/shop/USER_ADMIN_HILFE.php?Hilfe_ID=impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-21"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-18"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/shop/USER_BESTELLUNG_AUFRUF.php?darstellen=1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-18"
+    },
+    {
+      "URL": "http://gps-online.ch:80/content/gps-tracking-loesungen-fuer-kmu/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Ausland-SIM-Karte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-05-06"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Autoeinbau-GPS-Tracker-Spezial.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-03-24"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Allround-GPS-Tracker-Basis.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-03-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Autoeinbau-GPS-Tracker-Professional.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-03-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/gps-tracker-shop/pi.php/Externer-Akku-4000mAH.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-03-17"
+    },
+    {
+      "URL": "https://gps-online.ch/content/wp-content/themes/tonic/library/fonts/fontawesome-webfont.woff?v=3.0.1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-19"
+    },
+    {
+      "URL": "https://gps-online.ch/content/?p=50",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-09-20"
+    },
+    {
+      "URL": "https://gps-online.ch/content/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-09-20"
+    },
+    {
+      "URL": "https://gps-online.ch/content/comments/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-09-19"
+    },
+    {
+      "URL": "https://gps-online.ch/content/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-09-19"
+    },
+    {
+      "URL": "https://gps-online.ch/content/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-09-19"
+    },
+    {
+      "URL": "https://gps-online.ch/content/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgps-online.ch%2Fcontent%2Fwo-funktionieren-gps-live-tracker%2F&format=xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-09-19"
+    },
+    {
+      "URL": "https://gps-online.ch/content/xmlrpc.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-09-19"
+    },
+    {
+      "URL": "https://gps-online.ch/content/wo-funktionieren-gps-live-tracker/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-08-15"
+    },
+    {
+      "URL": "http://www.gps-online.ch:80/pi.php/Armbanduhr-GPS-Tracker-neu.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-08-03"
+    },
+    {
+      "URL": "http://gps-online.ch:80/shop/USER_ADMIN_HILFE.php?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-07-16"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Ersatzteile-57.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-20"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Kleine-GPS-Tracker-30.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-20"
+    },
+    {
+      "URL": "http://gps-online.ch:80/shop/kunde_account.php?zeig_immer_login=true",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-20"
+    },
+    {
+      "URL": "http://gps-online.ch:80/shop/USER_ARTIKEL_HANDLING_AUFRUF.php?darstellen=30",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-20"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Kleine-GPS-Tracker-Allround-GPS-Tracker-Basis-58.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-19"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Kleine-GPS-Tracker-Allround-GPS-Tracker-Mini-60.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-19"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Alle-GPS-Tracker-28.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Auto-GPS-Tracker-52.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Firmenloesungen-49.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Kleine-GPS-Tracker-Allround-GPS-Tracker-Extreme-59.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Kleine-GPS-Tracker-Allround-GPS-Tracker-Outdoor-62.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Kleine-GPS-Tracker-Allround-GPS-Tracker-Safety-61.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Langzeit-GPS-Tracker-63.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Ortungsplattform-46.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/ki.php/Zubehoer-36.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/pi.php/Allround-GPS-Tracker-Basis.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/pi.php/Allround-GPS-Tracker-Extreme.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/pi.php/Allround-GPS-Tracker-Outdoor.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/pi.php/Allround-GPS-Tracker-Safety.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/pi.php/Autoeinbau-GPS-Tracker-Basis1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/pi.php/Autoeinbau-GPS-Tracker-Professional.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    },
+    {
+      "URL": "http://gps-online.ch:80/pi.php/Autoeinbau-GPS-Tracker.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "Keine Daten gefunden",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "0000-00-00"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41438440084",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-06-17"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

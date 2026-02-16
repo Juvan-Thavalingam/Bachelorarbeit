@@ -1,0 +1,4051 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "149.126.4.20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a01:ab20:0:4::20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "bbsing-ch0i.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Präferenz": "1",
+      "Mailserver (MX)": "bbs-ing.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Name Server": "ns2.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms74731221\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Text Record": "\"v=spf1 include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "3600000",
+      "Serial": "2024080901",
+      "Refresh": "86400",
+      "Hostmaster": "server.cyon.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "149.126.4.20",
+      "PTR-Domain": "s011.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "IP-Adresse": "2a01:ab20:0:4::20",
+      "PTR-Domain": "s011.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "pp-relaunch.bbs-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "relaunch24.bbs-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "relaunch24.bbs-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "bbs-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "mail.bbs-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "pp-relaunch.bbs-ing.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2024-10-29",
+      "Gültig bis": "2025-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-29"
+    },
+    {
+      "Gültig ab": "2025-05-02",
+      "Gültig bis": "2025-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-05-02"
+    },
+    {
+      "Gültig ab": "2025-05-02",
+      "Gültig bis": "2025-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-05-02"
+    },
+    {
+      "Gültig ab": "2025-04-06",
+      "Gültig bis": "2025-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-06"
+    },
+    {
+      "Gültig ab": "2025-04-06",
+      "Gültig bis": "2025-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-06"
+    },
+    {
+      "Gültig ab": "2025-03-02",
+      "Gültig bis": "2025-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-02"
+    },
+    {
+      "Gültig ab": "2025-03-02",
+      "Gültig bis": "2025-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-02"
+    },
+    {
+      "Gültig ab": "2025-02-04",
+      "Gültig bis": "2025-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-04"
+    },
+    {
+      "Gültig ab": "2025-02-04",
+      "Gültig bis": "2025-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-04"
+    },
+    {
+      "Gültig ab": "2024-12-29",
+      "Gültig bis": "2025-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-29"
+    },
+    {
+      "Gültig ab": "2024-12-29",
+      "Gültig bis": "2025-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-29"
+    },
+    {
+      "Gültig ab": "2024-12-06",
+      "Gültig bis": "2025-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "Gültig ab": "2024-12-06",
+      "Gültig bis": "2025-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "Gültig ab": "2024-10-29",
+      "Gültig bis": "2025-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-29"
+    },
+    {
+      "Gültig ab": "2024-10-05",
+      "Gültig bis": "2025-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "Gültig ab": "2024-10-05",
+      "Gültig bis": "2025-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "Gültig ab": "2024-08-29",
+      "Gültig bis": "2024-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-29"
+    },
+    {
+      "Gültig ab": "2024-08-29",
+      "Gültig bis": "2024-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-29"
+    },
+    {
+      "Gültig ab": "2024-08-06",
+      "Gültig bis": "2024-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "Gültig ab": "2024-08-06",
+      "Gültig bis": "2024-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "Gültig ab": "2024-06-26",
+      "Gültig bis": "2024-09-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "Gültig ab": "2024-06-26",
+      "Gültig bis": "2024-09-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "Gültig ab": "2024-06-07",
+      "Gültig bis": "2024-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-07"
+    },
+    {
+      "Gültig ab": "2024-06-07",
+      "Gültig bis": "2024-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-07"
+    },
+    {
+      "Gültig ab": "2024-04-25",
+      "Gültig bis": "2024-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-25"
+    },
+    {
+      "Gültig ab": "2024-04-25",
+      "Gültig bis": "2024-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-25"
+    },
+    {
+      "Gültig ab": "2024-04-08",
+      "Gültig bis": "2024-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-08"
+    },
+    {
+      "Gültig ab": "2024-04-08",
+      "Gültig bis": "2024-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "relaunch24.bbs-ing.ch, www.relaunch24.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-08"
+    },
+    {
+      "Gültig ab": "2024-03-21",
+      "Gültig bis": "2024-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-21"
+    },
+    {
+      "Gültig ab": "2024-03-21",
+      "Gültig bis": "2024-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-21"
+    },
+    {
+      "Gültig ab": "2024-02-22",
+      "Gültig bis": "2024-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-22"
+    },
+    {
+      "Gültig ab": "2024-02-22",
+      "Gültig bis": "2024-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-22"
+    },
+    {
+      "Gültig ab": "2024-01-20",
+      "Gültig bis": "2024-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-20"
+    },
+    {
+      "Gültig ab": "2024-01-20",
+      "Gültig bis": "2024-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-20"
+    },
+    {
+      "Gültig ab": "2023-12-24",
+      "Gültig bis": "2024-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-24"
+    },
+    {
+      "Gültig ab": "2023-12-24",
+      "Gültig bis": "2024-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-24"
+    },
+    {
+      "Gültig ab": "2023-11-21",
+      "Gültig bis": "2024-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-21"
+    },
+    {
+      "Gültig ab": "2023-11-21",
+      "Gültig bis": "2024-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-21"
+    },
+    {
+      "Gültig ab": "2023-10-25",
+      "Gültig bis": "2024-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-25"
+    },
+    {
+      "Gültig ab": "2023-10-25",
+      "Gültig bis": "2024-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-25"
+    },
+    {
+      "Gültig ab": "2023-09-22",
+      "Gültig bis": "2023-12-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "Gültig ab": "2023-09-22",
+      "Gültig bis": "2023-12-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "Gültig ab": "2023-08-26",
+      "Gültig bis": "2023-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-08-26"
+    },
+    {
+      "Gültig ab": "2023-08-26",
+      "Gültig bis": "2023-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-08-26"
+    },
+    {
+      "Gültig ab": "2023-07-24",
+      "Gültig bis": "2023-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-24"
+    },
+    {
+      "Gültig ab": "2023-07-24",
+      "Gültig bis": "2023-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-24"
+    },
+    {
+      "Gültig ab": "2023-06-27",
+      "Gültig bis": "2023-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-27"
+    },
+    {
+      "Gültig ab": "2023-06-27",
+      "Gültig bis": "2023-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-27"
+    },
+    {
+      "Gültig ab": "2023-05-25",
+      "Gültig bis": "2023-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-25"
+    },
+    {
+      "Gültig ab": "2023-05-25",
+      "Gültig bis": "2023-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-25"
+    },
+    {
+      "Gültig ab": "2023-04-27",
+      "Gültig bis": "2023-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-04-27"
+    },
+    {
+      "Gültig ab": "2023-04-27",
+      "Gültig bis": "2023-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-04-27"
+    },
+    {
+      "Gültig ab": "2023-03-24",
+      "Gültig bis": "2023-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-24"
+    },
+    {
+      "Gültig ab": "2023-03-24",
+      "Gültig bis": "2023-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-24"
+    },
+    {
+      "Gültig ab": "2023-02-23",
+      "Gültig bis": "2023-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-23"
+    },
+    {
+      "Gültig ab": "2023-02-23",
+      "Gültig bis": "2023-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-23"
+    },
+    {
+      "Gültig ab": "2023-01-21",
+      "Gültig bis": "2023-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-21"
+    },
+    {
+      "Gültig ab": "2023-01-21",
+      "Gültig bis": "2023-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-21"
+    },
+    {
+      "Gültig ab": "2022-12-25",
+      "Gültig bis": "2023-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-25"
+    },
+    {
+      "Gültig ab": "2022-12-25",
+      "Gültig bis": "2023-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-25"
+    },
+    {
+      "Gültig ab": "2022-11-22",
+      "Gültig bis": "2023-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-22"
+    },
+    {
+      "Gültig ab": "2022-11-22",
+      "Gültig bis": "2023-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-22"
+    },
+    {
+      "Gültig ab": "2022-10-26",
+      "Gültig bis": "2023-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-26"
+    },
+    {
+      "Gültig ab": "2022-10-26",
+      "Gültig bis": "2023-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-26"
+    },
+    {
+      "Gültig ab": "2022-09-23",
+      "Gültig bis": "2022-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-23"
+    },
+    {
+      "Gültig ab": "2022-09-23",
+      "Gültig bis": "2022-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-23"
+    },
+    {
+      "Gültig ab": "2022-08-27",
+      "Gültig bis": "2022-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-27"
+    },
+    {
+      "Gültig ab": "2022-08-27",
+      "Gültig bis": "2022-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-27"
+    },
+    {
+      "Gültig ab": "2022-07-25",
+      "Gültig bis": "2022-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-25"
+    },
+    {
+      "Gültig ab": "2022-07-25",
+      "Gültig bis": "2022-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-25"
+    },
+    {
+      "Gültig ab": "2022-06-28",
+      "Gültig bis": "2022-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-28"
+    },
+    {
+      "Gültig ab": "2022-06-28",
+      "Gültig bis": "2022-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-28"
+    },
+    {
+      "Gültig ab": "2022-05-26",
+      "Gültig bis": "2022-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-05-26"
+    },
+    {
+      "Gültig ab": "2022-05-26",
+      "Gültig bis": "2022-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-05-26"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-03-23",
+      "Gültig bis": "2022-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-23"
+    },
+    {
+      "Gültig ab": "2022-03-23",
+      "Gültig bis": "2022-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-23"
+    },
+    {
+      "Gültig ab": "2022-02-26",
+      "Gültig bis": "2022-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-02-26"
+    },
+    {
+      "Gültig ab": "2022-02-26",
+      "Gültig bis": "2022-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-02-26"
+    },
+    {
+      "Gültig ab": "2022-01-21",
+      "Gültig bis": "2022-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-21"
+    },
+    {
+      "Gültig ab": "2022-01-21",
+      "Gültig bis": "2022-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-21"
+    },
+    {
+      "Gültig ab": "2021-12-27",
+      "Gültig bis": "2022-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-27"
+    },
+    {
+      "Gültig ab": "2021-12-27",
+      "Gültig bis": "2022-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-27"
+    },
+    {
+      "Gültig ab": "2021-11-20",
+      "Gültig bis": "2022-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-11-20"
+    },
+    {
+      "Gültig ab": "2021-11-20",
+      "Gültig bis": "2022-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-11-20"
+    },
+    {
+      "Gültig ab": "2021-10-27",
+      "Gültig bis": "2022-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-27"
+    },
+    {
+      "Gültig ab": "2021-10-27",
+      "Gültig bis": "2022-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-27"
+    },
+    {
+      "Gültig ab": "2021-09-20",
+      "Gültig bis": "2021-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-09-20"
+    },
+    {
+      "Gültig ab": "2021-09-20",
+      "Gültig bis": "2021-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-09-20"
+    },
+    {
+      "Gültig ab": "2021-08-28",
+      "Gültig bis": "2021-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-28"
+    },
+    {
+      "Gültig ab": "2021-08-28",
+      "Gültig bis": "2021-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-28"
+    },
+    {
+      "Gültig ab": "2021-07-10",
+      "Gültig bis": "2021-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-07-10"
+    },
+    {
+      "Gültig ab": "2021-07-10",
+      "Gültig bis": "2021-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-07-10"
+    },
+    {
+      "Gültig ab": "2021-06-28",
+      "Gültig bis": "2021-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-28"
+    },
+    {
+      "Gültig ab": "2021-06-28",
+      "Gültig bis": "2021-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-28"
+    },
+    {
+      "Gültig ab": "2021-05-11",
+      "Gültig bis": "2021-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-05-11"
+    },
+    {
+      "Gültig ab": "2021-05-11",
+      "Gültig bis": "2021-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-05-11"
+    },
+    {
+      "Gültig ab": "2021-04-29",
+      "Gültig bis": "2021-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-04-29"
+    },
+    {
+      "Gültig ab": "2021-04-29",
+      "Gültig bis": "2021-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-04-29"
+    },
+    {
+      "Gültig ab": "2021-03-09",
+      "Gültig bis": "2021-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-03-09"
+    },
+    {
+      "Gültig ab": "2021-03-09",
+      "Gültig bis": "2021-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-03-09"
+    },
+    {
+      "Gültig ab": "2021-02-26",
+      "Gültig bis": "2021-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "Gültig ab": "2021-02-26",
+      "Gültig bis": "2021-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "Gültig ab": "2021-01-07",
+      "Gültig bis": "2021-04-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-07"
+    },
+    {
+      "Gültig ab": "2021-01-07",
+      "Gültig bis": "2021-04-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-07"
+    },
+    {
+      "Gültig ab": "2020-12-26",
+      "Gültig bis": "2021-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-12-26"
+    },
+    {
+      "Gültig ab": "2020-12-26",
+      "Gültig bis": "2021-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-12-26"
+    },
+    {
+      "Gültig ab": "2020-11-08",
+      "Gültig bis": "2021-02-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-08"
+    },
+    {
+      "Gültig ab": "2020-11-08",
+      "Gültig bis": "2021-02-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-08"
+    },
+    {
+      "Gültig ab": "2020-10-26",
+      "Gültig bis": "2021-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-10-26"
+    },
+    {
+      "Gültig ab": "2020-10-26",
+      "Gültig bis": "2021-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-10-26"
+    },
+    {
+      "Gültig ab": "2020-09-08",
+      "Gültig bis": "2020-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-08"
+    },
+    {
+      "Gültig ab": "2020-09-08",
+      "Gültig bis": "2020-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-08"
+    },
+    {
+      "Gültig ab": "2020-08-22",
+      "Gültig bis": "2020-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-22"
+    },
+    {
+      "Gültig ab": "2020-08-22",
+      "Gültig bis": "2020-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-22"
+    },
+    {
+      "Gültig ab": "2020-07-05",
+      "Gültig bis": "2020-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-07-05"
+    },
+    {
+      "Gültig ab": "2020-07-05",
+      "Gültig bis": "2020-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-07-05"
+    },
+    {
+      "Gültig ab": "2020-06-23",
+      "Gültig bis": "2020-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-06-23"
+    },
+    {
+      "Gültig ab": "2020-06-23",
+      "Gültig bis": "2020-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-06-23"
+    },
+    {
+      "Gültig ab": "2020-05-05",
+      "Gültig bis": "2020-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-05-05"
+    },
+    {
+      "Gültig ab": "2020-05-05",
+      "Gültig bis": "2020-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-05-05"
+    },
+    {
+      "Gültig ab": "2020-04-23",
+      "Gültig bis": "2020-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-04-23"
+    },
+    {
+      "Gültig ab": "2020-04-23",
+      "Gültig bis": "2020-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-04-23"
+    },
+    {
+      "Gültig ab": "2020-03-04",
+      "Gültig bis": "2020-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-03-05"
+    },
+    {
+      "Gültig ab": "2020-03-04",
+      "Gültig bis": "2020-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-03-05"
+    },
+    {
+      "Gültig ab": "2020-02-21",
+      "Gültig bis": "2020-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-02-22"
+    },
+    {
+      "Gültig ab": "2020-02-21",
+      "Gültig bis": "2020-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-02-22"
+    },
+    {
+      "Gültig ab": "2020-01-03",
+      "Gültig bis": "2020-04-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-01-04"
+    },
+    {
+      "Gültig ab": "2020-01-03",
+      "Gültig bis": "2020-04-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-01-04"
+    },
+    {
+      "Gültig ab": "2019-12-23",
+      "Gültig bis": "2020-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-12-24"
+    },
+    {
+      "Gültig ab": "2019-12-23",
+      "Gültig bis": "2020-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-12-24"
+    },
+    {
+      "Gültig ab": "2019-11-03",
+      "Gültig bis": "2020-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-11-04"
+    },
+    {
+      "Gültig ab": "2019-11-03",
+      "Gültig bis": "2020-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-11-04"
+    },
+    {
+      "Gültig ab": "2019-10-24",
+      "Gültig bis": "2020-01-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-10-24"
+    },
+    {
+      "Gültig ab": "2019-10-24",
+      "Gültig bis": "2020-01-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-10-24"
+    },
+    {
+      "Gültig ab": "2019-09-03",
+      "Gültig bis": "2019-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-09-03"
+    },
+    {
+      "Gültig ab": "2019-09-03",
+      "Gültig bis": "2019-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-09-03"
+    },
+    {
+      "Gültig ab": "2019-08-25",
+      "Gültig bis": "2019-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-08-25"
+    },
+    {
+      "Gültig ab": "2019-08-25",
+      "Gültig bis": "2019-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-08-25"
+    },
+    {
+      "Gültig ab": "2019-07-01",
+      "Gültig bis": "2019-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-07-01"
+    },
+    {
+      "Gültig ab": "2019-07-01",
+      "Gültig bis": "2019-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-07-01"
+    },
+    {
+      "Gültig ab": "2019-06-26",
+      "Gültig bis": "2019-09-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-06-26"
+    },
+    {
+      "Gültig ab": "2019-06-26",
+      "Gültig bis": "2019-09-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-06-26"
+    },
+    {
+      "Gültig ab": "2019-04-25",
+      "Gültig bis": "2019-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-04-25"
+    },
+    {
+      "Gültig ab": "2019-04-25",
+      "Gültig bis": "2019-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-04-25"
+    },
+    {
+      "Gültig ab": "2019-04-25",
+      "Gültig bis": "2019-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-04-25"
+    },
+    {
+      "Gültig ab": "2019-04-25",
+      "Gültig bis": "2019-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-04-25"
+    },
+    {
+      "Gültig ab": "2019-02-10",
+      "Gültig bis": "2019-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-02-10"
+    },
+    {
+      "Gültig ab": "2019-02-10",
+      "Gültig bis": "2019-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-02-10"
+    },
+    {
+      "Gültig ab": "2019-02-10",
+      "Gültig bis": "2019-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-02-10"
+    },
+    {
+      "Gültig ab": "2019-02-10",
+      "Gültig bis": "2019-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-02-10"
+    },
+    {
+      "Gültig ab": "2019-02-03",
+      "Gültig bis": "2019-05-04",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-02-03"
+    },
+    {
+      "Gültig ab": "2019-02-03",
+      "Gültig bis": "2019-05-04",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-02-03"
+    },
+    {
+      "Gültig ab": "2019-01-02",
+      "Gültig bis": "2019-04-02",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "bbs-ing.ch, mail.bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-02"
+    },
+    {
+      "Gültig ab": "2019-01-02",
+      "Gültig bis": "2019-04-02",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "bbs-ing.ch, mail.bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-02"
+    },
+    {
+      "Gültig ab": "2018-11-19",
+      "Gültig bis": "2019-02-17",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-11-19"
+    },
+    {
+      "Gültig ab": "2018-11-19",
+      "Gültig bis": "2019-02-17",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-11-19"
+    },
+    {
+      "Gültig ab": "2018-10-18",
+      "Gültig bis": "2019-01-16",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "bbs-ing.ch, mail.bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-18"
+    },
+    {
+      "Gültig ab": "2018-10-18",
+      "Gültig bis": "2019-01-16",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "bbs-ing.ch, mail.bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-18"
+    },
+    {
+      "Gültig ab": "2018-09-04",
+      "Gültig bis": "2018-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "Gültig ab": "2018-09-04",
+      "Gültig bis": "2018-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "Gültig ab": "2018-09-04",
+      "Gültig bis": "2018-12-03",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "Gültig ab": "2018-09-04",
+      "Gültig bis": "2018-12-03",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "pp-relaunch.bbs-ing.ch, www.pp-relaunch.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "Gültig ab": "2018-08-03",
+      "Gültig bis": "2018-11-01",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "bbs-ing.ch, mail.bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-08-03"
+    },
+    {
+      "Gültig ab": "2018-08-03",
+      "Gültig bis": "2018-11-01",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "bbs-ing.ch, mail.bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-08-03"
+    },
+    {
+      "Gültig ab": "2018-05-03",
+      "Gültig bis": "2018-08-01",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "bbs-ing.ch, mail.bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-05-03"
+    },
+    {
+      "Gültig ab": "2018-05-03",
+      "Gültig bis": "2018-08-01",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "bbs-ing.ch, mail.bbs-ing.ch, www.bbs-ing.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-05-03"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.bbs-ing.ch/persons/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/files",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-18"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/wp-",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-11"
+    },
+    {
+      "URL": "https://bbs-ing.ch/besondere-bestimmungen-im-werkvertrag-wie-man-streitigkeiten-vorbeugt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/bewachsene-oberbauten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/entwaesserung-von-parkplaetzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/european-parking-quality-standard-hilfe-bei-der-projektierung-von-parkhaeusern/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/fachbereich/f-bauprojekt-management/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/fachbereich/f-spezialitaeten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/fachbereich/f-umwelt-verkehr-tiefbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/kategorie/referenzen-bauprojekt-management/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/laermimmissionen-bei-knoten-und-kreiseln/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/nachforderungsmanagement-die-uebersicht-behalten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/persongroup/bauprojekt-management/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/publikationen/p-umwelt-verkehr-tiefbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/referenz-beispiel-spezialitaeten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/referenzen/r-spezialitaeten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/referenzen/r-umwelt-verkehr-tiefbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/schutzmassnahmen-fuer-fussgaenger-in-staedten-und-gemeinden/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/sporthalle-russikon/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/ueberuns/unternehmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/wieviel-sicherheit-muessen-gelaender-und-bruestungen-bieten-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://bbs-ing.ch/zentrumsueberbauung-muenchwilen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1985/schutzraumbelegungsversuch-balst-1982/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1996/anforderungen-an-passive-schutzeinrichtungen-im-strassenraum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1998/einfluesse-auf-das-tragverhalten-schockbeanspruchter-metallspreizduebel-im-gerissenen-beton/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2000/risikoanalyse-einer-komplexen-verkehrsanlage/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2000/tragverhalten-dynamisch-beanspruchter-metallspreizduebel-im-gerissenen-beton/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2001/wieviel-sicherheit-muessen-gelaender-und-bruestungen-bieten-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2002/schockisolierung-von-edv-systemkomponenten-mit-drahtseil-federelementen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2018/kollektivschutz-in-hochbauten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/tiefbau/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/david-heritsch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/evelyn-krause/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/verkehrs-und-siedlungsplanung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenzen/forschung-und-entwicklung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenzen/planung-und-verkehr/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/forschung-und-entwicklung/kontakt-forschung-und-entwicklung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1990/kiesrasen-beispiel-eines-durchlaessigen-belags/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1999/load-displacement-behavior-of-expansion-metal-anchors-under-dynamic-loading-in-cracked-concrete/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/vergabe-von-dienstleistungsauftraegen-optimieren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2009/versicherungen-und-sicherheitsleistungen-was-bauherren-versichern-koennen-und-auch-sollten-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2018/passive-sicherheit-auf-bergstrassen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/author/pp-admin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/forschung-und-entwicklung/page/5/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persongroup/alle/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/claire-stroppel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/daniel-schuler/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/martin-stauber/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/walter-baumann/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/publikationen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/ausschreibung-von-planungsleistungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenzen/normen-und-grundlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/sicherheit-und-risiko/kontakt-sicherheit-und-risiko/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2016/gebaeudeschaeden-durch-explosionswirkungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2022/06/Referenz_VU_1Planung_20220601_mas-Kopie.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/publ/buerkel-",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-25"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/publ/buerkel-stauber_breite_von_strassen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-25"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/files/publ/buerkel-stauber_breite_von_strassen.pdf15",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-25"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1985/zweiradverkehrsanlagen-innerorts/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/ueberuns/team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/files/publ/schuler_vbied_attack.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-11"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/wp-content/uploads/2019/06/2003_Sch_Bue_Absturzsicherungen-fuer-Personen-im-oeffentlichen-Raum.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/2018_Sch_CBRE-Collective-Protection_MABS25.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-09"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/author-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/datenschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/post-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/pp_person-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenzen_category-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/category-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/page-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persongroup-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenzen-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/sitemap_index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/Referenz_BPM_Ausschreibung_Planungsleistungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/files/publ/Artikel_Endkostenprognose.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/files/publ/buerkelbaumann_artikel373.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/files/projects/Referenz_VU_4Umwelt_Sta_180424.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-27"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/files/projects/Referenz_VU_4Umwelt_Sta_160331.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/files/projects/Referenz_VU_4Umwelt_Sta_180130.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2014_Bue_Er_Gestaltung-von-Kreiseln.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2016_Sch_Gebaeudeschaeden-durch-Explosionswirkungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2022/03/Referenz_BPM_Tiefbau_20220207_mas-Kopie.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/files/projects/Referenz_VU_2Verkehr_Sta_180424.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-13"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/files/projects/Referenz_VU_3Parkierung_Sta_160331.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-13"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/files/projects/Referenz_VU_1Planung_Sta_180424.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/files/projects/Referenz_VU_2Verkehr_Sta_160331.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2010/breite-von-strassen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/1991_Sch_Das-Loma-Prieta-Erdbeben-Schaeden-an-Verkehrsanlagen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2002_Bo_Sta_Passive-Sicherheit-von-Tragkonstruktionen-der-Strassenausruestung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2005_Bue_Sta_Bau-von-Parkplaetzen-im-Spannungsfeld-von-Kosten-und-Vorschriften.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2005_Sch_Buncefield-Fire-Quick-Look-Report_d.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2005_Sch_Sta_Einsatz-von-Anpralldaempfern.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2006_Bue_Sch_Nachforderungsmanagement.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2006_Bue_Sta_Verkehrsflaechen-mit-Sparpotential.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2007_Ba_Bue_Projekt-Kostenmanagement.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2007_Bue_Sta_Kostenorientierte-Gestaltung-von-Parkhaeusern.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2007_Sch_Erdbebensicher-befestigen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2007_Sch_Sta_Verkehrssicherheit-von-Passstrassen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2008_Bue_Sta_Provisorische-Parkplaetze.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2010_Bue_Ba_Vielfalt-der-General-und-Totalunternehmervertraege.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2010_Bue_Er_Qualitaetsmanagement-in-Bauprozessen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2010_Bue_Strassenentwaesserung-ueber-das-Bankett.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/1996_Bue_Sch_Brand-und-Explosionsrisiko-in-Brueckenentwaesserungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/1999_Sch_Er_Load-displacement-Behavior-of-Expansion-Metal-Anchors-under-Dynamic-Loading-in-Cracked-Concrete.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/1999_Sch_Er_Shocktesting-of-Concrete-Anchor-Bolts-for-Shock-Resistant-Applications-in-Protective-Structures.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2000_Sch_Bue_Risikoanalyse-einer-komplexen-Verkehrsanlage.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2000_Sch_Tragverhalten-dynamisch-beanspruchter-Metallspreizduebel-im-gerissenen-Beton.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2003_Bue_Sch_Verkehrssicherheit-und-Strassenbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2003_Sch_Actions-on-high-rise-buildings-due-to-aircraft-impact-and-assessment-of-structural-safety-for-such-hazards.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2003_Sch_Sta_Passive-Sicherheit-von-Tragkonstruktionen-der-Strassenausruestung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2004_Bue_Begehbare-Leitungstunnel.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2004_Sch_Erschuetterungs-und-Schockisolierung-von-Elektroanlagen-und-Telematiksystemen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2004_Sta_Hindernisfreier-Strassenraum-Wichtiges-Element-der-Verkehrssicherheit.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2005_Bue_Sta_Projektierung-von-Gueterstrassen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2005_Sch_Bue_Design-and-Verification-Concepts-for-Anchorages-of-Road-Restraint-Systems-on-Bridge-Decks.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2005_Sch_Buncefield-Fire-Quick-Look-Report_e.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2005_Sch_Temperatur-und-Rauchausbreitung-bei-Braenden-in-Strassentunneln.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2006_Bue_Ba_Wer-braucht-wann-eine-Bauwesenversicherung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2006_Bue_European-Parking-Quality-Standard.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2006_Bue_Gelaender-auf-Strassenbruecken.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2006_Bue_Sch_Vergabe-von-Dienstleistungsauftraegen-optimieren.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2006_Bue_Sta_Einsatz-und-Wahl-von-Holzleitschranken.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2006_Bue_Sta_Leitschranken-auf-Bruecken.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2006_Bue_Sta_Sicherheit-vor-kriminellen-Delikten-in-Parkierungsanlagen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2006_Bue_Sta_Unfaelle-beim-Transport-wassergefaehrdender-Fluessigkeiten-auf-Strassen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2006_Sch_Gelaender-und-Bruestungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2007_Ba_Er_Vertraege-mit-Totalunternehmern.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2007_Bue_Ba_Streitigkeiten-aus-Werkvertraegen-effizient-erledigen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2007_Bue_Ba_Totalunternehmerleistungen-richtig-ausschreiben.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2007_Bue_Massnahmen-der-Arbeitssicherheit-in-Ausschreibungsunterlagen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2007_Bue_Sch_Tunnelvorbereiche-auf-Autobahnen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2007_Bue_Sta_Sicherheit-in-Parkhaeusern.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2007_Sch_Erdbebensicherheit-von-nichttragenden-Bauteilen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2008_Bue_Ba_Bauen-mit-Total-oder-Generalunternehmer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2008_Bue_Die-Brueckenentwaesserung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2008_Bue_Er_Risiken-des-Bauherrn-bei-Bauprojekten.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2008_Sch_Islamabad-Marriott-Hotel-VBIED-Attack.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2008_Sch_Sicherheit-von-Gelaendern.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2008_Sch_Sta_Tragkonstruktionen-der-Strassenausruestung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2009_Ba_Bue_Abrechnung-von-Bauprojekten.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2009_Ba_Bue_Wettbewerb-oder-Bauen-mit-Totalunternehmer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2009_Bue_Ba_Pflichtenhefte-Ohne-Umwege-zum-Projektziel.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2009_Bue_Ba_Risikomanagement-Risiko-ein-Produkt-aus-zwei-Faktoren.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2009_Bue_Ba_Versicherungen-und-Sicherheitsleistungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/home-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2010/einsatz-und-wahl-von-holzleitschranken-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2010/qualitaetsmanagement-in-bauprozessen-gut-geplant-ist-gut-gebaut/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2010/vielfalt-der-general-und-totalunternehmervertraege/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2011/qualitaetsmanagement-mittel-zur-maengelverhuetung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2011/wie-gemeindestrassen-entwaessert-werden/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2012/ausschreibungsunterlagen-den-durchblick-behalten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2012/besondere-bestimmungen-im-werkvertrag-wie-man-streitigkeiten-vorbeugt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2012/persoenliche-abc-schutzausruestung-handbuch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2012/retention-et-traitement-des-eaux-de-chaussee/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2013/building-damage-due-to-explosions-in-urban-environment/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2013/gestaltung-von-parkhaeusern-attraktiv-und-benutzerfreundlich/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2013/strassen-und-brueckengelaender-praktisch-einfach-und-attraktiv/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2018/collective-protection-in-buildings/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/author/evelyn-krause/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/gebaeudetechnik/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/planung-und-verkehr/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persongroup/projektmanagement-bau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persongroup/verkehr-umwelt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/gunda-neubrand/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/thomas-siegerist/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/umwelt-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/umwelt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/gebaeudetechnik/kontakt-gebaeudetechnik/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/tiefbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/ueberuns/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1988/die-empfehlung-sia-405-grundlagen-der-werk-und-leitungskatasterplaene/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1991/das-loma-prieta-erdbeben-schaeden-an-verkehrsanlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1993/aspekte-zur-truemmerlage-und-zum-rettungseinsatz-nach-einem-erdbeben/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1994/informationssystem-zur-baukoordination-strasse-und-unterirdische-leitungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1995/sicherheit-und-gebrauchstauglichkeit-von-befestigungen-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1996/anordnung-von-passiven-schutzeinrichtungen-im-strassenraum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1997/grundlagen-der-duebelschockpruefung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1998/tragverhalten-von-duebeln-unter-aussergewoehnlichen-dynamischen-einwirkungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1999/wieviel-sicherheit-muessen-gelaender-und-bruestungen-bieten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2002/folgen-eines-flugzeugaufpralls-fuer-bauten-zusammenspiel-verschiedener-versagensmechanismen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2002/passive-sicherheit-von-tragkonstruktionen-der-strassenausruestung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2005/einsatz-von-anpralldaempfern/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/wer-braucht-wann-eine-bauwesenversicherung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/art-373-abs-2-or-eine-leitplanke-fuer-den-unternehmer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/kostenorientierte-gestaltung-von-parkhaeusern-ein-sicherer-platz-zum-parken/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/sicherheit-in-parkhaeusern-kostenoptimierte-sicherheitsmassnahmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/streitigkeiten-aus-werkvertraegen-effizient-erledigen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/vertraege-mit-totalunternehmern/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2008/effizientes-controlling-im-bauwesen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2009/abrechnung-von-bauprojekten-richtige-kontrolle-ist-wichtig/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2009/richtlinien-fuer-konstruktive-einzelheiten-von-bruecken-kapitel-brueckenrand-und-mittelstreifen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2010/strassenentwaesserung-ueber-das-bankett/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2013/verhinderung-von-abstuerzen-von-strassenfahrzeugen-auf-bahnanlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2022/risikobeurteilung-von-einscheiben-sicherheitsglas/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/normen-und-grundlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/sicherheit-und-risiko/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/heinz-strassmann/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/marcel-brodtbeck/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/remo-gubelmann/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/normierung-grundlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/pv/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenzen/sicherheit-und-risiko/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenzen/tiefbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenzen/umwelt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/forschung-und-entwicklung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/normierung-gundlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/projektmanagement-bau/kontakt-projektmanagement-bau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/sicherheit-und-risiko/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/umwelt/kontakt-umwelt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/verkehr/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/verkehr/kontakt-planung-und-verkehr/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/ueberuns/stellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "URL": "https://bbs-ing.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-26"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-admin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-26"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-26"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/unternehmen/stellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/normen-und-grundlagen/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-18"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/normen-und-grundlagen/page/5/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-18"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/gebaeudetechnik/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-09-27"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/allgemein/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-07-26"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/planung-und-verkehr/page/4/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-07-26"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/unternehmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-07-26"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/planung-und-verkehr/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/planung-und-verkehr/page/5/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/sicherheit-und-risiko/page/10/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/sicherheit-und-risiko/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/unternehmen/team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/Referenz_VU_Planung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-04-14"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/elements/css/)",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-02-15"
+    },
+    {
+      "URL": "https://bbs-ing.ch/pages/impressum-datenschutz.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://bbs-ing.chSitemap:",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2009_Bue_Er_Das-Protokollwesen-Im-Projektmanagement-unverzichtbar.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2009_Bue_Rapportwesen-Regiearbeiten-Wer-bezahlt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2009_Bue_Sta_Verfahren-bei-der-Abwicklung-von-Bauprojekten-im-Bereich-Strassenverkehrsanlagen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2009_Sch_Motorradfahrer-auf-Bergstrassen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2010_Bue_Er_Bauen-mit-Totalunternehmer-Mehrfach-besetzte-Bauherrenrolle.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2010_Bue_Sta_Breite-von-Strassen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2010_Bue_Sta_Einsatz-und-Wahl-von-Holzleitschranken.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2011_Bue_Er_QM-Mittel-zur-Maengelverhuetung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2011_Bue_Wie-Gemeindestrassen-entwaessert-werden.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2012_Bue_Er_Ausschreibungsunterlagen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2012_Bue_Er_Besondere-Bestimmungen-im-Werkvertrag.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2013_Bue_Sta_Strassen-und-Brueckengelaender.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2013_Sch_Building-Damage-due-to-Explosions-in-Urban-Environment.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2013_Sta_Ba_Gestaltung-von-Parkhaeusern.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2013_Sta_Verhinderung-von-Abstuerzen-von-Strassenfahrzeugen-auf-Bahnanlagen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/1982_Bue_Erdbebenkatastrophe-in-Sueditalien-vom-23.11.1980.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/1987_Aspekte_Klimaphysiologie_und_Temperaturreg_Mensch.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/1987_Sch_Plastische-Formaenderungsenergie-duktiler-Biegetraeger-unter-stossartiger-Belastung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/1990_Sch_Das-Loma-Prieta-Erdbeben-vom-17.-Oktober-1989.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/1996_Sch_Grundsaetze-der-Strassenraumgestaltung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/1996_Sch_Sicherheit-und-Gebrauchstauglichkeit-von-Befestigungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/1999_Sch_Wieviel-Sicherheit-muessen-Gelaender-und-Bruestungen-bieten.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/2018_Sch_Collective-Protection_LS-Annual-Report-2017e.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2022/06/Referenz_VU_2Verkehr_20220601_mas-Kopie.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2022/06/Referenz_VU_3Parkierung_20220601_mas-Kopie.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2022/06/Referenz_VU_4Umwelt_20220601_mas-Kopie.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2022/01/2022_Sch_Risikobeurteilung_ESG.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2022/03/Referenz_NG_NormenGrundlagen_20220322_mas-Kopie.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2022/04/Stelleninserat_Zeichner_EFZ.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bbs-ing.ch%2F",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-02"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/datenschutzerklaerung-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-json/wp/v2/pages/43",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-json/wp/v2/pages/7",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-json/wp/v2/pages/8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-31"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persongroup/alle/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/2018_Sch_Kollektivschutz_LS-Jahresbericht-2017d.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-20"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-json/wp/v2/pages/93",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-20"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/tiefbau/page/3/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-23"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenzen/projektmanagement-bau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/themes/generatepress/assets/fonts/generatepress.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/themes/generatepress/assets/fonts/generatepress.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/themes/generatepress/assets/fonts/generatepress.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/themes/generatepress/assets/fonts/generatepress.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2004/hindernisfreier-strassenraum-wichtiges-element-der-verkehrssicherheit/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-09"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2005/design-and-verification-concepts-for-anchorages-of-road-restraint-systems-on-bridge-decks/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-09"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1982/erdbebenkatastrophe-in-sueditalien-vom-23-11-1980/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1983/baumaschinen-im-katastropheneinsatz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1983/wasserleitungsdueker-einzug-unter-wasser/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1985/lehren-aus-einem-militaerischen-belegungsversuch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1985/schutzrauminfo-schocksicherheit-korrosionsprobleme-kompoundierte-generatoren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1985/sicherheitsaspekte-begehbarer-leitungstunnel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1985/zum-problem-der-staunaessen-auf-erddeponien/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1987/aspekte-zur-klimaphysiologie-und-temperaturregulation-des-menschen-bei-warmem-umgebungsklima/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1987/plastische-formaenderungsenergie-duktiler-biegetraeger-unter-stossartiger-belastung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1988/einsatz-und-eignung-von-rohrleitungsbefestigungen-in-der-sicherheitstechnik/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1989/auswirkungen-der-laermschutzverordnung-auf-das-baubewilligungsverfahren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1989/die-verantwortung-des-ingenieurs-in-der-befestigungstechnik/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1990/befestigungen-gebaeudetechnischer-und-industrieller-installationen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1990/das-erdbeben-im-raum-san-francisco-vom-17-oktober-1989-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1990/das-loma-prieta-erdbeben-vom-17-oktober-1989/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1993/brandversuche-in-brueckenentwaesserungssystemen-versuchsbericht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenzen/gebaeudetechnik/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-28"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1993/die-trinkwasserversorgung-in-notlagen-aus-der-sicht-des-planers/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1994/brueckengelaender-mit-erhoehter-sicherheit-untersuchungsbericht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1994/erneuerung-der-passiven-schutzeinrichtungen-vorgehen-und-ausfuehrung-im-kanton-basel-landschaft/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2002/absturzsicherungen-fuer-personen-sowie-passive-sicherheit-von-tragkonstruktionen-der-strassenausruestung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2003/passive-sicherheit-von-tragkonstruktionen-der-strassenausruestung-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/totalunternehmerleistungen-richtig-ausschreiben/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2008/provisorische-parkplaetze-richtiges-system-am-richtigen-ort/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2008/tragkonstruktionen-der-strassenausruestung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/forschung-und-entwicklung/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/projektmanagement-bau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/tiefbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/umwelt/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/ivo/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/publikationen/page/16/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/publikationen/page/3/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/bauherren-unterstuetzung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/fe/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/tiefbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/projektmanagement-bau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2006_Bue_Sta_Entwaesserung-von-Parkplaetzen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2007_Ba_Bue_Vielfaeltige-Risiken-richtig-managen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2009_Bue_Sta_Beleuchtung-von-Parkhaeusern.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/06/2013_Er_Ba_Endkostenprognose.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/1986_Sch_Dynamische-Beanspruchung-von-Befestigungen-bei-Stossbelastung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2019/07/1990_Sch_Schutzmassnahmenplanung-Schutzumfang-und-Schutzart.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2022/03/Referenz_SR_Verkehrssicherheit_20220301_mas-Kopie.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/wp-content/uploads/2022/10/Referenz_BPM_TU_Ausschr_Sport_221004.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1983/zivilschutz-alarmierungsnetze/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1986/dynamische-beanspruchung-von-befestigungen-bei-stossbelastung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1990/schutzmassnahmenplanung-schutzumfang-und-schutzart/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1994/zuverlaessigkeit-von-befestigungssystemen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2001/besteigbar-begehbar-bekletterbar-zentrale-begriffe-der-norm-sia-358/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2002/konstruktive-ausfuehrung-von-brueckenraendern-stand-und-entwicklung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2004/wo-ein-gelaender-hingehoert/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/entwaesserung-von-parkplaetzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/vielfaeltige-risiken-richtig-managen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2009/beleuchtung-von-parkhaeusern/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2013/endkostenprognose-wirkungsvoll-vorgehen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2014/gestaltung-von-kreiseln-rundum-sicher-und-attraktiv/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2016/dommages-aux-batiments-par-les-effets-des-explosions/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2018/cbre-collective-protection-in-buildings/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/forschung-und-entwicklung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/kategorie/umwelt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/beat-erdin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/holger-geisthardt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/michael-loerli/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/remo-zuellig/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/sibylle-naef/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/persons/stefanie-kradolfer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/publikationen/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/sr/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenz/totalunternehmer-submissionen-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/referenzen/projektmanagement/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/gebaeudetechnik/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/normierung-gundlagen/kontakt-normen-und-grundlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/tiefbau/kontakt-tiefbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/themen/umwelt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1999/shocktesting-of-concrete-anchor-bolts-for-shock-resistant-applications-in-protective-structures/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1994/sicherheit-und-gebrauchstauglichkeit-von-befestigungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1995/sicherheitstechnische-beurteilung-der-wasserversorgung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1995/wirksames-fahrzeuggewicht-schwerer-lastfahrzeuge-zur-beurteilung-des-anpralls-an-schutzeinrichtungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1996/brand-und-explosionsrisiko-in-brueckenentwaesserungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1996/grundsaetze-der-strassenraumgestaltung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1996/sicherheit-und-gebrauchstauglichkeit-von-befestigungen-3/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1997/bauliche-empfehlungen-im-asylbereich/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1997/sicherheitsmassnahmen-an-leitschranken-zum-schutz-der-motorradfahrer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/1999/sia-179-befestigungen-in-beton-und-mauerwerk-beton-und-stahlbetonbau-94/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2000/trag-und-strapazierfaehigkeit-von-strassen-und-plaetzen-mit-bewachsenen-oberbauten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2001/einsturz-world-trade-center-11-september-2001/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2003/absturzsicherungen-fuer-personen-im-oeffentlichen-raum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2003/actions-on-high-rise-buildings-due-to-aircraft-impact-and-assessment-of-structural-safety-for-such-hazards/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2003/bewachsene-oberbauten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2003/verkehrssicherheit-und-strassenbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2004/begehbare-leitungstunnel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2004/erschuetterungs-und-schockisolierung-von-elektroanlagen-und-telematiksystemen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2004/forschungsbedarf-im-bereich-anprallpruefungen-von-schutzeinrichtungen-an-strassen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2004/richtlinie-fuer-fahrzeugrueckhaltesysteme-des-astra-in-der-umsetzung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2005/bau-von-parkplaetzen-im-spannungsfeld-von-kosten-und-vorschriften/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2005/december-11-2005-buncefield-fire-quick-look-report/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2005/december-11th-2005-buncefield-fire-quick-look-report/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2005/projektierung-von-gueterstrassen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2005/sicherheit-von-kabelanlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2005/temperatur-und-rauchausbreitung-bei-braenden-in-strassentunneln/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/buncefield-grossbrand-eines-tanklagers/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/einsatz-und-wahl-von-holzleitschranken/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/european-parking-quality-standard-hilfe-bei-der-projektierung-von-parkhaeusern/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/gelaender-auf-strassenbruecken/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/gelaender-und-bruestungen-nicht-abstuerzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/grossbrand-eines-tanklagers-in-der-naehe-von-london/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/leitschranken-auf-bruecken/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/nachforderungsmanagement-die-uebersicht-behalten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/schutz-gegen-terrorangriffe-mit-fahrzeugbomben-handbuch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/sicherheit-vor-kriminellen-delikten-in-parkierungsanlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/unfaelle-beim-transport-wassergefaehrdender-fluessigkeiten-auf-strassen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2006/verkehrsflaechen-mit-sparpotential/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/erdbebensicherheit-von-nichttragenden-bauteilen-installationen-und-einrichtungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/massnahmen-der-arbeitssicherheit-in-ausschreibungsunterlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/projekt-kostenmanagement-das-nachforderungsmanagement-beginnt-vor-der-realisierung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/pruefung-der-abrechnung-von-bauprojekten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/schutz-gegen-terrorangriffe-mit-fahrzeugbomben/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/schutz-von-bauten-und-anlagen-gegen-angriffe-mit-strassenfahrzeugen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/schutzmassnahmen-fuer-fussgaenger-in-staedten-und-gemeinden/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/sicherheit-erdbebensicher-befestigen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/tunnelvorbereiche-auf-autobahnen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2007/verkehrssicherheit-von-passstrassen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2008/bauen-mit-total-oder-generalunternehmer-mehr-oder-weniger-risiko/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2008/die-brueckenentwaesserung-ein-bauelement-mit-hohen-anforderungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2008/islamabad-marriott-hotel-vbied-attack-quick-look-report/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2008/risiken-des-bauherrn-bei-bauprojekten-hundert-prozent-sicherheit-gibt-es-selten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2008/sicherheit-von-gelaendern/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2008/vertragsbestandteile-von-werkvertraegen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2009/das-protokollwesen-im-projektmanagement-unverzichtbar/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2009/motorradfahrer-auf-bergstrassen-unfallgeschehen-und-sicherheitsmassnahmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2009/pflichtenhefte-ohne-umwege-zum-projektziel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2009/rapportwesen-regiearbeiten-wer-bezahlt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2009/risikomanagement-risiko-ein-produkt-aus-zwei-faktoren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2009/versicherungen-und-sicherheitsleistungen-was-bauherren-versichern-koennen-und-auch-sollten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2009/wettbewerb-oder-bauen-mit-totalunternehmer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/2010/bauen-mit-totalunternehmer-mehrfach-besetzte-bauherrenrolle/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/pages/analysis.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/pages/company.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/pages/contact.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/pages/jobs.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/pages/management.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/pages/organisation.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/pages/projects/references.php?sf=6",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/pages/publ/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/pages/security.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/pages/team.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.bbs-ing.ch/pages/traffic.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/publ/hunziker_shocktestanchor.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-08-08"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/publ/Schuler_BlastDamageAssessment.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-08-08"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/projects/Referenz_VU_1Planung_Sta_160331.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-02-25"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/projects/Referenz_SR_Verkehrssicherheit_1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-02-24"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/projects/Referenz_BPM_Ausschr_Planungsleist_1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-02-23"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/projects/Referenz_BPM_Tiefbau_2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-02-23"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/projects/Referenz_BPM_TU_Ausschr_ff_Bauten_2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-02-23"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/projects/Referenz_BPM_TU_Ausschr_Sport_2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-02-23"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/projects/Referenz_BPM_TU_BHU_1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-02-23"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/projects/Referenz_FE_Forschung_2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-02-23"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/projects/Referenz_FE_Grundlagen_2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-02-23"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/projects/Referenz_VU_Siedlungs_u_Verkehrsplanung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-09-11"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/files/projects/Referenz_VU_Verkehr_3.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-09-11"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/pages/jobs_bpm.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-09-11"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/files/publ/buerkelbaumann_bauwesenversicherung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-07-06"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/files/publ/buerkel_richtlinieastra.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-07-05"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/pages/jobs_hlk.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-03-31"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/files/publ/schulerbuerkel_gelaender.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-03-27"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch/pages/jobs_ing.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2015-02-05"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/pages/jobs_man.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2014-09-28"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/pages/projects/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2014-09-28"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/html/bauprojektmanag_pub.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-11-25"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/index1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-03-12"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/firmenstandort.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-15"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/kontakt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-15"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/bauprojektmanag.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/bauprojektmanag_pub.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/bauprojektmanag_ref.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/entwicklung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/entwicklungk.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/entwicklungk_pub.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/entwicklungk_ref.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/gebaeudetechnik.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/leitbild.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/mitarbeiter.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/organisation.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/riskmanagement.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/strassenbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    },
+    {
+      "URL": "http://www.bbs-ing.ch:80/bbs-ing/html/umwelttechnik.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-02-13"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "admin@bbs-ing.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522600710",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

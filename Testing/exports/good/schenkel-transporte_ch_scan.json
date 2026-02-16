@@ -1,0 +1,2722 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "80.74.145.25",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "schenkeltransporte-ch02b.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.einstein.sui-inter.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Name Server": "ns2.einstein.sui-inter.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 include:_spf.sui-inter.net mx a include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "1209600",
+      "Serial": "2024082601",
+      "Refresh": "10800",
+      "Hostmaster": "hostmaster.schenkel-transporte.ch.",
+      "Minimum TTL": "10800",
+      "Primary Nameserver": "ns2.einstein.sui-inter.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "80.74.145.25",
+      "PTR-Domain": "einstein.sui-inter.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "schenkel-transporte.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "cloud.schenkel-transporte.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "cloud.schenkel-transporte.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-03-31",
+      "Gültig bis": "2025-06-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-01"
+    },
+    {
+      "Gültig ab": "2025-03-31",
+      "Gültig bis": "2025-06-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-01"
+    },
+    {
+      "Gültig ab": "2025-03-25",
+      "Gültig bis": "2025-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-25"
+    },
+    {
+      "Gültig ab": "2025-03-25",
+      "Gültig bis": "2025-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-25"
+    },
+    {
+      "Gültig ab": "2025-01-30",
+      "Gültig bis": "2025-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-30"
+    },
+    {
+      "Gültig ab": "2025-01-30",
+      "Gültig bis": "2025-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-30"
+    },
+    {
+      "Gültig ab": "2025-01-12",
+      "Gültig bis": "2025-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "Gültig ab": "2025-01-12",
+      "Gültig bis": "2025-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "Gültig ab": "2024-12-01",
+      "Gültig bis": "2025-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-01"
+    },
+    {
+      "Gültig ab": "2024-12-01",
+      "Gültig bis": "2025-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-01"
+    },
+    {
+      "Gültig ab": "2024-11-12",
+      "Gültig bis": "2025-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "Gültig ab": "2024-11-12",
+      "Gültig bis": "2025-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "Gültig ab": "2024-10-01",
+      "Gültig bis": "2024-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Gültig ab": "2024-10-01",
+      "Gültig bis": "2024-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-02"
+    },
+    {
+      "Gültig ab": "2024-09-10",
+      "Gültig bis": "2024-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "Gültig ab": "2024-09-10",
+      "Gültig bis": "2024-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-10"
+    },
+    {
+      "Gültig ab": "2024-08-02",
+      "Gültig bis": "2024-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-03"
+    },
+    {
+      "Gültig ab": "2024-08-02",
+      "Gültig bis": "2024-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-03"
+    },
+    {
+      "Gültig ab": "2024-07-09",
+      "Gültig bis": "2024-10-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-09"
+    },
+    {
+      "Gültig ab": "2024-07-09",
+      "Gültig bis": "2024-10-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-09"
+    },
+    {
+      "Gültig ab": "2024-05-31",
+      "Gültig bis": "2024-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "Gültig ab": "2024-05-31",
+      "Gültig bis": "2024-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "Gültig ab": "2024-05-07",
+      "Gültig bis": "2024-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-07"
+    },
+    {
+      "Gültig ab": "2024-05-07",
+      "Gültig bis": "2024-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-07"
+    },
+    {
+      "Gültig ab": "2024-04-01",
+      "Gültig bis": "2024-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "Gültig ab": "2024-04-01",
+      "Gültig bis": "2024-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "Gültig ab": "2024-03-05",
+      "Gültig bis": "2024-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-05"
+    },
+    {
+      "Gültig ab": "2024-03-05",
+      "Gültig bis": "2024-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-05"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-01-02",
+      "Gültig bis": "2024-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-02"
+    },
+    {
+      "Gültig ab": "2024-01-02",
+      "Gültig bis": "2024-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-02"
+    },
+    {
+      "Gültig ab": "2023-12-04",
+      "Gültig bis": "2024-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "Gültig ab": "2023-12-04",
+      "Gültig bis": "2024-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "Gültig ab": "2023-10-31",
+      "Gültig bis": "2024-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-31"
+    },
+    {
+      "Gültig ab": "2023-10-31",
+      "Gültig bis": "2024-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-31"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-15"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-15"
+    },
+    {
+      "Gültig ab": "2023-06-13",
+      "Gültig bis": "2023-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-13"
+    },
+    {
+      "Gültig ab": "2023-06-13",
+      "Gültig bis": "2023-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-13"
+    },
+    {
+      "Gültig ab": "2023-04-24",
+      "Gültig bis": "2024-04-23",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-24"
+    },
+    {
+      "Gültig ab": "2023-04-24",
+      "Gültig bis": "2024-04-23",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-24"
+    },
+    {
+      "Gültig ab": "2023-04-13",
+      "Gültig bis": "2023-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-13"
+    },
+    {
+      "Gültig ab": "2023-04-13",
+      "Gültig bis": "2023-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-13"
+    },
+    {
+      "Gültig ab": "2023-02-12",
+      "Gültig bis": "2023-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-12"
+    },
+    {
+      "Gültig ab": "2023-02-12",
+      "Gültig bis": "2023-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-12"
+    },
+    {
+      "Gültig ab": "2022-12-13",
+      "Gültig bis": "2023-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-13"
+    },
+    {
+      "Gültig ab": "2022-12-13",
+      "Gültig bis": "2023-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-13"
+    },
+    {
+      "Gültig ab": "2022-10-11",
+      "Gültig bis": "2023-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-11"
+    },
+    {
+      "Gültig ab": "2022-10-11",
+      "Gültig bis": "2023-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-11"
+    },
+    {
+      "Gültig ab": "2022-08-09",
+      "Gültig bis": "2022-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-09"
+    },
+    {
+      "Gültig ab": "2022-08-09",
+      "Gültig bis": "2022-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-09"
+    },
+    {
+      "Gültig ab": "2022-06-07",
+      "Gültig bis": "2022-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-07"
+    },
+    {
+      "Gültig ab": "2022-06-07",
+      "Gültig bis": "2022-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-07"
+    },
+    {
+      "Gültig ab": "2022-04-27",
+      "Gültig bis": "2023-04-27",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, CN=RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-29"
+    },
+    {
+      "Gültig ab": "2022-04-27",
+      "Gültig bis": "2023-04-27",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, CN=RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-27"
+    },
+    {
+      "Gültig ab": "2022-04-05",
+      "Gültig bis": "2022-07-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-05"
+    },
+    {
+      "Gültig ab": "2022-04-05",
+      "Gültig bis": "2022-07-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-05"
+    },
+    {
+      "Gültig ab": "2022-02-01",
+      "Gültig bis": "2022-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-01"
+    },
+    {
+      "Gültig ab": "2022-02-01",
+      "Gültig bis": "2022-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-01"
+    },
+    {
+      "Gültig ab": "2021-11-30",
+      "Gültig bis": "2022-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-30"
+    },
+    {
+      "Gültig ab": "2021-11-30",
+      "Gültig bis": "2022-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-30"
+    },
+    {
+      "Gültig ab": "2021-10-01",
+      "Gültig bis": "2021-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-01"
+    },
+    {
+      "Gültig ab": "2021-10-01",
+      "Gültig bis": "2021-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-01"
+    },
+    {
+      "Gültig ab": "2021-09-30",
+      "Gültig bis": "2021-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-30"
+    },
+    {
+      "Gültig ab": "2021-09-30",
+      "Gültig bis": "2021-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-30"
+    },
+    {
+      "Gültig ab": "2021-09-28",
+      "Gültig bis": "2021-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-28"
+    },
+    {
+      "Gültig ab": "2021-09-28",
+      "Gültig bis": "2021-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-28"
+    },
+    {
+      "Gültig ab": "2021-09-23",
+      "Gültig bis": "2021-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-23"
+    },
+    {
+      "Gültig ab": "2021-09-23",
+      "Gültig bis": "2021-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-23"
+    },
+    {
+      "Gültig ab": "2021-09-21",
+      "Gültig bis": "2021-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-21"
+    },
+    {
+      "Gültig ab": "2021-09-21",
+      "Gültig bis": "2021-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-21"
+    },
+    {
+      "Gültig ab": "2021-09-16",
+      "Gültig bis": "2021-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-16"
+    },
+    {
+      "Gültig ab": "2021-09-16",
+      "Gültig bis": "2021-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-16"
+    },
+    {
+      "Gültig ab": "2021-09-14",
+      "Gültig bis": "2021-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-14"
+    },
+    {
+      "Gültig ab": "2021-09-14",
+      "Gültig bis": "2021-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-14"
+    },
+    {
+      "Gültig ab": "2021-09-09",
+      "Gültig bis": "2021-12-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-09"
+    },
+    {
+      "Gültig ab": "2021-09-09",
+      "Gültig bis": "2021-12-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-09"
+    },
+    {
+      "Gültig ab": "2021-09-07",
+      "Gültig bis": "2021-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-07"
+    },
+    {
+      "Gültig ab": "2021-09-07",
+      "Gültig bis": "2021-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-07"
+    },
+    {
+      "Gültig ab": "2021-09-02",
+      "Gültig bis": "2021-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-02"
+    },
+    {
+      "Gültig ab": "2021-09-02",
+      "Gültig bis": "2021-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-02"
+    },
+    {
+      "Gültig ab": "2021-08-31",
+      "Gültig bis": "2021-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-31"
+    },
+    {
+      "Gültig ab": "2021-08-31",
+      "Gültig bis": "2021-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-31"
+    },
+    {
+      "Gültig ab": "2021-08-26",
+      "Gültig bis": "2021-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-26"
+    },
+    {
+      "Gültig ab": "2021-08-26",
+      "Gültig bis": "2021-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-26"
+    },
+    {
+      "Gültig ab": "2021-08-24",
+      "Gültig bis": "2021-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-24"
+    },
+    {
+      "Gültig ab": "2021-08-24",
+      "Gültig bis": "2021-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-24"
+    },
+    {
+      "Gültig ab": "2021-08-19",
+      "Gültig bis": "2021-11-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-19"
+    },
+    {
+      "Gültig ab": "2021-08-19",
+      "Gültig bis": "2021-11-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-19"
+    },
+    {
+      "Gültig ab": "2021-08-17",
+      "Gültig bis": "2021-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-17"
+    },
+    {
+      "Gültig ab": "2021-08-17",
+      "Gültig bis": "2021-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-17"
+    },
+    {
+      "Gültig ab": "2021-08-12",
+      "Gültig bis": "2021-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-12"
+    },
+    {
+      "Gültig ab": "2021-08-12",
+      "Gültig bis": "2021-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-12"
+    },
+    {
+      "Gültig ab": "2021-08-10",
+      "Gültig bis": "2021-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-10"
+    },
+    {
+      "Gültig ab": "2021-08-10",
+      "Gültig bis": "2021-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-10"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "Gültig ab": "2021-08-03",
+      "Gültig bis": "2021-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-03"
+    },
+    {
+      "Gültig ab": "2021-08-03",
+      "Gültig bis": "2021-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-03"
+    },
+    {
+      "Gültig ab": "2021-07-29",
+      "Gültig bis": "2021-10-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-29"
+    },
+    {
+      "Gültig ab": "2021-07-29",
+      "Gültig bis": "2021-10-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-29"
+    },
+    {
+      "Gültig ab": "2021-07-27",
+      "Gültig bis": "2021-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-27"
+    },
+    {
+      "Gültig ab": "2021-07-27",
+      "Gültig bis": "2021-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-27"
+    },
+    {
+      "Gültig ab": "2021-07-22",
+      "Gültig bis": "2021-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-22"
+    },
+    {
+      "Gültig ab": "2021-07-22",
+      "Gültig bis": "2021-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-22"
+    },
+    {
+      "Gültig ab": "2021-07-20",
+      "Gültig bis": "2021-10-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-20"
+    },
+    {
+      "Gültig ab": "2021-07-20",
+      "Gültig bis": "2021-10-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-20"
+    },
+    {
+      "Gültig ab": "2021-07-15",
+      "Gültig bis": "2021-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-15"
+    },
+    {
+      "Gültig ab": "2021-07-15",
+      "Gültig bis": "2021-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-15"
+    },
+    {
+      "Gültig ab": "2021-07-13",
+      "Gültig bis": "2021-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-13"
+    },
+    {
+      "Gültig ab": "2021-07-13",
+      "Gültig bis": "2021-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-13"
+    },
+    {
+      "Gültig ab": "2021-07-08",
+      "Gültig bis": "2021-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-08"
+    },
+    {
+      "Gültig ab": "2021-07-08",
+      "Gültig bis": "2021-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-08"
+    },
+    {
+      "Gültig ab": "2021-07-06",
+      "Gültig bis": "2021-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-06"
+    },
+    {
+      "Gültig ab": "2021-07-06",
+      "Gültig bis": "2021-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-06"
+    },
+    {
+      "Gültig ab": "2021-07-01",
+      "Gültig bis": "2021-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-01"
+    },
+    {
+      "Gültig ab": "2021-07-01",
+      "Gültig bis": "2021-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-01"
+    },
+    {
+      "Gültig ab": "2021-06-29",
+      "Gültig bis": "2021-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-29"
+    },
+    {
+      "Gültig ab": "2021-06-29",
+      "Gültig bis": "2021-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-29"
+    },
+    {
+      "Gültig ab": "2021-06-24",
+      "Gültig bis": "2021-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-24"
+    },
+    {
+      "Gültig ab": "2021-06-24",
+      "Gültig bis": "2021-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-24"
+    },
+    {
+      "Gültig ab": "2021-06-22",
+      "Gültig bis": "2021-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-22"
+    },
+    {
+      "Gültig ab": "2021-06-22",
+      "Gültig bis": "2021-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-22"
+    },
+    {
+      "Gültig ab": "2021-06-21",
+      "Gültig bis": "2021-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-21"
+    },
+    {
+      "Gültig ab": "2021-06-21",
+      "Gültig bis": "2021-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-21"
+    },
+    {
+      "Gültig ab": "2021-06-17",
+      "Gültig bis": "2021-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-17"
+    },
+    {
+      "Gültig ab": "2021-06-17",
+      "Gültig bis": "2021-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-17"
+    },
+    {
+      "Gültig ab": "2021-06-15",
+      "Gültig bis": "2021-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-15"
+    },
+    {
+      "Gültig ab": "2021-06-15",
+      "Gültig bis": "2021-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-15"
+    },
+    {
+      "Gültig ab": "2021-06-10",
+      "Gültig bis": "2021-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-10"
+    },
+    {
+      "Gültig ab": "2021-06-10",
+      "Gültig bis": "2021-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-10"
+    },
+    {
+      "Gültig ab": "2021-06-08",
+      "Gültig bis": "2021-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-08"
+    },
+    {
+      "Gültig ab": "2021-06-08",
+      "Gültig bis": "2021-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-08"
+    },
+    {
+      "Gültig ab": "2021-06-03",
+      "Gültig bis": "2021-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-03"
+    },
+    {
+      "Gültig ab": "2021-06-03",
+      "Gültig bis": "2021-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-03"
+    },
+    {
+      "Gültig ab": "2021-06-01",
+      "Gültig bis": "2021-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-01"
+    },
+    {
+      "Gültig ab": "2021-06-01",
+      "Gültig bis": "2021-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-01"
+    },
+    {
+      "Gültig ab": "2021-05-27",
+      "Gültig bis": "2021-08-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-27"
+    },
+    {
+      "Gültig ab": "2021-05-27",
+      "Gültig bis": "2021-08-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-27"
+    },
+    {
+      "Gültig ab": "2021-05-25",
+      "Gültig bis": "2021-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-25"
+    },
+    {
+      "Gültig ab": "2021-05-25",
+      "Gültig bis": "2021-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-25"
+    },
+    {
+      "Gültig ab": "2021-05-20",
+      "Gültig bis": "2021-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-20"
+    },
+    {
+      "Gültig ab": "2021-05-20",
+      "Gültig bis": "2021-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-20"
+    },
+    {
+      "Gültig ab": "2021-05-18",
+      "Gültig bis": "2021-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-18"
+    },
+    {
+      "Gültig ab": "2021-05-18",
+      "Gültig bis": "2021-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-18"
+    },
+    {
+      "Gültig ab": "2021-05-13",
+      "Gültig bis": "2021-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-13"
+    },
+    {
+      "Gültig ab": "2021-05-13",
+      "Gültig bis": "2021-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-13"
+    },
+    {
+      "Gültig ab": "2021-05-11",
+      "Gültig bis": "2021-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-11"
+    },
+    {
+      "Gültig ab": "2021-05-11",
+      "Gültig bis": "2021-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-11"
+    },
+    {
+      "Gültig ab": "2021-05-06",
+      "Gültig bis": "2021-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-06"
+    },
+    {
+      "Gültig ab": "2021-05-06",
+      "Gültig bis": "2021-08-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-06"
+    },
+    {
+      "Gültig ab": "2021-05-04",
+      "Gültig bis": "2021-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-04"
+    },
+    {
+      "Gültig ab": "2021-05-04",
+      "Gültig bis": "2021-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-04"
+    },
+    {
+      "Gültig ab": "2021-04-29",
+      "Gültig bis": "2021-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-29"
+    },
+    {
+      "Gültig ab": "2021-04-29",
+      "Gültig bis": "2021-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-29"
+    },
+    {
+      "Gültig ab": "2021-04-27",
+      "Gültig bis": "2021-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-27"
+    },
+    {
+      "Gültig ab": "2021-04-27",
+      "Gültig bis": "2021-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-27"
+    },
+    {
+      "Gültig ab": "2021-04-22",
+      "Gültig bis": "2021-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-22"
+    },
+    {
+      "Gültig ab": "2021-04-22",
+      "Gültig bis": "2021-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-22"
+    },
+    {
+      "Gültig ab": "2021-04-20",
+      "Gültig bis": "2021-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-20"
+    },
+    {
+      "Gültig ab": "2021-04-20",
+      "Gültig bis": "2021-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-20"
+    },
+    {
+      "Gültig ab": "2021-04-15",
+      "Gültig bis": "2021-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "Gültig ab": "2021-04-15",
+      "Gültig bis": "2021-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "Gültig ab": "2021-04-13",
+      "Gültig bis": "2021-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-13"
+    },
+    {
+      "Gültig ab": "2021-04-13",
+      "Gültig bis": "2021-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-13"
+    },
+    {
+      "Gültig ab": "2021-04-08",
+      "Gültig bis": "2021-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-08"
+    },
+    {
+      "Gültig ab": "2021-04-08",
+      "Gültig bis": "2021-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-08"
+    },
+    {
+      "Gültig ab": "2021-04-06",
+      "Gültig bis": "2021-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-06"
+    },
+    {
+      "Gültig ab": "2021-04-06",
+      "Gültig bis": "2021-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-06"
+    },
+    {
+      "Gültig ab": "2021-04-01",
+      "Gültig bis": "2021-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-01"
+    },
+    {
+      "Gültig ab": "2021-04-01",
+      "Gültig bis": "2021-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-01"
+    },
+    {
+      "Gültig ab": "2021-03-30",
+      "Gültig bis": "2021-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-30"
+    },
+    {
+      "Gültig ab": "2021-03-30",
+      "Gültig bis": "2021-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-30"
+    },
+    {
+      "Gültig ab": "2021-03-25",
+      "Gültig bis": "2021-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-25"
+    },
+    {
+      "Gültig ab": "2021-03-25",
+      "Gültig bis": "2021-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-25"
+    },
+    {
+      "Gültig ab": "2021-03-23",
+      "Gültig bis": "2021-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-23"
+    },
+    {
+      "Gültig ab": "2021-03-23",
+      "Gültig bis": "2021-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-23"
+    },
+    {
+      "Gültig ab": "2021-03-18",
+      "Gültig bis": "2021-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-18"
+    },
+    {
+      "Gültig ab": "2021-03-18",
+      "Gültig bis": "2021-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-18"
+    },
+    {
+      "Gültig ab": "2021-03-16",
+      "Gültig bis": "2021-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-16"
+    },
+    {
+      "Gültig ab": "2021-03-16",
+      "Gültig bis": "2021-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-16"
+    },
+    {
+      "Gültig ab": "2021-03-11",
+      "Gültig bis": "2021-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-11"
+    },
+    {
+      "Gültig ab": "2021-03-11",
+      "Gültig bis": "2021-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-11"
+    },
+    {
+      "Gültig ab": "2021-03-09",
+      "Gültig bis": "2021-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-09"
+    },
+    {
+      "Gültig ab": "2021-03-09",
+      "Gültig bis": "2021-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-09"
+    },
+    {
+      "Gültig ab": "2021-03-04",
+      "Gültig bis": "2021-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-04"
+    },
+    {
+      "Gültig ab": "2021-03-04",
+      "Gültig bis": "2021-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-04"
+    },
+    {
+      "Gültig ab": "2021-03-02",
+      "Gültig bis": "2021-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "Gültig ab": "2021-03-02",
+      "Gültig bis": "2021-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "Gültig ab": "2021-02-25",
+      "Gültig bis": "2021-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-25"
+    },
+    {
+      "Gültig ab": "2021-02-25",
+      "Gültig bis": "2021-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-25"
+    },
+    {
+      "Gültig ab": "2021-02-23",
+      "Gültig bis": "2021-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-23"
+    },
+    {
+      "Gültig ab": "2021-02-23",
+      "Gültig bis": "2021-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-23"
+    },
+    {
+      "Gültig ab": "2021-02-18",
+      "Gültig bis": "2021-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-18"
+    },
+    {
+      "Gültig ab": "2021-02-18",
+      "Gültig bis": "2021-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-18"
+    },
+    {
+      "Gültig ab": "2021-02-16",
+      "Gültig bis": "2021-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-16"
+    },
+    {
+      "Gültig ab": "2021-02-16",
+      "Gültig bis": "2021-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-16"
+    },
+    {
+      "Gültig ab": "2021-02-11",
+      "Gültig bis": "2021-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-11"
+    },
+    {
+      "Gültig ab": "2021-02-11",
+      "Gültig bis": "2021-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-11"
+    },
+    {
+      "Gültig ab": "2021-02-09",
+      "Gültig bis": "2021-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-09"
+    },
+    {
+      "Gültig ab": "2021-02-09",
+      "Gültig bis": "2021-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-09"
+    },
+    {
+      "Gültig ab": "2021-02-04",
+      "Gültig bis": "2021-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-04"
+    },
+    {
+      "Gültig ab": "2021-02-04",
+      "Gültig bis": "2021-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-04"
+    },
+    {
+      "Gültig ab": "2021-02-02",
+      "Gültig bis": "2021-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-02"
+    },
+    {
+      "Gültig ab": "2021-02-02",
+      "Gültig bis": "2021-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-02"
+    },
+    {
+      "Gültig ab": "2021-01-28",
+      "Gültig bis": "2021-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-28"
+    },
+    {
+      "Gültig ab": "2021-01-28",
+      "Gültig bis": "2021-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-28"
+    },
+    {
+      "Gültig ab": "2021-01-26",
+      "Gültig bis": "2021-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-26"
+    },
+    {
+      "Gültig ab": "2021-01-26",
+      "Gültig bis": "2021-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-26"
+    },
+    {
+      "Gültig ab": "2021-01-21",
+      "Gültig bis": "2021-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-21"
+    },
+    {
+      "Gültig ab": "2021-01-21",
+      "Gültig bis": "2021-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-21"
+    },
+    {
+      "Gültig ab": "2021-01-19",
+      "Gültig bis": "2021-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-19"
+    },
+    {
+      "Gültig ab": "2021-01-19",
+      "Gültig bis": "2021-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-19"
+    },
+    {
+      "Gültig ab": "2021-01-14",
+      "Gültig bis": "2021-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-14"
+    },
+    {
+      "Gültig ab": "2021-01-14",
+      "Gültig bis": "2021-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-14"
+    },
+    {
+      "Gültig ab": "2020-12-15",
+      "Gültig bis": "2021-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-15"
+    },
+    {
+      "Gültig ab": "2020-12-15",
+      "Gültig bis": "2021-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-15"
+    },
+    {
+      "Gültig ab": "2020-10-13",
+      "Gültig bis": "2021-01-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-13"
+    },
+    {
+      "Gültig ab": "2020-10-13",
+      "Gültig bis": "2021-01-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-13"
+    },
+    {
+      "Gültig ab": "2020-08-11",
+      "Gültig bis": "2020-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-11"
+    },
+    {
+      "Gültig ab": "2020-08-11",
+      "Gültig bis": "2020-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-11"
+    },
+    {
+      "Gültig ab": "2020-06-09",
+      "Gültig bis": "2020-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-09"
+    },
+    {
+      "Gültig ab": "2020-06-09",
+      "Gültig bis": "2020-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-09"
+    },
+    {
+      "Gültig ab": "2020-04-07",
+      "Gültig bis": "2020-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-07"
+    },
+    {
+      "Gültig ab": "2020-04-07",
+      "Gültig bis": "2020-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-07"
+    },
+    {
+      "Gültig ab": "2020-03-04",
+      "Gültig bis": "2022-05-03",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL RSA CA 2018",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-03-06"
+    },
+    {
+      "Gültig ab": "2020-03-04",
+      "Gültig bis": "2022-05-03",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL RSA CA 2018",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-03-04"
+    },
+    {
+      "Gültig ab": "2020-02-04",
+      "Gültig bis": "2020-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-04"
+    },
+    {
+      "Gültig ab": "2020-02-04",
+      "Gültig bis": "2020-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-04"
+    },
+    {
+      "Gültig ab": "2019-11-26",
+      "Gültig bis": "2020-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-26"
+    },
+    {
+      "Gültig ab": "2019-11-26",
+      "Gültig bis": "2020-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-26"
+    },
+    {
+      "Gültig ab": "2019-09-24",
+      "Gültig bis": "2019-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-09-24"
+    },
+    {
+      "Gültig ab": "2019-09-24",
+      "Gültig bis": "2019-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-09-24"
+    },
+    {
+      "Gültig ab": "2019-07-23",
+      "Gültig bis": "2019-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-07-23"
+    },
+    {
+      "Gültig ab": "2019-07-23",
+      "Gültig bis": "2019-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-07-23"
+    },
+    {
+      "Gültig ab": "2019-05-21",
+      "Gültig bis": "2019-08-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-05-21"
+    },
+    {
+      "Gültig ab": "2019-05-21",
+      "Gültig bis": "2019-08-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-05-21"
+    },
+    {
+      "Gültig ab": "2019-03-22",
+      "Gültig bis": "2019-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-03-22"
+    },
+    {
+      "Gültig ab": "2019-03-22",
+      "Gültig bis": "2019-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schenkel-transporte.ch, schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-03-22"
+    },
+    {
+      "Gültig ab": "2018-04-17",
+      "Gültig bis": "2020-04-16",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-04-19"
+    },
+    {
+      "Gültig ab": "2018-04-17",
+      "Gültig bis": "2019-04-17",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "cloud.schenkel-transporte.ch, www.cloud.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-04-17"
+    },
+    {
+      "Gültig ab": "2018-04-17",
+      "Gültig bis": "2019-04-17",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "cloud.schenkel-transporte.ch, www.cloud.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-04-17"
+    },
+    {
+      "Gültig ab": "2018-04-17",
+      "Gültig bis": "2020-04-16",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1",
+      "Domain/Subdomain": "schenkel-transporte.ch, www.schenkel-transporte.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-04-17"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "http://www.schenkel-transporte.ch/leparquet/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-15"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-09"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-09"
+    },
+    {
+      "URL": "https://schenkel-transporte.ch/cms",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://schenkel-transporte.ch/frontend",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://schenkel-transporte.ch/system",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/customer/files/55/Inserat.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/feed.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/feeds/all.atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/sitemap",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/dokumente",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/firmenprofil",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/datenschutzerklaerung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/transporte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-11"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/customer/files/20/kran_15_mto.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/customer/files/20/kran_53_mto.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/customer/files/20/kran_53_mto_jib.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/customer/files/19/wechselmulden.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-02"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/customer/files/19/bauabfaelle.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/customer/files/42/wechselmulden.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-27"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/customer/layout/fonts/25CCDA_0_0.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/customer/layout/fonts/25CCDA_0_0.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schenkel-transporte.ch/customer/layout/fonts/25CCDA_0_0.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/bestellungmuldenservice",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/extras",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/muldenservice",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/customer/files/52/02_Kran_53_mto.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/customer/files/52/03_Kran_53_mto_jib.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/customer/files/52/04_Bedingungen_regie.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/customer/files/52/05_Wechselpritsche.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/customer/files/52/06_Wechselkoffer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/customer/files/52/07_Wechselmulden.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/customer/files/52/09_Bauabfaelle.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://schenkel-transporte.ch/customer/files/52/01_Kran_15_mto.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/kranarbeiten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "URL": "http://www.schenkel-transporte.ch/leparquet/?&print&mailform",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-07"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-28"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/startseite",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-12"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/muldenformular",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-04-06"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/wechselmulden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-04-06"
+    },
+    {
+      "URL": "http://www.schenkel-transporte.ch:80/angebotu.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-21"
+    },
+    {
+      "URL": "http://www.schenkel-transporte.ch:80/mail.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-21"
+    },
+    {
+      "URL": "http://www.schenkel-transporte.ch:80/formular.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-20"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/images/DatenblattKran10to.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-19"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/angebot.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-18"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/angebotk.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-18"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/firmadr.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-18"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/firmges1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-18"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/firmmit.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-18"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-18"
+    },
+    {
+      "URL": "http://www.schenkel-transporte.ch:80/formularmu.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-18"
+    },
+    {
+      "URL": "http://www.schenkel-transporte.ch:80/firma.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-17"
+    },
+    {
+      "URL": "http://www.schenkel-transporte.ch:80/links.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-17"
+    },
+    {
+      "URL": "http://www.schenkel-transporte.ch:80/news.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-17"
+    },
+    {
+      "URL": "http://www.schenkel-transporte.ch:80/firmges2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-11-06"
+    },
+    {
+      "URL": "http://www.schenkel-transporte.ch:80/bauabfall.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-04-07"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch:80/map.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-02-11"
+    },
+    {
+      "URL": "http://schenkel-transporte.ch:80/mulden.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-02-04"
+    },
+    {
+      "URL": "http://www.schenkel-transporte.ch:80/images/DatenblattKran4to.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2004-07-23"
+    },
+    {
+      "URL": "http://www.schenkel-transporte.ch:80/error_docs/not_found.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2003-07-13"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@schenkel-transporte.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "E-Mail": "info@strichpunkt.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522128585",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    },
+    {
+      "Telefonnummern": "+41522240111",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-08"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

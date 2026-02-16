@@ -1,0 +1,3565 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "185.190.244.48",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mailae.baltenspergerbau.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.dynanet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Name Server": "ns2.dynanet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms76939737\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Text Record": "\"ppe-7d4a109e0f97c17519d264582a7c93977f734efe\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Text Record": "\"v=spf1 a mx ip4:146.4.86.122 include:spf.protection.outlook.com include:sendgrid.net -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "1209600",
+      "Serial": "2025054090",
+      "Refresh": "43200",
+      "Hostmaster": "hostmaster.dynanet.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns1.dynanet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "185.190.244.48",
+      "PTR-Domain": "244-048.dynanet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "remote.baltenspergerbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "baltenspergerbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "AutoDiscover.baltenspergerbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "links.baltenspergerbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "mailae.baltenspergerbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "qm.baltenspergerbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "links.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "links.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "links.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-04-12",
+      "Gültig bis": "2025-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-12"
+    },
+    {
+      "Gültig ab": "2025-04-12",
+      "Gültig bis": "2025-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-12"
+    },
+    {
+      "Gültig ab": "2025-02-11",
+      "Gültig bis": "2025-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-11"
+    },
+    {
+      "Gültig ab": "2025-02-11",
+      "Gültig bis": "2025-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-11"
+    },
+    {
+      "Gültig ab": "2024-12-13",
+      "Gültig bis": "2025-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "Gültig ab": "2024-12-13",
+      "Gültig bis": "2025-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "Gültig ab": "2024-10-14",
+      "Gültig bis": "2025-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-14"
+    },
+    {
+      "Gültig ab": "2024-10-14",
+      "Gültig bis": "2025-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-14"
+    },
+    {
+      "Gültig ab": "2024-09-13",
+      "Gültig bis": "2025-10-14",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.baltenspergerbau.ch, baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "Gültig ab": "2024-09-13",
+      "Gültig bis": "2025-10-14",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.baltenspergerbau.ch, baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "Gültig ab": "2024-08-15",
+      "Gültig bis": "2024-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-15"
+    },
+    {
+      "Gültig ab": "2024-08-15",
+      "Gültig bis": "2024-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-15"
+    },
+    {
+      "Gültig ab": "2024-06-16",
+      "Gültig bis": "2024-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "Gültig ab": "2024-06-16",
+      "Gültig bis": "2024-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "Gültig ab": "2024-04-17",
+      "Gültig bis": "2024-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-17"
+    },
+    {
+      "Gültig ab": "2024-04-17",
+      "Gültig bis": "2024-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-17"
+    },
+    {
+      "Gültig ab": "2024-02-17",
+      "Gültig bis": "2024-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "Gültig ab": "2024-02-17",
+      "Gültig bis": "2024-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "Gültig ab": "2023-12-19",
+      "Gültig bis": "2024-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-19"
+    },
+    {
+      "Gültig ab": "2023-12-19",
+      "Gültig bis": "2024-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-19"
+    },
+    {
+      "Gültig ab": "2023-10-20",
+      "Gültig bis": "2024-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-20"
+    },
+    {
+      "Gültig ab": "2023-10-20",
+      "Gültig bis": "2024-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-20"
+    },
+    {
+      "Gültig ab": "2023-08-28",
+      "Gültig bis": "2024-09-26",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.baltenspergerbau.ch, baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-28"
+    },
+    {
+      "Gültig ab": "2023-08-28",
+      "Gültig bis": "2024-09-26",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.baltenspergerbau.ch, baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-28"
+    },
+    {
+      "Gültig ab": "2023-08-21",
+      "Gültig bis": "2023-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-21"
+    },
+    {
+      "Gültig ab": "2023-08-21",
+      "Gültig bis": "2023-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-21"
+    },
+    {
+      "Gültig ab": "2023-06-22",
+      "Gültig bis": "2023-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-22"
+    },
+    {
+      "Gültig ab": "2023-06-22",
+      "Gültig bis": "2023-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-22"
+    },
+    {
+      "Gültig ab": "2023-04-23",
+      "Gültig bis": "2023-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-23"
+    },
+    {
+      "Gültig ab": "2023-04-23",
+      "Gültig bis": "2023-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-23"
+    },
+    {
+      "Gültig ab": "2023-02-22",
+      "Gültig bis": "2023-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-22"
+    },
+    {
+      "Gültig ab": "2023-02-22",
+      "Gültig bis": "2023-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-22"
+    },
+    {
+      "Gültig ab": "2022-12-24",
+      "Gültig bis": "2023-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-24"
+    },
+    {
+      "Gültig ab": "2022-12-24",
+      "Gültig bis": "2023-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-24"
+    },
+    {
+      "Gültig ab": "2022-10-25",
+      "Gültig bis": "2023-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-25"
+    },
+    {
+      "Gültig ab": "2022-10-25",
+      "Gültig bis": "2023-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-25"
+    },
+    {
+      "Gültig ab": "2022-08-26",
+      "Gültig bis": "2022-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-26"
+    },
+    {
+      "Gültig ab": "2022-08-26",
+      "Gültig bis": "2022-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-26"
+    },
+    {
+      "Gültig ab": "2022-08-23",
+      "Gültig bis": "2023-09-22",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.baltenspergerbau.ch, baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-23"
+    },
+    {
+      "Gültig ab": "2022-08-23",
+      "Gültig bis": "2023-09-22",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.baltenspergerbau.ch, baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-23"
+    },
+    {
+      "Gültig ab": "2022-06-27",
+      "Gültig bis": "2022-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-27"
+    },
+    {
+      "Gültig ab": "2022-06-27",
+      "Gültig bis": "2022-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-27"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-04-28",
+      "Gültig bis": "2022-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-04-28"
+    },
+    {
+      "Gültig ab": "2022-02-27",
+      "Gültig bis": "2022-05-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-02-27"
+    },
+    {
+      "Gültig ab": "2022-02-27",
+      "Gültig bis": "2022-05-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-02-27"
+    },
+    {
+      "Gültig ab": "2021-12-29",
+      "Gültig bis": "2022-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-29"
+    },
+    {
+      "Gültig ab": "2021-12-29",
+      "Gültig bis": "2022-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-29"
+    },
+    {
+      "Gültig ab": "2021-10-30",
+      "Gültig bis": "2022-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-10-30"
+    },
+    {
+      "Gültig ab": "2021-10-30",
+      "Gültig bis": "2022-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-10-30"
+    },
+    {
+      "Gültig ab": "2021-08-31",
+      "Gültig bis": "2021-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-08-31"
+    },
+    {
+      "Gültig ab": "2021-08-31",
+      "Gültig bis": "2021-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-08-31"
+    },
+    {
+      "Gültig ab": "2021-07-02",
+      "Gültig bis": "2021-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-02"
+    },
+    {
+      "Gültig ab": "2021-07-02",
+      "Gültig bis": "2021-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-07-02"
+    },
+    {
+      "Gültig ab": "2021-06-11",
+      "Gültig bis": "2021-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-11"
+    },
+    {
+      "Gültig ab": "2021-06-11",
+      "Gültig bis": "2021-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-11"
+    },
+    {
+      "Gültig ab": "2021-05-03",
+      "Gültig bis": "2021-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-05-03"
+    },
+    {
+      "Gültig ab": "2021-05-03",
+      "Gültig bis": "2021-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-05-03"
+    },
+    {
+      "Gültig ab": "2021-04-14",
+      "Gültig bis": "2021-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-04-14"
+    },
+    {
+      "Gültig ab": "2021-04-14",
+      "Gültig bis": "2021-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-04-14"
+    },
+    {
+      "Gültig ab": "2021-03-04",
+      "Gültig bis": "2021-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-03-04"
+    },
+    {
+      "Gültig ab": "2021-03-04",
+      "Gültig bis": "2021-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-03-04"
+    },
+    {
+      "Gültig ab": "2021-02-14",
+      "Gültig bis": "2021-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-02-15"
+    },
+    {
+      "Gültig ab": "2021-02-14",
+      "Gültig bis": "2021-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-02-15"
+    },
+    {
+      "Gültig ab": "2021-01-03",
+      "Gültig bis": "2021-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-03"
+    },
+    {
+      "Gültig ab": "2021-01-03",
+      "Gültig bis": "2021-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-03"
+    },
+    {
+      "Gültig ab": "2020-12-18",
+      "Gültig bis": "2021-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-12-18"
+    },
+    {
+      "Gültig ab": "2020-12-18",
+      "Gültig bis": "2021-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-12-18"
+    },
+    {
+      "Gültig ab": "2020-11-04",
+      "Gültig bis": "2021-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-11-04"
+    },
+    {
+      "Gültig ab": "2020-11-04",
+      "Gültig bis": "2021-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-11-04"
+    },
+    {
+      "Gültig ab": "2020-10-31",
+      "Gültig bis": "2021-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-31"
+    },
+    {
+      "Gültig ab": "2020-10-31",
+      "Gültig bis": "2021-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-31"
+    },
+    {
+      "Gültig ab": "2020-10-21",
+      "Gültig bis": "2021-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-21"
+    },
+    {
+      "Gültig ab": "2020-10-21",
+      "Gültig bis": "2021-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-21"
+    },
+    {
+      "Gültig ab": "2020-09-03",
+      "Gültig bis": "2020-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-03"
+    },
+    {
+      "Gültig ab": "2020-09-03",
+      "Gültig bis": "2020-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-03"
+    },
+    {
+      "Gültig ab": "2020-08-24",
+      "Gültig bis": "2020-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-24"
+    },
+    {
+      "Gültig ab": "2020-08-24",
+      "Gültig bis": "2020-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-24"
+    },
+    {
+      "Gültig ab": "2020-07-07",
+      "Gültig bis": "2020-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-07-07"
+    },
+    {
+      "Gültig ab": "2020-07-07",
+      "Gültig bis": "2020-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-07-07"
+    },
+    {
+      "Gültig ab": "2020-06-27",
+      "Gültig bis": "2020-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-06-27"
+    },
+    {
+      "Gültig ab": "2020-06-27",
+      "Gültig bis": "2020-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-06-27"
+    },
+    {
+      "Gültig ab": "2020-05-26",
+      "Gültig bis": "2022-08-24",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.baltenspergerbau.ch, baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-26"
+    },
+    {
+      "Gültig ab": "2020-05-26",
+      "Gültig bis": "2022-08-24",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.baltenspergerbau.ch, baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-26"
+    },
+    {
+      "Gültig ab": "2020-05-09",
+      "Gültig bis": "2020-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-09"
+    },
+    {
+      "Gültig ab": "2020-05-09",
+      "Gültig bis": "2020-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-09"
+    },
+    {
+      "Gültig ab": "2020-04-30",
+      "Gültig bis": "2020-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-04-30"
+    },
+    {
+      "Gültig ab": "2020-04-30",
+      "Gültig bis": "2020-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-04-30"
+    },
+    {
+      "Gültig ab": "2020-03-12",
+      "Gültig bis": "2020-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-03-12"
+    },
+    {
+      "Gültig ab": "2020-03-12",
+      "Gültig bis": "2020-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-03-12"
+    },
+    {
+      "Gültig ab": "2020-03-02",
+      "Gültig bis": "2020-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-03-02"
+    },
+    {
+      "Gültig ab": "2020-03-02",
+      "Gültig bis": "2020-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-03-02"
+    },
+    {
+      "Gültig ab": "2020-01-14",
+      "Gültig bis": "2020-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-14"
+    },
+    {
+      "Gültig ab": "2020-01-14",
+      "Gültig bis": "2020-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-14"
+    },
+    {
+      "Gültig ab": "2020-01-10",
+      "Gültig bis": "2020-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-10"
+    },
+    {
+      "Gültig ab": "2020-01-10",
+      "Gültig bis": "2020-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-10"
+    },
+    {
+      "Gültig ab": "2020-01-10",
+      "Gültig bis": "2020-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-10"
+    },
+    {
+      "Gültig ab": "2020-01-10",
+      "Gültig bis": "2020-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "baltenspergerbau.ch, www.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-10"
+    },
+    {
+      "Gültig ab": "2020-01-04",
+      "Gültig bis": "2020-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-04"
+    },
+    {
+      "Gültig ab": "2020-01-04",
+      "Gültig bis": "2020-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-04"
+    },
+    {
+      "Gültig ab": "2019-11-07",
+      "Gültig bis": "2020-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-11-07"
+    },
+    {
+      "Gültig ab": "2019-11-07",
+      "Gültig bis": "2020-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-11-07"
+    },
+    {
+      "Gültig ab": "2019-09-10",
+      "Gültig bis": "2019-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-09-10"
+    },
+    {
+      "Gültig ab": "2019-09-10",
+      "Gültig bis": "2019-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-09-10"
+    },
+    {
+      "Gültig ab": "2019-09-10",
+      "Gültig bis": "2019-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-09-10"
+    },
+    {
+      "Gültig ab": "2019-09-10",
+      "Gültig bis": "2019-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "qm.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-09-10"
+    },
+    {
+      "Gültig ab": "2016-12-05",
+      "Gültig bis": "2017-12-13",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA",
+      "Domain/Subdomain": "remote.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-02-04"
+    },
+    {
+      "Gültig ab": "2017-05-20",
+      "Gültig bis": "2020-05-27",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA",
+      "Domain/Subdomain": "AutoDiscover.baltenspergerbau.ch, baltenspergerbau.ch, mailae.baltenspergerbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.baltenspergerbau.ch/error-404",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/hochbau-tiefbau/umbau/umbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/jobs-karriere/lehrlingsausbildung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/hochbau-tiefbau/bauservice/bauservice",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/modulbau-baramo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/system-holzbau/system-holzbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/jobs-karriere",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/ueber-uns/ansprechpartner/ansprechpartner/ansprechpartner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/modulbau/schulpavillon-fehraltorf/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/oeffentliche-bauten/neubau-regenrueckhaltebecken-schlosstal-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/oeffentliche-bauten/neubau-schulhaus-zinzikon-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/oeffentliche-bauten/neubau-werkhof-friedhof-rosenberg-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/wohnbauten/2-mehrfamilienhaeuser-am-roemerweg-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/wohnbauten/2-mfh-am-roemerweg-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/wohnbauten/behindertenheim-stiftung-steinegg-wiesendangen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/wohnbauten/jabee-tower-hochbordstrasse-duebendorf/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/wohnbauten/mattenhof-2-etappe-zuerich/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/wohnbauten/mehrfamilienhaus-palmstrasse-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/wohnbauten/ueberbauung-buelachguss-baufeld-8-buelach/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/ansprechpartner/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/news/detail/kaderseminar-2020/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/news/detail/lehrlingstag/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/news/detail/pensionierung-jose-da-silva/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/gewerbe-und-industriebauten/arge-superblock-sulzer-areal-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/gewerbe-und-industriebauten/einkaufen-am-rosenberg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/gewerbe-und-industriebauten/einkaufszentrum-neuwiesen-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/gewerbe-und-industriebauten/europaallee-baufeld-h-zuerich/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/gewerbe-und-industriebauten/royal-doener-holzwingertstrasse-41-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/wohnbauten/mfh-corrodistrasse-4-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/wohnbauten/mfh-nuesatz-wurzerstrasse-daettlikon/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/wohnbauten/wohnueberbauung-oberzelg-sennhof/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/wohnbauten/wohnueberbauung-tilia-haldenstrasse-seuzach/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/wohnbauten/wohnueberbauung-wyden-winterthur-wuelflingen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-08-04"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/baramo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-26"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/modulbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-26"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/umbauten-sanierungen/restaurant-sternen-pfungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-24"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/umbauten-sanierungen/sanierung-massstabfabrik-stein-am-rhein/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-24"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/lf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-09-04"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/gewerbe-und-industriebauten/kantonsspital-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-23"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/umbauten-sanierungen/sanierung-mfh-landvogt-waser-strasse-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-23"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/umbauten-sanierungen/umbau-tankstelle-hutter-auto-riedbach-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-23"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/pikett-dienst/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-01-23"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/umbauten-sanierungen/gesamtsanierung-credit-suisse-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/umbauten-sanierungen/sanierung-eth-otto-stern-weg-3-zuerich/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/umbauten-sanierungen/sanierung-kugelfang-schiessanlage-aatal-elgg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/umbauten-sanierungen/umbau-festsaal-banana-city-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/besuch-baukette-schweiz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/dehnen-kraeftigen-richtiges-heben-gesundheit-geht-uns-alle-an/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/erfolgreicher-lehrabschluss/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/erste-asylunterkunft-fertig-und-bezogen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/kundenevent-im-casinotheater-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/lehrlingsbaustelle-alte-poststrasse-seuzach/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/neue-herausforderung-gesucht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/neuer-lastwagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/hochbau-tiefbau/kundenarbeiten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/hochbau-tiefbau/umbauten-sanierungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/pensionierung-peter-debrunner-und-milazim-halilaj/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-11-27"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/typo3temp/compressor/merged-6be973784692364ef503203e0f826414-84ae7816a72daf09dc53eacc3090a67d.js.gzip?1432726783",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-29"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/typo3temp/compressor/merged-9351e5c8d56c8d18ca92d04443788bf2-3293dbf42920659dc23951e2a6fb62df.js.gzip?1432726783",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-29"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/hoehenflug-in-duebendorf/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/kiwanis-club-winterthur-besucht-ksw/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/herzlich-willkommen-und-alles-gute-zum-lehrstart",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/verkaufsobjekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-09-30"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/150402-Wohneigentuemer-Lehrlngsbaustelle.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-07-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/bronze-sponsor-von-pfadi-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-05-15"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/pensionierung-peter-buechi/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-03-14"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/fileadmin/user_upload/baltenspergerbau/PDFs/Zertifikat-SUEGB-Betonanlage-Baltensperger-2015.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-11-26"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/gewerbe-und-industriebauten/feg-theaterstrasse-27-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-11-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/wohnbauten/feg-theaterstrasse-27-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-11-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/besuch-schule-lindau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-11-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/herzliche-gratulation-andrea-und-ramon/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-11-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/herzliche-gratulation-christa-und-rene/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-11-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/herzliche-gratulation-tina-und-dani/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-11-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/pensionierung-bollinger-willi/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-11-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/service-baustellenfahrzeuge/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-11-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/wohnbauten/gernstrasse-winterthur-hegi/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-26"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/verkaufsobjekte/verkaufsobjekte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-07-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/fileadmin/user_upload/baltenspergerbau/PDFs/Stelleninserate/Stelleninserat-Planer_Holzbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-04-14"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/fileadmin/templates/css/fonts/glyphicons-halflings-regular.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-01-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/fileadmin/templates/css/fonts/glyphicons-halflings-regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-01-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/fileadmin/templates/css/fonts/glyphicons-halflings-regular.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-01-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/typo3temp/compressor/merged-7d16907df180bf8985050262b2808d6d-2d54b55acb6c8d2458faa752125dae38.css.gzip?1511453132",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-01-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/typo3temp/compressor/merged-3141d5ac59bf3a4560d44690c7d90c4b-d65bb5ef47f3c84233a44db42f87e437.css.gzip?1506868137",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-11-25"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/baustellenvideo-mattenhof/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-08-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/spezialtransport-segelflugplatz-hegmatten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-08-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/tag-der-offenen-tuer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-08-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/typo3temp/compressor/merged-f39babc90d47351039f43230adae0f5c-648a427a3aae634566a797ed923bc9ee.css.gzip?1478243544",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/unternehmen/news/detail/?L=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-03-22"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/0/sbb-service-anlage-zuerich-herdern/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-03-13"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/0/gleisquerung-stadtmitte-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-03-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/gewerbe-und-industriebauten/sbb-service-anlage-zuerich-herdern/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-03-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/wohnbauten/belago-ermatingen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-03-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/wohnbauten/dufourstrasse-zuerich-seefeld/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-03-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/wohnbauten/grundhalde-rebackerweg-deitlikon/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-03-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/wohnbauten/letzipark-zuerich/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-03-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/wohnbauten/obsthaldenstrasse-zuerich/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-03-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Stelleninserat-Baufuehrer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-07"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/typo3temp/compressor/merged-9743c00c3f5246a5dc7aa5079f45e394-7bb37dd0db8dcc2c786cff749a742bb5.css.gzip?1476176138",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-07"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/unternehmen/news/detail/architekturpreis-region-winterthur-2016/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-07"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/unternehmen/news/detail/herzlich-willkommen-herbert-pachner/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-07"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/unternehmen/news/detail/herzliche-gratulation-tom/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-07"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/unternehmen/news/detail/kundenevent-im-sommertheater-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-07"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/unternehmen/news/detail/summerfaeschtli-in-der-neuen-zimmereihalle/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-07"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/typo3temp/compressor/merged-05b9b5a3c62a2efb775ee5a0b1d3fc4b-6b7b881f0c4c0ffe473394ca3e7c1a1b.css.gzip?1459423035",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-07-14"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/0/neubau-werkhof-friedhof-rosenberg-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-10-18"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/referenz/oeffentliche-bauten/neubau-und-umbau-altersheim-embrach/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-10-18"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/unternehmen/news/detail/die-baueingabe-fuer-unseren-neuen-firmensitz-ist-eingereicht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-08-31"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/gewerbe-industriebauten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-07-30"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/kontakt/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-07-21"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/impressum/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-07-17"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/ueber_uns/team/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-07-13"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/flash/seiten_navi_holzbau.swf?variable=modul",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-06-27"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch/flash/seiten_navi_uns.swf?variable=stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-06-26"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/flash/seiten_navi_uns?variable=team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-02-26"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-02-26"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/lageplan/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-02-26"
+    },
+    {
+      "URL": "http://baltenspergerbau.ch/holzbau/raum-modul/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-02-03"
+    },
+    {
+      "URL": "http://baltenspergerbau.ch/ueber_uns/offeneStellen/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-02-03"
+    },
+    {
+      "URL": "http://baltenspergerbau.ch/flash/navigation.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2014-12-19"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/ueber_uns/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-12-02"
+    },
+    {
+      "URL": "http://baltenspergerbau.ch/ueber_uns/ausbildung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-07-26"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/grossbau/hochbau/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-03-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/grossbau/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-03-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/flash/seiten_navi_grossbau?variable=hochbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2011-04-13"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/grossbau/hochbau/beispiele.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2011-04-13"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/systembau/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2010-10-14"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/haus/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2010-01-09"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/haus/neubau/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-10-01"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/grossbau/tiefbau/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-06-19"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/ueber_uns/leitbild/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-06-19"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/ueber_uns/news_events/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-06-19"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/ueber_uns/qualitaet/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-06-19"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/flash/seiten_navi_haus?variable=umbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/flash/seiten_navi_holzbau?variable=systembau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/haus/eigenbauten/referenzen/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/haus/eigenbauten/riet/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/innenausbau/beispiele.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/systembau/01.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/systembau/02.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/systembau/03.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/systembau/04.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/systembau/05.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/systembau/06.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/systembau/07.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/systembau/08.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-03"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/haus/eigenbauten/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/haus/kundenarbeiten/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-02"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/zimmerei-arbeiten/zimmerei-arbeiten/zimmerei-arbeiten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-18"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/23",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-18"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/27",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-09-18"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/26",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-08-06"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/24",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-15"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/25",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/jobs-karriere/lehrlingsausbildung/lehrlingsausbildung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-18"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/article/news/11",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-18"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/22",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-18"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/zimmerei-arbeiten/fassaden/?L=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/oeffentliche-bauten/gleisquerung-stadtmitte-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/oeffentliche-bauten/kantonsschule-bueelrain-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/oeffentliche-bauten/kantonsspital-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/oeffentliche-bauten/kindergarten-schulstrasse-9-ohringen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/oeffentliche-bauten/kindertragesstaette-trottenrain-9-wiesendangen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/oeffentliche-bauten/neu-und-umbau-busdepot-gruezefeld-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/oeffentliche-bauten/schulhausprovisorium-oberhauserstrasse-glattbrugg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/leitbild/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/news/detail/autohalle-andelfingen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/qualitaet/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/140821-Landbote-320_Arbeitsplaetze_auf_dem_Filetstueck.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/150402-Landbote-Lehrlingsbaustelle_Wiesendangen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/150902-Landbote-Vorfreude_auf_die_Zwillingsplaetze.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/1603-Oberizytig.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/160312-Landbote.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/170300-Puck-Ein_Herz_fuer_Sportler.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/170316-Landbote-Wincity.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/170400-Seuzizytig-Wir_sagen_Adieu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/170700-Oberizytig.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/170921_Winterthurer_Zeitung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/171218-Landbote.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/180214-Landbote.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/180301-Wir-Holzbauer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/191218_landbote_schulhaus-neftenbach-baltensperger.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/system-holzbau/anbauten-umbauten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/system-holzbau/gewerbebauten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/system-holzbau/oeffentliche-bauten-aus-holz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/system-holzbau/wohnbauten-aus-holz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/zimmerei-arbeiten/dachfenster-dachgauben/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/zimmerei-arbeiten/landwirtschaftliche-bauten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/zimmerei-arbeiten/terrassenboeden/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/zimmerei-arbeiten/thermische-isolierungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/zimmerei-arbeiten/treppen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/zimmerei-arbeiten/umbauten-sanierungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/0/2-mehrfamilienhaeuser-am-roemerweg-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/0/archhoefe-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/0/arge-superblock-sulzer-areal-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/0/behindertenheim-stiftung-steinegg-wiesendangen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/0/neu-und-umbau-busdepot-gruezefeld-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/0/neubau-schulhaus-zinzikon-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/0/neuer-geschaeftssitz-albert-einstein-strasse-19-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/0/wohnueberbauung-wyden-winterthur-wuelflingen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/umbau/umbau-sanierungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/news/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/news/detail/herzliche-gratulation/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/news/detail/pensionierung-alex-ehrat/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/news/detail/pensionierung-avelino-da-silva/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/presse/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/unternehmen/standorte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Dae_balti-chunde-umbau-maa-Web.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Organigramm-2009.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/160100-Wir-Holzbauer-Leanwood-nimmt-Schweizer-Holzbauten-unter-die-Lupe.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/160316-Winterthurer_Stadtanzeiger_Grundsteinlegung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/160316-WiWo.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/171003-HolzBaumarktSchweiz.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Presse/180127-Schaffhauser-Nachrichten.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Zertifikat_de_9001_14001_apx_20.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Zertifikat_iq_9001_14001_apx_20.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/ueber-uns/leitbild/leitbild",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/ueber-uns/unternehmen/unternehmen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/hochbau-tiefbau/bauservice",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/system-holzbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/article/news/14",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/ueber-uns/ansprechpartner/ansprechpartner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/ueber-uns/leitbild",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/disclaimer-datenschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-07"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/zimmerei-arbeiten/zimmerei-arbeiten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-07"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/jobs-karriere/stellenangebote",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-07"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Flyer_Baupraktiker.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Flyer_Maurerlehre.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/hochbau-tiefbau/neubau/neubau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/jobs-karriere/stellenangebote/stellenangebote",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/ueber-uns/ansprechpartner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Flyer_Holzbearbeiter_EBA.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/hochbau-tiefbau/neubau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-19"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/eigenbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/l/de-CH",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/article/news/13",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/14",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/ueber-uns/unternehmen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-06"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "URL": "https://baltenspergerbau.ch/assets",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://baltenspergerbau.ch/shared",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Auszug_aus_Balti-News_2019.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/fileadmin/user_upload/baltenspergerbau/PDFs/Flyer_Zimmermann.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/hochbau-tiefbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/hochbau-tiefbau/gewerbe-industriebauten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/hochbau-tiefbau/oeffentliche-bauten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/hochbau-tiefbau/wohnbauten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/zimmerei-arbeiten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/11",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/12",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/13",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/15",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/16",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/17",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/18",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/19",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/21",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/9",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/umbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/umbau/bauservice",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/umbau/kundenmaurer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/umbau/sanierungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/pdf/Zertifikat_de_9001_14001_apx_20.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/pdf/Zertifikat_iq_9001_14001_apx_20.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/typo3temp/compressor/merged-1532a2cce2ccb2ce4c437a972a0e013c-dbaf059b9ae9b5ca6390d4ba5467eb57.css.gzip?1597131048",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-24"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/typo3temp/compressor/merged-7c4cd6069ffc2d1eb38f6ea762f9cea4-f92d234e6f6c337c7610e1a46694d19b.css.gzip?1603471148",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-24"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/typo3temp/compressor/merged-94f249fb6dbe442fc69c9efcff6ffff5-babfb1a68a6cb8920326c35bb498eae1.css.gzip?1596385771",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-24"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/hochbau-tiefbau/umbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-19"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/39",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-27"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/Datenschutzerklaerung_Webseite_Aug23.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-26"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/37",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-26"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/fonts/fontawesome-webfont-.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/fonts/fontawesome-webfont-v=4.5.0.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/fonts/fontawesome-webfont-v=4.5.0.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/fonts/fontawesome-webfont-v=4.5.0.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/fonts/fontawesome-webfont-v=4.5.0.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/fonts/ionicons-v=2.0.0.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/fonts/ionicons-v=2.0.0.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/fonts/ionicons-v=2.0.0.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/fonts/revicons/revicons-5510888.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/fonts/revicons/revicons-5510888.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/assets/template/assets/fonts/revicons/revicons-5510888.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-25"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/holzbau/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-25"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/languageSwitcher/de-CH",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/41",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/44",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/45",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-03"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/43",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-27"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/article/news/43",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/29",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/30",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/31",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/38",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/40",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/42",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/46",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/47",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/article/news/31",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-06"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/32",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-07"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/33",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-07"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/34",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-07"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/35",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-07"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/jobs-karriere/stellenangebote/stellenangebote/stellenangebote",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-12"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/news/article/news/36",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/0/sanierung-eth-otto-stern-weg-3-zuerich/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/2-mehrfamilienhaeuser-am-roemerweg-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/2-mehrfamilienhaeuser-rheinaustrasse-1-benken/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/ankerstrasse-4-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/asylwohnheim-undermueli-fehraltorf/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/aufstockung-efh-kobler-hessengueetli-6-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/ausbau-dachgeschoss-buchackerstrasse-3-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/brueggliaecker-zuerich-schwamendingen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/busdepot-gruezenfeld-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/efh-fankhauser-hofstetten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/efh-ibergstrasse-75-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/gladiolenstrasse-9-seuzach/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/kalkbreite-zuerich/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/kindergarten-muehlestrasse-stein-am-rhein/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/kindertagesstaette-wiesendangen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/mfh-rheinaustrasse-1-benken/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/neubau-3-mfh-traube-rutschwil-daegerlen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/obsthaldenstrasse-zuerich-affoltern/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/schulhaus-breiteacker-pfungen-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/sternen-pfungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/wohngruppenhaus-gassacker-hagenbuch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/systemholzbau/wohnueberbauung-fridtalweg-3-11-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/bf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-09-04"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/ausbau-dachgeschoss-buchackerstrasse-3-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/boxen-toggenburger-hard-neftenbach/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/defh-saentisstrasse-3-hettlingen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/generationenhaus-elsau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/gesamtsanierung-hegifeldstrasse-76a76b-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/neubau-treppenbau-jardin-dufaux-opfikon/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/segelflugplatz-hegmatten-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/umbau-bettenstrasse-124-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/umbau-hegifeld-albisriederstrasse-110-156-zuerich/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/umbau-truttikerstrasse-1-ossingen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/umbau-zinikerweg-11-reutlingen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/wiesenstrasse-2c-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/wohnhaus-kuemin-reutlingen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/wohnueberbauung-purpelstrasse-seegraeben/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/zimmerei-arbeiten/zellwegerpark-uster/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/impressum-disclaimer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/gewerbe-und-industriebauten/archhoefe-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/gewerbe-und-industriebauten/blackbox-wiesenstrasse-2c-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/gewerbe-und-industriebauten/neuer-geschaeftssitz-albert-einstein-strasse-19-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/gewerbe-und-industriebauten/umbau-tankstelle-hutter-auto-riedbach-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/gewerbe-und-industriebauten/volg-weinkellerei-niederfeld/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/modulbau/asylunterkunft-winkel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/modulbau/raum-modul-info-pavillon-bruderhaus-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/modulbau/raum-modul-schulhaus-ebikon/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/modulbau/schulhaus-eichliacker-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/modulbau/schulhaus-guggenbuehl-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/modulbau/schulhaus-hegi-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/modulbau/schulhaus-schoenengrund-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/modulbau/schulhaus-toessfeld-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "https://www.baltenspergerbau.ch/referenz/modulbau/schulhaus-wilacker-adliswil/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/haus/sanierung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/haus/umbau/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/innenausbau/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/kundenarbeiten/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-05-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/ueber_uns/ausbildung/Stellensch_06.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2007-07-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/neubau/beispiele.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2007-04-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/neubau/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2007-04-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/umbau/beispiele.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2007-04-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/umbau/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2007-04-02"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/eigenbau/bf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2006-06-26"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/eigenbau/lf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-09-25"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/eigenbau/rf_obj_florenstrasse.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-09-24"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/tf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-09-11"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/lf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-09-07"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-09-07"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/eigenbau/rf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-09-06"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/rf_neubau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-08-19"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_aumbauten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-22"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_tiefbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-22"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_hochbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-21"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_kundenarb.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-21"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_skiweekend.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-21"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/rf_umbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-20"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/team/bf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-20"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/rf_planung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-19"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/rf_team.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-19"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/rf_elesys.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-18"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/rf_innen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-18"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/eigenbau/rf_obj_florenstrasselage.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-17"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/eigenbau/rf_obj_florenstrasseplaene.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-17"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/eigenbau/rf_referenz.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-17"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/eigenbau/rf_obj_eigenacker.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-04-09"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/eigenbau/rf_obj_florenstrassebau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-04-09"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/lf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-04-09"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/bf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-04-09"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/misc/rf_contact.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-04-09"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/team/rf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-04-09"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/bf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-04-07"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/misc/rf_hochbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-03-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/rf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-03-10"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/misc/rf_quality.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-03-06"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/holzbau/rf_index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-08"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/updatemai03/rf_obj_airside.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-07"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_beton.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-10-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_divers.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-10-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_fassade.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-10-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_feierabend.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-10-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_kanal.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-10-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_indbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-10-27"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/htbau/rf_wgbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-10-27"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/eigenbau/rf_obj_robinia.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2003-04-28"
+    },
+    {
+      "URL": "http://www.baltenspergerbau.ch:80/eigenbau/rf_obj_deutweg.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2003-03-17"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "a.herger@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "a.mujovikj@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "a.steigbuegel@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "a.wyss@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "b.baltensperger@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "baltenspergerbau@devshell.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "E-Mail": "c.favretto@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "c.manser@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "c.zahnd@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "d.hohl@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "datenschutz@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-07"
+    },
+    {
+      "E-Mail": "e.stauffer@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "f.divanni@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "h.fehr@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "info@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "E-Mail": "j.ruch@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "k.banas@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "k.jozes@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "k.schroer@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "m.kaegi@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "m.ruch@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "m.schnyder@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "m.schoechli@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "m.waelchli@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "n.koch@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "n.naegeli@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "n.parli@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "p.bernhard@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "p.buri@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "p.kramer@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "r.baltensperger@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "r.hofmann@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "r.labarbera@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "r.manser@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "r.rusch2@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "r.rusch@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "r.wachter@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "s.frey@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "s.stenek@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "s.werren@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "t.gruber@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "t.leuenberger@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "t.walser@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "t.wuethrich@baltenspergerbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41523202220",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "Telefonnummern": "+41786036669",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "Telefonnummern": "+41794748559",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "Telefonnummern": "+41796715619",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    }
+  ],
+  "service": [
+    {
+      "Port": 25,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "146.4.86.123",
+      "Domain/Subdomain": "baltenspergerbau.ch, mailae.baltenspergerbau.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "Outlook Web App",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "146.4.86.123",
+      "Domain/Subdomain": "baltenspergerbau.ch, mailae.baltenspergerbau.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:microsoft:asp.net, cpe:/a:microsoft:internet_information_services, cpe:/a:microsoft:outlook, cpe:/a:microsoft:outlook_web_access:15.1.2507, cpe:/o:microsoft:windows",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 465,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "146.4.86.123",
+      "Domain/Subdomain": "baltenspergerbau.ch, mailae.baltenspergerbau.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

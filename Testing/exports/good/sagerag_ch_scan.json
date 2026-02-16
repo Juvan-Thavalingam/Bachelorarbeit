@@ -1,0 +1,2549 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "194.124.232.186",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2001:67c:1984::232:186:1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "sagerag-ch.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "mulgore.mva-n.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Name Server": "specter.mva-n.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 +a +mx +a:mulgore.mva-n.net include:spf.mva-n.net include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "1209600",
+      "Serial": "2023103105",
+      "Refresh": "10800",
+      "Hostmaster": "info.sagerag.ch.",
+      "Minimum TTL": "10800",
+      "Primary Nameserver": "specter.mva-n.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "194.124.232.186",
+      "PTR-Domain": "suissetec-web.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "IP-Adresse": "2001:67c:1984::232:186:1",
+      "PTR-Domain": "suissetec-web.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "sagerag.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-14",
+      "Gültig bis": "2025-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-14"
+    },
+    {
+      "Gültig ab": "2025-04-14",
+      "Gültig bis": "2025-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-14"
+    },
+    {
+      "Gültig ab": "2025-02-13",
+      "Gültig bis": "2025-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "Gültig ab": "2025-02-13",
+      "Gültig bis": "2025-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "Gültig ab": "2024-12-15",
+      "Gültig bis": "2025-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-15"
+    },
+    {
+      "Gültig ab": "2024-12-15",
+      "Gültig bis": "2025-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-15"
+    },
+    {
+      "Gültig ab": "2024-10-16",
+      "Gültig bis": "2025-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-16"
+    },
+    {
+      "Gültig ab": "2024-10-16",
+      "Gültig bis": "2025-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-16"
+    },
+    {
+      "Gültig ab": "2024-08-16",
+      "Gültig bis": "2024-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-16"
+    },
+    {
+      "Gültig ab": "2024-08-16",
+      "Gültig bis": "2024-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-16"
+    },
+    {
+      "Gültig ab": "2024-06-17",
+      "Gültig bis": "2024-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "Gültig ab": "2024-06-17",
+      "Gültig bis": "2024-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "Gültig ab": "2024-04-18",
+      "Gültig bis": "2024-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-18"
+    },
+    {
+      "Gültig ab": "2024-04-18",
+      "Gültig bis": "2024-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-18"
+    },
+    {
+      "Gültig ab": "2024-02-17",
+      "Gültig bis": "2024-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "Gültig ab": "2024-02-17",
+      "Gültig bis": "2024-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "Gültig ab": "2023-12-19",
+      "Gültig bis": "2024-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-19"
+    },
+    {
+      "Gültig ab": "2023-12-19",
+      "Gültig bis": "2024-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-19"
+    },
+    {
+      "Gültig ab": "2023-10-19",
+      "Gültig bis": "2024-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-19"
+    },
+    {
+      "Gültig ab": "2023-10-19",
+      "Gültig bis": "2024-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-19"
+    },
+    {
+      "Gültig ab": "2023-08-20",
+      "Gültig bis": "2023-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-20"
+    },
+    {
+      "Gültig ab": "2023-08-20",
+      "Gültig bis": "2023-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-20"
+    },
+    {
+      "Gültig ab": "2023-06-21",
+      "Gültig bis": "2023-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-21"
+    },
+    {
+      "Gültig ab": "2023-06-21",
+      "Gültig bis": "2023-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-21"
+    },
+    {
+      "Gültig ab": "2023-06-19",
+      "Gültig bis": "2023-09-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "Gültig ab": "2023-06-19",
+      "Gültig bis": "2023-09-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "Gültig ab": "2023-06-07",
+      "Gültig bis": "2023-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-07"
+    },
+    {
+      "Gültig ab": "2023-06-07",
+      "Gültig bis": "2023-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-07"
+    },
+    {
+      "Gültig ab": "2023-06-06",
+      "Gültig bis": "2023-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-06"
+    },
+    {
+      "Gültig ab": "2023-06-06",
+      "Gültig bis": "2023-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-06"
+    },
+    {
+      "Gültig ab": "2023-05-30",
+      "Gültig bis": "2023-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-30"
+    },
+    {
+      "Gültig ab": "2023-05-30",
+      "Gültig bis": "2023-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-30"
+    },
+    {
+      "Gültig ab": "2023-05-24",
+      "Gültig bis": "2023-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-24"
+    },
+    {
+      "Gültig ab": "2023-05-24",
+      "Gültig bis": "2023-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-24"
+    },
+    {
+      "Gültig ab": "2023-05-22",
+      "Gültig bis": "2023-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-22"
+    },
+    {
+      "Gültig ab": "2023-05-22",
+      "Gültig bis": "2023-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-22"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-08",
+      "Gültig bis": "2023-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-08"
+    },
+    {
+      "Gültig ab": "2023-05-08",
+      "Gültig bis": "2023-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-08"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-04-20",
+      "Gültig bis": "2023-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-20"
+    },
+    {
+      "Gültig ab": "2023-04-20",
+      "Gültig bis": "2023-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-20"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2023-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2023-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-02-23",
+      "Gültig bis": "2023-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-23"
+    },
+    {
+      "Gültig ab": "2023-02-23",
+      "Gültig bis": "2023-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-23"
+    },
+    {
+      "Gültig ab": "2023-02-06",
+      "Gültig bis": "2023-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "Gültig ab": "2023-02-06",
+      "Gültig bis": "2023-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "Gültig ab": "2023-02-01",
+      "Gültig bis": "2023-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-01"
+    },
+    {
+      "Gültig ab": "2023-02-01",
+      "Gültig bis": "2023-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-01"
+    },
+    {
+      "Gültig ab": "2023-01-13",
+      "Gültig bis": "2023-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-13"
+    },
+    {
+      "Gültig ab": "2023-01-13",
+      "Gültig bis": "2023-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-13"
+    },
+    {
+      "Gültig ab": "2022-11-14",
+      "Gültig bis": "2023-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-14"
+    },
+    {
+      "Gültig ab": "2022-11-14",
+      "Gültig bis": "2023-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-14"
+    },
+    {
+      "Gültig ab": "2022-11-14",
+      "Gültig bis": "2023-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-14"
+    },
+    {
+      "Gültig ab": "2022-11-14",
+      "Gültig bis": "2023-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-14"
+    },
+    {
+      "Gültig ab": "2022-11-14",
+      "Gültig bis": "2023-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-14"
+    },
+    {
+      "Gültig ab": "2022-11-14",
+      "Gültig bis": "2023-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-14"
+    },
+    {
+      "Gültig ab": "2022-11-10",
+      "Gültig bis": "2023-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-10"
+    },
+    {
+      "Gültig ab": "2022-11-10",
+      "Gültig bis": "2023-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-10"
+    },
+    {
+      "Gültig ab": "2022-11-02",
+      "Gültig bis": "2023-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-02"
+    },
+    {
+      "Gültig ab": "2022-11-02",
+      "Gültig bis": "2023-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-02"
+    },
+    {
+      "Gültig ab": "2022-10-01",
+      "Gültig bis": "2022-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-01"
+    },
+    {
+      "Gültig ab": "2022-10-01",
+      "Gültig bis": "2022-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-01"
+    },
+    {
+      "Gültig ab": "2022-09-30",
+      "Gültig bis": "2022-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-30"
+    },
+    {
+      "Gültig ab": "2022-09-30",
+      "Gültig bis": "2022-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-30"
+    },
+    {
+      "Gültig ab": "2022-08-06",
+      "Gültig bis": "2022-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-06"
+    },
+    {
+      "Gültig ab": "2022-08-06",
+      "Gültig bis": "2022-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-06"
+    },
+    {
+      "Gültig ab": "2022-08-02",
+      "Gültig bis": "2022-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-02"
+    },
+    {
+      "Gültig ab": "2022-08-02",
+      "Gültig bis": "2022-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-02"
+    },
+    {
+      "Gültig ab": "2022-06-14",
+      "Gültig bis": "2022-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-14"
+    },
+    {
+      "Gültig ab": "2022-06-14",
+      "Gültig bis": "2022-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-14"
+    },
+    {
+      "Gültig ab": "2022-06-08",
+      "Gültig bis": "2022-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-08"
+    },
+    {
+      "Gültig ab": "2022-06-08",
+      "Gültig bis": "2022-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-08"
+    },
+    {
+      "Gültig ab": "2022-04-25",
+      "Gültig bis": "2022-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-25"
+    },
+    {
+      "Gültig ab": "2022-04-25",
+      "Gültig bis": "2022-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-25"
+    },
+    {
+      "Gültig ab": "2022-04-14",
+      "Gültig bis": "2022-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-14"
+    },
+    {
+      "Gültig ab": "2022-04-14",
+      "Gültig bis": "2022-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-14"
+    },
+    {
+      "Gültig ab": "2022-03-02",
+      "Gültig bis": "2022-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-02"
+    },
+    {
+      "Gültig ab": "2022-03-02",
+      "Gültig bis": "2022-05-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-02"
+    },
+    {
+      "Gültig ab": "2022-02-17",
+      "Gültig bis": "2022-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-17"
+    },
+    {
+      "Gültig ab": "2022-02-17",
+      "Gültig bis": "2022-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-17"
+    },
+    {
+      "Gültig ab": "2022-01-06",
+      "Gültig bis": "2022-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-06"
+    },
+    {
+      "Gültig ab": "2022-01-06",
+      "Gültig bis": "2022-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-06"
+    },
+    {
+      "Gültig ab": "2021-12-22",
+      "Gültig bis": "2022-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-23"
+    },
+    {
+      "Gültig ab": "2021-12-22",
+      "Gültig bis": "2022-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-23"
+    },
+    {
+      "Gültig ab": "2021-11-09",
+      "Gültig bis": "2022-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-09"
+    },
+    {
+      "Gültig ab": "2021-11-09",
+      "Gültig bis": "2022-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-09"
+    },
+    {
+      "Gültig ab": "2021-10-27",
+      "Gültig bis": "2022-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-27"
+    },
+    {
+      "Gültig ab": "2021-10-27",
+      "Gültig bis": "2022-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-27"
+    },
+    {
+      "Gültig ab": "2021-09-20",
+      "Gültig bis": "2021-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-20"
+    },
+    {
+      "Gültig ab": "2021-09-20",
+      "Gültig bis": "2021-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-20"
+    },
+    {
+      "Gültig ab": "2021-09-06",
+      "Gültig bis": "2021-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-06"
+    },
+    {
+      "Gültig ab": "2021-09-06",
+      "Gültig bis": "2021-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-06"
+    },
+    {
+      "Gültig ab": "2021-08-01",
+      "Gültig bis": "2021-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-01"
+    },
+    {
+      "Gültig ab": "2021-08-01",
+      "Gültig bis": "2021-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-01"
+    },
+    {
+      "Gültig ab": "2021-07-19",
+      "Gültig bis": "2021-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-19"
+    },
+    {
+      "Gültig ab": "2021-07-19",
+      "Gültig bis": "2021-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-19"
+    },
+    {
+      "Gültig ab": "2021-06-13",
+      "Gültig bis": "2021-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "Gültig ab": "2021-06-13",
+      "Gültig bis": "2021-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "Gültig ab": "2021-05-31",
+      "Gültig bis": "2021-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-31"
+    },
+    {
+      "Gültig ab": "2021-05-31",
+      "Gültig bis": "2021-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-31"
+    },
+    {
+      "Gültig ab": "2021-04-26",
+      "Gültig bis": "2021-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-27"
+    },
+    {
+      "Gültig ab": "2021-04-26",
+      "Gültig bis": "2021-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-27"
+    },
+    {
+      "Gültig ab": "2021-04-06",
+      "Gültig bis": "2021-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-06"
+    },
+    {
+      "Gültig ab": "2021-04-06",
+      "Gültig bis": "2021-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-06"
+    },
+    {
+      "Gültig ab": "2021-03-08",
+      "Gültig bis": "2021-06-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-08"
+    },
+    {
+      "Gültig ab": "2021-03-08",
+      "Gültig bis": "2021-06-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-08"
+    },
+    {
+      "Gültig ab": "2021-02-09",
+      "Gültig bis": "2021-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-09"
+    },
+    {
+      "Gültig ab": "2021-02-09",
+      "Gültig bis": "2021-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-09"
+    },
+    {
+      "Gültig ab": "2021-01-15",
+      "Gültig bis": "2021-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "Gültig ab": "2021-01-15",
+      "Gültig bis": "2021-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "Gültig ab": "2020-12-20",
+      "Gültig bis": "2021-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-20"
+    },
+    {
+      "Gültig ab": "2020-12-20",
+      "Gültig bis": "2021-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-20"
+    },
+    {
+      "Gültig ab": "2020-11-28",
+      "Gültig bis": "2021-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-11-28"
+    },
+    {
+      "Gültig ab": "2020-11-28",
+      "Gültig bis": "2021-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-11-28"
+    },
+    {
+      "Gültig ab": "2020-11-02",
+      "Gültig bis": "2021-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-11-02"
+    },
+    {
+      "Gültig ab": "2020-11-02",
+      "Gültig bis": "2021-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-11-02"
+    },
+    {
+      "Gültig ab": "2020-10-09",
+      "Gültig bis": "2021-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-09"
+    },
+    {
+      "Gültig ab": "2020-10-09",
+      "Gültig bis": "2021-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-09"
+    },
+    {
+      "Gültig ab": "2020-09-13",
+      "Gültig bis": "2020-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-09-13"
+    },
+    {
+      "Gültig ab": "2020-09-13",
+      "Gültig bis": "2020-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-09-13"
+    },
+    {
+      "Gültig ab": "2020-08-21",
+      "Gültig bis": "2020-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-21"
+    },
+    {
+      "Gültig ab": "2020-08-21",
+      "Gültig bis": "2020-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-21"
+    },
+    {
+      "Gültig ab": "2020-07-26",
+      "Gültig bis": "2020-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-07-26"
+    },
+    {
+      "Gültig ab": "2020-07-26",
+      "Gültig bis": "2020-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-07-26"
+    },
+    {
+      "Gültig ab": "2020-07-05",
+      "Gültig bis": "2020-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-07-05"
+    },
+    {
+      "Gültig ab": "2020-07-05",
+      "Gültig bis": "2020-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-07-05"
+    },
+    {
+      "Gültig ab": "2020-06-07",
+      "Gültig bis": "2020-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-07"
+    },
+    {
+      "Gültig ab": "2020-06-07",
+      "Gültig bis": "2020-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-07"
+    },
+    {
+      "Gültig ab": "2020-05-15",
+      "Gültig bis": "2020-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-05-15"
+    },
+    {
+      "Gültig ab": "2020-05-15",
+      "Gültig bis": "2020-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-05-15"
+    },
+    {
+      "Gültig ab": "2020-04-15",
+      "Gültig bis": "2020-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-15"
+    },
+    {
+      "Gültig ab": "2020-04-15",
+      "Gültig bis": "2020-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-15"
+    },
+    {
+      "Gültig ab": "2020-03-24",
+      "Gültig bis": "2020-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-03-24"
+    },
+    {
+      "Gültig ab": "2020-03-24",
+      "Gültig bis": "2020-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-03-24"
+    },
+    {
+      "Gültig ab": "2020-02-22",
+      "Gültig bis": "2020-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-22"
+    },
+    {
+      "Gültig ab": "2020-02-22",
+      "Gültig bis": "2020-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-22"
+    },
+    {
+      "Gültig ab": "2020-01-31",
+      "Gültig bis": "2020-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-01-31"
+    },
+    {
+      "Gültig ab": "2020-01-31",
+      "Gültig bis": "2020-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-01-31"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-12-14",
+      "Gültig bis": "2020-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-14"
+    },
+    {
+      "Gültig ab": "2019-12-14",
+      "Gültig bis": "2020-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-14"
+    },
+    {
+      "Gültig ab": "2019-11-11",
+      "Gültig bis": "2020-02-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-11"
+    },
+    {
+      "Gültig ab": "2019-11-11",
+      "Gültig bis": "2020-02-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-11"
+    },
+    {
+      "Gültig ab": "2019-10-25",
+      "Gültig bis": "2020-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "Gültig ab": "2019-10-25",
+      "Gültig bis": "2020-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-25"
+    },
+    {
+      "Gültig ab": "2019-09-22",
+      "Gültig bis": "2019-12-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-09-23"
+    },
+    {
+      "Gültig ab": "2019-09-22",
+      "Gültig bis": "2019-12-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-09-23"
+    },
+    {
+      "Gültig ab": "2019-09-06",
+      "Gültig bis": "2019-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-09-06"
+    },
+    {
+      "Gültig ab": "2019-09-06",
+      "Gültig bis": "2019-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-09-06"
+    },
+    {
+      "Gültig ab": "2019-07-31",
+      "Gültig bis": "2019-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-07-31"
+    },
+    {
+      "Gültig ab": "2019-07-31",
+      "Gültig bis": "2019-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-07-31"
+    },
+    {
+      "Gültig ab": "2019-07-19",
+      "Gültig bis": "2019-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-07-19"
+    },
+    {
+      "Gültig ab": "2019-07-19",
+      "Gültig bis": "2019-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-07-19"
+    },
+    {
+      "Gültig ab": "2019-06-07",
+      "Gültig bis": "2019-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-06-07"
+    },
+    {
+      "Gültig ab": "2019-06-07",
+      "Gültig bis": "2019-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-06-07"
+    },
+    {
+      "Gültig ab": "2019-05-28",
+      "Gültig bis": "2019-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-05-28"
+    },
+    {
+      "Gültig ab": "2019-05-28",
+      "Gültig bis": "2019-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-05-28"
+    },
+    {
+      "Gültig ab": "2019-04-11",
+      "Gültig bis": "2019-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-04-11"
+    },
+    {
+      "Gültig ab": "2019-04-11",
+      "Gültig bis": "2019-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-04-11"
+    },
+    {
+      "Gültig ab": "2019-04-06",
+      "Gültig bis": "2019-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-04-06"
+    },
+    {
+      "Gültig ab": "2019-04-06",
+      "Gültig bis": "2019-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-04-06"
+    },
+    {
+      "Gültig ab": "2019-02-17",
+      "Gültig bis": "2019-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-17"
+    },
+    {
+      "Gültig ab": "2019-02-17",
+      "Gültig bis": "2019-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-17"
+    },
+    {
+      "Gültig ab": "2019-02-15",
+      "Gültig bis": "2019-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-15"
+    },
+    {
+      "Gültig ab": "2019-02-15",
+      "Gültig bis": "2019-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-15"
+    },
+    {
+      "Gültig ab": "2018-12-16",
+      "Gültig bis": "2019-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "Gültig ab": "2018-12-16",
+      "Gültig bis": "2019-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "Gültig ab": "2018-12-13",
+      "Gültig bis": "2019-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-12-13"
+    },
+    {
+      "Gültig ab": "2018-12-13",
+      "Gültig bis": "2019-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-12-13"
+    },
+    {
+      "Gültig ab": "2018-10-12",
+      "Gültig bis": "2019-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "Gültig ab": "2018-10-12",
+      "Gültig bis": "2019-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "Gültig ab": "2018-09-23",
+      "Gültig bis": "2018-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-23"
+    },
+    {
+      "Gültig ab": "2018-09-23",
+      "Gültig bis": "2018-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-23"
+    },
+    {
+      "Gültig ab": "2018-07-25",
+      "Gültig bis": "2018-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-07-25"
+    },
+    {
+      "Gültig ab": "2018-07-25",
+      "Gültig bis": "2018-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-07-25"
+    },
+    {
+      "Gültig ab": "2018-07-06",
+      "Gültig bis": "2018-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-07-06"
+    },
+    {
+      "Gültig ab": "2018-07-06",
+      "Gültig bis": "2018-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-07-06"
+    },
+    {
+      "Gültig ab": "2018-06-21",
+      "Gültig bis": "2018-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-06-21"
+    },
+    {
+      "Gültig ab": "2018-06-21",
+      "Gültig bis": "2018-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-06-21"
+    },
+    {
+      "Gültig ab": "2018-05-24",
+      "Gültig bis": "2018-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-05-24"
+    },
+    {
+      "Gültig ab": "2018-05-24",
+      "Gültig bis": "2018-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-05-24"
+    },
+    {
+      "Gültig ab": "2018-05-11",
+      "Gültig bis": "2018-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-05-11"
+    },
+    {
+      "Gültig ab": "2018-05-11",
+      "Gültig bis": "2018-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-05-11"
+    },
+    {
+      "Gültig ab": "2018-05-01",
+      "Gültig bis": "2018-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-05-01"
+    },
+    {
+      "Gültig ab": "2018-05-01",
+      "Gültig bis": "2018-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-05-01"
+    },
+    {
+      "Gültig ab": "2018-04-10",
+      "Gültig bis": "2018-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-04-10"
+    },
+    {
+      "Gültig ab": "2018-04-10",
+      "Gültig bis": "2018-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-04-10"
+    },
+    {
+      "Gültig ab": "2018-04-08",
+      "Gültig bis": "2018-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-04-09"
+    },
+    {
+      "Gültig ab": "2018-04-08",
+      "Gültig bis": "2018-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-04-08"
+    },
+    {
+      "Gültig ab": "2018-01-28",
+      "Gültig bis": "2018-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-01-28"
+    },
+    {
+      "Gültig ab": "2018-01-26",
+      "Gültig bis": "2018-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-01-26"
+    },
+    {
+      "Gültig ab": "2017-11-17",
+      "Gültig bis": "2018-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-11-17"
+    },
+    {
+      "Gültig ab": "2017-11-15",
+      "Gültig bis": "2018-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-11-15"
+    },
+    {
+      "Gültig ab": "2017-09-07",
+      "Gültig bis": "2017-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-09-07"
+    },
+    {
+      "Gültig ab": "2017-09-05",
+      "Gültig bis": "2017-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-09-05"
+    },
+    {
+      "Gültig ab": "2017-07-14",
+      "Gültig bis": "2017-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-07-14"
+    },
+    {
+      "Gültig ab": "2017-05-15",
+      "Gültig bis": "2017-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-05-15"
+    },
+    {
+      "Gültig ab": "2017-04-03",
+      "Gültig bis": "2017-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-04-03"
+    },
+    {
+      "Gültig ab": "2017-02-24",
+      "Gültig bis": "2017-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-02-25"
+    },
+    {
+      "Gültig ab": "2017-01-20",
+      "Gültig bis": "2017-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-20"
+    },
+    {
+      "Gültig ab": "2016-11-29",
+      "Gültig bis": "2017-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-11-29"
+    },
+    {
+      "Gültig ab": "2016-11-16",
+      "Gültig bis": "2017-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sagerag.ch, www.sagerag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-11-16"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.sagerag.ch/heizung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://www.sagerag.ch/schnupperlehre-und-ausbildung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/sponsoring/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/ueber-uns/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/category/aktuelles/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://www.sagerag.ch/referenzen/sanierung-von-94-nasszellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-brands-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-brands-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-brands-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-duotone-900.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-duotone-900.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-duotone-900.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-duotone-900.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-light-300.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-light-300.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-light-300.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-light-300.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-regular-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-regular-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-regular-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-regular-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-solid-900.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-solid-900.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-solid-900.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-100.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-100.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-100.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-100.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-300.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-300.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-300.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/sanitaer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-300.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-700.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-700.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-700.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-700.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-regular.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-regular.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/css/fonts/roboto-v30-latin-regular.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/js/fancybox/Image.fit",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/templates/blocks/slider-content/fonts/slick.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/templates/blocks/slider-content/fonts/slick.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/themes/suissetec/templates/blocks/slider-content/fonts/slick.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sagerag.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/kontakt/datenschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/kontakt/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/offene-stellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-admin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-content/uploads/sites/60/2022/09/2019_Image_Spot_de_LOW.mp4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sagerag.ch%2Fkontakt%2F",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-json/wp/v2/pages/48",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-sitemap-posts-page-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-sitemap-posts-post-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-sitemap-posts-referenzen-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-sitemap-taxonomies-Bereich-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-sitemap-taxonomies-category-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/wp-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/xmlrpc.php?rsd",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/blitzschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://www.sagerag.ch/firmengeschichte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://www.sagerag.ch/links/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://www.sagerag.ch/sanit%C3%A4r/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://www.sagerag.ch/sitemap/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://www.sagerag.ch/spenglerarbeiten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://www.sagerag.ch/team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://www.sagerag.ch/team/auszubildende/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://www.sagerag.ch/team/b%C3%BCro/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://www.sagerag.ch/team/installateure/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://www.sagerag.ch/unser-gesch%C3%A4ft-360/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://www.sagerag.ch/urimat/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-25"
+    },
+    {
+      "URL": "https://sagerag.ch/app",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-14"
+    },
+    {
+      "URL": "https://sagerag.ch/app/download",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-14"
+    },
+    {
+      "URL": "https://sagerag.ch/app/module/webproduct/goto",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-14"
+    },
+    {
+      "URL": "https://sagerag.ch/j",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-14"
+    },
+    {
+      "URL": "https://www.sagerag.ch/app/common/captcha/index/captchaId/c81d355fb2d74eda39a663f6e816672e22515b9f",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-12-06"
+    },
+    {
+      "URL": "https://www.sagerag.ch/j/cookies/policy/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-12-06"
+    },
+    {
+      "URL": "http://www.sagerag.ch:80/banner.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-03-16"
+    },
+    {
+      "URL": "http://www.sagerag.ch:80/content.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2004-03-18"
+    },
+    {
+      "URL": "http://www.sagerag.ch:80/navi.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2004-03-18"
+    },
+    {
+      "URL": "http://sagerag.ch:80/html/startseite/Logo_seite.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-06-06"
+    },
+    {
+      "URL": "http://sagerag.ch:80/html/startseite/Startseite_navigation.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-06-06"
+    },
+    {
+      "URL": "https://www.sagerag.ch/datenschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/footer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/geschichte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/referenzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/referenzen/erneuerung-sanitaer-und-lueftungsanlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/referenzen/installation-waermepumpe/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/referenzen/modernisierung-sanitaer-und-heizungsanlagen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.sagerag.ch/referenzen/sanierung-nasszellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "dpo-google@google.com",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "E-Mail": "giuseppe.picone@sagerag.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "E-Mail": "info@sagerag.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "E-Mail": "martin.sager@sagerag.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522221932",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    }
+  ],
+  "service": [
+    {
+      "Port": 500,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "udp",
+      "IPv4-Adresse": "81.63.137.91",
+      "Domain/Subdomain": "mail.sagerag.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

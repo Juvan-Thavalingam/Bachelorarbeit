@@ -1,0 +1,823 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "217.26.63.20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a00:d70:0:a::400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx2.aspcloud.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Präferenz": "5",
+      "Mailserver (MX)": "mx1.aspcloud.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "ns2.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "ns3.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"mqeqp8ml7ba6shl6fa3qhqf1sv\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Text Record": "\"v=spf1 include:spf.aspcloud.ch -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "3628800",
+      "Serial": "1747267200",
+      "Refresh": "86400",
+      "Hostmaster": "hostmaster.hostpoint.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "217.26.63.20",
+      "PTR-Domain": "wtredirect.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "IP-Adresse": "2a00:d70:0:a::400",
+      "PTR-Domain": "wtredirect.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "autodiscover.andres-transport.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "mail.andres-transport.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "mail.andres-transport.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-14",
+      "Gültig bis": "2026-05-16",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-14"
+    },
+    {
+      "Gültig ab": "2025-04-11",
+      "Gültig bis": "2026-05-13",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-11"
+    },
+    {
+      "Gültig ab": "2024-04-08",
+      "Gültig bis": "2025-05-10",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-09"
+    },
+    {
+      "Gültig ab": "2025-04-09",
+      "Gültig bis": "2025-06-02",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-09"
+    },
+    {
+      "Gültig ab": "2024-04-08",
+      "Gültig bis": "2025-05-10",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-08"
+    },
+    {
+      "Gültig ab": "2024-04-08",
+      "Gültig bis": "2025-05-10",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-08"
+    },
+    {
+      "Gültig ab": "2024-04-08",
+      "Gültig bis": "2024-05-04",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-08"
+    },
+    {
+      "Gültig ab": "2023-05-31",
+      "Gültig bis": "2024-05-04",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-31"
+    },
+    {
+      "Gültig ab": "2023-04-03",
+      "Gültig bis": "2024-05-04",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-03"
+    },
+    {
+      "Gültig ab": "2022-06-02",
+      "Gültig bis": "2023-06-02",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-02"
+    },
+    {
+      "Gültig ab": "2022-04-11",
+      "Gültig bis": "2023-05-13",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "Gültig ab": "2020-06-02",
+      "Gültig bis": "2022-06-02",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-06-02"
+    },
+    {
+      "Gültig ab": "2020-06-02",
+      "Gültig bis": "2022-06-15",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "mail.andres-transport.ch, www.mail.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-06-02"
+    },
+    {
+      "Gültig ab": "2014-06-13",
+      "Gültig bis": "2017-06-15",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "mail.andres-transport.ch, www.mail.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-02-03"
+    },
+    {
+      "Gültig ab": "2017-05-24",
+      "Gültig bis": "2020-06-15",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "mail.andres-transport.ch, www.mail.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-01-09"
+    },
+    {
+      "Gültig ab": "2011-06-15",
+      "Gültig bis": "2014-06-15",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certificates.godaddy.com/repository, CN=Go Daddy Secure Certification Authority, serialNumber=07969287",
+      "Domain/Subdomain": "mail.andres-transport.ch, www.mail.andres-transport.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-10-02"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "http://www.andres-transport.ch:80/download/formulare/form_sped.doc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-15"
+    },
+    {
+      "URL": "http://andres-transport.ch/dienstleistungen/lagerundlogistik/lagern/index.html/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-12-05"
+    },
+    {
+      "URL": "http://andres-transport.ch/dienstleistungen/aushubundabbruch/aushubabbruch/index.html/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-12-01"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/aktuell/jobs/ins_vertragsfahrer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-29"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/aktuell/news/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/regional/mulden/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/kontakt/ansprechpartner/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/ueberuns/philosophieundgeschaeftsbereiche/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "URL": "http://andres-transport.ch/impressum.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-03"
+    },
+    {
+      "URL": "http://andres-transport.ch/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-03"
+    },
+    {
+      "URL": "http://andres-transport.ch/plaintext/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-03"
+    },
+    {
+      "URL": "http://andres-transport.ch/printable/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-03"
+    },
+    {
+      "URL": "http://andres-transport.ch/sitemap/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-03"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/international/stueckgut/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2009-07-10"
+    },
+    {
+      "URL": "http://www.andres-transport.ch/dienstleistungen/busbetrieb/busbetrieb/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-03-27"
+    },
+    {
+      "URL": "http://www.andres-transport.ch/dienstleistungen/food/kuehltransporte/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-03-27"
+    },
+    {
+      "URL": "http://www.andres-transport.ch/dienstleistungen/kran/kran/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-03-27"
+    },
+    {
+      "URL": "http://www.andres-transport.ch/download/formulare/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-03-27"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/busbetrieb/fundbuero/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-02-18"
+    },
+    {
+      "URL": "http://www.andres-transport.ch/aktuell/jobs/ins_chauffeur_bus.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-10-09"
+    },
+    {
+      "URL": "http://www.andres-transport.ch/aktuell/jobs/ins_hilfsarbeiter.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-10-08"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/aktuell/jobs/ins_chauffeur_c_frischdienst.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-05-14"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/ueberuns/engagement/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-28"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/ueberuns/lehrlinge/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-28"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/ueberuns/qualitaetundsicherheit/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-28"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/ueberuns/bildergallerie/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/ueberuns/standorte/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/ueberuns/verbaende/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/ueberuns/geschichte/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-21"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/ueberuns/geschaeftsleitung/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-17"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/ueberuns/zahlenundfakten/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-17"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/printable/aktuell/news/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-03-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/printable/ueberuns/philosophieundgeschaeftsbereiche/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-03-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/busbetrieb/fahrplanvbg/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-03-24"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/regional/aushubundkies/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-03-24"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/regional/belagundbeton/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-03-24"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/regional/entsorgungundrecycling/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-03-24"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/regional/kehrrichtabfuhr/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-03-24"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/printable/aktuell/jobs/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-03-24"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/printable/dienstleistungen/busbetrieb/busbetrieb/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-03-24"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/printable/dienstleistungen/regional/mulden/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-03-24"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/aktuell/jobs/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-03-23"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/aktuell/jobs/ins_lehrlinge_2012.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/download/formulare/agr.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/download/formulare/Deponienachweis_081127.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/download/formulare/FFHB.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/download/formulare/kipper_zonenplan_2010.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/download/formulare/material_2012_z2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/download/formulare/material_2012_z3.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/download/formulare/regiepreise_2012.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/download/formulare/treibstoffzuschlag.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/download/formulare/treibstoffzuschlag_2011.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/download/formulare/treibstoffzuschlag_2012.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-25"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/national/stueckgut/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-18"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/regional/kran/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-18"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/regional/mobilerbrecher/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-18"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/regional/schwertransportebis50tonnen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-18"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/download/logos/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-18"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/kontakt/anschrift/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-18"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/kontakt/kontaktformular/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2012-04-18"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/downloads/organigramm.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2011-01-12"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/aushubundabbruch/altlastensanierung/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/lagerundlogistik/kommisionieren/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/lagerundlogistik/konfektionieren/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/national/international/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/national/kuehltransporte/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/national/teilundwagenladungen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/national/verzollung/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/printable/dienstleistungen/regional/entsorgungundrecycling/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/printable/dienstleistungen/regional/schwertransportebis50tonnen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/printable/impressum.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/printable/kontakt/ansprechpartner/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/printable/sitemap/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/printable/ueberuns/geschaeftsleitung/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-12-31"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/033f189b0508d7520.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2009-07-10"
+    },
+    {
+      "URL": "http://www.andres-transport.ch:80/dienstleistungen/busbetrieb/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2009-07-10"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "direct@pph.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-03"
+    },
+    {
+      "E-Mail": "enzo.favale@ate-bus.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "E-Mail": "info@gatra.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-15"
+    },
+    {
+      "E-Mail": "michael.buechi@gatra.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "E-Mail": "urs.christen@andres-transport.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-03"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41523200225",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523200235",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523220235",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-25"
+    },
+    {
+      "Telefonnummern": "+41523551010",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-15"
+    },
+    {
+      "Telefonnummern": "+41523551011",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551013",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551015",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551016",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551017",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551020",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-15"
+    },
+    {
+      "Telefonnummern": "+41523551021",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551022",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551023",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-17"
+    },
+    {
+      "Telefonnummern": "+41523551026",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551030",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-25"
+    },
+    {
+      "Telefonnummern": "+41523551040",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-25"
+    },
+    {
+      "Telefonnummern": "+41523551090",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551099",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551200",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551201",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551204",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-04-23"
+    },
+    {
+      "Telefonnummern": "+41523551209",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-02-18"
+    },
+    {
+      "Telefonnummern": "+41628974850",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-25"
+    },
+    {
+      "Telefonnummern": "+41628974851",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2013-05-25"
+    }
+  ],
+  "service": [
+    {
+      "Port": 443,
+      "Dienst": "Outlook Web App",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "46.140.85.34",
+      "Domain/Subdomain": "autodiscover.andres-transport.ch, 46-140-85-34.static.cablecom.ch, autodiscover.gatra.ch, mail.gatra.ch, www.mail.gatra.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:microsoft:asp.net, cpe:/a:microsoft:internet_information_services, cpe:/a:microsoft:outlook, cpe:/a:microsoft:outlook_web_access:15.1.2507, cpe:/o:microsoft:windows",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 4433,
+      "Dienst": "SonicWall",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "213.180.177.98",
+      "Domain/Subdomain": "www.mail.gatra.ch, autodiscover.andres-transport.ch, mail.andres-transport.ch, mail.gatra.ch, autodiscover.gatra.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

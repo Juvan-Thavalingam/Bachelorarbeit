@@ -1,0 +1,2027 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "149.126.4.94",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a01:ab20:0:4::94",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "schorr.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Name Server": "ns2.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 +a +mx +ip4:194.126.200.0/24 +ip4:149.126.0.0/21 -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "3600000",
+      "Serial": "2021012777",
+      "Refresh": "86400",
+      "Hostmaster": "server.cyon.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "149.126.4.94",
+      "PTR-Domain": "s085.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "IP-Adresse": "2a01:ab20:0:4::94",
+      "PTR-Domain": "s085.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "schorr.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2024-10-12",
+      "Gültig bis": "2025-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "Gültig ab": "2024-12-12",
+      "Gültig bis": "2025-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-15"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-15"
+    },
+    {
+      "Gültig ab": "2025-02-11",
+      "Gültig bis": "2025-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-11"
+    },
+    {
+      "Gültig ab": "2025-02-11",
+      "Gültig bis": "2025-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-11"
+    },
+    {
+      "Gültig ab": "2024-12-12",
+      "Gültig bis": "2025-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "Gültig ab": "2024-10-12",
+      "Gültig bis": "2025-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-12"
+    },
+    {
+      "Gültig ab": "2024-08-12",
+      "Gültig bis": "2024-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-12"
+    },
+    {
+      "Gültig ab": "2024-08-12",
+      "Gültig bis": "2024-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-12"
+    },
+    {
+      "Gültig ab": "2024-06-12",
+      "Gültig bis": "2024-09-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "Gültig ab": "2024-06-12",
+      "Gültig bis": "2024-09-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "Gültig ab": "2024-04-13",
+      "Gültig bis": "2024-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "Gültig ab": "2024-04-13",
+      "Gültig bis": "2024-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "Gültig ab": "2024-02-10",
+      "Gültig bis": "2024-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-10"
+    },
+    {
+      "Gültig ab": "2024-02-10",
+      "Gültig bis": "2024-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-10"
+    },
+    {
+      "Gültig ab": "2023-12-11",
+      "Gültig bis": "2024-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-11"
+    },
+    {
+      "Gültig ab": "2023-12-11",
+      "Gültig bis": "2024-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-11"
+    },
+    {
+      "Gültig ab": "2023-10-11",
+      "Gültig bis": "2024-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-11"
+    },
+    {
+      "Gültig ab": "2023-10-11",
+      "Gültig bis": "2024-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-11"
+    },
+    {
+      "Gültig ab": "2023-08-11",
+      "Gültig bis": "2023-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-12"
+    },
+    {
+      "Gültig ab": "2023-08-11",
+      "Gültig bis": "2023-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-12"
+    },
+    {
+      "Gültig ab": "2023-06-11",
+      "Gültig bis": "2023-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-12"
+    },
+    {
+      "Gültig ab": "2023-06-11",
+      "Gültig bis": "2023-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-12"
+    },
+    {
+      "Gültig ab": "2023-04-12",
+      "Gültig bis": "2023-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-12"
+    },
+    {
+      "Gültig ab": "2023-04-12",
+      "Gültig bis": "2023-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-12"
+    },
+    {
+      "Gültig ab": "2023-02-09",
+      "Gültig bis": "2023-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "Gültig ab": "2023-02-09",
+      "Gültig bis": "2023-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "Gültig ab": "2022-12-11",
+      "Gültig bis": "2023-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-11"
+    },
+    {
+      "Gültig ab": "2022-12-11",
+      "Gültig bis": "2023-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-11"
+    },
+    {
+      "Gültig ab": "2022-10-09",
+      "Gültig bis": "2023-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-09"
+    },
+    {
+      "Gültig ab": "2022-10-09",
+      "Gültig bis": "2023-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-09"
+    },
+    {
+      "Gültig ab": "2022-08-10",
+      "Gültig bis": "2022-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-10"
+    },
+    {
+      "Gültig ab": "2022-08-10",
+      "Gültig bis": "2022-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-10"
+    },
+    {
+      "Gültig ab": "2022-06-10",
+      "Gültig bis": "2022-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-11"
+    },
+    {
+      "Gültig ab": "2022-06-10",
+      "Gültig bis": "2022-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-11"
+    },
+    {
+      "Gültig ab": "2022-04-10",
+      "Gültig bis": "2022-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-10"
+    },
+    {
+      "Gültig ab": "2022-04-10",
+      "Gültig bis": "2022-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-10"
+    },
+    {
+      "Gültig ab": "2022-02-08",
+      "Gültig bis": "2022-05-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-08"
+    },
+    {
+      "Gültig ab": "2022-02-08",
+      "Gültig bis": "2022-05-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-08"
+    },
+    {
+      "Gültig ab": "2021-12-07",
+      "Gültig bis": "2022-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-07"
+    },
+    {
+      "Gültig ab": "2021-12-07",
+      "Gültig bis": "2022-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-07"
+    },
+    {
+      "Gültig ab": "2021-10-05",
+      "Gültig bis": "2022-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-05"
+    },
+    {
+      "Gültig ab": "2021-10-05",
+      "Gültig bis": "2022-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-05"
+    },
+    {
+      "Gültig ab": "2021-08-02",
+      "Gültig bis": "2021-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "Gültig ab": "2021-08-02",
+      "Gültig bis": "2021-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "Gültig ab": "2021-06-02",
+      "Gültig bis": "2021-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-02"
+    },
+    {
+      "Gültig ab": "2021-06-02",
+      "Gültig bis": "2021-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-02"
+    },
+    {
+      "Gültig ab": "2021-03-15",
+      "Gültig bis": "2021-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-15"
+    },
+    {
+      "Gültig ab": "2021-03-15",
+      "Gültig bis": "2021-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-15"
+    },
+    {
+      "Gültig ab": "2021-01-13",
+      "Gültig bis": "2021-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-13"
+    },
+    {
+      "Gültig ab": "2021-01-13",
+      "Gültig bis": "2021-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-13"
+    },
+    {
+      "Gültig ab": "2020-11-13",
+      "Gültig bis": "2021-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-11-13"
+    },
+    {
+      "Gültig ab": "2020-11-13",
+      "Gültig bis": "2021-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-11-13"
+    },
+    {
+      "Gültig ab": "2020-09-13",
+      "Gültig bis": "2020-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-09-13"
+    },
+    {
+      "Gültig ab": "2020-09-13",
+      "Gültig bis": "2020-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-09-13"
+    },
+    {
+      "Gültig ab": "2020-07-14",
+      "Gültig bis": "2020-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-07-14"
+    },
+    {
+      "Gültig ab": "2020-07-14",
+      "Gültig bis": "2020-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-07-14"
+    },
+    {
+      "Gültig ab": "2020-05-13",
+      "Gültig bis": "2020-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-05-13"
+    },
+    {
+      "Gültig ab": "2020-05-13",
+      "Gültig bis": "2020-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-05-13"
+    },
+    {
+      "Gültig ab": "2020-03-14",
+      "Gültig bis": "2020-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-03-14"
+    },
+    {
+      "Gültig ab": "2020-03-14",
+      "Gültig bis": "2020-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-03-14"
+    },
+    {
+      "Gültig ab": "2020-01-13",
+      "Gültig bis": "2020-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-01-13"
+    },
+    {
+      "Gültig ab": "2020-01-13",
+      "Gültig bis": "2020-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-01-13"
+    },
+    {
+      "Gültig ab": "2019-11-13",
+      "Gültig bis": "2020-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-13"
+    },
+    {
+      "Gültig ab": "2019-11-13",
+      "Gültig bis": "2020-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-13"
+    },
+    {
+      "Gültig ab": "2019-09-14",
+      "Gültig bis": "2019-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-09-14"
+    },
+    {
+      "Gültig ab": "2019-09-14",
+      "Gültig bis": "2019-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-09-14"
+    },
+    {
+      "Gültig ab": "2019-07-15",
+      "Gültig bis": "2019-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-07-15"
+    },
+    {
+      "Gültig ab": "2019-07-15",
+      "Gültig bis": "2019-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-07-15"
+    },
+    {
+      "Gültig ab": "2019-05-14",
+      "Gültig bis": "2019-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-05-15"
+    },
+    {
+      "Gültig ab": "2019-05-14",
+      "Gültig bis": "2019-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-05-15"
+    },
+    {
+      "Gültig ab": "2019-03-15",
+      "Gültig bis": "2019-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-03-15"
+    },
+    {
+      "Gültig ab": "2019-03-15",
+      "Gültig bis": "2019-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-03-15"
+    },
+    {
+      "Gültig ab": "2017-05-16",
+      "Gültig bis": "2020-05-15",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "schorr.ch, www.schorr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-05-18"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.schorr.ch/baeder/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "URL": "https://schorr.chSitemap:",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/dusch-wc/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://www.schorr.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/wc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/waschen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "http://schorr.ch/tag/ferlisi",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-12"
+    },
+    {
+      "URL": "http://schorr.ch/tag/teuco",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-12"
+    },
+    {
+      "URL": "http://schorr.ch/tag/tumbler",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-12"
+    },
+    {
+      "URL": "http://schorr.ch/tag/kochen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/tag/maler",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/tag/montage",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/newsletter",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/3d",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/adresse",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/anschluss",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/apparate",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/armaturen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/artweger",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/besuch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/inhaber",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/partner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/planen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/showroom",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/spiegel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/traum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/troesch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/tubes",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/vzug",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/italien",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-01-24"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/404",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-09-05"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/suche/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/uploads/fusion-styles/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/portfolio/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/uploads/2022/10/Handout-Oekoboiler_A4_Schorr-Sanitaer_GZD.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "URL": "https://www.schorr.ch/kontakt/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-20"
+    },
+    {
+      "URL": "https://www.schorr.ch/author/schorr/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://www.schorr.ch/kontakt/&quot;https:/www.schorr.ch/wp-content/uploads/2018/12/kontakt_hand-1-300x200.jpg&quot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://www.schorr.ch/comments/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/kontakt/&quot;https://www.schorr.ch/wp-content/uploads/2018/12/kontakt_hand-1-300x200.jpg&quot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/service/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "URL": "https://www.schorr.ch/agb/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/kuechen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/galerie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/kochen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/partner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/planung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/spuelen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/bad",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/form",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "http://schorr.ch/tag/hansgrohe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-12"
+    },
+    {
+      "URL": "http://schorr.ch/tag/lapreva",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-12"
+    },
+    {
+      "URL": "http://schorr.ch/tag/moebel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-12"
+    },
+    {
+      "URL": "http://schorr.ch/tag/badezimmer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/tag/kalk",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/tag/abluft",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/chef",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/elektriker",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/geschichte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/geschirr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/gessi",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/laufen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/radiatori",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/revision",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/richner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/rohrfrei",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/talsee",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/telefon",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/pool",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-03-30"
+    },
+    {
+      "URL": "http://schorr.ch/tag/schn",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-03-30"
+    },
+    {
+      "URL": "http://schorr.ch/grohe-red-blue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-03-21"
+    },
+    {
+      "URL": "http://schorr.ch/tag/ueberlauf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-03-20"
+    },
+    {
+      "URL": "http://schorr.ch/tag/wanne",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-03-20"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/news/4/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/news/8/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/news/9/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "https://www.schorr.ch/datenschutzerklaerung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/kontakt-ok/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "URL": "https://www.schorr.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/oeko-boiler/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/plugins/pdfjs-viewer-shortcode/pdfjs/web/viewer.php?file=https://www.schorr.ch/wp-content/uploads/2023/12/AGB_Schorr-Sanitaer-GmbH.pdf&attachment_id=2773&dButton=true&pButton=true&oButton=false&sButton=true",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/schulthess",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/service",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/spuelen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/unterbauten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/wasser",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "http://schorr.ch/tag/entkalkungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-02"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/c/1/hintegrundbilder",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/10/restaurant",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/12/kueche-sanitas-troesch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/13/kueche-sanitas-troesch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/3/bad-hansgrohe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/4/bad-hansgrohe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/6/badezimmer-alape-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/news/a/2/neue-glastrennwand-neues-duschvergnuegen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/1/badezimmer_dusche",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/11/monolith-design-bad",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/14/kueche-sanitas-troesch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/15/hueppe-glasdesign",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/17/twinline-2-",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/19/twinline-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/2/badezimmer-granit",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/5/dusche-mosaik-glas",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/7/badezimmer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/8/badezimmer-alape",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/9/skizzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/news/a/1/artelinea-firenze-1962",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/news/a/7/wohga-winterthur-2016",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/news/a/9/lapreva-die-neue-generation-dusch-wc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/antoniolupi",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/armaturenersatz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/ausstellungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/boilerersatz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/defektearmaturen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/designelemente",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/empfehlungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/geschftsfhrer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/handtuchradiatoren",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/mastelladesign",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/schorrsanitaer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/spiegelwaende",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/splkastenreparatur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/wcentkalkungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/tag/baden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-05-31"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/tag/whirl",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-05-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/wasserstand",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-03-20"
+    },
+    {
+      "URL": "http://schorr.ch/tag/dampfduschen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-11-25"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/home.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-09-05"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/tag/stand",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-09-05"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/service/entstopfung-rohrfrei",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2011-01-05"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/kuechen/kochen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/kuechen/spuelen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/sanitaer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/sanitaer/badezimmer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/sanitaer/installationen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/sanitaer/partner/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/sanitaer/planung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/sanitaer/waschen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/service/boiler-entkalkung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/service/reparatur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/sitemap/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/ueberuns/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/ueberuns/anfahrtsplan/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/ueberuns/geschichte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/Events.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-09-13"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/banner.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-04-05"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/bannerrechts.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-03-17"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/bannerunten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-03-17"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/Links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-03-17"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/Bestellung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-02-08"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/gaestebuch.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-02-08"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/reiseziele.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-02-08"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/traubensorten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-02-08"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/ueberuns.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-02-08"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/weine.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2005-02-08"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/_vti_bin/fpcount.exe/?Page=bannerunten.htm|Image=4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2004-12-09"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/brand_im_degustationskelle.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2004-08-09"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/Lageplan%20Bipschal.doc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2004-08-07"
+    },
+    {
+      "URL": "https://www.schorr.ch/news/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/glas",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "http://schorr.ch/tag/energie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-02"
+    },
+    {
+      "URL": "http://schorr.ch/tag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/tag/reparatur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-01"
+    },
+    {
+      "URL": "http://schorr.ch/galerie/p/1/1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/news/a/8/teuco",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/email",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/ersatz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/firma",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/generation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/sanitas",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/schorr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/wartung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/zimmer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-31"
+    },
+    {
+      "URL": "http://schorr.ch/tag/ablauf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-03-30"
+    },
+    {
+      "URL": "http://schorr.ch/tag/baeder",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-03-30"
+    },
+    {
+      "URL": "http://schorr.ch/tag/boiler",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-03-30"
+    },
+    {
+      "URL": "http://schorr.ch/tag/hahnen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-03-30"
+    },
+    {
+      "URL": "http://schorr.ch/tag/hoehe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-03-30"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/tag/nah",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-05-31"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/news/1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-12-07"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.schorr.ch%2F&format=xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "URL": "https://www.schorr.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/1623474475175/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/element_category-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/page-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/sitemap_index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/slide-page-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-json/wp/v2/pages/2772",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-json/wp/v2/pages/7",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/aktuell.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-06-07"
+    },
+    {
+      "URL": "http://www.schorr.ch:80/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2002-03-14"
+    },
+    {
+      "URL": "https://www.schorr.ch/ueber-uns/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-content/uploads/2018/12/kontakt_hand-1-300x200.jpg&quot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-json/wp/v2/pages/15",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-json/wp/v2/web-app-manifest",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://www.schorr.ch/wp-login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-28"
+    },
+    {
+      "URL": "https://www.schorr.ch/faq-items/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "URL": "https://www.schorr.ch/rss.xml/galerie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-12-14"
+    },
+    {
+      "URL": "https://www.schorr.ch/include/recaptcha/jak.human.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-12-13"
+    },
+    {
+      "URL": "https://www.schorr.ch/entkalkungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/entstopfungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/geschichte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/inhaltsverzeichnis",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/reparaturen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/badewanne",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/design",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/designer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/dusche",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/duschwc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/elektrolux",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/kueche",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/lieferung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/planung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/reparaturen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "URL": "https://www.schorr.ch/tag/sanitaer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@schorr.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41186457022",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "Telefonnummern": "+41522021092",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Telefonnummern": "+41525082031",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

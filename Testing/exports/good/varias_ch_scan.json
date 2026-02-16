@@ -1,0 +1,2800 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "94.126.18.112",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "varias-ch.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.rockit.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Name Server": "ns2.rockit.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Name Server": "ns3.cxbkp.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 ip4:78.46.49.205 ip4:94.126.18.112 ip4:94.126.18.110 include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "120",
+      "Expire": "2419200",
+      "Serial": "2025021440",
+      "Refresh": "7200",
+      "Hostmaster": "info.comelfex.com.",
+      "Minimum TTL": "10800",
+      "Primary Nameserver": "ns1.rockit.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "94.126.18.112",
+      "PTR-Domain": "darwin3.sui-inter.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "varias.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "cockpit.varias.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "formular.varias.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "service.varias.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "vpn.varias.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-02-14",
+      "Gültig bis": "2025-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cockpit.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-13"
+    },
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-13"
+    },
+    {
+      "Gültig ab": "2025-04-16",
+      "Gültig bis": "2025-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cockpit.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-16"
+    },
+    {
+      "Gültig ab": "2025-04-16",
+      "Gültig bis": "2025-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cockpit.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-16"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-15"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-15"
+    },
+    {
+      "Gültig ab": "2025-03-13",
+      "Gültig bis": "2025-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-13"
+    },
+    {
+      "Gültig ab": "2025-03-13",
+      "Gültig bis": "2025-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-13"
+    },
+    {
+      "Gültig ab": "2025-03-11",
+      "Gültig bis": "2025-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-11"
+    },
+    {
+      "Gültig ab": "2025-03-11",
+      "Gültig bis": "2025-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-11"
+    },
+    {
+      "Gültig ab": "2025-02-18",
+      "Gültig bis": "2025-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    },
+    {
+      "Gültig ab": "2025-02-18",
+      "Gültig bis": "2025-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    },
+    {
+      "Gültig ab": "2025-02-14",
+      "Gültig bis": "2025-05-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cockpit.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "Gültig ab": "2025-01-31",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-31"
+    },
+    {
+      "Gültig ab": "2025-01-31",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-31"
+    },
+    {
+      "Gültig ab": "2025-01-11",
+      "Gültig bis": "2025-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "Gültig ab": "2025-01-11",
+      "Gültig bis": "2025-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-11"
+    },
+    {
+      "Gültig ab": "2024-12-20",
+      "Gültig bis": "2025-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-20"
+    },
+    {
+      "Gültig ab": "2024-12-20",
+      "Gültig bis": "2025-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-20"
+    },
+    {
+      "Gültig ab": "2024-12-02",
+      "Gültig bis": "2025-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "Gültig ab": "2024-12-02",
+      "Gültig bis": "2025-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "Gültig ab": "2024-11-20",
+      "Gültig bis": "2025-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-20"
+    },
+    {
+      "Gültig ab": "2024-11-20",
+      "Gültig bis": "2025-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-20"
+    },
+    {
+      "Gültig ab": "2024-11-12",
+      "Gültig bis": "2025-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "Gültig ab": "2024-11-12",
+      "Gültig bis": "2025-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "Gültig ab": "2024-10-03",
+      "Gültig bis": "2025-01-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "Gültig ab": "2024-10-03",
+      "Gültig bis": "2025-01-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "Gültig ab": "2024-09-28",
+      "Gültig bis": "2024-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-28"
+    },
+    {
+      "Gültig ab": "2024-09-28",
+      "Gültig bis": "2024-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-28"
+    },
+    {
+      "Gültig ab": "2024-09-12",
+      "Gültig bis": "2024-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "Gültig ab": "2024-09-12",
+      "Gültig bis": "2024-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "Gültig ab": "2024-08-04",
+      "Gültig bis": "2024-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "Gültig ab": "2024-08-04",
+      "Gültig bis": "2024-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "Gültig ab": "2024-07-30",
+      "Gültig bis": "2024-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "Gültig ab": "2024-07-30",
+      "Gültig bis": "2024-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "Gültig ab": "2024-07-14",
+      "Gültig bis": "2024-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "Gültig ab": "2024-07-14",
+      "Gültig bis": "2024-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "Gültig ab": "2024-06-18",
+      "Gültig bis": "2024-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "Gültig ab": "2024-06-18",
+      "Gültig bis": "2024-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "Gültig ab": "2024-06-05",
+      "Gültig bis": "2024-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "Gültig ab": "2024-06-05",
+      "Gültig bis": "2024-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "Gültig ab": "2024-06-01",
+      "Gültig bis": "2024-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "Gültig ab": "2024-06-01",
+      "Gültig bis": "2024-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "Gültig ab": "2024-05-15",
+      "Gültig bis": "2024-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-16"
+    },
+    {
+      "Gültig ab": "2024-05-15",
+      "Gültig bis": "2024-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-16"
+    },
+    {
+      "Gültig ab": "2024-04-06",
+      "Gültig bis": "2024-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-06"
+    },
+    {
+      "Gültig ab": "2024-04-06",
+      "Gültig bis": "2024-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-06"
+    },
+    {
+      "Gültig ab": "2024-04-02",
+      "Gültig bis": "2024-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "Gültig ab": "2024-04-02",
+      "Gültig bis": "2024-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-02"
+    },
+    {
+      "Gültig ab": "2024-03-16",
+      "Gültig bis": "2024-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-16"
+    },
+    {
+      "Gültig ab": "2024-03-16",
+      "Gültig bis": "2024-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-16"
+    },
+    {
+      "Gültig ab": "2024-02-23",
+      "Gültig bis": "2024-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-23"
+    },
+    {
+      "Gültig ab": "2024-02-23",
+      "Gültig bis": "2024-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-23"
+    },
+    {
+      "Gültig ab": "2024-02-06",
+      "Gültig bis": "2024-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-06"
+    },
+    {
+      "Gültig ab": "2024-02-06",
+      "Gültig bis": "2024-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-06"
+    },
+    {
+      "Gültig ab": "2024-01-15",
+      "Gültig bis": "2024-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "Gültig ab": "2024-01-15",
+      "Gültig bis": "2024-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "Gültig ab": "2023-12-25",
+      "Gültig bis": "2024-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-25"
+    },
+    {
+      "Gültig ab": "2023-12-25",
+      "Gültig bis": "2024-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-25"
+    },
+    {
+      "Gültig ab": "2023-12-08",
+      "Gültig bis": "2024-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "Gültig ab": "2023-12-08",
+      "Gültig bis": "2024-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "Gültig ab": "2023-11-16",
+      "Gültig bis": "2024-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-16"
+    },
+    {
+      "Gültig ab": "2023-11-16",
+      "Gültig bis": "2024-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-16"
+    },
+    {
+      "Gültig ab": "2023-10-26",
+      "Gültig bis": "2024-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-26"
+    },
+    {
+      "Gültig ab": "2023-10-26",
+      "Gültig bis": "2024-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-26"
+    },
+    {
+      "Gültig ab": "2023-10-13",
+      "Gültig bis": "2024-01-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-13"
+    },
+    {
+      "Gültig ab": "2023-10-13",
+      "Gültig bis": "2024-01-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-13"
+    },
+    {
+      "Gültig ab": "2023-10-09",
+      "Gültig bis": "2024-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-09"
+    },
+    {
+      "Gültig ab": "2023-10-09",
+      "Gültig bis": "2024-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-09"
+    },
+    {
+      "Gültig ab": "2023-10-09",
+      "Gültig bis": "2024-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-09"
+    },
+    {
+      "Gültig ab": "2023-10-09",
+      "Gültig bis": "2024-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-09"
+    },
+    {
+      "Gültig ab": "2023-09-16",
+      "Gültig bis": "2023-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-17"
+    },
+    {
+      "Gültig ab": "2023-09-16",
+      "Gültig bis": "2023-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-17"
+    },
+    {
+      "Gültig ab": "2023-08-10",
+      "Gültig bis": "2023-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-10"
+    },
+    {
+      "Gültig ab": "2023-08-10",
+      "Gültig bis": "2023-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-10"
+    },
+    {
+      "Gültig ab": "2023-08-10",
+      "Gültig bis": "2023-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-10"
+    },
+    {
+      "Gültig ab": "2023-08-10",
+      "Gültig bis": "2023-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-10"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-19"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-19"
+    },
+    {
+      "Gültig ab": "2023-06-20",
+      "Gültig bis": "2023-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-20"
+    },
+    {
+      "Gültig ab": "2023-06-20",
+      "Gültig bis": "2023-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-20"
+    },
+    {
+      "Gültig ab": "2023-06-20",
+      "Gültig bis": "2023-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-20"
+    },
+    {
+      "Gültig ab": "2023-06-20",
+      "Gültig bis": "2023-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-20"
+    },
+    {
+      "Gültig ab": "2023-06-11",
+      "Gültig bis": "2023-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-11"
+    },
+    {
+      "Gültig ab": "2023-06-11",
+      "Gültig bis": "2023-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-11"
+    },
+    {
+      "Gültig ab": "2023-05-19",
+      "Gültig bis": "2023-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-20"
+    },
+    {
+      "Gültig ab": "2023-05-19",
+      "Gültig bis": "2023-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-20"
+    },
+    {
+      "Gültig ab": "2023-05-11",
+      "Gültig bis": "2023-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-11"
+    },
+    {
+      "Gültig ab": "2023-05-11",
+      "Gültig bis": "2023-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-11"
+    },
+    {
+      "Gültig ab": "2023-04-12",
+      "Gültig bis": "2023-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-12"
+    },
+    {
+      "Gültig ab": "2023-04-12",
+      "Gültig bis": "2023-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-12"
+    },
+    {
+      "Gültig ab": "2023-03-28",
+      "Gültig bis": "2023-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "Gültig ab": "2023-03-28",
+      "Gültig bis": "2023-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2023-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2023-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-06",
+      "Gültig bis": "2023-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-06"
+    },
+    {
+      "Gültig ab": "2023-03-06",
+      "Gültig bis": "2023-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-06"
+    },
+    {
+      "Gültig ab": "2023-02-11",
+      "Gültig bis": "2023-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-11"
+    },
+    {
+      "Gültig ab": "2023-02-11",
+      "Gültig bis": "2023-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-11"
+    },
+    {
+      "Gültig ab": "2023-01-21",
+      "Gültig bis": "2023-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-21"
+    },
+    {
+      "Gültig ab": "2023-01-21",
+      "Gültig bis": "2023-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-21"
+    },
+    {
+      "Gültig ab": "2023-01-19",
+      "Gültig bis": "2023-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-19"
+    },
+    {
+      "Gültig ab": "2023-01-19",
+      "Gültig bis": "2023-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-19"
+    },
+    {
+      "Gültig ab": "2022-12-13",
+      "Gültig bis": "2023-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-13"
+    },
+    {
+      "Gültig ab": "2022-12-13",
+      "Gültig bis": "2023-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-13"
+    },
+    {
+      "Gültig ab": "2022-11-22",
+      "Gültig bis": "2023-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-22"
+    },
+    {
+      "Gültig ab": "2022-11-22",
+      "Gültig bis": "2023-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-22"
+    },
+    {
+      "Gültig ab": "2022-11-20",
+      "Gültig bis": "2023-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-20"
+    },
+    {
+      "Gültig ab": "2022-11-20",
+      "Gültig bis": "2023-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-20"
+    },
+    {
+      "Gültig ab": "2022-11-06",
+      "Gültig bis": "2023-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-06"
+    },
+    {
+      "Gültig ab": "2022-11-06",
+      "Gültig bis": "2023-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "service.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-06"
+    },
+    {
+      "Gültig ab": "2022-10-14",
+      "Gültig bis": "2023-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-14"
+    },
+    {
+      "Gültig ab": "2022-10-14",
+      "Gültig bis": "2023-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-14"
+    },
+    {
+      "Gültig ab": "2022-09-20",
+      "Gültig bis": "2022-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "Gültig ab": "2022-09-20",
+      "Gültig bis": "2022-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "Gültig ab": "2022-08-15",
+      "Gültig bis": "2022-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-15"
+    },
+    {
+      "Gültig ab": "2022-08-15",
+      "Gültig bis": "2022-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-15"
+    },
+    {
+      "Gültig ab": "2022-07-22",
+      "Gültig bis": "2022-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-23"
+    },
+    {
+      "Gültig ab": "2022-07-22",
+      "Gültig bis": "2022-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-23"
+    },
+    {
+      "Gültig ab": "2022-06-16",
+      "Gültig bis": "2022-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-16"
+    },
+    {
+      "Gültig ab": "2022-06-16",
+      "Gültig bis": "2022-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-16"
+    },
+    {
+      "Gültig ab": "2022-05-23",
+      "Gültig bis": "2022-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-24"
+    },
+    {
+      "Gültig ab": "2022-05-23",
+      "Gültig bis": "2022-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-24"
+    },
+    {
+      "Gültig ab": "2022-04-17",
+      "Gültig bis": "2022-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-17"
+    },
+    {
+      "Gültig ab": "2022-04-17",
+      "Gültig bis": "2022-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-17"
+    },
+    {
+      "Gültig ab": "2022-03-24",
+      "Gültig bis": "2022-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-24"
+    },
+    {
+      "Gültig ab": "2022-03-24",
+      "Gültig bis": "2022-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-24"
+    },
+    {
+      "Gültig ab": "2022-02-16",
+      "Gültig bis": "2022-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-16"
+    },
+    {
+      "Gültig ab": "2022-02-16",
+      "Gültig bis": "2022-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-16"
+    },
+    {
+      "Gültig ab": "2022-01-22",
+      "Gültig bis": "2022-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "Gültig ab": "2022-01-22",
+      "Gültig bis": "2022-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "Gültig ab": "2021-12-18",
+      "Gültig bis": "2022-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-18"
+    },
+    {
+      "Gültig ab": "2021-12-18",
+      "Gültig bis": "2022-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-18"
+    },
+    {
+      "Gültig ab": "2021-11-23",
+      "Gültig bis": "2022-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-23"
+    },
+    {
+      "Gültig ab": "2021-11-23",
+      "Gültig bis": "2022-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-23"
+    },
+    {
+      "Gültig ab": "2021-10-19",
+      "Gültig bis": "2022-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-19"
+    },
+    {
+      "Gültig ab": "2021-10-19",
+      "Gültig bis": "2022-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-19"
+    },
+    {
+      "Gültig ab": "2021-09-23",
+      "Gültig bis": "2021-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-24"
+    },
+    {
+      "Gültig ab": "2021-09-23",
+      "Gültig bis": "2021-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-24"
+    },
+    {
+      "Gültig ab": "2021-07-25",
+      "Gültig bis": "2021-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-26"
+    },
+    {
+      "Gültig ab": "2021-07-25",
+      "Gültig bis": "2021-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-26"
+    },
+    {
+      "Gültig ab": "2021-05-26",
+      "Gültig bis": "2021-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-27"
+    },
+    {
+      "Gültig ab": "2021-05-26",
+      "Gültig bis": "2021-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-27"
+    },
+    {
+      "Gültig ab": "2021-03-28",
+      "Gültig bis": "2021-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-28"
+    },
+    {
+      "Gültig ab": "2021-03-28",
+      "Gültig bis": "2021-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-28"
+    },
+    {
+      "Gültig ab": "2021-01-27",
+      "Gültig bis": "2021-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-27"
+    },
+    {
+      "Gültig ab": "2021-01-27",
+      "Gültig bis": "2021-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-27"
+    },
+    {
+      "Gültig ab": "2020-11-28",
+      "Gültig bis": "2021-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-11-28"
+    },
+    {
+      "Gültig ab": "2020-11-28",
+      "Gültig bis": "2021-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-11-28"
+    },
+    {
+      "Gültig ab": "2020-09-28",
+      "Gültig bis": "2020-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "Gültig ab": "2020-09-28",
+      "Gültig bis": "2020-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "Gültig ab": "2020-07-30",
+      "Gültig bis": "2020-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-07-31"
+    },
+    {
+      "Gültig ab": "2020-07-30",
+      "Gültig bis": "2020-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-07-31"
+    },
+    {
+      "Gültig ab": "2020-05-31",
+      "Gültig bis": "2020-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-01"
+    },
+    {
+      "Gültig ab": "2020-05-31",
+      "Gültig bis": "2020-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-01"
+    },
+    {
+      "Gültig ab": "2020-04-01",
+      "Gültig bis": "2020-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-02"
+    },
+    {
+      "Gültig ab": "2020-04-01",
+      "Gültig bis": "2020-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-02"
+    },
+    {
+      "Gültig ab": "2020-02-01",
+      "Gültig bis": "2020-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-01"
+    },
+    {
+      "Gültig ab": "2020-02-01",
+      "Gültig bis": "2020-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-01"
+    },
+    {
+      "Gültig ab": "2019-12-03",
+      "Gültig bis": "2020-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-03"
+    },
+    {
+      "Gültig ab": "2019-12-03",
+      "Gültig bis": "2020-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-03"
+    },
+    {
+      "Gültig ab": "2019-10-03",
+      "Gültig bis": "2020-01-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-04"
+    },
+    {
+      "Gültig ab": "2019-10-03",
+      "Gültig bis": "2020-01-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-04"
+    },
+    {
+      "Gültig ab": "2019-08-04",
+      "Gültig bis": "2019-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-08-05"
+    },
+    {
+      "Gültig ab": "2019-08-04",
+      "Gültig bis": "2019-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-08-05"
+    },
+    {
+      "Gültig ab": "2019-06-05",
+      "Gültig bis": "2019-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-06-06"
+    },
+    {
+      "Gültig ab": "2019-06-05",
+      "Gültig bis": "2019-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-06-06"
+    },
+    {
+      "Gültig ab": "2019-04-06",
+      "Gültig bis": "2019-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-04-07"
+    },
+    {
+      "Gültig ab": "2019-04-06",
+      "Gültig bis": "2019-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-04-07"
+    },
+    {
+      "Gültig ab": "2019-02-21",
+      "Gültig bis": "2019-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "formular.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-21"
+    },
+    {
+      "Gültig ab": "2019-02-21",
+      "Gültig bis": "2019-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "formular.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-21"
+    },
+    {
+      "Gültig ab": "2019-02-05",
+      "Gültig bis": "2019-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-05"
+    },
+    {
+      "Gültig ab": "2019-02-05",
+      "Gültig bis": "2019-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch, www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-05"
+    },
+    {
+      "Gültig ab": "2019-01-28",
+      "Gültig bis": "2019-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-28"
+    },
+    {
+      "Gültig ab": "2019-01-28",
+      "Gültig bis": "2019-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-28"
+    },
+    {
+      "Gültig ab": "2018-11-18",
+      "Gültig bis": "2019-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-11-18"
+    },
+    {
+      "Gültig ab": "2018-11-18",
+      "Gültig bis": "2019-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-11-18"
+    },
+    {
+      "Gültig ab": "2018-11-18",
+      "Gültig bis": "2019-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-11-18"
+    },
+    {
+      "Gültig ab": "2018-11-18",
+      "Gültig bis": "2019-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-11-18"
+    },
+    {
+      "Gültig ab": "2018-08-27",
+      "Gültig bis": "2018-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-27"
+    },
+    {
+      "Gültig ab": "2018-08-27",
+      "Gültig bis": "2018-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-27"
+    },
+    {
+      "Gültig ab": "2018-08-27",
+      "Gültig bis": "2018-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-27"
+    },
+    {
+      "Gültig ab": "2018-08-27",
+      "Gültig bis": "2018-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-08-27"
+    },
+    {
+      "Gültig ab": "2018-06-05",
+      "Gültig bis": "2018-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-06-06"
+    },
+    {
+      "Gültig ab": "2018-06-05",
+      "Gültig bis": "2018-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-06-06"
+    },
+    {
+      "Gültig ab": "2018-06-05",
+      "Gültig bis": "2018-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-06-06"
+    },
+    {
+      "Gültig ab": "2018-06-05",
+      "Gültig bis": "2018-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-06-06"
+    },
+    {
+      "Gültig ab": "2018-03-15",
+      "Gültig bis": "2018-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-03-16"
+    },
+    {
+      "Gültig ab": "2018-03-15",
+      "Gültig bis": "2018-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-03-16"
+    },
+    {
+      "Gültig ab": "2017-12-23",
+      "Gültig bis": "2018-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-12-23"
+    },
+    {
+      "Gültig ab": "2017-12-23",
+      "Gültig bis": "2018-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-12-23"
+    },
+    {
+      "Gültig ab": "2017-10-01",
+      "Gültig bis": "2017-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-10-01"
+    },
+    {
+      "Gültig ab": "2017-10-01",
+      "Gültig bis": "2017-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-10-01"
+    },
+    {
+      "Gültig ab": "2017-07-10",
+      "Gültig bis": "2017-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-07-10"
+    },
+    {
+      "Gültig ab": "2017-07-10",
+      "Gültig bis": "2017-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-07-10"
+    },
+    {
+      "Gültig ab": "2017-04-18",
+      "Gültig bis": "2017-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-04-18"
+    },
+    {
+      "Gültig ab": "2017-04-18",
+      "Gültig bis": "2017-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-04-18"
+    },
+    {
+      "Gültig ab": "2017-01-26",
+      "Gültig bis": "2017-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-26"
+    },
+    {
+      "Gültig ab": "2017-01-26",
+      "Gültig bis": "2017-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.varias.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-26"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://varias.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/arrows/fonts/linea-arrows-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/arrows/fonts/linea-arrows-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/basic/fonts/linea-basic-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/basic/fonts/linea-basic-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/basic/fonts/linea-basic-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/music/fonts/linea-music-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/referenzen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "http://www.varias.ch/bewirtschaftung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/datenschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/dienstleistungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/dienstleistungen/neubauprojekte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/dienstleistungen/verkauf-bestandesimmobilien/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/dienstleistungen/verkauf/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/downloads/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "http://varias.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "http://varias.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "http://varias.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "http://varias.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "http://varias.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "http://varias.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "http://varias.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "http://varias.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "http://varias.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "http://varias.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "http://varias.ch/wp-admin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://varias.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/10/Flyer_SMK_Geprueft_19_Varias.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-11"
+    },
+    {
+      "URL": "https://varias.ch/xmlrpc.php?rsd",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-28"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/11/Verkauf-Neubauprojekte_VARIAS-Immobilien-AG.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2021/02/Anmeldeformular-fuer-Wohnraeum_2021.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "URL": "https://varias.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "URL": "https://varias.ch/wp-json/wp/v2/pages/12130",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-24"
+    },
+    {
+      "URL": "https://varias.ch/page-sitemap1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/07/Anmeldeformular-f%C3%BCr-Nebenr%C3%A4ume.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/07/Flyer_SMK_Geprueft_19_Varias.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/07/Vollmacht-Formular_STOWE.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/10/Checkliste_STOWE_Liegenschaftenverkauf.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/10/VARIAS-Immobilien-AG-Vermarktung_Neubauprojekte.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://varias.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://varias.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvarias.ch%2Funternehmen%2Fteam%2F&format=xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://varias.ch/wp-login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/07/Anmeldeformular-f%C3%BCr-Gesch%C3%A4ftsr%C3%A4ume.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/07/Lageplan-VARIAS-Immobilien-AG.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/10/Checkliste_Immobilienfotografie.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2021/02/VARIAS-Immobilien-AG-Verwaltung_Mietobjekte.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2021/02/VARIAS-Immobilien-AG-Verwaltung_STOWE.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-18"
+    },
+    {
+      "URL": "https://varias.ch/category-sitemap1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://varias.ch/comments/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://varias.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://varias.ch/portfolio-item-sitemap1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://varias.ch/mieterservice",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/objekte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/sitemaps.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://varias.ch/unternehmen/firma/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/unternehmen/offene-stellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/unternehmen/smk-guetesiegel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/unternehmen/team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/elegant-icons/fonts/ElegantIcons.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.varias.ch/dienstleistungen/bewirtschaftung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.varias.ch/unternehmen/geschaeftsleitung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.varias.ch/unternehmen/leitbild/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/plugins/revslider/public/assets/css/closedhand.cur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/plugins/revslider/public/assets/css/openhand.cur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/dripicons/fonts/dripicons.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/dripicons/fonts/dripicons.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/dripicons/fonts/dripicons.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/elegant-icons/fonts/ElegantIcons.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/elegant-icons/fonts/ElegantIcons.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/font-awesome/fonts/fontawesome-webfont.eot?v=4.5.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.5.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.5.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/font-awesome/fonts/fontawesome-webfont.woff?v=4.5.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/ion-icons/fonts/ionicons.eot?v=2.0.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/ion-icons/fonts/ionicons.ttf?v=2.0.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/ion-icons/fonts/ionicons.woff?v=2.0.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/arrows/fonts/linea-arrows-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/07/Anmeldeformular-f%C3%BCr-PP.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/10/Checkliste_EFH_Liegenschaftenverkauf.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2019/11/Erstvermietung_VARIAS-Immobilien-AG.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/uploads/2021/02/VARIAS-Immobilien-AG-Verkauf-Bestandesimmobilien.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://varias.ch/wp-json/wp/v2/pages/12312",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "https://varias.ch/wp-json/wp/v2/pages/13890",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "URL": "http://www.varias.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/VC-Icons.ttf?otu1sf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-03-11"
+    },
+    {
+      "URL": "https://www.varias.ch/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-28"
+    },
+    {
+      "URL": "https://www.varias.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/VC-Icons.woff?otu1sf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-26"
+    },
+    {
+      "URL": "https://www.varias.ch/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-26"
+    },
+    {
+      "URL": "https://www.varias.ch/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-26"
+    },
+    {
+      "URL": "https://www.varias.ch/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-24"
+    },
+    {
+      "URL": "http://www.varias.ch/angebote/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "https://www.varias.ch/wir-suchen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.varias.ch:80/immobilien-promotion",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-07-24"
+    },
+    {
+      "URL": "http://www.varias.ch:80/mfh-frauenfeld-tg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-02-17"
+    },
+    {
+      "URL": "http://www.varias.ch/dallikon-zh/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-10"
+    },
+    {
+      "URL": "http://www.varias.ch/angebot/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/batica-137-whg-nr-001/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/batica-137-whg-nr-103/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/mfh-bettwiesen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/mfh-wallisellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/offerte-verkauf/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/partner/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/refh-lichthof-brittnau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/romanum-whg-nr-2-6/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/senior-apartment-c1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/to-90-3-zi-whg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/verwaltung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/whg-klosters-serneus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch/whg-rikon-im-tosstal/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.varias.ch:80/tannwiese",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-12-28"
+    },
+    {
+      "URL": "http://www.varias.ch/wp-content/plugins/better-analytics/js/loader.php?ver=1.1.4.js",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://www.varias.ch/wp-content/themes/sublime/css/style.php?ver=e88eaa7260e3dcd14942663679e09833",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://www.varias.ch:80/team1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-10-22"
+    },
+    {
+      "URL": "http://www.varias.ch:80/team1/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-07-13"
+    },
+    {
+      "URL": "http://www.varias.ch:80/unternehmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-07-12"
+    },
+    {
+      "URL": "http://www.varias.ch/3-5-zi-dachwohnung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-06-20"
+    },
+    {
+      "URL": "http://www.varias.ch/efh-st-gallenkappel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-06-19"
+    },
+    {
+      "URL": "http://www.varias.ch/exklusive-terrassenwohnung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-06-19"
+    },
+    {
+      "URL": "http://www.varias.ch/immobilie-verkaufen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-06-19"
+    },
+    {
+      "URL": "http://www.varias.ch/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-05-04"
+    },
+    {
+      "URL": "http://www.varias.ch:80/mfh-wallisellen/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-06-24"
+    },
+    {
+      "URL": "http://www.varias.ch:80/test/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-06-24"
+    },
+    {
+      "URL": "http://www.varias.ch:80/whg-wetzikon/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-06-24"
+    },
+    {
+      "URL": "http://www.varias.ch:80/wir-suchen/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-06-24"
+    },
+    {
+      "URL": "http://www.varias.ch:80/sunnehang-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-05-16"
+    },
+    {
+      "URL": "http://www.varias.ch:80/romanum-whg-nr-4-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-04-24"
+    },
+    {
+      "URL": "http://www.varias.ch:80/romanum-whg-nr-4-6/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-04-24"
+    },
+    {
+      "URL": "http://www.varias.ch:80/rubin-saphir/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-04-24"
+    },
+    {
+      "URL": "http://www.varias.ch:80/hausmatten-areal/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-04-15"
+    },
+    {
+      "URL": "http://www.varias.ch:80/refh-brittnau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-04-15"
+    },
+    {
+      "URL": "http://www.varias.ch:80/angebot/www.romanum.ch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-04-14"
+    },
+    {
+      "URL": "http://www.varias.ch:80/business-apartment/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-04-14"
+    },
+    {
+      "URL": "http://www.varias.ch:80/romanum-whg-nr-1-8/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-04-14"
+    },
+    {
+      "URL": "http://www.varias.ch/wp-content/themes/sublime/fonts/fontawesome-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-04-13"
+    },
+    {
+      "URL": "http://www.varias.ch/wp-content/themes/sublime/fonts/fontawesome-webfont.woff?v=4.0.1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-04-13"
+    },
+    {
+      "URL": "http://www.varias.ch/home/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-02-16"
+    },
+    {
+      "URL": "http://www.varias.ch/wordpress/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-01-23"
+    },
+    {
+      "URL": "http://www.varias.ch/wordpress/xmlrpc.php?rsd",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-01-23"
+    },
+    {
+      "URL": "http://www.varias.ch:80/dienstleistungen/verwaltungen-mietliegenschaften",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-06-20"
+    },
+    {
+      "URL": "http://www.varias.ch:80/home/news-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-06-20"
+    },
+    {
+      "URL": "http://www.varias.ch:80/angebote/anlageobjekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2012-12-17"
+    },
+    {
+      "URL": "http://www.varias.ch:80/angebote/kaufobjekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2012-12-17"
+    },
+    {
+      "URL": "http://www.varias.ch:80/angebote/mietobjekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2012-12-17"
+    },
+    {
+      "URL": "http://www.varias.ch:80/angebote/neubauprojekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2012-12-17"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/music/fonts/linea-music-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/music/fonts/linea-music-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/software/fonts/linea-software-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/software/fonts/linea-software-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/software/fonts/linea-software-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/weather/fonts/linea-weather-10.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/weather/fonts/linea-weather-10.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linea-icons/weather/fonts/linea-weather-10.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linear-icons/fonts/Linearicons-Free.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linear-icons/fonts/Linearicons-Free.ttf?w118d",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linear-icons/fonts/Linearicons-Free.woff2?w118d",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/linear-icons/fonts/Linearicons-Free.woff?w118d",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/simple-line-icons/fonts/Simple-Line-Icons.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/simple-line-icons/fonts/Simple-Line-Icons.ttf?-i3a2kk",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/simple-line-icons/fonts/Simple-Line-Icons.woff2?-i3a2kk",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://varias.ch/wp-content/themes/pinata/assets/css/simple-line-icons/fonts/Simple-Line-Icons.woff?-i3a2kk",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://varias.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    },
+    {
+      "URL": "http://varias.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-14"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@varias.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522081000",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

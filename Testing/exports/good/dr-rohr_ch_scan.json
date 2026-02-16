@@ -1,0 +1,1712 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "80.74.148.70",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mail1.speedcloud.li.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mail2.speedcloud.li.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.newsnet.li.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Name Server": "ns2.newsnet.at.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Name Server": "ns3.newsnet.me.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 a mx include:_spf.speedcloud.li include:_spf.sui-inter.net -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "604800",
+      "Serial": "2022062900",
+      "Refresh": "10800",
+      "Hostmaster": "info.newsnet.li.",
+      "Minimum TTL": "100",
+      "Primary Nameserver": "ns1.newsnet.li.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "80.74.148.70",
+      "PTR-Domain": "antiqua.sui-inter.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "dr-rohr.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "aquabion.dr-rohr.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "boden.dr-rohr.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "trinkwasser.dr-rohr.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-04-18",
+      "Gültig bis": "2025-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Gültig ab": "2025-04-18",
+      "Gültig bis": "2025-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Gültig ab": "2025-04-09",
+      "Gültig bis": "2025-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-09"
+    },
+    {
+      "Gültig ab": "2025-04-09",
+      "Gültig bis": "2025-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-09"
+    },
+    {
+      "Gültig ab": "2025-04-09",
+      "Gültig bis": "2025-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-09"
+    },
+    {
+      "Gültig ab": "2025-04-09",
+      "Gültig bis": "2025-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-09"
+    },
+    {
+      "Gültig ab": "2025-03-12",
+      "Gültig bis": "2025-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-12"
+    },
+    {
+      "Gültig ab": "2025-03-12",
+      "Gültig bis": "2025-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-12"
+    },
+    {
+      "Gültig ab": "2025-02-16",
+      "Gültig bis": "2025-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "Gültig ab": "2025-02-16",
+      "Gültig bis": "2025-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "Gültig ab": "2025-02-07",
+      "Gültig bis": "2025-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "Gültig ab": "2025-02-07",
+      "Gültig bis": "2025-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "Gültig ab": "2025-02-07",
+      "Gültig bis": "2025-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "Gültig ab": "2025-02-07",
+      "Gültig bis": "2025-05-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-07"
+    },
+    {
+      "Gültig ab": "2025-01-10",
+      "Gültig bis": "2025-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-10"
+    },
+    {
+      "Gültig ab": "2025-01-10",
+      "Gültig bis": "2025-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-10"
+    },
+    {
+      "Gültig ab": "2024-12-18",
+      "Gültig bis": "2025-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-18"
+    },
+    {
+      "Gültig ab": "2024-12-18",
+      "Gültig bis": "2025-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-18"
+    },
+    {
+      "Gültig ab": "2024-12-09",
+      "Gültig bis": "2025-03-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-09"
+    },
+    {
+      "Gültig ab": "2024-12-09",
+      "Gültig bis": "2025-03-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-09"
+    },
+    {
+      "Gültig ab": "2024-12-09",
+      "Gültig bis": "2025-03-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-09"
+    },
+    {
+      "Gültig ab": "2024-12-09",
+      "Gültig bis": "2025-03-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-09"
+    },
+    {
+      "Gültig ab": "2024-11-11",
+      "Gültig bis": "2025-02-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-11"
+    },
+    {
+      "Gültig ab": "2024-11-11",
+      "Gültig bis": "2025-02-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-11"
+    },
+    {
+      "Gültig ab": "2024-10-19",
+      "Gültig bis": "2025-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-19"
+    },
+    {
+      "Gültig ab": "2024-10-19",
+      "Gültig bis": "2025-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-19"
+    },
+    {
+      "Gültig ab": "2024-10-10",
+      "Gültig bis": "2025-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "Gültig ab": "2024-10-10",
+      "Gültig bis": "2025-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "Gültig ab": "2024-10-10",
+      "Gültig bis": "2025-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "Gültig ab": "2024-10-10",
+      "Gültig bis": "2025-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "Gültig ab": "2024-09-12",
+      "Gültig bis": "2024-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "Gültig ab": "2024-09-12",
+      "Gültig bis": "2024-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-12"
+    },
+    {
+      "Gültig ab": "2024-08-20",
+      "Gültig bis": "2024-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-20"
+    },
+    {
+      "Gültig ab": "2024-08-20",
+      "Gültig bis": "2024-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-20"
+    },
+    {
+      "Gültig ab": "2024-08-11",
+      "Gültig bis": "2024-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "Gültig ab": "2024-08-11",
+      "Gültig bis": "2024-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "Gültig ab": "2024-08-11",
+      "Gültig bis": "2024-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "Gültig ab": "2024-08-11",
+      "Gültig bis": "2024-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "Gültig ab": "2024-07-14",
+      "Gültig bis": "2024-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "Gültig ab": "2024-07-14",
+      "Gültig bis": "2024-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "Gültig ab": "2024-06-21",
+      "Gültig bis": "2024-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-21"
+    },
+    {
+      "Gültig ab": "2024-06-21",
+      "Gültig bis": "2024-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-21"
+    },
+    {
+      "Gültig ab": "2024-06-12",
+      "Gültig bis": "2024-09-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "Gültig ab": "2024-06-12",
+      "Gültig bis": "2024-09-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "Gültig ab": "2024-06-12",
+      "Gültig bis": "2024-09-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "Gültig ab": "2024-06-12",
+      "Gültig bis": "2024-09-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "Gültig ab": "2024-05-15",
+      "Gültig bis": "2024-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-15"
+    },
+    {
+      "Gültig ab": "2024-05-15",
+      "Gültig bis": "2024-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-15"
+    },
+    {
+      "Gültig ab": "2024-04-21",
+      "Gültig bis": "2024-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-22"
+    },
+    {
+      "Gültig ab": "2024-04-21",
+      "Gültig bis": "2024-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-22"
+    },
+    {
+      "Gültig ab": "2024-04-13",
+      "Gültig bis": "2024-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "Gültig ab": "2024-04-13",
+      "Gültig bis": "2024-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "Gültig ab": "2024-04-13",
+      "Gültig bis": "2024-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "Gültig ab": "2024-04-13",
+      "Gültig bis": "2024-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "Gültig ab": "2024-03-15",
+      "Gültig bis": "2024-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-15"
+    },
+    {
+      "Gültig ab": "2024-03-15",
+      "Gültig bis": "2024-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-15"
+    },
+    {
+      "Gültig ab": "2024-02-21",
+      "Gültig bis": "2024-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-21"
+    },
+    {
+      "Gültig ab": "2024-02-21",
+      "Gültig bis": "2024-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-21"
+    },
+    {
+      "Gültig ab": "2024-02-12",
+      "Gültig bis": "2024-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-12"
+    },
+    {
+      "Gültig ab": "2024-02-12",
+      "Gültig bis": "2024-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-12"
+    },
+    {
+      "Gültig ab": "2024-02-12",
+      "Gültig bis": "2024-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-12"
+    },
+    {
+      "Gültig ab": "2024-02-12",
+      "Gültig bis": "2024-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-12"
+    },
+    {
+      "Gültig ab": "2024-01-15",
+      "Gültig bis": "2024-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "Gültig ab": "2024-01-15",
+      "Gültig bis": "2024-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "Gültig ab": "2023-12-23",
+      "Gültig bis": "2024-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-23"
+    },
+    {
+      "Gültig ab": "2023-12-23",
+      "Gültig bis": "2024-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-23"
+    },
+    {
+      "Gültig ab": "2023-12-14",
+      "Gültig bis": "2024-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-14"
+    },
+    {
+      "Gültig ab": "2023-12-14",
+      "Gültig bis": "2024-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-14"
+    },
+    {
+      "Gültig ab": "2023-12-14",
+      "Gültig bis": "2024-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-14"
+    },
+    {
+      "Gültig ab": "2023-12-14",
+      "Gültig bis": "2024-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-14"
+    },
+    {
+      "Gültig ab": "2023-11-16",
+      "Gültig bis": "2024-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-11-16"
+    },
+    {
+      "Gültig ab": "2023-11-16",
+      "Gültig bis": "2024-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-11-16"
+    },
+    {
+      "Gültig ab": "2023-10-24",
+      "Gültig bis": "2024-01-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-24"
+    },
+    {
+      "Gültig ab": "2023-10-24",
+      "Gültig bis": "2024-01-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-24"
+    },
+    {
+      "Gültig ab": "2023-10-15",
+      "Gültig bis": "2024-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-15"
+    },
+    {
+      "Gültig ab": "2023-10-15",
+      "Gültig bis": "2024-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-15"
+    },
+    {
+      "Gültig ab": "2023-10-15",
+      "Gültig bis": "2024-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-15"
+    },
+    {
+      "Gültig ab": "2023-10-15",
+      "Gültig bis": "2024-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-15"
+    },
+    {
+      "Gültig ab": "2023-09-17",
+      "Gültig bis": "2023-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-17"
+    },
+    {
+      "Gültig ab": "2023-09-17",
+      "Gültig bis": "2023-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-17"
+    },
+    {
+      "Gültig ab": "2023-08-25",
+      "Gültig bis": "2023-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-25"
+    },
+    {
+      "Gültig ab": "2023-08-25",
+      "Gültig bis": "2023-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-25"
+    },
+    {
+      "Gültig ab": "2023-08-16",
+      "Gültig bis": "2023-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-16"
+    },
+    {
+      "Gültig ab": "2023-08-16",
+      "Gültig bis": "2023-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-16"
+    },
+    {
+      "Gültig ab": "2023-08-16",
+      "Gültig bis": "2023-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-16"
+    },
+    {
+      "Gültig ab": "2023-08-16",
+      "Gültig bis": "2023-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-16"
+    },
+    {
+      "Gültig ab": "2023-07-19",
+      "Gültig bis": "2023-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-07-19"
+    },
+    {
+      "Gültig ab": "2023-07-19",
+      "Gültig bis": "2023-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-07-19"
+    },
+    {
+      "Gültig ab": "2023-06-26",
+      "Gültig bis": "2023-09-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "Gültig ab": "2023-06-26",
+      "Gültig bis": "2023-09-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-26"
+    },
+    {
+      "Gültig ab": "2023-06-17",
+      "Gültig bis": "2023-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "Gültig ab": "2023-06-17",
+      "Gültig bis": "2023-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "Gültig ab": "2023-06-17",
+      "Gültig bis": "2023-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "Gültig ab": "2023-06-17",
+      "Gültig bis": "2023-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "Gültig ab": "2023-05-20",
+      "Gültig bis": "2023-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-20"
+    },
+    {
+      "Gültig ab": "2023-05-20",
+      "Gültig bis": "2023-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-20"
+    },
+    {
+      "Gültig ab": "2023-04-26",
+      "Gültig bis": "2023-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-27"
+    },
+    {
+      "Gültig ab": "2023-04-26",
+      "Gültig bis": "2023-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-27"
+    },
+    {
+      "Gültig ab": "2023-04-18",
+      "Gültig bis": "2023-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-18"
+    },
+    {
+      "Gültig ab": "2023-04-18",
+      "Gültig bis": "2023-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-18"
+    },
+    {
+      "Gültig ab": "2023-04-18",
+      "Gültig bis": "2023-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-18"
+    },
+    {
+      "Gültig ab": "2023-04-18",
+      "Gültig bis": "2023-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-18"
+    },
+    {
+      "Gültig ab": "2023-03-20",
+      "Gültig bis": "2023-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "Gültig ab": "2023-03-20",
+      "Gültig bis": "2023-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "Gültig ab": "2023-02-26",
+      "Gültig bis": "2023-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-26"
+    },
+    {
+      "Gültig ab": "2023-02-26",
+      "Gültig bis": "2023-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-26"
+    },
+    {
+      "Gültig ab": "2023-02-17",
+      "Gültig bis": "2023-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-17"
+    },
+    {
+      "Gültig ab": "2023-02-17",
+      "Gültig bis": "2023-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-17"
+    },
+    {
+      "Gültig ab": "2023-02-17",
+      "Gültig bis": "2023-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-17"
+    },
+    {
+      "Gültig ab": "2023-02-17",
+      "Gültig bis": "2023-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-17"
+    },
+    {
+      "Gültig ab": "2023-01-19",
+      "Gültig bis": "2023-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-01-19"
+    },
+    {
+      "Gültig ab": "2023-01-19",
+      "Gültig bis": "2023-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-01-19"
+    },
+    {
+      "Gültig ab": "2022-12-27",
+      "Gültig bis": "2023-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-27"
+    },
+    {
+      "Gültig ab": "2022-12-27",
+      "Gültig bis": "2023-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-27"
+    },
+    {
+      "Gültig ab": "2022-12-19",
+      "Gültig bis": "2023-03-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-19"
+    },
+    {
+      "Gültig ab": "2022-12-19",
+      "Gültig bis": "2023-03-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-19"
+    },
+    {
+      "Gültig ab": "2022-12-19",
+      "Gültig bis": "2023-03-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-19"
+    },
+    {
+      "Gültig ab": "2022-12-19",
+      "Gültig bis": "2023-03-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-19"
+    },
+    {
+      "Gültig ab": "2022-11-20",
+      "Gültig bis": "2023-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-20"
+    },
+    {
+      "Gültig ab": "2022-11-20",
+      "Gültig bis": "2023-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-20"
+    },
+    {
+      "Gültig ab": "2022-10-28",
+      "Gültig bis": "2023-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-28"
+    },
+    {
+      "Gültig ab": "2022-10-28",
+      "Gültig bis": "2023-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-28"
+    },
+    {
+      "Gültig ab": "2022-10-20",
+      "Gültig bis": "2023-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-20"
+    },
+    {
+      "Gültig ab": "2022-10-20",
+      "Gültig bis": "2023-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-20"
+    },
+    {
+      "Gültig ab": "2022-10-20",
+      "Gültig bis": "2023-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-20"
+    },
+    {
+      "Gültig ab": "2022-10-20",
+      "Gültig bis": "2023-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-20"
+    },
+    {
+      "Gültig ab": "2022-09-21",
+      "Gültig bis": "2022-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "Gültig ab": "2022-09-21",
+      "Gültig bis": "2022-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "Gültig ab": "2022-08-29",
+      "Gültig bis": "2022-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-29"
+    },
+    {
+      "Gültig ab": "2022-08-29",
+      "Gültig bis": "2022-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-29"
+    },
+    {
+      "Gültig ab": "2022-08-21",
+      "Gültig bis": "2022-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-21"
+    },
+    {
+      "Gültig ab": "2022-08-21",
+      "Gültig bis": "2022-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-21"
+    },
+    {
+      "Gültig ab": "2022-08-21",
+      "Gültig bis": "2022-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-21"
+    },
+    {
+      "Gültig ab": "2022-08-21",
+      "Gültig bis": "2022-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-21"
+    },
+    {
+      "Gültig ab": "2022-07-23",
+      "Gültig bis": "2022-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-23"
+    },
+    {
+      "Gültig ab": "2022-07-23",
+      "Gültig bis": "2022-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-23"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aquabion.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-22",
+      "Gültig bis": "2022-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-22"
+    },
+    {
+      "Gültig ab": "2022-06-22",
+      "Gültig bis": "2022-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-22"
+    },
+    {
+      "Gültig ab": "2022-06-22",
+      "Gültig bis": "2022-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-22"
+    },
+    {
+      "Gültig ab": "2022-06-22",
+      "Gültig bis": "2022-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-22"
+    },
+    {
+      "Gültig ab": "2022-05-24",
+      "Gültig bis": "2022-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-24"
+    },
+    {
+      "Gültig ab": "2022-05-24",
+      "Gültig bis": "2022-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-24"
+    },
+    {
+      "Gültig ab": "2022-04-23",
+      "Gültig bis": "2022-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-23"
+    },
+    {
+      "Gültig ab": "2022-04-23",
+      "Gültig bis": "2022-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-23"
+    },
+    {
+      "Gültig ab": "2022-04-23",
+      "Gültig bis": "2022-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-23"
+    },
+    {
+      "Gültig ab": "2022-04-23",
+      "Gültig bis": "2022-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-23"
+    },
+    {
+      "Gültig ab": "2022-03-24",
+      "Gültig bis": "2022-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-03-24"
+    },
+    {
+      "Gültig ab": "2022-03-24",
+      "Gültig bis": "2022-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-03-24"
+    },
+    {
+      "Gültig ab": "2022-02-21",
+      "Gültig bis": "2022-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-21"
+    },
+    {
+      "Gültig ab": "2022-02-21",
+      "Gültig bis": "2022-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-21"
+    },
+    {
+      "Gültig ab": "2022-02-21",
+      "Gültig bis": "2022-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-21"
+    },
+    {
+      "Gültig ab": "2022-02-21",
+      "Gültig bis": "2022-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-21"
+    },
+    {
+      "Gültig ab": "2022-01-22",
+      "Gültig bis": "2022-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "Gültig ab": "2022-01-22",
+      "Gültig bis": "2022-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-22"
+    },
+    {
+      "Gültig ab": "2021-12-22",
+      "Gültig bis": "2022-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-22"
+    },
+    {
+      "Gültig ab": "2021-12-22",
+      "Gültig bis": "2022-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "trinkwasser.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-22"
+    },
+    {
+      "Gültig ab": "2021-12-22",
+      "Gültig bis": "2022-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-22"
+    },
+    {
+      "Gültig ab": "2021-12-22",
+      "Gültig bis": "2022-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "boden.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-22"
+    },
+    {
+      "Gültig ab": "2021-11-23",
+      "Gültig bis": "2022-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-11-23"
+    },
+    {
+      "Gültig ab": "2021-11-23",
+      "Gültig bis": "2022-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-11-23"
+    },
+    {
+      "Gültig ab": "2021-09-24",
+      "Gültig bis": "2021-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-24"
+    },
+    {
+      "Gültig ab": "2021-09-24",
+      "Gültig bis": "2021-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-24"
+    },
+    {
+      "Gültig ab": "2021-07-26",
+      "Gültig bis": "2021-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-07-26"
+    },
+    {
+      "Gültig ab": "2021-07-26",
+      "Gültig bis": "2021-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-07-26"
+    },
+    {
+      "Gültig ab": "2021-05-26",
+      "Gültig bis": "2021-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-05-26"
+    },
+    {
+      "Gültig ab": "2021-05-26",
+      "Gültig bis": "2021-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dr-rohr.ch, www.dr-rohr.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-05-26"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://dr-rohr.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-19"
+    },
+    {
+      "URL": "https://dr-rohr.ch/de/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "URL": "https://dr-rohr.ch/de/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://dr-rohr.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-22"
+    },
+    {
+      "URL": "https://dr-rohr.ch/wp-admin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-19"
+    },
+    {
+      "URL": "https://dr-rohr.ch/de/wp-json/wp/v2/pages/131",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://dr-rohr.ch/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://dr-rohr.ch/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://dr-rohr.ch/comments/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-19"
+    },
+    {
+      "URL": "https://dr-rohr.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-19"
+    },
+    {
+      "URL": "https://dr-rohr.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-07"
+    },
+    {
+      "URL": "https://dr-rohr.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdr-rohr.ch%2F",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-07"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@dr-rohr.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41523751212",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    },
+    {
+      "Telefonnummern": "+41793771212",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-16"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

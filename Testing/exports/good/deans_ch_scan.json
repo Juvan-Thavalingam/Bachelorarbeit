@@ -1,0 +1,3040 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "80.74.142.110",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "deans-ch.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.bdm.microsoftonline.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Name Server": "ns2.bdm.microsoftonline.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Name Server": "ns3.bdm.microsoftonline.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Name Server": "ns4.bdm.microsoftonline.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"mscid=3lupm34O2HQ8f+Bthz2Gm6hOPlDWmaWzHzBQxe27gCa22Ss8ZK1m/Ipp/aq/PBVG/tCQa6Or5v/LANz/wCDghg==\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"v=spf1 include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "300",
+      "Expire": "2419200",
+      "Serial": "1",
+      "Refresh": "3600",
+      "Hostmaster": "azuredns-hostmaster.microsoft.com.",
+      "Minimum TTL": "300",
+      "Primary Nameserver": "ns1.bdm.microsoftonline.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "80.74.142.110",
+      "PTR-Domain": "palladius.sui-inter.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "deans.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2024-04-11",
+      "Gültig bis": "2024-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-12"
+    },
+    {
+      "Gültig ab": "2024-02-12",
+      "Gültig bis": "2024-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-12"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-08"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-08"
+    },
+    {
+      "Gültig ab": "2025-02-06",
+      "Gültig bis": "2025-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "Gültig ab": "2025-02-06",
+      "Gültig bis": "2025-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-06"
+    },
+    {
+      "Gültig ab": "2024-12-08",
+      "Gültig bis": "2025-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-08"
+    },
+    {
+      "Gültig ab": "2024-12-08",
+      "Gültig bis": "2025-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-08"
+    },
+    {
+      "Gültig ab": "2024-10-08",
+      "Gültig bis": "2025-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "Gültig ab": "2024-10-08",
+      "Gültig bis": "2025-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "Gültig ab": "2024-08-09",
+      "Gültig bis": "2024-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-10"
+    },
+    {
+      "Gültig ab": "2024-08-09",
+      "Gültig bis": "2024-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-10"
+    },
+    {
+      "Gültig ab": "2024-06-10",
+      "Gültig bis": "2024-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-11"
+    },
+    {
+      "Gültig ab": "2024-06-10",
+      "Gültig bis": "2024-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-11"
+    },
+    {
+      "Gültig ab": "2024-04-11",
+      "Gültig bis": "2024-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-12"
+    },
+    {
+      "Gültig ab": "2024-02-12",
+      "Gültig bis": "2024-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-12"
+    },
+    {
+      "Gültig ab": "2023-12-14",
+      "Gültig bis": "2024-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-14"
+    },
+    {
+      "Gültig ab": "2023-12-14",
+      "Gültig bis": "2024-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-14"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-15"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-15"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-16"
+    },
+    {
+      "Gültig ab": "2023-08-15",
+      "Gültig bis": "2023-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "Gültig ab": "2023-04-17",
+      "Gültig bis": "2023-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-18"
+    },
+    {
+      "Gültig ab": "2023-04-17",
+      "Gültig bis": "2023-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-18"
+    },
+    {
+      "Gültig ab": "2023-02-16",
+      "Gültig bis": "2023-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-16"
+    },
+    {
+      "Gültig ab": "2023-02-16",
+      "Gültig bis": "2023-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-16"
+    },
+    {
+      "Gültig ab": "2022-12-18",
+      "Gültig bis": "2023-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-18"
+    },
+    {
+      "Gültig ab": "2022-12-18",
+      "Gültig bis": "2023-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-18"
+    },
+    {
+      "Gültig ab": "2022-10-18",
+      "Gültig bis": "2023-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-19"
+    },
+    {
+      "Gültig ab": "2022-10-18",
+      "Gültig bis": "2023-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-19"
+    },
+    {
+      "Gültig ab": "2022-08-19",
+      "Gültig bis": "2022-11-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-20"
+    },
+    {
+      "Gültig ab": "2022-08-19",
+      "Gültig bis": "2022-11-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-20"
+    },
+    {
+      "Gültig ab": "2022-06-20",
+      "Gültig bis": "2022-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-21"
+    },
+    {
+      "Gültig ab": "2022-06-20",
+      "Gültig bis": "2022-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-21"
+    },
+    {
+      "Gültig ab": "2022-04-21",
+      "Gültig bis": "2022-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-22"
+    },
+    {
+      "Gültig ab": "2022-04-21",
+      "Gültig bis": "2022-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-22"
+    },
+    {
+      "Gültig ab": "2022-02-21",
+      "Gültig bis": "2022-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-21"
+    },
+    {
+      "Gültig ab": "2022-02-21",
+      "Gültig bis": "2022-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-21"
+    },
+    {
+      "Gültig ab": "2021-12-23",
+      "Gültig bis": "2022-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-23"
+    },
+    {
+      "Gültig ab": "2021-12-23",
+      "Gültig bis": "2022-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-23"
+    },
+    {
+      "Gültig ab": "2021-10-23",
+      "Gültig bis": "2022-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "Gültig ab": "2021-10-23",
+      "Gültig bis": "2022-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-24"
+    },
+    {
+      "Gültig ab": "2021-08-24",
+      "Gültig bis": "2021-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-25"
+    },
+    {
+      "Gültig ab": "2021-08-24",
+      "Gültig bis": "2021-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-25"
+    },
+    {
+      "Gültig ab": "2021-06-25",
+      "Gültig bis": "2021-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-26"
+    },
+    {
+      "Gültig ab": "2021-06-25",
+      "Gültig bis": "2021-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-26"
+    },
+    {
+      "Gültig ab": "2021-04-26",
+      "Gültig bis": "2021-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-26"
+    },
+    {
+      "Gültig ab": "2021-04-26",
+      "Gültig bis": "2021-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch, www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-26"
+    },
+    {
+      "Gültig ab": "2021-04-24",
+      "Gültig bis": "2021-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-24"
+    },
+    {
+      "Gültig ab": "2021-04-24",
+      "Gültig bis": "2021-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-24"
+    },
+    {
+      "Gültig ab": "2021-04-24",
+      "Gültig bis": "2021-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-24"
+    },
+    {
+      "Gültig ab": "2021-04-24",
+      "Gültig bis": "2021-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-24"
+    },
+    {
+      "Gültig ab": "2021-02-23",
+      "Gültig bis": "2021-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-23"
+    },
+    {
+      "Gültig ab": "2021-02-23",
+      "Gültig bis": "2021-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-23"
+    },
+    {
+      "Gültig ab": "2021-02-23",
+      "Gültig bis": "2021-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-23"
+    },
+    {
+      "Gültig ab": "2021-02-23",
+      "Gültig bis": "2021-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-23"
+    },
+    {
+      "Gültig ab": "2020-12-25",
+      "Gültig bis": "2021-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-25"
+    },
+    {
+      "Gültig ab": "2020-12-25",
+      "Gültig bis": "2021-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-25"
+    },
+    {
+      "Gültig ab": "2020-12-25",
+      "Gültig bis": "2021-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-25"
+    },
+    {
+      "Gültig ab": "2020-12-25",
+      "Gültig bis": "2021-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-25"
+    },
+    {
+      "Gültig ab": "2020-10-26",
+      "Gültig bis": "2021-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-26"
+    },
+    {
+      "Gültig ab": "2020-10-26",
+      "Gültig bis": "2021-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-26"
+    },
+    {
+      "Gültig ab": "2020-10-26",
+      "Gültig bis": "2021-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-26"
+    },
+    {
+      "Gültig ab": "2020-10-26",
+      "Gültig bis": "2021-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-26"
+    },
+    {
+      "Gültig ab": "2020-08-27",
+      "Gültig bis": "2020-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-27"
+    },
+    {
+      "Gültig ab": "2020-08-27",
+      "Gültig bis": "2020-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-27"
+    },
+    {
+      "Gültig ab": "2020-08-27",
+      "Gültig bis": "2020-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-27"
+    },
+    {
+      "Gültig ab": "2020-08-27",
+      "Gültig bis": "2020-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-27"
+    },
+    {
+      "Gültig ab": "2020-06-28",
+      "Gültig bis": "2020-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-06-28"
+    },
+    {
+      "Gültig ab": "2020-06-28",
+      "Gültig bis": "2020-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-06-28"
+    },
+    {
+      "Gültig ab": "2020-06-28",
+      "Gültig bis": "2020-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-06-28"
+    },
+    {
+      "Gültig ab": "2020-06-28",
+      "Gültig bis": "2020-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-06-28"
+    },
+    {
+      "Gültig ab": "2020-04-29",
+      "Gültig bis": "2020-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-29"
+    },
+    {
+      "Gültig ab": "2020-04-29",
+      "Gültig bis": "2020-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-29"
+    },
+    {
+      "Gültig ab": "2020-04-29",
+      "Gültig bis": "2020-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-29"
+    },
+    {
+      "Gültig ab": "2020-04-29",
+      "Gültig bis": "2020-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-29"
+    },
+    {
+      "Gültig ab": "2020-02-29",
+      "Gültig bis": "2020-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-29"
+    },
+    {
+      "Gültig ab": "2020-02-29",
+      "Gültig bis": "2020-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-29"
+    },
+    {
+      "Gültig ab": "2020-02-29",
+      "Gültig bis": "2020-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-29"
+    },
+    {
+      "Gültig ab": "2020-02-29",
+      "Gültig bis": "2020-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-29"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-11-01",
+      "Gültig bis": "2020-01-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-11-01"
+    },
+    {
+      "Gültig ab": "2019-11-01",
+      "Gültig bis": "2020-01-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-11-01"
+    },
+    {
+      "Gültig ab": "2019-11-01",
+      "Gültig bis": "2020-01-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-11-01"
+    },
+    {
+      "Gültig ab": "2019-11-01",
+      "Gültig bis": "2020-01-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-11-01"
+    },
+    {
+      "Gültig ab": "2019-09-02",
+      "Gültig bis": "2019-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-09-02"
+    },
+    {
+      "Gültig ab": "2019-09-02",
+      "Gültig bis": "2019-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-09-02"
+    },
+    {
+      "Gültig ab": "2019-09-02",
+      "Gültig bis": "2019-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-09-02"
+    },
+    {
+      "Gültig ab": "2019-09-02",
+      "Gültig bis": "2019-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-09-02"
+    },
+    {
+      "Gültig ab": "2019-07-04",
+      "Gültig bis": "2019-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-07-04"
+    },
+    {
+      "Gültig ab": "2019-07-04",
+      "Gültig bis": "2019-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-07-04"
+    },
+    {
+      "Gültig ab": "2019-07-04",
+      "Gültig bis": "2019-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-07-04"
+    },
+    {
+      "Gültig ab": "2019-07-04",
+      "Gültig bis": "2019-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-07-04"
+    },
+    {
+      "Gültig ab": "2019-02-26",
+      "Gültig bis": "2020-02-26",
+      "Ausgestellt von": "C=US, ST=CA, L=San Francisco, O=\"CloudFlare, Inc.\", CN=CloudFlare Inc ECC CA-2",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-01"
+    },
+    {
+      "Gültig ab": "2019-05-04",
+      "Gültig bis": "2019-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-05-04"
+    },
+    {
+      "Gültig ab": "2019-05-04",
+      "Gültig bis": "2019-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-05-04"
+    },
+    {
+      "Gültig ab": "2019-05-04",
+      "Gültig bis": "2019-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-05-04"
+    },
+    {
+      "Gültig ab": "2019-05-04",
+      "Gültig bis": "2019-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-05-04"
+    },
+    {
+      "Gültig ab": "2019-03-05",
+      "Gültig bis": "2019-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-03-05"
+    },
+    {
+      "Gültig ab": "2019-03-05",
+      "Gültig bis": "2019-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-03-05"
+    },
+    {
+      "Gültig ab": "2019-03-05",
+      "Gültig bis": "2019-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-03-05"
+    },
+    {
+      "Gültig ab": "2019-03-05",
+      "Gültig bis": "2019-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-03-05"
+    },
+    {
+      "Gültig ab": "2019-02-27",
+      "Gültig bis": "2020-02-27",
+      "Ausgestellt von": "C=US, ST=CA, L=San Francisco, O=\"CloudFlare, Inc.\", CN=CloudFlare Inc ECC CA-2",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-27"
+    },
+    {
+      "Gültig ab": "2019-02-27",
+      "Gültig bis": "2020-02-27",
+      "Ausgestellt von": "C=US, ST=CA, L=San Francisco, O=\"CloudFlare, Inc.\", CN=CloudFlare Inc RSA CA-1",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-27"
+    },
+    {
+      "Gültig ab": "2019-02-26",
+      "Gültig bis": "2020-02-26",
+      "Ausgestellt von": "C=US, ST=CA, L=San Francisco, O=\"CloudFlare, Inc.\", CN=CloudFlare Inc ECC CA-2",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-26"
+    },
+    {
+      "Gültig ab": "2019-02-26",
+      "Gültig bis": "2020-02-26",
+      "Ausgestellt von": "C=US, ST=CA, L=San Francisco, O=\"CloudFlare, Inc.\", CN=CloudFlare Inc RSA CA-1",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-26"
+    },
+    {
+      "Gültig ab": "2019-01-04",
+      "Gültig bis": "2019-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-01-04"
+    },
+    {
+      "Gültig ab": "2019-01-04",
+      "Gültig bis": "2019-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-01-04"
+    },
+    {
+      "Gültig ab": "2019-01-04",
+      "Gültig bis": "2019-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-01-04"
+    },
+    {
+      "Gültig ab": "2019-01-04",
+      "Gültig bis": "2019-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-01-04"
+    },
+    {
+      "Gültig ab": "2018-11-05",
+      "Gültig bis": "2019-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-11-05"
+    },
+    {
+      "Gültig ab": "2018-11-05",
+      "Gültig bis": "2019-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-11-05"
+    },
+    {
+      "Gültig ab": "2018-11-05",
+      "Gültig bis": "2019-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-11-05"
+    },
+    {
+      "Gültig ab": "2018-11-05",
+      "Gültig bis": "2019-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-11-05"
+    },
+    {
+      "Gültig ab": "2018-09-06",
+      "Gültig bis": "2018-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "Gültig ab": "2018-09-06",
+      "Gültig bis": "2018-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "Gültig ab": "2018-09-06",
+      "Gültig bis": "2018-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "Gültig ab": "2018-09-06",
+      "Gültig bis": "2018-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "Gültig ab": "2018-07-08",
+      "Gültig bis": "2018-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-07-08"
+    },
+    {
+      "Gültig ab": "2018-07-08",
+      "Gültig bis": "2018-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-07-08"
+    },
+    {
+      "Gültig ab": "2018-07-08",
+      "Gültig bis": "2018-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-07-08"
+    },
+    {
+      "Gültig ab": "2018-07-08",
+      "Gültig bis": "2018-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-07-08"
+    },
+    {
+      "Gültig ab": "2018-05-09",
+      "Gültig bis": "2018-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-05-09"
+    },
+    {
+      "Gültig ab": "2018-05-09",
+      "Gültig bis": "2018-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-05-09"
+    },
+    {
+      "Gültig ab": "2018-05-09",
+      "Gültig bis": "2018-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-05-09"
+    },
+    {
+      "Gültig ab": "2018-05-09",
+      "Gültig bis": "2018-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-05-09"
+    },
+    {
+      "Gültig ab": "2018-03-10",
+      "Gültig bis": "2018-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-03-10"
+    },
+    {
+      "Gültig ab": "2018-03-10",
+      "Gültig bis": "2018-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-03-10"
+    },
+    {
+      "Gültig ab": "2018-01-09",
+      "Gültig bis": "2018-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-01-09"
+    },
+    {
+      "Gültig ab": "2018-01-09",
+      "Gültig bis": "2018-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-01-09"
+    },
+    {
+      "Gültig ab": "2017-11-10",
+      "Gültig bis": "2018-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-11-10"
+    },
+    {
+      "Gültig ab": "2017-11-10",
+      "Gültig bis": "2018-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.deans.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-11-10"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://deans.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "URL": "https://deans.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "URL": "https://deans.ch/kontakt-oeffnungszeiten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "URL": "https://deans.ch/page-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "URL": "https://deans.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "URL": "https://deans.ch/collections/alpha-industrie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/collections/blusen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/collections/desiderius",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/collections/diesel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/collections/gurtel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/collections/ltc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/collections/mos-mosh",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/collections/pdlm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/collections/sneakers",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/collections/warson",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/collections/zip-hoodies",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/blue-des-genes-jeans-repi-vingo-brown",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/blue-des-genes-jeans-repi-voli-raw",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/elias-rumelis-hoody-tristan",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/elias-rumelis-hosen-savanna-shiny-olive",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/elias-rumelis-jeans-boyfriend-leona-medag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/elias-rumelis-joggpant-selena-cozy-olive",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/elias-rumelis-pulli-basic-strick-simona-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/kombi-veston",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-legend-jacke-hooded-skytruck-olive",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-legend-jacke-skycontrol-yellow",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-legend-jeans-nightflight-dark-wash",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/collections/oberteile",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/pepe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/pepe-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/pme-legend",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/portemonnaies",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/rucksacke",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/shorts",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/soccx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/timberland",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/uniform-jeans",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/vanguard",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/vendors?q=woolrich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/vittozzi",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/weekender",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/pages/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/hemden/products/tigha-hemd-karo-l-s-karo-red",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/collections/sale/products/matchless-xreloaded",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/collections/sale/products/replay-lederjacke-red",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/collections/sale/products/woolrich-arctic-polar-jacket-jacke-red",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/blue-des-genes-paulo-voli-chino-raw",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/elias-rumelis-cargo-pant-norbert",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/elias-rumelis-sweater-raphael",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/g-star-chopper-slim-bomber-jacket-berry",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/g-star-low-rise-trunk-triple-pack-boxershorts-blau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/g-star-low-rise-trunk-triple-pack-boxershorts-div",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/g-star-low-rise-trunk-triple-pack-boxershorts-schwarz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/g-star-lynn-mid-skinny-light-wash-liwash",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/g-star-midge-cody-mid-skinny-jeans-indigo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/g-star-midge-mid-straight-jeans-medium-aged-medade",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/g-star-round-neck-ss-2er-slim-t-shirt-schwarz-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/g-star-round-neck-ss-2er-slim-t-shirt-white",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/g-star-slim-overshirt-olive",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-jeans-anbass-destroyed",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/warson-polo-jo-siffert-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/products/warson-t-shirt-lucky-torpedo-carbone",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-02"
+    },
+    {
+      "URL": "https://deans.ch/collections/rock-and-blue-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-28"
+    },
+    {
+      "URL": "https://deans.ch/collections/chic-bags",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/chino",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/cream",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/dstrezzed",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/fred-perry",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/g-star",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/handtaschen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/hemden/products/gaudi-hemd-flower",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/jeans-jacken",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/lederjacken",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/les-temps-des-cevises",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/lucky-de-luca",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/norton",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/pldm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/polo-shirts",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/replay",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/rich-royal",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/sandalen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/sendra",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/shoppers",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/slippers",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/tigha",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/woolrich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/elias-rumelis-blazer-alice-print-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/elias-rumelis-stand-up-collar-roland",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/grace-bluse-red",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-legend-jeans-nightflight-rinse-wash",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-hemd-langarm-karo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-boot-11943-lighting-c-marron",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-botine-5595-kaspar-b-brown",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-debora-braun",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-stiefelette-17154-lula-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/tigha-hemd-karo-l-s-karo-red",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/warson-t-shirt-mustang-67-brown",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/woolrich-arctic-polar-jacket-jacke-red",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/products/cream-jogg-jacket-olive",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/diesel-slandy-jeans-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/diesel-tepphar-jeans-black-destr-blkdest",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/diesel-boxer-trunk-3er-boxershorts-div",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/diesel-larkee-beex-jeans-medium-wash-medwash",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/diesel-larkee-jeans-raw",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/diesel-umtee-jake-3er-pack-v-neck-t-shirts-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/le-temps-des-cerises-jeans-243-sea-washed",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/lee-brooklyn-jeans-midstone",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/lee-brooklyn-jeans-schwarz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/lee-lsim-rider-jeansjacket",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/lee-marion-jeans-onewas",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/lee-marion-jeans-schwarz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/lee-scarlett-jeans-schwarz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/lee-slim-rider-jeansjacke-stone-wash",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/mos-mosh-tilda-bluse-ciel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-nightflight-jeans-light-blur-liblue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-anbass-jeans-dark-worn-dkworn",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/rich-royal-jeansjacket-mint",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-evo-tan-gurtel-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-kaspar-9049",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-wide-c-brown",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/lee-scarlett-jeans-onewash",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-02"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-boot-15497-kaspar-b-dark-brown",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-02"
+    },
+    {
+      "URL": "https://deans.ch/products/elias-rumelis-blazer-laura-cozy",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-legend-lederjacke-brown",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-legend-nightflight-jeans-blackwash",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-jacke-duck-free-olive",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-jeanshemd-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "URL": "https://deans.ch/products/warson-t-shirt-avenger-carbone",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "URL": "https://deans.ch/products/warson-t-shirt-clay-regazzoni-red",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "URL": "https://deans.ch/products/warson-t-shirt-heaven-riders-choco",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "URL": "https://deans.ch/products/warson-t-shirt-speed-wolf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "URL": "https://deans.ch/products/le-temps-des-cerises-jas-1-jeans-blue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-31"
+    },
+    {
+      "URL": "https://deans.ch/products/lee-rider-jeans-schwarz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-31"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-legend-night-flight-jeans-rinse",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-31"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-skyhawk-jeans-medium-aged-medag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-31"
+    },
+    {
+      "URL": "https://deans.ch/products/uniform-charlie-chino",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-31"
+    },
+    {
+      "URL": "https://deans.ch/products/vittozzi-440-30-gurtel-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-31"
+    },
+    {
+      "URL": "https://deans.ch/products/salsa-bermuda-shorts-senf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/salsa-wonder-push-up-jeans-white-blue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/scotch-soda-hemd-reg-fit-liblue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/scotch-soda-polo-pikue-navy",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/scotch-soda-polo-pique-green",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/vanguard-v850-short-colored-denim-light-grey",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/collections/sale/products/sendra-lighting-c-brown",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-27"
+    },
+    {
+      "URL": "https://deans.ch/products/diesel-babhila",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-21"
+    },
+    {
+      "URL": "https://deans.ch/products/diesel-slandy-low-light-wash-light",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-21"
+    },
+    {
+      "URL": "https://deans.ch/collections/chino/products/le-temps-des-cerises-jas-1-jeans-blue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-06"
+    },
+    {
+      "URL": "https://deans.ch/collections/chino/products/uniform-charlie-chino",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-06"
+    },
+    {
+      "URL": "https://deans.ch/collections/vittozzi/products/vittozzi-440-30-gurtel-brown",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-06"
+    },
+    {
+      "URL": "https://deans.ch/collections/vittozzi/products/vittozzi-767-40-gurtel-taupe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-06"
+    },
+    {
+      "URL": "http://www.deans.ch/index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-10"
+    },
+    {
+      "URL": "https://deans.ch/collections/sale.oembed?page=2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-06"
+    },
+    {
+      "URL": "https://deans.ch/collections/sale?page=3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-06"
+    },
+    {
+      "URL": "https://deans.ch/collections/sale.atom",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-12-02"
+    },
+    {
+      "URL": "https://deans.ch/pages/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-10"
+    },
+    {
+      "URL": "https://deans.ch/pages/uber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-10"
+    },
+    {
+      "URL": "https://deans.ch/pages/wish-list",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-10"
+    },
+    {
+      "URL": "https://deans.ch/21773673/digital_wallets/dialog",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-09"
+    },
+    {
+      "URL": "https://deans.ch/account",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-09"
+    },
+    {
+      "URL": "https://deans.ch/account/login",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-09"
+    },
+    {
+      "URL": "https://deans.ch/account/register",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-09"
+    },
+    {
+      "URL": "https://deans.ch/cart",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-09"
+    },
+    {
+      "URL": "https://deans.ch/pages/brands/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-09"
+    },
+    {
+      "URL": "https://deans.ch/search",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-09"
+    },
+    {
+      "URL": "http://deans.ch/brands.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2015-02-08"
+    },
+    {
+      "URL": "http://deans.ch/brands_detail.php?brandid=32",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2015-02-08"
+    },
+    {
+      "URL": "http://deans.ch/categories.php?categoriesid=3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2015-02-08"
+    },
+    {
+      "URL": "http://deans.ch/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2015-02-08"
+    },
+    {
+      "URL": "http://deans.ch/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2015-02-08"
+    },
+    {
+      "URL": "http://deans.ch/standort.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2015-02-08"
+    },
+    {
+      "URL": "http://deans.ch/storeview.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2015-02-08"
+    },
+    {
+      "URL": "http://deans.ch/team.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2015-02-08"
+    },
+    {
+      "URL": "http://www.deans.ch:80/winterthur.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-11-28"
+    },
+    {
+      "URL": "http://www.deans.ch:80/maison%20scotch.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-29"
+    },
+    {
+      "URL": "http://www.deans.ch:80/cream.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "https://deans.ch/sitemap_index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "URL": "https://deans.ch/wp-content/uploads/2021/05/Private-Shopping-DEANS.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "URL": "https://deans.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdeans.ch%2Fimpressum%2F&format=xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "URL": "https://deans.ch/wp-json/wp/v2/pages/106",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "URL": "https://deans.chSitemap:",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "URL": "https://deans.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/index.php/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/wp-json/wp/v2/pages/100",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/wp-json/wp/v2/pages/964",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "URL": "https://deans.ch/xmlrpc.php?rsd",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-23"
+    },
+    {
+      "URL": "https://deans.ch/comments/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-28"
+    },
+    {
+      "URL": "https://deans.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-04"
+    },
+    {
+      "URL": "https://deans.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-23"
+    },
+    {
+      "URL": "https://deans.ch/collections/bauchtaschen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/bernd-gotz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/boxershorts",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/circle-of-trust",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/cowboysbag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/fabienne-chapot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/fil-noir",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/frontpage",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/gas",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/hemden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/jeanskleider",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/kulturbeutel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/laptop-taschen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/lee",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/longsleeve-shirts",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/maison-scotch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/collections/nu",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-15"
+    },
+    {
+      "URL": "https://deans.ch/products/diesel-thommer-jeans-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/diesel-thommer-jeans-medium-aged-medag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/elias-rumelis-blazer-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/franklin-marshal",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/franklin-marshall-ziphoody-navy",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/gaudi-hemd-flower",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/gaudi-veston-navy",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/gaudi-veston-red",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/grace-bluse-summerfeeling-ecru",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/le-temps-des-cerises-powerc-jeans",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/le-temps-des-cerises-short-jogg-denim",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/le-temps-des-cerises-shorts-jogg-denim-blublk",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/mos-mosh-blazer-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/nue-bluse-light-grey",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-nightflight-jeans-stein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-anbass-jeans-mittel-blau-midblue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-anbass-slim-fit-jeans-dark-aged-dkag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-dominiqli-cropped-jeans-dkwash",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-joplin-jeans-straight-destroyed",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-leather-jacket-powder",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-new-luz-jeans-liwash",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/rocknblue-lederjacket-senf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/salsa-colette-jeans-schwarz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/salsa-secret-glamour-jeans-midblue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/tigha-lederjacke-biker-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/tigha-lederjacke-nick-dark-brown",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/tigha-veston-dominic-sand",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/products/top-gun-lederjacke-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://deans.ch/collections/matchless",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-21"
+    },
+    {
+      "URL": "https://deans.ch/collections/tank-tops",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-21"
+    },
+    {
+      "URL": "https://deans.ch/products/diesel-d-fayza-jeans-sand",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-21"
+    },
+    {
+      "URL": "https://deans.ch/products/elias-rumelis-oversized-sweater-daria",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-21"
+    },
+    {
+      "URL": "https://deans.ch/products/lee-rider-jeans-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-21"
+    },
+    {
+      "URL": "https://deans.ch/products/tigha-sweater-taupe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-21"
+    },
+    {
+      "URL": "https://deans.ch/collections/jeanshemden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/cream-blazer-novastella-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-16"
+    },
+    {
+      "URL": "https://deans.ch/products/vittozzi-440-30-gurtel-brown",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-31"
+    },
+    {
+      "URL": "https://deans.ch/products/vittozzi-767-40-gurtel-taupe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-31"
+    },
+    {
+      "URL": "https://deans.ch/products/vittozzi-v208-35-gurtel-metall",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-31"
+    },
+    {
+      "URL": "https://deans.ch/collections/rich-royal/products/rich-royal-feinstrickpullover-green",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://deans.ch/collections/rich-royal/products/rich-royal-jeansjacket-mint",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "URL": "https://deans.ch/products/dstrezzed-chino-shorts-green",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-30"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-cargo-shorts-broken-twill-olive",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-30"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-polo-pique-blue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-30"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-polo-pique-red",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-30"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-hemd-print-pink",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-30"
+    },
+    {
+      "URL": "https://deans.ch/products/rich-royal-feinstrickpullover-green",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-30"
+    },
+    {
+      "URL": "https://deans.ch/products/salsa-bliss-capri-jeans-light-blue-liblue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-30"
+    },
+    {
+      "URL": "https://deans.ch/collections/sale/products/le-temps-des-cerises-jas-1-jeans-blue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/pages/shop/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/diesel-thommer-jeans-mid-blue-midblue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/dstrezzed-chino-shorts-senf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/fil-noir-hemd-treviso-flower-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/g-star-midge-mid-straight-jeans-destroyed",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/gaudi-hemd-leinen-olive",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/le-temps-des-cerises-711-basic-jeans-light-used-lused",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/ltc-617-basic-jeans-midblue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/mos-mosh-berlin-zip-jeans-midus",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/mos-mosh-sharon-jeans-medag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/nue-feinstrickpullover-v-neck-silber",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-forcer-jacket-navy",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-shorts-stetch-denim-midblue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-jeans-shorts-greyblue",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-marty-boy-fit-jeans-lightwash",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-new-luz-jeans-dkwash",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-shorts-hyperflex-green",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-shorts-hyperflex-sand",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/replay-sweater-grey",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/rich-royal-bluse",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/rich-royal-bluse-multi-color",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/rich-royal-strickpullover-sand",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://deans.ch/products/salsa-bermuda-shorts-mit-guertel-navy",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "http://www.deans.ch:80/diesel.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/edwin.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/gstar.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/hilfiger.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/levis.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/nudie.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/replay.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/schott.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/scotch.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/superdry.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/timberland.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/timbi%20herren.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/ueber%20uns.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/warson.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/winterthur%20markt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-10-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/accessoires.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-09-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/cast%20iron.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-09-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/gst%20wmn.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-09-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/gstar%20men.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-09-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/levis%20damen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-09-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/levis%20herren.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-09-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/levis%20story%201.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-09-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/markenuebersicht.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-09-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/petrol.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-09-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/piwik.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-09-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/timbi%20damen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-09-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/cipo%20baxx.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-02-23"
+    },
+    {
+      "URL": "http://www.deans.ch:80/filiallen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-02-23"
+    },
+    {
+      "URL": "http://deans.ch/index_htm_files/standAlone_omk.swf?url=The%20Nudie%20Jeans%20Washguide.flv&sound=true&loop=true&tooltip=true&autoplay=false&swfborder=true",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2013-12-25"
+    },
+    {
+      "URL": "http://deans.ch/spreitenbach.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2013-09-11"
+    },
+    {
+      "URL": "http://deans.ch/zuerich.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2013-09-10"
+    },
+    {
+      "URL": "http://www.deans.ch:80/stores.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-10-06"
+    },
+    {
+      "URL": "http://www.deans.ch:80/welcome.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-10-06"
+    },
+    {
+      "URL": "http://www.deans.ch:80/boxfresh.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-09-02"
+    },
+    {
+      "URL": "http://www.deans.ch:80/gstar%20shoes.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-09-02"
+    },
+    {
+      "URL": "http://www.deans.ch:80/pepe.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-09-02"
+    },
+    {
+      "URL": "http://www.deans.ch:80/jeans%20infos.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-05-14"
+    },
+    {
+      "URL": "http://deans.ch:80/timberland%20aktionen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2011-10-25"
+    },
+    {
+      "URL": "http://deans.ch:80/aktionen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2011-03-15"
+    },
+    {
+      "URL": "https://deans.ch/products/pme-legend-jeans-nightflight-light-grey",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-boot-10604-milles-c-dk-brown",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-boot-kaspar-b-marron",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-boot-kaspar-b-moro",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-shoe-septieme-black",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-shoe-septieme-cacao",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/sendra-stiefelette-16138-debora-moro",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/tigha-pullover-janny-forest",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/tigha-strick-jacke-long-anthrazit",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/warson-hoody-siffert-carbone",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/warson-t-shirt-special-v2-carbone",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/warson-t-shirt-v8-engine-green",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/products/warson-t-shirt-vintage-racing-red-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "URL": "https://deans.ch/collections/blazers",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    },
+    {
+      "URL": "https://deans.ch/collections/boatshoes",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-24"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "jeans@deans.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522125658",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

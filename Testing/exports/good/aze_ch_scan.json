@@ -1,0 +1,2413 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "192.168.0.163",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "IPv4-Adresse": "217.26.54.22",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a00:d70:0:b:2002:0:d91a:3616",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx1.mail.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx2.mail.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Name Server": "ns2.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Name Server": "ns3.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"google-site-verification=kFlPqMtFFuxIytBoJooZnIn5ZvY5cgs7f-IMKeO5Aso\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Text Record": "\"v=spf1 redirect=spf.mail.hostpoint.ch\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "3628800",
+      "Serial": "1747267200",
+      "Refresh": "86400",
+      "Hostmaster": "hostmaster.hostpoint.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "217.26.54.22",
+      "PTR-Domain": "sl122.web.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "IP-Adresse": "2a00:d70:0:b:2002:0:d91a:3616",
+      "PTR-Domain": "sl122.web.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "aze.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "test.aze.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-06",
+      "Gültig bis": "2025-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-06"
+    },
+    {
+      "Gültig ab": "2025-04-06",
+      "Gültig bis": "2025-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-06"
+    },
+    {
+      "Gültig ab": "2025-04-06",
+      "Gültig bis": "2025-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-06"
+    },
+    {
+      "Gültig ab": "2025-04-06",
+      "Gültig bis": "2025-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-06"
+    },
+    {
+      "Gültig ab": "2025-04-01",
+      "Gültig bis": "2025-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-01"
+    },
+    {
+      "Gültig ab": "2025-04-01",
+      "Gültig bis": "2025-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-01"
+    },
+    {
+      "Gültig ab": "2025-02-03",
+      "Gültig bis": "2025-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-03"
+    },
+    {
+      "Gültig ab": "2025-02-03",
+      "Gültig bis": "2025-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-03"
+    },
+    {
+      "Gültig ab": "2025-02-03",
+      "Gültig bis": "2025-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-03"
+    },
+    {
+      "Gültig ab": "2025-02-03",
+      "Gültig bis": "2025-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-03"
+    },
+    {
+      "Gültig ab": "2025-01-29",
+      "Gültig bis": "2025-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-29"
+    },
+    {
+      "Gültig ab": "2025-01-29",
+      "Gültig bis": "2025-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-29"
+    },
+    {
+      "Gültig ab": "2024-12-03",
+      "Gültig bis": "2025-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "Gültig ab": "2024-12-03",
+      "Gültig bis": "2025-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "Gültig ab": "2024-12-03",
+      "Gültig bis": "2025-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "Gültig ab": "2024-12-03",
+      "Gültig bis": "2025-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "Gültig ab": "2024-11-28",
+      "Gültig bis": "2025-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-28"
+    },
+    {
+      "Gültig ab": "2024-11-28",
+      "Gültig bis": "2025-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-28"
+    },
+    {
+      "Gültig ab": "2024-10-02",
+      "Gültig bis": "2024-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "Gültig ab": "2024-10-02",
+      "Gültig bis": "2024-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "Gültig ab": "2024-10-02",
+      "Gültig bis": "2024-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "Gültig ab": "2024-10-02",
+      "Gültig bis": "2024-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "Gültig ab": "2024-09-27",
+      "Gültig bis": "2024-12-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-27"
+    },
+    {
+      "Gültig ab": "2024-09-27",
+      "Gültig bis": "2024-12-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-27"
+    },
+    {
+      "Gültig ab": "2024-08-02",
+      "Gültig bis": "2024-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "Gültig ab": "2024-08-02",
+      "Gültig bis": "2024-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "Gültig ab": "2024-08-02",
+      "Gültig bis": "2024-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "Gültig ab": "2024-08-02",
+      "Gültig bis": "2024-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "Gültig ab": "2024-07-27",
+      "Gültig bis": "2024-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-27"
+    },
+    {
+      "Gültig ab": "2024-07-27",
+      "Gültig bis": "2024-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-27"
+    },
+    {
+      "Gültig ab": "2024-06-01",
+      "Gültig bis": "2024-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "Gültig ab": "2024-06-01",
+      "Gültig bis": "2024-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "Gültig ab": "2024-06-01",
+      "Gültig bis": "2024-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "Gültig ab": "2024-06-01",
+      "Gültig bis": "2024-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-01"
+    },
+    {
+      "Gültig ab": "2024-05-26",
+      "Gültig bis": "2024-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-26"
+    },
+    {
+      "Gültig ab": "2024-05-26",
+      "Gültig bis": "2024-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-05-26"
+    },
+    {
+      "Gültig ab": "2024-03-31",
+      "Gültig bis": "2024-06-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-31"
+    },
+    {
+      "Gültig ab": "2024-03-31",
+      "Gültig bis": "2024-06-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-31"
+    },
+    {
+      "Gültig ab": "2024-03-31",
+      "Gültig bis": "2024-06-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-31"
+    },
+    {
+      "Gültig ab": "2024-03-31",
+      "Gültig bis": "2024-06-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-31"
+    },
+    {
+      "Gültig ab": "2024-03-25",
+      "Gültig bis": "2024-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "Gültig ab": "2024-03-25",
+      "Gültig bis": "2024-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "Gültig ab": "2024-01-29",
+      "Gültig bis": "2024-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-29"
+    },
+    {
+      "Gültig ab": "2024-01-29",
+      "Gültig bis": "2024-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-29"
+    },
+    {
+      "Gültig ab": "2024-01-29",
+      "Gültig bis": "2024-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-29"
+    },
+    {
+      "Gültig ab": "2024-01-29",
+      "Gültig bis": "2024-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-29"
+    },
+    {
+      "Gültig ab": "2024-01-23",
+      "Gültig bis": "2024-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-23"
+    },
+    {
+      "Gültig ab": "2024-01-23",
+      "Gültig bis": "2024-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-01-23"
+    },
+    {
+      "Gültig ab": "2023-11-28",
+      "Gültig bis": "2024-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-28"
+    },
+    {
+      "Gültig ab": "2023-11-28",
+      "Gültig bis": "2024-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-28"
+    },
+    {
+      "Gültig ab": "2023-11-28",
+      "Gültig bis": "2024-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-28"
+    },
+    {
+      "Gültig ab": "2023-11-28",
+      "Gültig bis": "2024-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-28"
+    },
+    {
+      "Gültig ab": "2023-11-22",
+      "Gültig bis": "2024-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-23"
+    },
+    {
+      "Gültig ab": "2023-11-22",
+      "Gültig bis": "2024-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-11-23"
+    },
+    {
+      "Gültig ab": "2023-09-27",
+      "Gültig bis": "2023-12-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "Gültig ab": "2023-09-27",
+      "Gültig bis": "2023-12-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "Gültig ab": "2023-09-27",
+      "Gültig bis": "2023-12-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "Gültig ab": "2023-09-27",
+      "Gültig bis": "2023-12-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "Gültig ab": "2023-09-22",
+      "Gültig bis": "2023-12-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "Gültig ab": "2023-09-22",
+      "Gültig bis": "2023-12-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "Gültig ab": "2023-07-27",
+      "Gültig bis": "2023-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-27"
+    },
+    {
+      "Gültig ab": "2023-07-27",
+      "Gültig bis": "2023-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-27"
+    },
+    {
+      "Gültig ab": "2023-07-27",
+      "Gültig bis": "2023-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-27"
+    },
+    {
+      "Gültig ab": "2023-07-27",
+      "Gültig bis": "2023-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-27"
+    },
+    {
+      "Gültig ab": "2023-07-22",
+      "Gültig bis": "2023-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-22"
+    },
+    {
+      "Gültig ab": "2023-07-22",
+      "Gültig bis": "2023-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-07-22"
+    },
+    {
+      "Gültig ab": "2023-05-26",
+      "Gültig bis": "2023-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-26"
+    },
+    {
+      "Gültig ab": "2023-05-26",
+      "Gültig bis": "2023-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-26"
+    },
+    {
+      "Gültig ab": "2023-05-26",
+      "Gültig bis": "2023-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-26"
+    },
+    {
+      "Gültig ab": "2023-05-26",
+      "Gültig bis": "2023-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-26"
+    },
+    {
+      "Gültig ab": "2023-05-21",
+      "Gültig bis": "2023-08-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-21"
+    },
+    {
+      "Gültig ab": "2023-05-21",
+      "Gültig bis": "2023-08-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-21"
+    },
+    {
+      "Gültig ab": "2023-03-25",
+      "Gültig bis": "2023-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-25"
+    },
+    {
+      "Gültig ab": "2023-03-25",
+      "Gültig bis": "2023-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-25"
+    },
+    {
+      "Gültig ab": "2023-03-25",
+      "Gültig bis": "2023-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-25"
+    },
+    {
+      "Gültig ab": "2023-03-25",
+      "Gültig bis": "2023-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-25"
+    },
+    {
+      "Gültig ab": "2023-03-20",
+      "Gültig bis": "2023-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "Gültig ab": "2023-03-20",
+      "Gültig bis": "2023-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "Gültig ab": "2023-01-22",
+      "Gültig bis": "2023-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-22"
+    },
+    {
+      "Gültig ab": "2023-01-22",
+      "Gültig bis": "2023-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-22"
+    },
+    {
+      "Gültig ab": "2023-01-22",
+      "Gültig bis": "2023-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-22"
+    },
+    {
+      "Gültig ab": "2023-01-22",
+      "Gültig bis": "2023-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-22"
+    },
+    {
+      "Gültig ab": "2023-01-17",
+      "Gültig bis": "2023-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-17"
+    },
+    {
+      "Gültig ab": "2023-01-17",
+      "Gültig bis": "2023-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-01-17"
+    },
+    {
+      "Gültig ab": "2022-11-21",
+      "Gültig bis": "2023-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-11-21"
+    },
+    {
+      "Gültig ab": "2022-11-21",
+      "Gültig bis": "2023-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-11-21"
+    },
+    {
+      "Gültig ab": "2022-11-21",
+      "Gültig bis": "2023-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-11-21"
+    },
+    {
+      "Gültig ab": "2022-11-21",
+      "Gültig bis": "2023-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-11-21"
+    },
+    {
+      "Gültig ab": "2022-11-16",
+      "Gültig bis": "2023-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-11-16"
+    },
+    {
+      "Gültig ab": "2022-11-16",
+      "Gültig bis": "2023-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-11-16"
+    },
+    {
+      "Gültig ab": "2022-09-15",
+      "Gültig bis": "2022-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-09-15"
+    },
+    {
+      "Gültig ab": "2022-09-15",
+      "Gültig bis": "2022-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-09-15"
+    },
+    {
+      "Gültig ab": "2022-07-15",
+      "Gültig bis": "2022-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-07-15"
+    },
+    {
+      "Gültig ab": "2022-07-15",
+      "Gültig bis": "2022-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.test.aze.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-07-15"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://aze.ch/atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/feed.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/iproc.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/10",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "http://aze.ch/druckluft.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-07"
+    },
+    {
+      "URL": "http://aze.ch/msr.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "http://aze.ch/datenschutz.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-02"
+    },
+    {
+      "URL": "http://www.aze.ch/home.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-05-21"
+    },
+    {
+      "URL": "http://www.aze.ch/produkte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-29"
+    },
+    {
+      "URL": "http://www.aze.ch:80/index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-10-19"
+    },
+    {
+      "URL": "http://www.aze.ch:80/info2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2003-02-03"
+    },
+    {
+      "URL": "https://aze.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/Willkommen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/Prozess-Pneumatik/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-09"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "http://aze.ch/PDF/ewo-katalog.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-07"
+    },
+    {
+      "URL": "http://aze.ch/fluidik.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-06"
+    },
+    {
+      "URL": "http://aze.ch/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-06"
+    },
+    {
+      "URL": "http://aze.ch/kontakt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-06"
+    },
+    {
+      "URL": "http://aze.ch/PDF/floxon-b.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "http://aze.ch/leistungen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-15"
+    },
+    {
+      "URL": "https://aze.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Unbenannt1.JPG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Unbenannt1.JPG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Youtube.PNG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Camlock.PNG/picture-1200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Camlock.PNG/picture-1600?_=18c58056242",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Camlock.PNG/picture-200?_=18c58056242",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Camlock.PNG/picture-2600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Camlock.PNG/picture-800?_=18c58056242",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.FB.PNG/picture-1200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.FB.PNG/picture-1600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.FB.PNG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.FB.PNG/picture-2600?_=18224da2b70",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.FB.PNG/picture-800?_=18224da2b70",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Hintergrund-.JPG/picture-1200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Hintergrund-.JPG/picture-1600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Hintergrund-.JPG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Hintergrund-.JPG/picture-2600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Hintergrund-.JPG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Hintergrund-.JPG/picture-800?_=1840e03fc08",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.hintergrund-2.jpg/picture-200?_=182247d0817",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.hintergrund-2.jpg/picture-2600?_=182247d0817",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.hintergrund-2.jpg/picture-400?_=182247d0817",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.hintergrund-2.jpg/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.insta.PNG/picture-1600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.insta.PNG/picture-2600?_=18224da2788",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Kabelaufroller%20230V.JPG/picture-1200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Kabelaufroller%20230V.JPG/picture-1600?_=18bf6725938",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Kabelaufroller%20230V.JPG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Kabelaufroller%20230V.JPG/picture-2600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Kabelaufroller%20230V.JPG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Kabelaufroller%20230V.JPG/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.logo%20aze.png/picture-1200?_=18224568c20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.social.PNG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.social.PNG/picture-2600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.social.PNG/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Titel.JPG/picture-1200?_=1840a70caf8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Titel.JPG/picture-1600?_=1840a70caf8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Titel.JPG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Titel.JPG/picture-2600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Titel.JPG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Unbenannt1.JPG/picture-200?_=1845294f688",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Unbenannt1.JPG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.whatsappsupport1.jpg/picture-1600?_=1858b4e6d78",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.whatsappsupport1.jpg/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.whatsappsupport1.jpg/picture-2600?_=1858b4e6d78",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Youtube.PNG/picture-1200?_=18224da2f58",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Youtube.PNG/picture-200?_=18224da2f58",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Youtube.PNG/picture-2600?_=18224da2f58",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Youtube.PNG/picture-400?_=18224da2f58",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Youtube.PNG/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/.Camlock.PNG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/.FB.PNG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Camlock.PNG/picture-400?_=18c58056242",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.insta.PNG/picture-1200?_=18224da2788",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Titel.JPG/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.whatsappsupport1.jpg/picture-1200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "http://aze.ch/PDF/Leistungsprogramm_flox-on.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-07"
+    },
+    {
+      "URL": "http://aze.ch/PDF/pressure-controller.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "http://aze.ch/PDF/AZE_Druckluft_Gas_Fluidik_Produkte.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-02"
+    },
+    {
+      "URL": "http://www.aze.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/share-bold-webfont-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-26"
+    },
+    {
+      "URL": "http://www.aze.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/share-regular-webfont-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-26"
+    },
+    {
+      "URL": "http://www.aze.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/share-regular-webfont-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-23"
+    },
+    {
+      "URL": "http://www.aze.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/share-bold-webfont-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-22"
+    },
+    {
+      "URL": "http://www.aze.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/glyphicons-halflings-regular.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-21"
+    },
+    {
+      "URL": "http://www.aze.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/share-italic-webfont-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-20"
+    },
+    {
+      "URL": "http://www.aze.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/share-italic-webfont-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-19"
+    },
+    {
+      "URL": "http://www.aze.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/share-italic-webfont-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-17"
+    },
+    {
+      "URL": "http://www.aze.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/share-bold-webfont-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-14"
+    },
+    {
+      "URL": "http://aze.ch:80/kategorie1/50396395ed0ee0711/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-02-02"
+    },
+    {
+      "URL": "http://www.aze.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/share-regular-webfont-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-14"
+    },
+    {
+      "URL": "http://www.aze.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/glyphicons-halflings-regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-11"
+    },
+    {
+      "URL": "http://www.aze.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/glyphicons-halflings-regular.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-11"
+    },
+    {
+      "URL": "http://aze.ch/generated-content/service.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-28"
+    },
+    {
+      "URL": "http://aze.ch/generated-content/agb.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-12-03"
+    },
+    {
+      "URL": "http://aze.ch/generated-content/datenschutz.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-12-03"
+    },
+    {
+      "URL": "http://aze.ch/generated-content/right.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-12-03"
+    },
+    {
+      "URL": "http://www.aze.ch/produkte/aze/hochdrucktechnik.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-12-03"
+    },
+    {
+      "URL": "http://www.aze.ch:80/produkte/magura/magura-vertretung-schweiz.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-16"
+    },
+    {
+      "URL": "http://aze.ch/fileadmin/user_upload/pdf/floxon_Anwendungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://aze.ch/generated-content/impressum.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://aze.ch/generated-content/news-floxon.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://aze.ch/produkte/aze/fluidtechnik.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://aze.ch/produkte/aze/mess-und-regeltechnik.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://aze.ch/produkte/aze/technische-gase.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://aze.ch/produkte/ewo/drucklufttechnik.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://aze.ch/produkte/ewo/werkstatt-zubehoer.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://aze.ch/produkte/magura/industrial-controls.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://aze.ch/produkte/magura/zweiradindustrie.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.aze.ch/fileadmin/user_upload/pdf/aze_imagebroschuere_lay9.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-02"
+    },
+    {
+      "URL": "http://www.aze.ch/fileadmin/user_upload/pdf/ewo-produktkatalog_1_04-2013.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-02"
+    },
+    {
+      "URL": "http://www.aze.ch/fileadmin/user_upload/pdf/ewo-produktkatalog_2_04-2013.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-02"
+    },
+    {
+      "URL": "http://www.aze.ch/fileadmin/user_upload/pdf/magura_katalog_industrie_2011_controls.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-02"
+    },
+    {
+      "URL": "http://www.aze.ch/fileadmin/user_upload/pdf/magura_katalog_powersports_2014_D.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-02"
+    },
+    {
+      "URL": "http://www.aze.ch/generated-content/news-magura.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-02"
+    },
+    {
+      "URL": "http://www.aze.ch/generated-content/news-rdks.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-02"
+    },
+    {
+      "URL": "http://www.aze.ch/generated-content/news-reifendruckkontrolle.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-11-02"
+    },
+    {
+      "URL": "http://aze.ch:80/counter/counter_count.php?b4yc_iframe=yes&",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-11-29"
+    },
+    {
+      "URL": "http://www.aze.ch:80/counter/statistiks/details.php?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-11-02"
+    },
+    {
+      "URL": "http://www.aze.ch:80/counter/statistiks/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2012-07-14"
+    },
+    {
+      "URL": "http://aze.ch:80/pages/impressum.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2011-01-18"
+    },
+    {
+      "URL": "http://aze.ch:80/kategorie1/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-04-17"
+    },
+    {
+      "URL": "http://aze.ch:80/service/notdienst/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-02-03"
+    },
+    {
+      "URL": "http://aze.ch:80/service/weg/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-02-03"
+    },
+    {
+      "URL": "http://aze.ch:80/kategorie1/50396395ed0d1fc01/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-02-02"
+    },
+    {
+      "URL": "http://aze.ch:80/kategorie1/50396395ed0ed0604/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-02-02"
+    },
+    {
+      "URL": "http://aze.ch:80/kategorie1/50396395ed0ee5b21/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-01-31"
+    },
+    {
+      "URL": "http://aze.ch:80/kategorie1/50396395ed0ee6f2e/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-01-31"
+    },
+    {
+      "URL": "http://aze.ch:80/kategorie1/50396395ed0ee883b/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-01-31"
+    },
+    {
+      "URL": "http://www.aze.ch:80/kategorie1/50396395ed0ed0604/50396395581375606/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-09-08"
+    },
+    {
+      "URL": "http://www.aze.ch:80/kategorie1/50396395ed0ed0604/50396395f11127708/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-09-08"
+    },
+    {
+      "URL": "http://www.aze.ch:80/kategorie1/50396395ed0ed0604/50396395581376109/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-09-05"
+    },
+    {
+      "URL": "http://www.aze.ch:80/kategorie1/50396395ed0ed0604/seite3/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-08-16"
+    },
+    {
+      "URL": "http://www.aze.ch:80/kategorie1/50396395ed0ed0604/seite1/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-17"
+    },
+    {
+      "URL": "http://www.aze.ch:80/kategorie1/50396395ed0ed0604/seite2/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-05-17"
+    },
+    {
+      "URL": "http://www.aze.ch:80/kategorie1/50396395ed0ed0604/50396395f10fcf701/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-04-12"
+    },
+    {
+      "URL": "http://www.aze.ch:80/kategorie1/50396395ed0ed0604/50396395581374b03/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-03-13"
+    },
+    {
+      "URL": "http://www.aze.ch:80/magura/navigation.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-10-15"
+    },
+    {
+      "URL": "http://www.aze.ch:80/magura/navirechts.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-10-15"
+    },
+    {
+      "URL": "https://aze.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/Reifendruck,-ITV/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/Ueber-uns-Datenschutz-AGB/index.php/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/Katalog%20Controls%20AZE%20web%203%20Seiten.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.KMU.png/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.KMU.png/picture-1600?_=19425f8ffd8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.KMU.png/picture-2600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.KMU.png/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/cataloque%20air%20comprime%20ewo%20-%20AZE_f%20web%20S.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Hintergrund-%20-%20Kopie.JPG/picture-2600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://aze.ch/Download/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/Druckluft-Technik/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/feeds/all.atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/sysdb",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "http://aze.ch/ueberuns.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-06"
+    },
+    {
+      "URL": "http://aze.ch/impressum.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "http://aze.ch/service.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://aze.ch/left.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-08-18"
+    },
+    {
+      "URL": "http://aze.ch/start.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-08-18"
+    },
+    {
+      "URL": "http://aze.ch/top.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2013-08-18"
+    },
+    {
+      "URL": "http://aze.ch:80/service/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2009-01-31"
+    },
+    {
+      "URL": "http://aze.ch:80/magura/index2.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-02-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/widgetres.php/cm4all.com.widgets.EventCalendar/rss_shiny_20.png/3.3.25",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/Prozess-Pneumatik,-ITV-Fittings/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/Ueber-uns-Datenschutz-AGB/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/Katalog%20Controls%20AZE%20web%203%20Seiten.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.KMU.png/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.KMU.png/picture-1200?_=19425f8ffd8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.KMU.png/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.KMU.png/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/widgetres.php/cm4all.com.widgets.EventCalendar/rss_shiny_20.png/3.2.44",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.FB.PNG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.hintergrund-2.jpg/picture-1600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.insta.PNG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.insta.PNG/picture-400?_=18224da2788",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.insta.PNG/picture-800?_=18224da2788",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Screenshot%202024-04-23%20131211.png/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Screenshot%202024-05-24%20125553.png/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.SM%20Logo.JPG/picture-1200?_=18b715f7f72",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.SM%20Logo.JPG/picture-1600?_=18b715f7f72",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.SM%20Logo.JPG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.SM%20Logo.JPG/picture-2600?_=18b715f7f72",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.SM%20Logo.JPG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.SM%20Logo.JPG/picture-800?_=18b715f7f72",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Titel%201.JPG/picture-1200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Unbenannt1.JPG/picture-1200?_=1845294f688",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Unbenannt1.JPG/picture-1600?_=1845294f688",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Unbenannt1.JPG/picture-2600?_=1845294f688",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Unbenannt1.JPG/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Youtube.PNG/picture-1600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/AZE%20Druckluftkatalog%20pdf%20klein%20web-3-.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/cataloque%20air%20comprime%20ewo%20-%20AZE_f%20web%20S.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/AZE_Werkstatt%20Druckluft_2024.pdf?cdp=a&_=193e43adc38",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "URL": "https://www.aze.ch/Reifendruck-und-ITV-Fittings/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/AZE%20Druckluftkatalog%20pdf%20klein%20web-4%20-mit%20S.pdf?cdp=a&_=19256fb4200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-05"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Hintergrund-%20-%20Kopie.JPG/picture-1200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.hintergrund-2.jpg/picture-1200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Screenshot%202024-05-24%20125553.png/picture-200?_=18faa3eee10",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Screenshot%202024-05-24%20125553.png/picture-400?_=18faa3eee10",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.social.PNG/picture-1200?_=18224e28bf8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.social.PNG/picture-1600?_=18224e28bf8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.social.PNG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.whatsappsupport1.jpg/picture-400?_=1858b4e6d78",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.whatsappsupport1.jpg/picture-800?_=1858b4e6d78",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/brochure_pneumatic_Kom_web.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/Katalog_ITV_Gesamt_Web_klein.pdf?cdp=a&_=191b30b4d20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/AZE%20Druckluftkatalog%20pdf%20klein%20web-3_1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-23"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/AZE%20Druckluftkatalog%20pdf%20klein%20web-3_1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-23"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Hintergrund-%20-%20Kopie.JPG/picture-1200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Hintergrund-%20-%20Kopie.JPG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Hintergrund-%20-%20Kopie.JPG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Hintergrund-%20-%20Kopie.JPG/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Titel%201.JPG/picture-1200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Titel%201.JPG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Titel%201.JPG/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Hintergrund-%20-%20Kopie.JPG/picture-1600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Hintergrund-%20-%20Kopie.JPG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Hintergrund-%20-%20Kopie.JPG/picture-400?_=191b323bef0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Hintergrund-%20-%20Kopie.JPG/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Titel%201.JPG/picture-1600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Titel%201.JPG/picture-200?_=191b31e5ff0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Titel%201.JPG/picture-2600?_=191b31e5ff0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Titel%201.JPG/picture-400?_=191b31e5ff0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Titel%201.JPG/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/.Titel%201.JPG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/ewo%20Catalogue%20Air%20comprim%C3%A9%20-%20741FR%2009-2015.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/ewo%20Catalogue%20Air%20comprim%C3%A9%20-%20741FR%2009-2015.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/brochure_rail_industry_web.pdf?cdp=a&_=18ee5738140",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/cataloque%20air%20comprime%20ewo%204-%20AZE_f%20web%20S_1.pdf?cdp=a&_=191b3056180",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/Datenblatt%20ewo%20350.%20inkl.%20Ersatzteile.pdf?cdp=a&_=19208bfe618",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/ewo%20Druckluftkatalog%20853.pdf?cdp=a&_=18b711bb090",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/ewo%20brochure_aircraft_industry%20s.pdf?cdp=a&_=18faa3eaba8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-09"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/AZE%20Druckluftkatalog%20pdf%20klein%20web-3%20-%20mit%20S-.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-01"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/AZE%20Druckluftkatalog%20pdf%20klein%20web-3%20-%20mit%20S-.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-01"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/ewo%20brochure_aircraft_industry%20s.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/ewo%20Schwei%C3%9Fkatalog%20812.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/.Screenshot%202024-04-23%20131211.png/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/.Screenshot%202024-05-24%20125553.png/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/.Screenshot%202024-05-24%20125553.png/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/.Webseite%20Rail.png/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/mediadb/.Webseite%20Rail.png/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Screenshot%202024-04-23%20131211.png/picture-1200?_=18f0aa93748",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Screenshot%202024-04-23%20131211.png/picture-1600?_=18f0aa93748",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Screenshot%202024-04-23%20131211.png/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Screenshot%202024-04-23%20131211.png/picture-2600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Screenshot%202024-04-23%20131211.png/picture-400?_=18f0aa93748",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Screenshot%202024-05-24%20125553.png/picture-1200?_=18faa3eee10",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Screenshot%202024-05-24%20125553.png/picture-1600?_=18faa3eee10",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Screenshot%202024-05-24%20125553.png/picture-2600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Webseite%20Rail.png/picture-1200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Webseite%20Rail.png/picture-1600?_=18ee577fdb0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Webseite%20Rail.png/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Webseite%20Rail.png/picture-2600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/.Webseite%20Rail.png/picture-800?_=18ee577fdb0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://www.aze.ch/.cm4all/uproc.php/0/ewo%20Schwei%C3%9Fkatalog%20812.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Screenshot%202024-04-23%20131211.png/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-16"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/ewo%20Druckluftkatalog%20853.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/uproc.php/0/.Webseite%20Rail.png/picture-400?_=18ee577fdb0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://www.aze.ch/Reifendruck-und-MAGURA/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-22"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Camlock.PNG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Camlock.PNG/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.FB.PNG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Hintergrund-.JPG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Hintergrund-.JPG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.hintergrund-2.jpg/picture-1200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.hintergrund-2.jpg/picture-1600",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.hintergrund-2.jpg/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.hintergrund-2.jpg/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.hintergrund-2.jpg/picture-800",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.insta.PNG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.insta.PNG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Kabelaufroller%20230V.JPG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Kabelaufroller%20230V.JPG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Titel.JPG/picture-200",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "URL": "https://aze.ch/.cm4all/mediadb/.Titel.JPG/picture-400",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@aze.ch",
+      "Passwort geleakt (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    },
+    {
+      "E-Mail": "marco.keller@ascoco2.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522350165",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-10"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

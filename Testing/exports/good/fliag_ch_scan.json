@@ -1,0 +1,825 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "23.236.62.147",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx01.servicehoster.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx02.servicehoster.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "cns1.cloudpit.de.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "cns2.cloudpit.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "cns3.cloudpit.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 include:servicehoster.ch a mx ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "604800",
+      "Serial": "2023112202",
+      "Refresh": "10800",
+      "Hostmaster": "hostmaster.dogado.de.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "cns1.cloudpit.de.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "23.236.62.147",
+      "PTR-Domain": "147.62.236.23.bc.googleusercontent.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "fliag.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-03-26",
+      "Gültig bis": "2025-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-26"
+    },
+    {
+      "Gültig ab": "2025-03-26",
+      "Gültig bis": "2025-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-26"
+    },
+    {
+      "Gültig ab": "2025-01-26",
+      "Gültig bis": "2025-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-26"
+    },
+    {
+      "Gültig ab": "2025-01-26",
+      "Gültig bis": "2025-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-26"
+    },
+    {
+      "Gültig ab": "2024-11-27",
+      "Gültig bis": "2025-02-25",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-27"
+    },
+    {
+      "Gültig ab": "2024-09-29",
+      "Gültig bis": "2024-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-29"
+    },
+    {
+      "Gültig ab": "2024-09-29",
+      "Gültig bis": "2024-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-29"
+    },
+    {
+      "Gültig ab": "2024-07-31",
+      "Gültig bis": "2024-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-31"
+    },
+    {
+      "Gültig ab": "2024-07-31",
+      "Gültig bis": "2024-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-31"
+    },
+    {
+      "Gültig ab": "2024-06-02",
+      "Gültig bis": "2024-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-02"
+    },
+    {
+      "Gültig ab": "2024-06-02",
+      "Gültig bis": "2024-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-02"
+    },
+    {
+      "Gültig ab": "2024-04-03",
+      "Gültig bis": "2024-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-03"
+    },
+    {
+      "Gültig ab": "2024-04-03",
+      "Gültig bis": "2024-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-03"
+    },
+    {
+      "Gültig ab": "2024-02-04",
+      "Gültig bis": "2024-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-04"
+    },
+    {
+      "Gültig ab": "2024-02-04",
+      "Gültig bis": "2024-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-04"
+    },
+    {
+      "Gültig ab": "2023-12-06",
+      "Gültig bis": "2024-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-06"
+    },
+    {
+      "Gültig ab": "2023-12-06",
+      "Gültig bis": "2024-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-12-06"
+    },
+    {
+      "Gültig ab": "2023-10-08",
+      "Gültig bis": "2024-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-08"
+    },
+    {
+      "Gültig ab": "2023-10-08",
+      "Gültig bis": "2024-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-08"
+    },
+    {
+      "Gültig ab": "2023-08-09",
+      "Gültig bis": "2023-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-09"
+    },
+    {
+      "Gültig ab": "2023-08-09",
+      "Gültig bis": "2023-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-08-09"
+    },
+    {
+      "Gültig ab": "2023-06-11",
+      "Gültig bis": "2023-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-11"
+    },
+    {
+      "Gültig ab": "2023-06-11",
+      "Gültig bis": "2023-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-11"
+    },
+    {
+      "Gültig ab": "2023-04-12",
+      "Gültig bis": "2023-07-11",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-12"
+    },
+    {
+      "Gültig ab": "2023-04-12",
+      "Gültig bis": "2023-07-11",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-04-12"
+    },
+    {
+      "Gültig ab": "2023-02-11",
+      "Gültig bis": "2023-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-11"
+    },
+    {
+      "Gültig ab": "2023-02-11",
+      "Gültig bis": "2023-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-02-11"
+    },
+    {
+      "Gültig ab": "2022-12-13",
+      "Gültig bis": "2023-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-13"
+    },
+    {
+      "Gültig ab": "2022-12-13",
+      "Gültig bis": "2023-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "fliag.ch, www.fliag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-13"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "http://fliag.ch/swf/banner_01.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-15"
+    },
+    {
+      "URL": "https://www.fliag.ch/pdf/Lebenslauf_Peter_Fluetsch.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-07"
+    },
+    {
+      "URL": "https://www.fliag.ch/blog",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.fliag.ch/datenschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.fliag.ch/gemeindeingenieurwesen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.fliag.ch/kanal-werkleitungsbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.fliag.ch/post/parkraumplanung-fl%C3%A4chendeckende-blaue-zone-zone-28-stadt-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.fliag.ch/post/teamanlass-fl%C3%BCtsch-ing-ag-in-luzern",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.fliag.ch/post/verwalten-von-einer-ver%C3%B6ffentlichten-website-aus",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.fliag.ch/quartierplanung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.fliag.ch/referenzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.fliag.ch/spezialgebiete",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.fliag.ch/verkehrsplanung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.fliag.ch/2022-3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.fliag.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.fliag.ch/post/begegnungszone-bahnhof-kollbrunn-gemeinde-zell",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.fliag.ch/post/w%C3%BClflingerstrasse-salomon-hirzel-strasse-knotenumbau-stadt-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.fliag.ch/tief-strassenbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.fliag.ch/aktuell",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.fliag.ch/beratung-konzepte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.fliag.ch/dienstleistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.fliag.ch/post/im-feldtal-kanalersatz-und-strassensanierung-stadt-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.fliag.ch/post/qui-quissundit-excesequam",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.fliag.ch/post/sulzerallee-neubau-bushaltestellenstadt-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.fliag.ch/unternehmen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.fliag.ch/2022-6",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-25"
+    },
+    {
+      "URL": "https://www.fliag.ch/2022-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-26"
+    },
+    {
+      "URL": "https://www.fliag.ch/2022-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-02-28"
+    },
+    {
+      "URL": "https://www.fliag.ch/file.mp4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "URL": "https://www.fliag.ch/2022-7",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-29"
+    },
+    {
+      "URL": "https://www.fliag.ch/2022-8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-29"
+    },
+    {
+      "URL": "https://fliag.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://fliag.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/blog-feed.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/blog-posts-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/pages-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/kopie-von-2022-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/kopie-von-2022-6",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-03"
+    },
+    {
+      "URL": "https://www.fliag.ch/kopie-von-2022-7",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-06-03"
+    },
+    {
+      "URL": "http://fliag.ch/swf/banner_02.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-22"
+    },
+    {
+      "URL": "http://fliag.ch/swf/banner_07.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-17"
+    },
+    {
+      "URL": "http://fliag.ch/swf/banner_03.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-09"
+    },
+    {
+      "URL": "http://www.fliag.ch/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-06"
+    },
+    {
+      "URL": "http://fliag.ch/swf/dienstleistungen.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "URL": "http://fliag.ch/swf/banner_06.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-20"
+    },
+    {
+      "URL": "http://fliag.ch/swf/banner_04.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-28"
+    },
+    {
+      "URL": "http://fliag.ch/html/aktuell.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-24"
+    },
+    {
+      "URL": "http://fliag.ch/html/links.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-24"
+    },
+    {
+      "URL": "http://fliag.ch/swf/banner_01",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-24"
+    },
+    {
+      "URL": "http://fliag.ch/html/kontakt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-15"
+    },
+    {
+      "URL": "http://fliag.ch/html/planung_tiefbau_hochbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-15"
+    },
+    {
+      "URL": "http://fliag.ch/%C2%94/img/favicon.ico%C2%94",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-14"
+    },
+    {
+      "URL": "http://fliag.ch/html/beratung_konzepte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-14"
+    },
+    {
+      "URL": "http://fliag.ch/html/dienstleistungen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-14"
+    },
+    {
+      "URL": "http://fliag.ch/html/offene_stellen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-14"
+    },
+    {
+      "URL": "http://fliag.ch/html/sportanlagen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-11"
+    },
+    {
+      "URL": "http://fliag.ch/html/deponiebau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-06"
+    },
+    {
+      "URL": "http://fliag.ch/html/referenzen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-06"
+    },
+    {
+      "URL": "http://fliag.ch/html/gemeindeingenieurwesen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-04"
+    },
+    {
+      "URL": "http://fliag.ch/html/quartierplanung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-31"
+    },
+    {
+      "URL": "http://fliag.ch/html/unternehmen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-31"
+    },
+    {
+      "URL": "http://fliag.ch/html/verkehrsplanung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-27"
+    },
+    {
+      "URL": "http://fliag.ch/pdf/Gemeinde_Langnau_am_Albis.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-08"
+    },
+    {
+      "URL": "http://www.fliag.ch/swf/banner_05.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-10"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "info@website.com",
+      "Passwort geleakt (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "E-Mail": "staefa@fliag.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "winterthur@fliag.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41047607414",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Telefonnummern": "+41147186310",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Telefonnummern": "+41433339090",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Telefonnummern": "+41433339091",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Telefonnummern": "+41522127000",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Telefonnummern": "+41522127001",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

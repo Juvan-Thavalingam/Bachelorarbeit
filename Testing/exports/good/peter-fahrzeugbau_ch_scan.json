@@ -1,0 +1,742 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "149.126.4.40",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a01:ab20:0:4::40",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "mail.peter-fahrzeugbau.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "Name Server": "ns2.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 include:spf.protection.cyon.net -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "1209600",
+      "Serial": "2021041703",
+      "Refresh": "14400",
+      "Hostmaster": "server.cyon.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "149.126.4.40",
+      "PTR-Domain": "s031.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    },
+    {
+      "IP-Adresse": "2a01:ab20:0:4::40",
+      "PTR-Domain": "s031.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "peter-fahrzeugbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "abacus.peter-fahrzeugbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "autodiscover.peter-fahrzeugbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "mail.peter-fahrzeugbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "portal.peter-fahrzeugbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "ses.peter-fahrzeugbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    },
+    {
+      "Subdomainname": "webmail.peter-fahrzeugbau.ch",
+      "In Digitalem Twin gescant am": "2025-05-21"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-29",
+      "Gültig bis": "2025-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-29"
+    },
+    {
+      "Gültig ab": "2025-04-29",
+      "Gültig bis": "2025-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-04-29"
+    },
+    {
+      "Gültig ab": "2025-02-27",
+      "Gültig bis": "2025-05-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-27"
+    },
+    {
+      "Gültig ab": "2025-02-27",
+      "Gültig bis": "2025-05-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2025-02-27"
+    },
+    {
+      "Gültig ab": "2024-12-28",
+      "Gültig bis": "2025-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-28"
+    },
+    {
+      "Gültig ab": "2024-12-28",
+      "Gültig bis": "2025-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-12-28"
+    },
+    {
+      "Gültig ab": "2024-10-28",
+      "Gültig bis": "2025-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-28"
+    },
+    {
+      "Gültig ab": "2024-10-28",
+      "Gültig bis": "2025-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-10-28"
+    },
+    {
+      "Gültig ab": "2024-08-28",
+      "Gültig bis": "2024-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-28"
+    },
+    {
+      "Gültig ab": "2024-08-28",
+      "Gültig bis": "2024-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-08-28"
+    },
+    {
+      "Gültig ab": "2024-06-28",
+      "Gültig bis": "2024-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-28"
+    },
+    {
+      "Gültig ab": "2024-06-28",
+      "Gültig bis": "2024-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-06-28"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-28"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-04-28"
+    },
+    {
+      "Gültig ab": "2024-02-25",
+      "Gültig bis": "2024-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-25"
+    },
+    {
+      "Gültig ab": "2024-02-25",
+      "Gültig bis": "2024-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2024-02-25"
+    },
+    {
+      "Gültig ab": "2023-12-25",
+      "Gültig bis": "2024-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-25"
+    },
+    {
+      "Gültig ab": "2023-12-25",
+      "Gültig bis": "2024-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-12-25"
+    },
+    {
+      "Gültig ab": "2023-10-25",
+      "Gültig bis": "2024-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-10-25"
+    },
+    {
+      "Gültig ab": "2023-10-25",
+      "Gültig bis": "2024-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-10-25"
+    },
+    {
+      "Gültig ab": "2023-08-24",
+      "Gültig bis": "2023-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-08-24"
+    },
+    {
+      "Gültig ab": "2023-08-24",
+      "Gültig bis": "2023-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-08-24"
+    },
+    {
+      "Gültig ab": "2023-06-23",
+      "Gültig bis": "2023-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-23"
+    },
+    {
+      "Gültig ab": "2023-06-23",
+      "Gültig bis": "2023-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-06-23"
+    },
+    {
+      "Gültig ab": "2023-04-23",
+      "Gültig bis": "2023-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-04-23"
+    },
+    {
+      "Gültig ab": "2023-04-23",
+      "Gültig bis": "2023-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-04-23"
+    },
+    {
+      "Gültig ab": "2023-02-21",
+      "Gültig bis": "2023-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-21"
+    },
+    {
+      "Gültig ab": "2023-02-21",
+      "Gültig bis": "2023-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2023-02-21"
+    },
+    {
+      "Gültig ab": "2022-12-22",
+      "Gültig bis": "2023-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-12-22"
+    },
+    {
+      "Gültig ab": "2022-12-22",
+      "Gültig bis": "2023-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-12-22"
+    },
+    {
+      "Gültig ab": "2022-10-22",
+      "Gültig bis": "2023-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-10-22"
+    },
+    {
+      "Gültig ab": "2022-10-22",
+      "Gültig bis": "2023-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-10-22"
+    },
+    {
+      "Gültig ab": "2022-08-22",
+      "Gültig bis": "2022-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-08-22"
+    },
+    {
+      "Gültig ab": "2022-08-22",
+      "Gültig bis": "2022-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-08-22"
+    },
+    {
+      "Gültig ab": "2022-06-22",
+      "Gültig bis": "2022-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-22"
+    },
+    {
+      "Gültig ab": "2022-06-22",
+      "Gültig bis": "2022-09-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-06-22"
+    },
+    {
+      "Gültig ab": "2022-04-20",
+      "Gültig bis": "2022-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-04-20"
+    },
+    {
+      "Gültig ab": "2022-04-20",
+      "Gültig bis": "2022-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-04-20"
+    },
+    {
+      "Gültig ab": "2022-02-17",
+      "Gültig bis": "2022-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-02-17"
+    },
+    {
+      "Gültig ab": "2022-02-17",
+      "Gültig bis": "2022-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-02-17"
+    },
+    {
+      "Gültig ab": "2021-12-16",
+      "Gültig bis": "2022-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-12-16"
+    },
+    {
+      "Gültig ab": "2021-12-16",
+      "Gültig bis": "2022-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-12-16"
+    },
+    {
+      "Gültig ab": "2021-10-17",
+      "Gültig bis": "2022-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-10-17"
+    },
+    {
+      "Gültig ab": "2021-10-17",
+      "Gültig bis": "2022-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-10-17"
+    },
+    {
+      "Gültig ab": "2021-08-17",
+      "Gültig bis": "2021-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-08-17"
+    },
+    {
+      "Gültig ab": "2021-08-17",
+      "Gültig bis": "2021-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-08-17"
+    },
+    {
+      "Gültig ab": "2021-06-17",
+      "Gültig bis": "2021-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-06-17"
+    },
+    {
+      "Gültig ab": "2021-06-17",
+      "Gültig bis": "2021-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-06-17"
+    },
+    {
+      "Gültig ab": "2021-04-17",
+      "Gültig bis": "2021-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-04-17"
+    },
+    {
+      "Gültig ab": "2021-04-17",
+      "Gültig bis": "2021-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "peter-fahrzeugbau.ch, www.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2021-04-17"
+    },
+    {
+      "Gültig ab": "2014-06-17",
+      "Gültig bis": "2017-06-17",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "abacus.peter-fahrzeugbau.ch, autodiscover.peter-fahrzeugbau.ch, mail.peter-fahrzeugbau.ch, peter-fahrzeugbau.ch, portal.peter-fahrzeugbau.ch, ses.peter-fahrzeugbau.ch, webmail.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2018-02-02"
+    },
+    {
+      "Gültig ab": "2017-06-12",
+      "Gültig bis": "2020-06-12",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G3",
+      "Domain/Subdomain": "abacus.peter-fahrzeugbau.ch, autodiscover.peter-fahrzeugbau.ch, mail.peter-fahrzeugbau.ch, peter-fahrzeugbau.ch, portal.peter-fahrzeugbau.ch, ses.peter-fahrzeugbau.ch, webmail.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2017-11-20"
+    },
+    {
+      "Gültig ab": "2010-08-11",
+      "Gültig bis": "2013-08-10",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, OU=www.quovadisglobal.com, CN=QuoVadis Global SSL ICA",
+      "Domain/Subdomain": "autodiscover.peter-fahrzeugbau.ch, mail.peter-fahrzeugbau.ch, webmail.peter-fahrzeugbau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2016-09-25"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "http://peter-fahrzeugbau.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-06"
+    },
+    {
+      "URL": "https://peter-fahrzeugbau.ch/account",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-06"
+    },
+    {
+      "URL": "https://peter-fahrzeugbau.ch/api",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-06"
+    },
+    {
+      "URL": "https://peter-fahrzeugbau.ch/api/ui-extensions",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-06"
+    },
+    {
+      "URL": "https://peter-fahrzeugbau.ch/commerce/digital-download",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-06"
+    },
+    {
+      "URL": "https://peter-fahrzeugbau.ch/config",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-06"
+    },
+    {
+      "URL": "https://peter-fahrzeugbau.ch/search",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-06"
+    },
+    {
+      "URL": "https://peter-fahrzeugbau.ch/static",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/index.cfm?webpageid=1&menuID0=10&menuID1=0&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page020000.cfm?webpageid=2&menuID0=3&menuID1=5&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page030000.cfm?webpageid=3&menuID0=1&menuID1=18&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page040100.cfm?webpageid=4&menuID0=4&menuID1=12&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page040200.cfm?webpageid=22&menuID0=4&menuID1=13&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page050000.cfm?webpageid=43&menuID0=5&menuID1=26&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page060000.cfm?webpageid=6&menuID0=2&menuID1=2&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page070100.cfm?webpageid=10&menuID0=6&menuID1=16&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page070200.cfm?webpageid=11&menuID0=6&menuID1=17&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page080000.cfm?webpageid=28&menuID0=8&menuID1=23&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page090100.cfm?webpageid=13&menuID0=9&menuID1=19&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page090200.cfm?webpageid=29&menuID0=9&menuID1=20&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page110001.cfm?webpageid=39&menuID0=11&menuID1=24&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page020001.cfm?menuID0=3&menuID1=0&disable_menuID1=1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-04-04"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page020011.cfm?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-04-01"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch/page030001.cfm?itemID=99&languageID=1&menucolor=336699",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2007-08-03"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch/page050001.cfm?itemID=35&languageID=1&menucolor=339999",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2007-08-03"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/documents/pressrel/15536_40.JPG_News",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2004-11-10"
+    },
+    {
+      "URL": "http://www.peter-fahrzeugbau.ch:80/page030200.cfm?webpageid=21&menuID0=1&menuID1=15&menuID2=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2004-07-08"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@pwin.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-06"
+    },
+    {
+      "E-Mail": "peter@peter-fahrzeugbau.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2010-06-06"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522245252",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "In öffentlicher Datenbank erfasst am": "2022-05-06"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-21",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

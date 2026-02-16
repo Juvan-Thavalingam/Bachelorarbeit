@@ -1,0 +1,3168 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "185.125.27.75",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "blatterbau-ch01i.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "dns1.escapenet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Name Server": "dns2.escapenet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms99446692\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Text Record": "\"v=spf1 a/25 mx ip4:46.140.39.58 ip4:146.4.58.146 include:spf.protection.outlook.com include:spf.escapenet.ch -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "604800",
+      "Serial": "2025040900",
+      "Refresh": "28800",
+      "Hostmaster": "hostmaster.escapenet.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "dns1.escapenet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "185.125.27.75",
+      "PTR-Domain": "h2web435.infomaniak.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "blatter-bau.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "AutoDiscover.blatter-bau.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "autodiscover.blatter-bau.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "mail.blatter-bau.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "pbx.blatter-bau.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "sorba.blatter-bau.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "sorba.blatter-bau.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "test.blatter-bau.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-09",
+      "Gültig bis": "2025-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "blatter-bau.ch, www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-09"
+    },
+    {
+      "Gültig ab": "2025-04-09",
+      "Gültig bis": "2025-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "blatter-bau.ch, www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-09"
+    },
+    {
+      "Gültig ab": "2025-03-29",
+      "Gültig bis": "2025-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2025-03-29",
+      "Gültig bis": "2025-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2025-03-05",
+      "Gültig bis": "2026-03-24",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "sorba.blatter-bau.ch, www.sorba.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-05"
+    },
+    {
+      "Gültig ab": "2025-03-05",
+      "Gültig bis": "2026-03-24",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "sorba.blatter-bau.ch, www.sorba.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-05"
+    },
+    {
+      "Gültig ab": "2025-01-28",
+      "Gültig bis": "2025-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-28"
+    },
+    {
+      "Gültig ab": "2025-01-28",
+      "Gültig bis": "2025-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-28"
+    },
+    {
+      "Gültig ab": "2025-01-28",
+      "Gültig bis": "2025-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-28"
+    },
+    {
+      "Gültig ab": "2025-01-28",
+      "Gültig bis": "2025-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-28"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2024-11-13",
+      "Gültig bis": "2025-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-13"
+    },
+    {
+      "Gültig ab": "2024-11-13",
+      "Gültig bis": "2025-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-13"
+    },
+    {
+      "Gültig ab": "2024-11-04",
+      "Gültig bis": "2025-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "Gültig ab": "2024-11-04",
+      "Gültig bis": "2025-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "Gültig ab": "2024-11-04",
+      "Gültig bis": "2025-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "Gültig ab": "2024-11-04",
+      "Gültig bis": "2025-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "Gültig ab": "2024-09-06",
+      "Gültig bis": "2024-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-06"
+    },
+    {
+      "Gültig ab": "2024-09-06",
+      "Gültig bis": "2024-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-06"
+    },
+    {
+      "Gültig ab": "2024-08-11",
+      "Gültig bis": "2024-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "Gültig ab": "2024-08-11",
+      "Gültig bis": "2024-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "Gültig ab": "2024-08-11",
+      "Gültig bis": "2024-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "Gültig ab": "2024-08-11",
+      "Gültig bis": "2024-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "Gültig ab": "2024-08-06",
+      "Gültig bis": "2025-08-06",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "autodiscover.blatter-bau.ch, mail.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "Gültig ab": "2024-08-06",
+      "Gültig bis": "2025-08-06",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "autodiscover.blatter-bau.ch, mail.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "Gültig ab": "2024-06-30",
+      "Gültig bis": "2024-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "Gültig ab": "2024-06-30",
+      "Gültig bis": "2024-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "Gültig ab": "2024-05-18",
+      "Gültig bis": "2024-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "Gültig ab": "2024-05-18",
+      "Gültig bis": "2024-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "Gültig ab": "2024-05-18",
+      "Gültig bis": "2024-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "Gültig ab": "2024-05-18",
+      "Gültig bis": "2024-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "Gültig ab": "2024-04-22",
+      "Gültig bis": "2024-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-22"
+    },
+    {
+      "Gültig ab": "2024-04-22",
+      "Gültig bis": "2024-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-22"
+    },
+    {
+      "Gültig ab": "2024-03-11",
+      "Gültig bis": "2025-03-24",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "sorba.blatter-bau.ch, www.sorba.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-11"
+    },
+    {
+      "Gültig ab": "2024-03-11",
+      "Gültig bis": "2025-03-24",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "sorba.blatter-bau.ch, www.sorba.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-11"
+    },
+    {
+      "Gültig ab": "2024-02-23",
+      "Gültig bis": "2024-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-23"
+    },
+    {
+      "Gültig ab": "2024-02-23",
+      "Gültig bis": "2024-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-23"
+    },
+    {
+      "Gültig ab": "2024-02-23",
+      "Gültig bis": "2024-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-23"
+    },
+    {
+      "Gültig ab": "2024-02-23",
+      "Gültig bis": "2024-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-23"
+    },
+    {
+      "Gültig ab": "2023-11-30",
+      "Gültig bis": "2024-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-30"
+    },
+    {
+      "Gültig ab": "2023-11-30",
+      "Gültig bis": "2024-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-30"
+    },
+    {
+      "Gültig ab": "2023-11-30",
+      "Gültig bis": "2024-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-30"
+    },
+    {
+      "Gültig ab": "2023-11-30",
+      "Gültig bis": "2024-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-30"
+    },
+    {
+      "Gültig ab": "2023-09-06",
+      "Gültig bis": "2023-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-06"
+    },
+    {
+      "Gültig ab": "2023-09-06",
+      "Gültig bis": "2023-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-06"
+    },
+    {
+      "Gültig ab": "2023-09-06",
+      "Gültig bis": "2023-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-06"
+    },
+    {
+      "Gültig ab": "2023-09-06",
+      "Gültig bis": "2023-12-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-06"
+    },
+    {
+      "Gültig ab": "2023-07-04",
+      "Gültig bis": "2024-07-04",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "autodiscover.blatter-bau.ch, mail.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-04"
+    },
+    {
+      "Gültig ab": "2023-07-04",
+      "Gültig bis": "2024-07-04",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "autodiscover.blatter-bau.ch, mail.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-04"
+    },
+    {
+      "Gültig ab": "2023-07-04",
+      "Gültig bis": "2024-07-04",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "AutoDiscover.blatter-bau.ch, mail.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-04"
+    },
+    {
+      "Gültig ab": "2023-07-04",
+      "Gültig bis": "2024-07-04",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "AutoDiscover.blatter-bau.ch, mail.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-04"
+    },
+    {
+      "Gültig ab": "2023-06-13",
+      "Gültig bis": "2023-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-13"
+    },
+    {
+      "Gültig ab": "2023-06-13",
+      "Gültig bis": "2023-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-13"
+    },
+    {
+      "Gültig ab": "2023-06-13",
+      "Gültig bis": "2023-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-13"
+    },
+    {
+      "Gültig ab": "2023-06-13",
+      "Gültig bis": "2023-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-13"
+    },
+    {
+      "Gültig ab": "2023-03-20",
+      "Gültig bis": "2023-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "Gültig ab": "2023-03-20",
+      "Gültig bis": "2023-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "Gültig ab": "2023-03-20",
+      "Gültig bis": "2023-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "Gültig ab": "2023-03-20",
+      "Gültig bis": "2023-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "Gültig ab": "2023-03-17",
+      "Gültig bis": "2024-03-24",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "sorba.blatter-bau.ch, www.sorba.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-17"
+    },
+    {
+      "Gültig ab": "2023-03-17",
+      "Gültig bis": "2024-03-24",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "sorba.blatter-bau.ch, www.sorba.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-17"
+    },
+    {
+      "Gültig ab": "2022-12-25",
+      "Gültig bis": "2023-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-25"
+    },
+    {
+      "Gültig ab": "2022-12-25",
+      "Gültig bis": "2023-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-25"
+    },
+    {
+      "Gültig ab": "2022-12-25",
+      "Gültig bis": "2023-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-25"
+    },
+    {
+      "Gültig ab": "2022-12-25",
+      "Gültig bis": "2023-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-25"
+    },
+    {
+      "Gültig ab": "2022-10-01",
+      "Gültig bis": "2022-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-01"
+    },
+    {
+      "Gültig ab": "2022-10-01",
+      "Gültig bis": "2022-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-01"
+    },
+    {
+      "Gültig ab": "2022-10-01",
+      "Gültig bis": "2022-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-01"
+    },
+    {
+      "Gültig ab": "2022-10-01",
+      "Gültig bis": "2022-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-01"
+    },
+    {
+      "Gültig ab": "2022-07-08",
+      "Gültig bis": "2022-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-08"
+    },
+    {
+      "Gültig ab": "2022-07-08",
+      "Gültig bis": "2022-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-08"
+    },
+    {
+      "Gültig ab": "2022-07-08",
+      "Gültig bis": "2022-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-08"
+    },
+    {
+      "Gültig ab": "2022-07-08",
+      "Gültig bis": "2022-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-08"
+    },
+    {
+      "Gültig ab": "2022-06-27",
+      "Gültig bis": "2023-06-27",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "AutoDiscover.blatter-bau.ch, mail.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-27"
+    },
+    {
+      "Gültig ab": "2022-06-27",
+      "Gültig bis": "2023-06-27",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "AutoDiscover.blatter-bau.ch, mail.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-27"
+    },
+    {
+      "Gültig ab": "2022-04-14",
+      "Gültig bis": "2022-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-14"
+    },
+    {
+      "Gültig ab": "2022-04-14",
+      "Gültig bis": "2022-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-14"
+    },
+    {
+      "Gültig ab": "2022-04-14",
+      "Gültig bis": "2022-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-14"
+    },
+    {
+      "Gültig ab": "2022-04-14",
+      "Gültig bis": "2022-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-14"
+    },
+    {
+      "Gültig ab": "2022-02-24",
+      "Gültig bis": "2023-03-24",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "sorba.blatter-bau.ch, www.sorba.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-02-24"
+    },
+    {
+      "Gültig ab": "2022-02-24",
+      "Gültig bis": "2023-03-24",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "sorba.blatter-bau.ch, www.sorba.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-02-24"
+    },
+    {
+      "Gültig ab": "2022-01-19",
+      "Gültig bis": "2022-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "Gültig ab": "2022-01-19",
+      "Gültig bis": "2022-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "Gültig ab": "2022-01-19",
+      "Gültig bis": "2022-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "Gültig ab": "2022-01-19",
+      "Gültig bis": "2022-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "Gültig ab": "2021-10-26",
+      "Gültig bis": "2022-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-26"
+    },
+    {
+      "Gültig ab": "2021-10-26",
+      "Gültig bis": "2022-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-26"
+    },
+    {
+      "Gültig ab": "2021-10-26",
+      "Gültig bis": "2022-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-26"
+    },
+    {
+      "Gültig ab": "2021-10-26",
+      "Gültig bis": "2022-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-26"
+    },
+    {
+      "Gültig ab": "2021-08-02",
+      "Gültig bis": "2021-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "Gültig ab": "2021-08-02",
+      "Gültig bis": "2021-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "Gültig ab": "2021-08-02",
+      "Gültig bis": "2021-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "Gültig ab": "2021-08-02",
+      "Gültig bis": "2021-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "Gültig ab": "2021-05-09",
+      "Gültig bis": "2021-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-05-09"
+    },
+    {
+      "Gültig ab": "2021-05-09",
+      "Gültig bis": "2021-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-05-09"
+    },
+    {
+      "Gültig ab": "2021-05-09",
+      "Gültig bis": "2021-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-05-09"
+    },
+    {
+      "Gültig ab": "2021-05-09",
+      "Gültig bis": "2021-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-05-09"
+    },
+    {
+      "Gültig ab": "2021-03-24",
+      "Gültig bis": "2022-03-24",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "sorba.blatter-bau.ch, www.sorba.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-03-24"
+    },
+    {
+      "Gültig ab": "2021-03-24",
+      "Gültig bis": "2022-03-24",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "sorba.blatter-bau.ch, www.sorba.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-03-24"
+    },
+    {
+      "Gültig ab": "2021-02-13",
+      "Gültig bis": "2021-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-02-13"
+    },
+    {
+      "Gültig ab": "2021-02-13",
+      "Gültig bis": "2021-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-02-13"
+    },
+    {
+      "Gültig ab": "2021-02-13",
+      "Gültig bis": "2021-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-02-13"
+    },
+    {
+      "Gültig ab": "2021-02-13",
+      "Gültig bis": "2021-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-02-13"
+    },
+    {
+      "Gültig ab": "2020-11-20",
+      "Gültig bis": "2021-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-20"
+    },
+    {
+      "Gültig ab": "2020-11-20",
+      "Gültig bis": "2021-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-20"
+    },
+    {
+      "Gültig ab": "2020-11-20",
+      "Gültig bis": "2021-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-20"
+    },
+    {
+      "Gültig ab": "2020-11-20",
+      "Gültig bis": "2021-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-20"
+    },
+    {
+      "Gültig ab": "2020-08-27",
+      "Gültig bis": "2020-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-27"
+    },
+    {
+      "Gültig ab": "2020-08-27",
+      "Gültig bis": "2020-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-27"
+    },
+    {
+      "Gültig ab": "2020-08-27",
+      "Gültig bis": "2020-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-27"
+    },
+    {
+      "Gültig ab": "2020-08-27",
+      "Gültig bis": "2020-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-27"
+    },
+    {
+      "Gültig ab": "2020-06-03",
+      "Gültig bis": "2020-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-06-03"
+    },
+    {
+      "Gültig ab": "2020-06-03",
+      "Gültig bis": "2020-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-06-03"
+    },
+    {
+      "Gültig ab": "2020-06-03",
+      "Gültig bis": "2020-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-06-03"
+    },
+    {
+      "Gültig ab": "2020-06-03",
+      "Gültig bis": "2020-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-06-03"
+    },
+    {
+      "Gültig ab": "2020-05-26",
+      "Gültig bis": "2022-06-25",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL RSA CA 2018",
+      "Domain/Subdomain": "mail.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-05-26"
+    },
+    {
+      "Gültig ab": "2020-03-10",
+      "Gültig bis": "2020-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-03-10"
+    },
+    {
+      "Gültig ab": "2020-03-10",
+      "Gültig bis": "2020-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-03-10"
+    },
+    {
+      "Gültig ab": "2020-03-10",
+      "Gültig bis": "2020-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-03-10"
+    },
+    {
+      "Gültig ab": "2020-03-10",
+      "Gültig bis": "2020-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-03-10"
+    },
+    {
+      "Gültig ab": "2019-12-15",
+      "Gültig bis": "2020-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-12-15"
+    },
+    {
+      "Gültig ab": "2019-12-15",
+      "Gültig bis": "2020-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-12-15"
+    },
+    {
+      "Gültig ab": "2019-12-15",
+      "Gültig bis": "2020-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-12-15"
+    },
+    {
+      "Gültig ab": "2019-12-15",
+      "Gültig bis": "2020-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-12-15"
+    },
+    {
+      "Gültig ab": "2019-09-21",
+      "Gültig bis": "2019-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-09-21"
+    },
+    {
+      "Gültig ab": "2019-09-21",
+      "Gültig bis": "2019-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-09-21"
+    },
+    {
+      "Gültig ab": "2019-09-21",
+      "Gültig bis": "2019-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-09-21"
+    },
+    {
+      "Gültig ab": "2019-09-21",
+      "Gültig bis": "2019-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-09-21"
+    },
+    {
+      "Gültig ab": "2019-06-28",
+      "Gültig bis": "2019-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-06-28"
+    },
+    {
+      "Gültig ab": "2019-06-28",
+      "Gültig bis": "2019-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-06-28"
+    },
+    {
+      "Gültig ab": "2019-06-28",
+      "Gültig bis": "2019-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-06-28"
+    },
+    {
+      "Gültig ab": "2019-06-28",
+      "Gültig bis": "2019-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-06-28"
+    },
+    {
+      "Gültig ab": "2019-04-04",
+      "Gültig bis": "2019-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-04-04"
+    },
+    {
+      "Gültig ab": "2019-04-04",
+      "Gültig bis": "2019-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-04-04"
+    },
+    {
+      "Gültig ab": "2019-04-04",
+      "Gültig bis": "2019-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-04-04"
+    },
+    {
+      "Gültig ab": "2019-04-04",
+      "Gültig bis": "2019-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-04-04"
+    },
+    {
+      "Gültig ab": "2019-01-09",
+      "Gültig bis": "2019-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "Gültig ab": "2019-01-09",
+      "Gültig bis": "2019-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "Gültig ab": "2019-01-09",
+      "Gültig bis": "2019-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "Gültig ab": "2019-01-09",
+      "Gültig bis": "2019-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "Gültig ab": "2018-10-16",
+      "Gültig bis": "2019-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-16"
+    },
+    {
+      "Gültig ab": "2018-10-16",
+      "Gültig bis": "2019-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-16"
+    },
+    {
+      "Gültig ab": "2018-10-16",
+      "Gültig bis": "2019-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-16"
+    },
+    {
+      "Gültig ab": "2018-10-16",
+      "Gültig bis": "2019-01-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-16"
+    },
+    {
+      "Gültig ab": "2018-07-23",
+      "Gültig bis": "2018-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-23"
+    },
+    {
+      "Gültig ab": "2018-07-23",
+      "Gültig bis": "2018-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-23"
+    },
+    {
+      "Gültig ab": "2018-07-23",
+      "Gültig bis": "2018-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-23"
+    },
+    {
+      "Gültig ab": "2018-07-23",
+      "Gültig bis": "2018-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-23"
+    },
+    {
+      "Gültig ab": "2018-06-19",
+      "Gültig bis": "2018-09-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "test.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-06-19"
+    },
+    {
+      "Gültig ab": "2018-06-19",
+      "Gültig bis": "2018-09-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "test.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-06-19"
+    },
+    {
+      "Gültig ab": "2018-05-07",
+      "Gültig bis": "2020-06-05",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL RSA CA 2018",
+      "Domain/Subdomain": "mail.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-05-15"
+    },
+    {
+      "Gültig ab": "2018-05-07",
+      "Gültig bis": "2020-06-05",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL RSA CA 2018",
+      "Domain/Subdomain": "mail.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-05-07"
+    },
+    {
+      "Gültig ab": "2015-05-17",
+      "Gültig bis": "2018-05-18",
+      "Ausgestellt von": "C=US, O=GeoTrust Inc., CN=RapidSSL SHA256 CA - G3",
+      "Domain/Subdomain": "mail.blatter-bau.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-01-18"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/home/erweiterung-der-geschaeftsleitung-per-01-01-2024/183577231e-1705672114/erweiterung-gl-blatter-ag-per-01.01.2024.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/efh-steigstr-1/b1b06d7671-1682404062/steigstrasse_seuzach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-05-03"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/wohnsiedlung-vogelsang/072896045c-1682404066/bericht-gwg-aktuell-nr.3-2020-wohnsiedlung-vogelsang-lockt-mietinteressenten-in-scharen-an.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-05-03"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/wohnsiedlung-vogelsang/9c8e1f769f-1682404066/bericht-gwg-aktuell-nr.1-2021-grossbauprojekt-wohnsiedlung-vogelsang-im-endspurt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-05-03"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/wohnsiedlung-vogelsang/c9aae45409-1682404063/977-wohnsiedlung-vogelsang.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-05-03"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/2-efh-rispenweg-3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/2-mfh-zollhausweg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/aufstockung-azo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/mfh-brueelweg-5",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/ueb-parksite-im-duerrenrain",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/umbau-feuerwehrgebaeude",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/werkhalle-deisruetistr-4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/wueb-sagi-wolfzangenstr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/erweiterung-der-geschaeftsleitung-per-01-01-2024",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/verkaufsstart-wueb-herrenreben-in-winterthur-wuelflingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/umbau-hotel-frankreich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-15"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/team/626004b028-1682404059/team-2418x1006px-blumen-400x-crop-0-q100.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/team/626004b028-1682404059/team-2418x1006px-blumen-800x-crop-0-q100.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/ueber-uns/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://blatter-bau.ch/kirby",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://blatter-bau.ch/site",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://blatter-bau.ch/vendor",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/aktuelle-immobilien",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/dienstleistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/dienstleistungen/blatter-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/dienstleistungen/blatter-liegenschaften-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/feeds/all.atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/ambitionierter-maurer-lehrling-portrait-ueber-michael-hasler",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/ausgezeichnete-lap-ergebnisse-unserer-lernenden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/baustelle-im-fokus-br-wueb-vogelsang-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/besichtigungstermin-moderne-wohnungen-in-rickenbach-sulz-samstag-27-10-18-10-30-13-00",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/betriebsferien-sommer-2024",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/betriebsferien-weihnachten-neujahr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/blatter-ag-uebernimmt-peter-stoller-maurerarbeiten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/blatter-lehrling-brilliert-der-beste-in-einem-vierteljahrhundert",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/brack-ag-uebertraegt-hauswartungen-an-blatter-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/der-fruehling-bringt-neue-immobilienangebote",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/entstehung-und-verkauf-von-attraktiven-eigentumswohnungen-in-henggart",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/gruendungsmitglied-verstorben",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/happy-day-umbau-in-winterthur-srf-sendung-vom-19-12-2020",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/herzliche-gratulation-zum-dienstjubilaeum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/impressionen-sommerfest-2022",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/leben-an-unverbaubarer-aussichtslage-in-nussbaumen-tg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/lehrbeginn-zum-maurer-efz-sommer-2021",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/magische-momente-am-weihnachtsessen-2019",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/mitarbeiterschulung-anschlagen-von-lasten-an-kranen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/moderne-eigentumswohnungen-in-wiesendangen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/nach-48-jahren-mit-freude-in-den-ruhestand",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/neue-herausforderung-gesucht-baufuehrer-in",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/neue-herausforderung-gesucht-hochbaupolier",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/neueintritt-von-luca-blatter-als-bauleiter",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/neueintritt-von-stefan-singenberger-baufuehrer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/neuer-ansprechpartner-fuer-hauswartungen-gartenunterhalt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/neuer-lkw-im-einsatz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/skiweekend-in-obersaxen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/spannende-jobangebote-br-bewirb-dich-jetzt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/spatenstich-uebb-weid-2-seuzach-bauzeit-2018-2022",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/spatenstich-zur-wohnueberbauung-sagipark-in-hettlingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/top-lap-resultat-von-mattia-landolt-maurer-efz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/unsere-betriebsferien-ueber-weihnachten-neujahr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/wohn-t-raum-am-chrebsbach-unterohringen-seuzach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/news-presse/2dc9e16d37-1718702889/winterthurer-zeitung-vom-26.10.2023-oberwil.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/offene-stellen/65982a52e7-1734013028/2024-12-stelleninserat-kundenmaurer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/buerogebaeude-netcloud",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/efh-hubstr-39",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/efh-steigstr-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/erweiterung-schreinerei",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/mfh-bahnhofstr-89",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/mfh-feldwiesstr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/mfh-industriestr-24",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/mfh-moersburgstr-18",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/moersburg-park",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/resihof-rutschwil",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/sanierung-pfarreizentrum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/tennis-arena-ruemikerstr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/terrassenhaeuser",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/truckcenter-wuelflingerstr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-dorfstr-2b",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-freihof-dorfstr-11",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-obermuehleweg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-oepfelbaum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-ohringer-hof",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-sagipark",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-weid-i-weidstr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-weid-ii-weidstr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-wiesenbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/um-anbau-trottenstr-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/umbau-kirchweg-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/umbau-migros",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/wohnsiedlung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/wohnsiedlung-vogelsang",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/wueb-chrebsbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/wueb-ruetistrasse",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/ueber-uns/firmenportrait",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/ueber-uns/lernende",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/ueber-uns/offene-stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/aktuelle-immobilien/383c689a45-1704782653/elsau_frohbergblick_riedstr.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/aktuelle-immobilien/49024d2b70-1697897482/dokumentation-gladiolenstr.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/aktuelle-immobilien/b7e977b9dd-1717156890/verkaufsdoku-herrenreben.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/aktuelle-immobilien/bb35f0eca0-1682404041/anmeldung-interessenten-resihof.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "URL": "https://blatter-bau.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-25"
+    },
+    {
+      "URL": "https://blatter-bau.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-25"
+    },
+    {
+      "URL": "https://blatter-bau.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-25"
+    },
+    {
+      "URL": "https://blatter-bau.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-25"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/neueintritt-luca-blatter",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/home/verkaufsstart-wueb-herrenreben-in-winterthur-wuelflingen/dfb84a1446-1717158226/verkaufsdoku-herrenreben.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-31"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/wueb-sagi-wolfzangenstr/0f2807f05d-1682404093/874-wueb-sagi-wolfzangenstr.neftenbach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/home/c0f5eb0bfa-1701167974/40-jaehriges-dienstjubilaeum-daniel-russ.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/efh-steigstr-1/d543d8177f-1682404062/steigstrasse_seuzach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/wueb-sagi-wolfzangenstr/e834384e70-1682404093/874-wueb-sagi-wolfzangenstr.neftenbach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/aktuelle-immobilien/b742575a5e-1682404039/anmeldung-interessenten-sagipark.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/wohnsiedlung-vogelsang/cd502fa9f9-1682404066/bericht-gwg-aktuell-nr.3-2020-wohnsiedlung-vogelsang-lockt-mietinteressenten-in-scharen-an.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/aktuelle-immobilien/40d65f5dcd-1682404041/dokumentation.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/aktuelle-immobilien/ab5d76edb0-1682404040/verkaufsdoku-uebb-hirzig-dachsen-aktuell.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/umbau-kirchweg-2/cac72de55e-1682404079/kirchweg_2_schlatt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/offene-stellen/8aa8ffef05-1695037611/2023-09-stelleninserat-kranfuehrer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/wohnsiedlung-vogelsang/2388928c9f-1682404063/977-wohnsiedlung-vogelsang.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-03"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/wohnsiedlung-vogelsang/288345cdab-1682404066/bericht-gwg-aktuell-nr.1-2021-grossbauprojekt-wohnsiedlung-vogelsang-im-endspurt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-03"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/ueb-parksite-im-duerrenrain/e63f3b1c9a-1682404081/936-uebb-parksite-im-duerrenrain-pfungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/uebb-weid-i-weidstr/f6418bcf75-1682404075/uberbauung_weid.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/umbau-hotel-frankreich/23db2c97c7-1682404073/referenzblatt-hotelumbau-frankreich.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/referenzen/uebb-weid-ii-weidstr/80456188c5-1682404077/spatenstich-weid-2-seuzach-zeitungsartikel-aus-der-landbote-vom-02.10.2018-neu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/1-immoslider-qpe64m/verkaufsdoku-refh-und-eigentumswohnungen-chrebsbach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-31"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/1-immoslider-vapx51/verkaufsdokumentation-frohberg.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/1-immoslider-12olvw4/verkaufsdokumentation-vrenelisgaertli.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-27"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/umbau-kirchweg-2/aecce9f420-1682404079/kirchweg_2_schlatt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/3-referenzen/2-wohnsiedlung-vogelsang-winterthur/bericht-gwg-aktuell-nr.3-2020-wohnsiedlung-vogelsang-lockt-mietinteressenten-in-scharen-an.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://blatter-bau.ch/home/betriebsferien-sommer-2023",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/referenzen/ueb-parksite-im-duerrenrain/4b2e0e1363-1682404081/936-uebb-parksite-im-duerrenrain-pfungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/3-referenzen/2-wohnsiedlung-vogelsang-winterthur/977-wohnsiedlung-vogelsang.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/3-referenzen/2-wohnsiedlung-vogelsang-winterthur/bericht-gwg-aktuell-nr.1-2021-grossbauprojekt-wohnsiedlung-vogelsang-im-endspurt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/offene-stellen/43ddfecd71-1686037230/2023-06-stelleninserat-baufuehrer-kundendienst-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/5-offene-stellen/2-text-14pq9if/2020-12-stelleninserat-baufuehrer-kundendienst.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-23"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/home/neue-herausforderung-gesucht/1-text-1i9jcd/2020-11-stelleninserat-polier-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-23"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/home/neue-herausforderung-gesucht/1-text-1i9jcd/2020-12-stelleninserat-baufuehrer-kundendienst.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-23"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/home/neuer-ansprechpartner-bei-der-brack-ag/1-text-oa1mk6/stabuebergabe.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-23"
+    },
+    {
+      "URL": "https://blatter-bau.ch/home/neue-herausforderung-gesucht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-23"
+    },
+    {
+      "URL": "https://blatter-bau.ch/home/neuer-ansprechpartner-bei-der-brack-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-23"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/homepage-lap-2020.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-26"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/5-offene-stellen/2-text-14pq9if/2020-11-stelleninserat-polier-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-26"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/5-offene-stellen/2-text-14pq9if/2020-11-stelleninserat-strassenbauer-maschinist.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-26"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/2-immoslider-3bqoav/verkaufsdoku-uebb-hirzig-dachsen-aktuell.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-26"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/3-immoslider-qpe64m/verkaufsdoku-refh-und-eigentumswohnungen-chrebsbach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-26"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/4-immoslider-vapx51/verkaufsdokumentation-frohberg-aktualisiert_am_10.02.2020.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-26"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/offene-stellen/8904a06b53-1682404058/2023-02-stelleninserat-polier-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/offene-stellen/d0a03f6dcc-1682404058/2021-09-stelleninserat-maschinist-kundenmaurer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/spatenstich-weid-2-seuzach-zeitungsartikel-aus-der-landbote-vom-02.10.2018-neu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-04"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/3-referenzen/28-ueberbauung-weid-i/uberbauung_weid.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/2-immoslider-1rojxn5/anmeldung-interessenten-resihof.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/home/neue-herausforderung-gesucht-hochbaupolier-100/1-text-d003eo/2023-02-stelleninserat-polier-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/3-referenzen/1-umbau-hotel-frankreich/referenzblatt-hotelumbau-frankreich.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-02"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/4-immoslider-tbmws9/anmeldung-interessenten-sagipark.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-02"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/6-immoslider-3bqoav/verkaufsdoku-uebb-hirzig-dachsen-aktuell.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-02"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/5-offene-stellen/2-text-14pq9if/2023-02-stelleninserat-polier-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-01"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/1-immoslider-19jhdec/dokumentation.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-01"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/1-ueber-uns/1-firmenportrait/2-services-188m0zg/firmenportrait.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-01"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/3-referenzen/26-uebparksite-im-duerrenrain/936-uebb-parksite-im-duerrenrain-pfungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-01"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/3-referenzen/27-ueberbauung-weid-i/uberbauung_weid.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-01"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/2020-12-03-baureportage-frohberg-winterthurer-zeitung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/bericht-gwg-aktuell-nr.1-2021-grossbauprojekt-wohnsiedlung-vogelsang-im-endspurt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/bericht-gwg-aktuell-nr.3-2020-wohnsiedlung-vogelsang-lockt-mietinteressenten-in-scharen-an.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/blatter-lehrling-schliesst-maurer-ausbildung-mit-bestnote-ab-landbote-17.08.2020.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/stabuebergabe.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/3-referenzen/26-ausbau-hps-bezirk-buelach/hps-bezirk_buelach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/home/neue-herausforderung-gesucht-hochbaupolier-100/1-text-d003eo/2023-01-stelleninserat-polier-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/3-referenzen/12-wohnsiedlung-vogelsang-winterthur/977-wohnsiedlung-vogelsang.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/3-referenzen/12-wohnsiedlung-vogelsang-winterthur/bericht-gwg-aktuell-nr.1-2021-grossbauprojekt-wohnsiedlung-vogelsang-im-endspurt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/3-referenzen/28-efh-steigstr-1/steigstrasse_seuzach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/3-referenzen/30-umbau-kirchweg-2/kirchweg_2_schlatt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/3-referenzen/35-ausbau-hps-bezirk-buelach/hps-bezirk_buelach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/blatter-ag-uebernimmt-peter-stoller-maurerarbeiten.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/die-besten-ostschweizer-jungmaurer-nov.2015.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/genossenschaftswohnungen-womo-dinhard-wohnen-nov.2018.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/mir-gefallen-die-tollen-karrieremoeglichkeiten-robby-hinnen-jun.2017.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/projekt-chrebsbach-der-landbote-28.03.2019-neu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/3-referenzen/17-ueberbauung-weid-i/uberbauung_weid.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/3-referenzen/20-umbau-kirchweg-2/kirchweg_2_schlatt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/3-referenzen/25-nb-mfh-breitackerstrasse-96a/breitackerstrasse_wiesendangen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/4-aktuelle-immobilien/3-immoslider-3bqoav/verkaufsdoku-uebb-hirzig-dachsen-aktuell.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-28"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/4-aktuelle-immobilien/8-brunnenrain-in-berg-am-irchel/18-02-07-verkaufsdokumentation-stwe-brunnenrain-8415-berg-am-irchel.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-27"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/lauberhornrennen-2019-michael-hasler.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/1-ueber-uns/5-offene-stellen/2-text-14pq9if/2021-09-stelleninserat-maschinist-kundenmaurer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/1-ueber-uns/5-offene-stellen/2-text-14pq9if/2022-08-stelleninserat-kranfuehrer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/1-ueber-uns/5-offene-stellen/2-text-14pq9if/2022-11-stelleninserat-polier-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/4-aktuelle-immobilien/4-immoslider-qpe64m/verkaufsdoku-refh-und-eigentumswohnungen-chrebsbach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/4-aktuelle-immobilien/5-immoslider-vapx51/verkaufsdokumentation-frohberg-aktualisiert_am_10.02.2020.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/4-aktuelle-immobilien/6-immoslider-12olvw4/verkaufsdokumentation-vrenelisgaertli_neu_17.10.2019.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/4-aktuelle-immobilien/7-immoslider-12mmqog/dokumentation-rebbergstrasse.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/content/4-aktuelle-immobilien/9-mfh-kirchweg/verkaufsdokumentation-kirchweg-3-8252-schlatt-stand-okt.18.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/home/neue-herausforderung-gesucht-hochbaupolier-100/1-text-d003eo/2022-11-stelleninserat-polier-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/5-offene-stellen/2-text-14pq9if/2022-08-stelleninserat-polier-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/offene-stellen/8b6a81bd59-1711548553/2024-04-stelleninserat-schaler.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-13"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/offene-stellen/aa73ff5aa5-1711547814/2024-04-stelleninserat-kranfuehrer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-13"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/3-referenzen/23-uebb-weid-ii-weidstr/spatenstich-weid-2-seuzach-zeitungsartikel-aus-der-landbote-vom-02.10.2018-neu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/home/neue-herausforderung-gesucht-hochbaupolier-100/1-text-d003eo/2022-03-stelleninserat-polier-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-11"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/home/baae8f53ad-1699007279/zeitungsbericht_derlandbote_sagipark20231102.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/news-presse/b34cef0938-1701168306/gratulationsinserat-daniel-russ-der-hagenbucher-178x131-mm.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/news-presse/ef0f1161c3-1699007323/zeitungsbericht_derlandbote_sagipark20231102.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-06"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/910f75a0dd-1682404055/stabuebergabe.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/d00eea3df0-1682404056/mir-gefallen-die-tollen-karrieremoeglichkeiten-robby-hinnen-jun.2017.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-31"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/299f3e454d-1682404055/news-haeder-1500x1000-crop-1-q100.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-29"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/d0bd1e9bad-1705672358/erweiterung-gl-blatter-ag-per-01.01.2024.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-29"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/dfc1c90193-1682404057/bericht-gwg-aktuell-nr.1-2021-grossbauprojekt-wohnsiedlung-vogelsang-im-endspurt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-29"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/offene-stellen/21163eb4f7-1699964870/2023-11-stelleninserat-kranfuehrer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-29"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/firmenportrait/d214d7c876-1682404057/firmenportrait.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/offene-stellen/250ccafece-1724054371/2024-08-stelleninserat-schaler.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/offene-stellen/2b6c251dbe-1730095635/2024-11-stelleninserat-kranfuehrer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/offene-stellen/9d0b3cc37b-1731068898/2024-11-stelleninserat-kundenmaurer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/media/pages/ueber-uns/offene-stellen/a2fc465350-1726580653/2024-09-stelleninserat-polier-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/ueber-uns/news-presse",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "URL": "https://blatter-bau.ch/home/herzliche-gratulation-lap-2024",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "URL": "https://blatter-bau.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/refh-hofackerstr-4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/refh-nussbaumweg-5",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/uebb-eichenweg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/uebb-schwarzadler",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/9bb2fd4c56-1682404056/2020-12-03-baureportage-frohberg-winterthurer-zeitung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/364ee8034d-1682404057/genossenschaftswohnungen-womo-dinhard-wohnen-nov.2018.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-22"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/b84c27c44e-1682404056/lauberhornrennen-2019-michael-hasler.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-18"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/0a2af6ff22-1682404055/spatenstich-weid-2-seuzach-zeitungsartikel-aus-der-landbote-vom-02.10.2018-neu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/299f3e454d-1682404055/news-haeder-1920x600-crop-1-q100.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/9367d74644-1682404057/bericht-gwg-aktuell-nr.3-2020-wohnsiedlung-vogelsang-lockt-mietinteressenten-in-scharen-an.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/b45e5914d5-1682404056/blatter-lehrling-schliesst-maurer-ausbildung-mit-bestnote-ab-landbote-17.08.2020.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/fbe3279c11-1682404055/blatter-ag-uebernimmt-peter-stoller-maurerarbeiten.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/fe96344706-1682404056/die-besten-ostschweizer-jungmaurer-nov.2015.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/team/626004b028-1682404059/team-2418x1006px-blumen-1400x-crop-0-q100.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/assets/fonts/webfonts/37211D_0_0.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/assets/fonts/webfonts/37211D_0_0.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/assets/fonts/webfonts/37211D_0_0.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/assets/fonts/webfonts/37211D_0_0.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/assets/fonts/webfonts/LinotypeHelveticaNeueLTPro-Roman.otf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/assets/fonts/webfonts/LinotypeHelveticaNeueLTStd-Roman.otf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://blatter-bau.ch/media/pages/ueber-uns/news-presse/7d2e5b97c9-1682404056/projekt-chrebsbach-der-landbote-28.03.2019-neu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch/content/home/neues-bauprojekt-am-chrebsbach-unterohringen-seuzach/1-text-1tgbax8/eigentumswohnungen-verkaufsbroschuere-mfh.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch/content/home/neues-bauprojekt-am-chrebsbach-unterohringen-seuzach/1-text-1tgbax8/refh-verkaufsbroschuere.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/ueberbauung-weid-i",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-27"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/happy-day-umbau-in-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/kurs-anschlagen-von-lasten-an-kranen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/neue-herausforderung-gesucht-hochbaupolier-100",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/sommerfest-2022",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/urim-neziraj-uebernimmt-kundendienstabteilung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/an-umbau-tennis-arena-ruemikerstr-5b-elsau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/ausbau-hps-bezirk-buelach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/efh-rispenweg-3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/feldwiesstr-hoeri",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/nb-4-mfh-welsikerstrasse",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/neubau-moersburg-park",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/neubau-tcto-truckcenter-ost",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/refh-nussbaumweg-5-daettlikon",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/terrassenhaeuser-nussbaumen-tg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/ueb-brunnenrain-brunnenrain-22",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-chrebsbach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-eichweg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-obermuehleweg-hoeri",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebb-sagipark-hettlingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/uebparksite-im-duerrenrain",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/umbau-erweiterung-feuerwehrgebaeude",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/umbau-pfarreizentrum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/werkhalle-mit-tg-deisruetistr-4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/wohnsiedlung-riedmuehlehof",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/referenzen/wohnsiedlung-vogelsang-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "URL": "https://blatter-bau.ch/dienstleistungen/blatter-ag-und-brack-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-29"
+    },
+    {
+      "URL": "https://www.blatter-bau.ch/home/voranzeige-wueb-sagipark-hettlingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/home/erfolgreich-bestandene-lap/1-text-j3223/homepage-lap-2022.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-17"
+    },
+    {
+      "URL": "https://blatter-bau.ch/home/betriebsferien-im-sommer-2021",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-17"
+    },
+    {
+      "URL": "https://blatter-bau.ch/home/erfolgreich-bestandene-lap",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-17"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/5-offene-stellen/2-text-14pq9if/2022-03-stelleninserat-polier-hochbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "URL": "https://blatter-bau.ch/home/ausbildungsstart-sommer-2021",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-09"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/4-news-presse/2-text-1c8gnbk/homepage-lap-2021.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-27"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/1-ueber-uns/5-offene-stellen/2-text-14pq9if/2021-08-stelleninserat-kranfuehrer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-27"
+    },
+    {
+      "URL": "https://blatter-bau.ch/referenzen/nb-mfh-breitackerstrasse-96a",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-07-27"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/3-referenzen/22-nb-4-mfh-welsikerstrasse/welsikderstrasse_dinhard.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-19"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/5-immoslider-12olvw4/verkaufsdokumentation-vrenelisgaertli_neu_17.10.2019.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-26"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/6-immoslider-12mmqog/dokumentation-rebbergstrasse.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-26"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/7-brunnenrain-in-berg-am-irchel/18-02-07-verkaufsdokumentation-stwe-brunnenrain-8415-berg-am-irchel.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-26"
+    },
+    {
+      "URL": "https://blatter-bau.ch/content/4-aktuelle-immobilien/8-mfh-kirchweg/verkaufsdokumentation-kirchweg-3-8252-schlatt-stand-okt.18.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-26"
+    },
+    {
+      "URL": "https://blatter-bau.ch/home/moderne-eigentumswohnungen-in-dachsen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-10-01"
+    },
+    {
+      "URL": "https://blatter-bau.ch/home/betriebsferien-im-sommer-2020",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-14"
+    },
+    {
+      "URL": "https://blatter-bau.ch/home/mitarbeiterin-sekretariat",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "https://blatter-bau.ch/home/neuigkeit-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "https://blatter-bau.ch/ueber-uns/vakanzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://blatter-bau.ch/images/z_pngfix.htc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-08"
+    },
+    {
+      "URL": "http://blatter-bau.ch/referenzen.asp?action=select&newsNO=57416&id=6503",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-01-22"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/default.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/dienstleistung.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/firma.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/immobilien.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/liegenschaften-ag.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/offene-stellen.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/partnerfirma.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/team.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-01-09"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/kontakt.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/objekte.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2011-02-02"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/default.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2008-07-12"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/dienstleistung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2008-07-12"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/firma.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2008-07-12"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/general.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2008-07-12"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/partnerfirma.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2008-07-12"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/standort.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2008-07-12"
+    },
+    {
+      "URL": "http://www.blatter-bau.ch:80/immo.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2008-07-11"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "daniel.russ@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "E-Mail": "elias.gruenenfelder@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "E-Mail": "hermann.hug@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "E-Mail": "info@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "E-Mail": "isabelle.hilfiker@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "E-Mail": "luca.blatter@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "E-Mail": "m.aeppli@wittwer-immo.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "E-Mail": "marco.voegeli@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "E-Mail": "martin.blatter@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "E-Mail": "peter.buchschacher@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "E-Mail": "peter.dreussi@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "E-Mail": "rahel.schmid@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "E-Mail": "remo.fehr@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "E-Mail": "stefan.singenberger@blatter-bau.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522351155",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "Telefonnummern": "+41523200720",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-14"
+    },
+    {
+      "Telefonnummern": "+41523200728",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-12"
+    }
+  ],
+  "service": [
+    {
+      "Port": 443,
+      "Dienst": "lighttpd",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "80.89.218.222",
+      "Domain/Subdomain": "pbx.blatter-bau.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:jquery:jquery, cpe:/a:lighttpd:lighttpd",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

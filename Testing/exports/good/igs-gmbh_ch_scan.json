@@ -1,0 +1,1824 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "193.246.68.46",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "AAAA": [],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mta1.abxsec.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mta2.abxsec.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.abxsec.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Name Server": "ns2.abxsec.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms74435391\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Text Record": "\"knowbe4-site-verification=ca1bbf60fabf0642b93f2bc94ba8afea\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Text Record": "\"google-site-verification=P6mx59tfnOD8kizHQ9nm4GelY8TO1XLru1b3W3--GsM\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Text Record": "\"v=spf1 mx include:_spf.abxsec.com include:spf.protection.outlook.com include:_spf.psm.knowbe4.com ip4:82.197.165.192/29 -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "600",
+      "Expire": "1209600",
+      "Serial": "766107315",
+      "Refresh": "3600",
+      "Hostmaster": "dnsmaster.abxsec.com.",
+      "Minimum TTL": "900",
+      "Primary Nameserver": "ns1.abxsec.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "193.246.68.46",
+      "PTR-Domain": "igs-gmbh.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "elearning.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "elearning.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "my.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "mytest.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "pulse.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "pulse-edu.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "pulse-test.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "servicedesk.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "servicedesk.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "sharepoint.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "sharepoint.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "sptest.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "test-elearning.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "test-elearning.igs-gmbh.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-09",
+      "Gültig bis": "2026-05-09",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-05-09"
+    },
+    {
+      "Gültig ab": "2025-05-09",
+      "Gültig bis": "2026-05-09",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-05-09"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2026-04-02",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch, www.servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2026-04-02",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch, www.servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2026-04-02",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "igs-gmbh.ch, www.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2026-04-02",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "igs-gmbh.ch, www.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2026-04-02",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2026-04-02",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2026-04-02",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "elearning.igs-gmbh.ch, www.elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2026-04-02",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "elearning.igs-gmbh.ch, www.elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2026-04-02",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "test-elearning.igs-gmbh.ch, www.test-elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2026-04-02",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "test-elearning.igs-gmbh.ch, www.test-elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2024-05-27",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-27"
+    },
+    {
+      "Gültig ab": "2024-05-27",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-27"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "elearning.igs-gmbh.ch, www.elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "elearning.igs-gmbh.ch, www.elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "igs-gmbh.ch, www.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "test-elearning.igs-gmbh.ch, www.test-elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "igs-gmbh.ch, www.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "test-elearning.igs-gmbh.ch, www.test-elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-04-16",
+      "Gültig bis": "2025-04-16",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch, www.servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-16"
+    },
+    {
+      "Gültig ab": "2024-04-16",
+      "Gültig bis": "2025-04-16",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch, www.servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-16"
+    },
+    {
+      "Gültig ab": "2023-06-01",
+      "Gültig bis": "2024-06-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "test-elearning.igs-gmbh.ch, www.test-elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-01"
+    },
+    {
+      "Gültig ab": "2023-06-01",
+      "Gültig bis": "2024-06-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "test-elearning.igs-gmbh.ch, www.test-elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-01"
+    },
+    {
+      "Gültig ab": "2023-06-01",
+      "Gültig bis": "2024-06-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "igs-gmbh.ch, www.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-01"
+    },
+    {
+      "Gültig ab": "2023-06-01",
+      "Gültig bis": "2024-06-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "igs-gmbh.ch, www.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-01"
+    },
+    {
+      "Gültig ab": "2023-06-01",
+      "Gültig bis": "2024-06-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "elearning.igs-gmbh.ch, www.elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-01"
+    },
+    {
+      "Gültig ab": "2023-06-01",
+      "Gültig bis": "2024-06-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "elearning.igs-gmbh.ch, www.elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-01"
+    },
+    {
+      "Gültig ab": "2023-06-01",
+      "Gültig bis": "2024-06-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-01"
+    },
+    {
+      "Gültig ab": "2023-06-01",
+      "Gültig bis": "2024-06-01",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-01"
+    },
+    {
+      "Gültig ab": "2023-05-10",
+      "Gültig bis": "2024-05-10",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch, www.servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-05-10"
+    },
+    {
+      "Gültig ab": "2023-05-10",
+      "Gültig bis": "2024-05-10",
+      "Ausgestellt von": "C=CH, O=SwissSign AG, CN=SwissSign RSA TLS OV ICA 2022 - 1",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch, www.servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-05-10"
+    },
+    {
+      "Gültig ab": "2022-11-11",
+      "Gültig bis": "2023-12-06",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "igs-gmbh.ch, www.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-11"
+    },
+    {
+      "Gültig ab": "2022-09-21",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "my.igs-gmbh.ch, mytest.igs-gmbh.ch, sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-21"
+    },
+    {
+      "Gültig ab": "2022-08-25",
+      "Gültig bis": "2023-08-25",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "pulse-edu.igs-gmbh.ch, pulse.igs-gmbh.ch, pulse-test.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-08-25"
+    },
+    {
+      "Gültig ab": "2022-07-06",
+      "Gültig bis": "2023-07-06",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-07-06"
+    },
+    {
+      "Gültig ab": "2022-07-06",
+      "Gültig bis": "2023-07-06",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "test-elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-07-06"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-10",
+      "Gültig bis": "2022-08-08",
+      "Ausgestellt von": "C=AT, O=ZeroSSL, CN=ZeroSSL ECC Domain Secure Site CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-10"
+    },
+    {
+      "Gültig ab": "2022-05-02",
+      "Gültig bis": "2023-05-20",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-02"
+    },
+    {
+      "Gültig ab": "2021-12-03",
+      "Gültig bis": "2022-12-07",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "igs-gmbh.ch, www.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-12-03"
+    },
+    {
+      "Gültig ab": "2021-09-28",
+      "Gültig bis": "2022-10-17",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "my.igs-gmbh.ch, mytest.igs-gmbh.ch, sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-09-28"
+    },
+    {
+      "Gültig ab": "2020-11-16",
+      "Gültig bis": "2021-12-07",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "igs-gmbh.ch, www.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-11-20"
+    },
+    {
+      "Gültig ab": "2020-11-16",
+      "Gültig bis": "2021-12-07",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "igs-gmbh.ch, www.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-11-16"
+    },
+    {
+      "Gültig ab": "2020-09-25",
+      "Gültig bis": "2021-10-17",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "my.igs-gmbh.ch, mytest.igs-gmbh.ch, sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-10-06"
+    },
+    {
+      "Gültig ab": "2020-09-25",
+      "Gültig bis": "2021-10-17",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "my.igs-gmbh.ch, mytest.igs-gmbh.ch, sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-09-25"
+    },
+    {
+      "Gültig ab": "2020-07-21",
+      "Gültig bis": "2022-07-21",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "test-elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-07-21"
+    },
+    {
+      "Gültig ab": "2020-07-21",
+      "Gültig bis": "2022-07-21",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-07-21"
+    },
+    {
+      "Gültig ab": "2020-04-28",
+      "Gültig bis": "2022-05-20",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-04-28"
+    },
+    {
+      "Gültig ab": "2014-08-14",
+      "Gültig bis": "2017-08-14",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-02-02"
+    },
+    {
+      "Gültig ab": "2017-07-21",
+      "Gültig bis": "2020-08-14",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    },
+    {
+      "Gültig ab": "2017-07-21",
+      "Gültig bis": "2020-08-14",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "test-elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    },
+    {
+      "Gültig ab": "2017-12-07",
+      "Gültig bis": "2020-12-07",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "igs-gmbh.ch, www.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-12-15"
+    },
+    {
+      "Gültig ab": "2017-10-17",
+      "Gültig bis": "2020-10-17",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "my.igs-gmbh.ch, mytest.igs-gmbh.ch, sharepoint.igs-gmbh.ch, sptest.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-10-19"
+    },
+    {
+      "Gültig ab": "2017-05-03",
+      "Gültig bis": "2020-05-20",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-20"
+    },
+    {
+      "Gültig ab": "2014-08-14",
+      "Gültig bis": "2017-08-14",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "test-elearning.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-10-11"
+    },
+    {
+      "Gültig ab": "2011-05-30",
+      "Gültig bis": "2014-05-29",
+      "Ausgestellt von": "C=US, O=\"Thawte, Inc.\", OU=Domain Validated SSL, CN=Thawte DV SSL CA",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-10-01"
+    },
+    {
+      "Gültig ab": "2013-11-28",
+      "Gültig bis": "2018-11-28",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certificates.godaddy.com/repository, CN=Go Daddy Secure Certification Authority, serialNumber=07969287",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch, www.sharepoint.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-09-25"
+    },
+    {
+      "Gültig ab": "2008-12-16",
+      "Gültig bis": "2013-12-15",
+      "Ausgestellt von": "C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-02-15"
+    },
+    {
+      "Gültig ab": "2014-05-20",
+      "Gültig bis": "2017-05-20",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "servicedesk.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-07-25"
+    },
+    {
+      "Gültig ab": "2014-04-11",
+      "Gültig bis": "2018-11-28",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "sharepoint.igs-gmbh.ch, www.sharepoint.igs-gmbh.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2014-11-19"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.igs-gmbh.ch/frontend/fonts/5838671/05b91a76-0a27-47b1-91ed-ce9b674cc9e9.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/frontend/fonts/5838751/6f9c0f92-2905-47aa-a6f3-89c49209e270.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/frontend/fonts/5838751/ce42f00a-6d72-4378-8d91-483e32d025c4.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/frontend/fonts/5838799/0de68030-b588-4842-831a-2dd9bc6cb27a.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/frontend/fonts/5838799/ac486fe7-8db1-4135-99ce-39eb3851ea1f.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/datenschutzerklaerung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/facts-figures",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/contact",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/informativa-sulla-protezione-dei-dati",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/application-manager-elar",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/betrieblicher-change-manager",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/test-und-stv-produktmanager-ahveasy",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/rechtliche-hinweise",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/services-leistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/emplois",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/cifre-fatti",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/contatti",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/i-nostri-soci",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/note-legali",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/offerte-di-impiego",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/servizi-prestazioni",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/chiffres-informations",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/mentions-legales",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/politique-de-confidentialite",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/services-prestations",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/societaires",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/gesellschafterinnen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/enterprise-architect",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/initiativbewerbung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/test-stv-produktmanager-team-sap",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/[32",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-04"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/d/dok/content/wer.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-26"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/d/dok/content/loesungen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-26"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/betriebsspezialist-outputverarbeitung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/werkstudent-it-projekt-controlling",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/datenschutzerklaerung-online-bewerbung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/frontend/favicon/site.webmanifest",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/release-train-engineer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/test-stv-produktmanager-elar",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/test-stv-produktmanager-elkk",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/application-manager-jira-sharepoint",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/it-project-manager-agil-und-klassisch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/werkstudent-data-management",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/system-consultant",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/test-stv-produktmanager-rehe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/it-project-manager",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-01"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/jobs/werkstudent",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-01"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Activity-Feed/userId/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/Admin/Activity-Feed",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/login",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/DependencyHandler.axd/02e981cf85a0377c0655770a3578b6fe/276/js",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/DependencyHandler.axd/0d9871f2a82343b3911410af215d61e4/276/css",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/DependencyHandler.axd/1866e9d5dc13ee5f48719a84b0d26894/276/css",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/DependencyHandler.axd/9c54f9087049050f1509eaf54c036dd0/276/js",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/DependencyHandler.axd/d4225615784b3c1d72ee9f671a1657e6/276/js",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/DependencyHandler.axd/dbf1dbda785cc6c967a382c3359ce1ac/276/js",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Documentation/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Install/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Login/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Portals/_default/Skins/IGS/lib/bootstrap/fonts/glyphicons-halflings-regular.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Portals/_default/Skins/IGS/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Portals/_default/Skins/IGS/lib/bootstrap/fonts/glyphicons-halflings-regular.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/ScriptResource.axd",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/WebResource.axd?d=pynGkmcFUV3oS9d0HwWGfu46WPnC9H8IfZnomSHsHRjWFQ4StOu9DLlzmx41&t=637811765229275428",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/aktuelle-projekte/cooperation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-23"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/anfahrt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-23"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/gesellschafterinnen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-23"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-23"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/organisation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-23"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/werte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-23"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/organisation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-23"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/angebot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/datenschutzerklaerung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/entreprise",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/itineraire",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/offre",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/projets-en-cours/cooperation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/fr/valeurs",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/informazione-legale",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/azienda",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/come-arrivare",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/contatto",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/offerta",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/organizzazione",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/progetti-attuali/cooperation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/soci",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/valori",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/mentions-legales",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/it/informazione-legale",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-29"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&compress=1&_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3ade-DE%3a9ead301a-2c07-4fc5-be19-f8423a34e117%3aea597d4b%3ab25378d2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-30"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/de/Team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-06-05"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Angebot/tabid/59/language/de-DE/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-12"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Angebot/tabid/59/language/en-EN/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-12"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Gesellschafterinnen/tabid/70/language/de-DE/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-12"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Gesellschafterinnen/tabid/70/language/en-EN/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-12"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Unternehmen/tabid/52/language/de-DE/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-12"
+    },
+    {
+      "URL": "https://www.igs-gmbh.ch/Unternehmen/tabid/52/language/en-EN/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-12"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/en",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-08-18"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/en/Offer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-06-12"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/en/Login?returnurl=/language/en-EN/Admin/Vendors",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-06-11"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/en/Impressum/tabid/87/language/en-US/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-12"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/de/Admin/Log-Viewer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-11"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/de/Admin/Vendors",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-11"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/language/en-EN/Admin/Log-Viewer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-11"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/language/en-EN/Admin/Vendors",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-11"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/Anfahrt/tabid/75/language/de-DE/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-10"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/Anfahrt/tabid/75/language/en-EN/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-10"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/Impressum/tabid/87/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-10"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/Impressum/tabid/87/language/en-US/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-10"
+    },
+    {
+      "URL": "http://igs-gmbh.ch/Default.aspx?tabid=52&error=Value+cannot+be+null.%0d%0aParameter+name%3a+String&content=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-01-12"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/Organisation/tabid/71/language/de-DE/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-08-30"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/Team/tabid/73/language/de-DE/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-08-30"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/AktuelleProjekte/IVApplikationen/tabid/91/language/de-DE/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-08-18"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/Kontakt/tabid/74/language/de-DE/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-08-18"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/Unternehmen/tabid/52/language/fr-FR/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2014-03-07"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/AktuelleProjekte/VISTA/tabid/90/language/en-US/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-09-09"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/Team/tabid/73/language/en-US/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-09-09"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/AktuelleProjekte/VISTA/tabid/90/language/de-DE/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-04-04"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/Organisation/tabid/71/language/en-US/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-12-28"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/Werte/tabid/72/language/de-DE/Default.aspx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2010-07-05"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/alternat_d.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2009-05-17"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/content/news_home.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2009-05-17"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/nav_d.php?nope=one",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2009-05-17"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/frame_d.php?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2009-05-16"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/extranet",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2009-05-03"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/index_d.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2009-05-03"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/home_unten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2008-10-18"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/nav_home.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2008-10-18"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/d/dok/content/t_friguglietti.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-11-03"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/d/dok/_act.src",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-08-06"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/d/dok/_off.src",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-08-06"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/d/dok/content/impressum.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-08-06"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/d/dok/content/leitbild.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-08-06"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch/d/dok/text/css",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-08-06"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/content/anfahrt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-09"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/content/allpeople.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-05"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/content/bericht.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-05"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/content/gesellschaft.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-05"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/content/org_struk.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-05"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/content/t_start.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-05"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/content/anfahrt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-04"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/content/kontakt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-04"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/people.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-04"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/extranet/index.php?id=18",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-04"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/f/dok/alternat_f.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-04"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/f/dok/home_unten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-04"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/f/dok/nav_home_f.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-04"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/i/dok/alternat_i.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-04"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/i/dok/home_unten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-04"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/i/dok/nav_home_i.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-04"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/index_f.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2007-07-03"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/content/recruit.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-28"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/d/dok/content/partner.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-27"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/network_1/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-25"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/network/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-24"
+    },
+    {
+      "URL": "http://www.igs-gmbh.ch:80/index_i.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-18"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@igs-gmbh.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "E-Mail": "jobs@igs-gmbh.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "E-Mail": "Kommunikation@igs-gmbh.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41712465708",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "Telefonnummern": "+41712465757",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    }
+  ],
+  "service": [
+    {
+      "Port": 80,
+      "Dienst": "BigIP",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "193.246.69.96",
+      "Domain/Subdomain": "sptest.igs-gmbh.ch, sharepoint.igs-gmbh.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 80,
+      "Dienst": "Microsoft HTTPAPI httpd",
+      "Version": "2.0",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "193.246.68.46",
+      "Domain/Subdomain": "igs-gmbh.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/o:microsoft:windows",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

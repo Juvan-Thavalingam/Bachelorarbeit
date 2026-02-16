@@ -1,0 +1,828 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "217.26.54.15",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx1.mail.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx2.mail.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Name Server": "ns2.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Name Server": "ns3.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 redirect=spf-permissive.mail.hostpoint.ch\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "3628800",
+      "Serial": "1747267200",
+      "Refresh": "86400",
+      "Hostmaster": "hostmaster.hostpoint.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "217.26.54.15",
+      "PTR-Domain": "sl99.web.hostpoint.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "blumen-mueller.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-03-29",
+      "Gültig bis": "2025-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2025-03-29",
+      "Gültig bis": "2025-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2025-03-29",
+      "Gültig bis": "2025-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2025-03-29",
+      "Gültig bis": "2025-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-29"
+    },
+    {
+      "Gültig ab": "2025-01-26",
+      "Gültig bis": "2025-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-26"
+    },
+    {
+      "Gültig ab": "2025-01-26",
+      "Gültig bis": "2025-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-26"
+    },
+    {
+      "Gültig ab": "2025-01-26",
+      "Gültig bis": "2025-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-26"
+    },
+    {
+      "Gültig ab": "2025-01-26",
+      "Gültig bis": "2025-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-26"
+    },
+    {
+      "Gültig ab": "2024-11-25",
+      "Gültig bis": "2025-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-25"
+    },
+    {
+      "Gültig ab": "2024-11-25",
+      "Gültig bis": "2025-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-25"
+    },
+    {
+      "Gültig ab": "2024-11-25",
+      "Gültig bis": "2025-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-25"
+    },
+    {
+      "Gültig ab": "2024-11-25",
+      "Gültig bis": "2025-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-25"
+    },
+    {
+      "Gültig ab": "2024-09-24",
+      "Gültig bis": "2024-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "Gültig ab": "2024-09-24",
+      "Gültig bis": "2024-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "Gültig ab": "2024-09-24",
+      "Gültig bis": "2024-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "Gültig ab": "2024-09-24",
+      "Gültig bis": "2024-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "Gültig ab": "2024-07-24",
+      "Gültig bis": "2024-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "Gültig ab": "2024-07-24",
+      "Gültig bis": "2024-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "Gültig ab": "2024-07-24",
+      "Gültig bis": "2024-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "Gültig ab": "2024-07-24",
+      "Gültig bis": "2024-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "Gültig ab": "2024-05-23",
+      "Gültig bis": "2024-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-23"
+    },
+    {
+      "Gültig ab": "2024-05-23",
+      "Gültig bis": "2024-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-23"
+    },
+    {
+      "Gültig ab": "2024-05-23",
+      "Gültig bis": "2024-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-23"
+    },
+    {
+      "Gültig ab": "2024-05-23",
+      "Gültig bis": "2024-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-23"
+    },
+    {
+      "Gültig ab": "2024-03-22",
+      "Gültig bis": "2024-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-22"
+    },
+    {
+      "Gültig ab": "2024-03-22",
+      "Gültig bis": "2024-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-22"
+    },
+    {
+      "Gültig ab": "2024-03-22",
+      "Gültig bis": "2024-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-22"
+    },
+    {
+      "Gültig ab": "2024-03-22",
+      "Gültig bis": "2024-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-22"
+    },
+    {
+      "Gültig ab": "2024-01-20",
+      "Gültig bis": "2024-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-20"
+    },
+    {
+      "Gültig ab": "2024-01-20",
+      "Gültig bis": "2024-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-20"
+    },
+    {
+      "Gültig ab": "2024-01-20",
+      "Gültig bis": "2024-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-20"
+    },
+    {
+      "Gültig ab": "2024-01-20",
+      "Gültig bis": "2024-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-20"
+    },
+    {
+      "Gültig ab": "2023-11-19",
+      "Gültig bis": "2024-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-19"
+    },
+    {
+      "Gültig ab": "2023-11-19",
+      "Gültig bis": "2024-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-19"
+    },
+    {
+      "Gültig ab": "2023-11-19",
+      "Gültig bis": "2024-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-19"
+    },
+    {
+      "Gültig ab": "2023-11-19",
+      "Gültig bis": "2024-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-19"
+    },
+    {
+      "Gültig ab": "2023-09-18",
+      "Gültig bis": "2023-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-18"
+    },
+    {
+      "Gültig ab": "2023-09-18",
+      "Gültig bis": "2023-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-18"
+    },
+    {
+      "Gültig ab": "2023-09-18",
+      "Gültig bis": "2023-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-18"
+    },
+    {
+      "Gültig ab": "2023-09-18",
+      "Gültig bis": "2023-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-18"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "blumen-mueller.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "http://blumen-mueller.ch/mejs.play",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-26"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/online-bestelllungen-ohne-stripe/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/onlinebestellungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/sitemap.rss",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/wp-admin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/wp-content/uploads/2022/04/Floristin_Mueller.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-11"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/test/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-02"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-10"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-10"
+    },
+    {
+      "URL": "https://blumen-mueller.ch/wp-login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-10"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/https/swissclick.ch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/comments/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-31"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-31"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/wp-content/themes/enfold/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-08"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/Beschriftungen/Untertitel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-26"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/https//swissclick.ch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-26"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/mejs.czech",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-26"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/mejs.dutch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-26"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/mejs.greek",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-26"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/mejs.none",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-26"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/mejs.thai",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-26"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/wp-includes/js/mediaelement/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-26"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fblumen-mueller.ch%2F",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-26"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/xmlrpc.php?rsd",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-26"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/mejs.pause",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-24"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/mejs.welsh",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-24"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/blumen-mueller.ch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-23"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/mejs.hindi",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-23"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/mejs.irish",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-23"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/wp-json/wp/v2/pages/367",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-23"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/mejs.malay",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-22"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-22"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/mejs.mute",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-20"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/wp-content/themes/enfold/framework/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-20"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/frontpage/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-08-15"
+    },
+    {
+      "URL": "http://www.blumen-mueller.ch:80/index.php?option=com_content&view=article&id=15&Itemid=31",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2014-04-12"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/components/com_mad4joomla/sec/css.php?m4j_c=O31HYYD4MQ9N48IYBCJ57X2IOEXLAWXY",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-12-11"
+    },
+    {
+      "URL": "http://blumen-mueller.ch/images/banner.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-07-25"
+    },
+    {
+      "URL": "http://www.blumen-mueller.ch:80/default.asp?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2008-12-08"
+    },
+    {
+      "URL": "http://www.blumen-mueller.ch:80/getfile.asp?pk=3761&wt=1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-09-25"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "admin@blumen-mueller.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "E-Mail": "bestellungen@blumen-mueller.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-23"
+    },
+    {
+      "E-Mail": "info@blumen-mueller.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522120321",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

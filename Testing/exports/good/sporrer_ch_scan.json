@@ -1,0 +1,4508 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "193.33.128.195",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx01.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx02.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns33.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Name Server": "ns34.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 ip4:193.33.128.195 include:_spf.tophost.ch include:relay.mailchannels.net ip4:193.33.128.145 +mx +a ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "1209600",
+      "Serial": "2025051901",
+      "Refresh": "3600",
+      "Hostmaster": "admin.novatrend.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "ns33.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "193.33.128.195",
+      "PTR-Domain": "srv33.tophost.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "2019.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "2019.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "algiardino.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "algiardino.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "autodiscover.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "brocki-shop.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "brocki-shop.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "ilsalottodelsigaro.ch.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "ilsalottodelsigaro.ch.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "lehrlingsmonat.ch.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "lehrlingsmonat.ch.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "prosec.ch.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "prosec.ch.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "the-mesh.com.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "the-mesh.com.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "cpanel.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "cpcalendars.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "cpcontacts.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "mail.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "webdisk.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "webmail.sporrer.ch",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-19",
+      "Gültig bis": "2025-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-19"
+    },
+    {
+      "Gültig ab": "2025-05-19",
+      "Gültig bis": "2025-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-19"
+    },
+    {
+      "Gültig ab": "2025-05-16",
+      "Gültig bis": "2025-08-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-16"
+    },
+    {
+      "Gültig ab": "2025-05-16",
+      "Gültig bis": "2025-08-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-16"
+    },
+    {
+      "Gültig ab": "2025-04-29",
+      "Gültig bis": "2025-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-29"
+    },
+    {
+      "Gültig ab": "2025-04-29",
+      "Gültig bis": "2025-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-29"
+    },
+    {
+      "Gültig ab": "2025-04-21",
+      "Gültig bis": "2025-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Gültig ab": "2025-04-21",
+      "Gültig bis": "2025-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Gültig ab": "2025-04-18",
+      "Gültig bis": "2025-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Gültig ab": "2025-04-18",
+      "Gültig bis": "2025-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Gültig ab": "2025-04-12",
+      "Gültig bis": "2025-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-12"
+    },
+    {
+      "Gültig ab": "2025-04-12",
+      "Gültig bis": "2025-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-12"
+    },
+    {
+      "Gültig ab": "2025-03-19",
+      "Gültig bis": "2025-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Gültig ab": "2025-03-19",
+      "Gültig bis": "2025-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Gültig ab": "2025-02-27",
+      "Gültig bis": "2025-05-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-27"
+    },
+    {
+      "Gültig ab": "2025-02-27",
+      "Gültig bis": "2025-05-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-27"
+    },
+    {
+      "Gültig ab": "2025-02-19",
+      "Gültig bis": "2025-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "Gültig ab": "2024-11-17",
+      "Gültig bis": "2025-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "Gültig ab": "2025-02-19",
+      "Gültig bis": "2025-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "Gültig ab": "2025-02-18",
+      "Gültig bis": "2025-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    },
+    {
+      "Gültig ab": "2025-02-18",
+      "Gültig bis": "2025-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    },
+    {
+      "Gültig ab": "2025-02-16",
+      "Gültig bis": "2025-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "Gültig ab": "2025-02-16",
+      "Gültig bis": "2025-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-16"
+    },
+    {
+      "Gültig ab": "2025-02-10",
+      "Gültig bis": "2025-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "Gültig ab": "2025-02-10",
+      "Gültig bis": "2025-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-10"
+    },
+    {
+      "Gültig ab": "2025-01-17",
+      "Gültig bis": "2025-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "Gültig ab": "2025-01-17",
+      "Gültig bis": "2025-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "Gültig ab": "2024-12-28",
+      "Gültig bis": "2025-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-28"
+    },
+    {
+      "Gültig ab": "2024-12-28",
+      "Gültig bis": "2025-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-28"
+    },
+    {
+      "Gültig ab": "2024-12-20",
+      "Gültig bis": "2025-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-20"
+    },
+    {
+      "Gültig ab": "2024-12-20",
+      "Gültig bis": "2025-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-20"
+    },
+    {
+      "Gültig ab": "2024-12-17",
+      "Gültig bis": "2025-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-17"
+    },
+    {
+      "Gültig ab": "2024-12-17",
+      "Gültig bis": "2025-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-17"
+    },
+    {
+      "Gültig ab": "2024-12-11",
+      "Gültig bis": "2025-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-11"
+    },
+    {
+      "Gültig ab": "2024-12-11",
+      "Gültig bis": "2025-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-11"
+    },
+    {
+      "Gültig ab": "2024-11-23",
+      "Gültig bis": "2025-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-23"
+    },
+    {
+      "Gültig ab": "2024-11-23",
+      "Gültig bis": "2025-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-23"
+    },
+    {
+      "Gültig ab": "2024-11-17",
+      "Gültig bis": "2025-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "Gültig ab": "2024-10-28",
+      "Gültig bis": "2025-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-28"
+    },
+    {
+      "Gültig ab": "2024-10-28",
+      "Gültig bis": "2025-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-28"
+    },
+    {
+      "Gültig ab": "2024-10-20",
+      "Gültig bis": "2025-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-20"
+    },
+    {
+      "Gültig ab": "2024-10-20",
+      "Gültig bis": "2025-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-20"
+    },
+    {
+      "Gültig ab": "2024-10-17",
+      "Gültig bis": "2025-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-17"
+    },
+    {
+      "Gültig ab": "2024-10-17",
+      "Gültig bis": "2025-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-17"
+    },
+    {
+      "Gültig ab": "2024-10-10",
+      "Gültig bis": "2025-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-11"
+    },
+    {
+      "Gültig ab": "2024-10-10",
+      "Gültig bis": "2025-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-11"
+    },
+    {
+      "Gültig ab": "2024-09-23",
+      "Gültig bis": "2024-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-23"
+    },
+    {
+      "Gültig ab": "2024-09-23",
+      "Gültig bis": "2024-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-23"
+    },
+    {
+      "Gültig ab": "2024-09-16",
+      "Gültig bis": "2024-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-17"
+    },
+    {
+      "Gültig ab": "2024-09-16",
+      "Gültig bis": "2024-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-17"
+    },
+    {
+      "Gültig ab": "2024-08-28",
+      "Gültig bis": "2024-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-28"
+    },
+    {
+      "Gültig ab": "2024-08-28",
+      "Gültig bis": "2024-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-28"
+    },
+    {
+      "Gültig ab": "2024-08-20",
+      "Gültig bis": "2024-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-20"
+    },
+    {
+      "Gültig ab": "2024-08-20",
+      "Gültig bis": "2024-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-20"
+    },
+    {
+      "Gültig ab": "2024-08-17",
+      "Gültig bis": "2024-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-17"
+    },
+    {
+      "Gültig ab": "2024-08-17",
+      "Gültig bis": "2024-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-17"
+    },
+    {
+      "Gültig ab": "2024-08-10",
+      "Gültig bis": "2024-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "Gültig ab": "2024-08-10",
+      "Gültig bis": "2024-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-11"
+    },
+    {
+      "Gültig ab": "2024-07-24",
+      "Gültig bis": "2024-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "Gültig ab": "2024-07-24",
+      "Gültig bis": "2024-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "Gültig ab": "2024-07-17",
+      "Gültig bis": "2024-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "Gültig ab": "2024-07-17",
+      "Gültig bis": "2024-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "Gültig ab": "2024-06-28",
+      "Gültig bis": "2024-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-28"
+    },
+    {
+      "Gültig ab": "2024-06-28",
+      "Gültig bis": "2024-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-28"
+    },
+    {
+      "Gültig ab": "2024-06-20",
+      "Gültig bis": "2024-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "Gültig ab": "2024-06-20",
+      "Gültig bis": "2024-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "Gültig ab": "2024-06-17",
+      "Gültig bis": "2024-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "Gültig ab": "2024-06-17",
+      "Gültig bis": "2024-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "Gültig ab": "2024-06-10",
+      "Gültig bis": "2024-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-10"
+    },
+    {
+      "Gültig ab": "2024-06-10",
+      "Gültig bis": "2024-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-10"
+    },
+    {
+      "Gültig ab": "2024-05-24",
+      "Gültig bis": "2024-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-24"
+    },
+    {
+      "Gültig ab": "2024-05-24",
+      "Gültig bis": "2024-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-24"
+    },
+    {
+      "Gültig ab": "2024-05-17",
+      "Gültig bis": "2024-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "Gültig ab": "2024-05-17",
+      "Gültig bis": "2024-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-18"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-28"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-28"
+    },
+    {
+      "Gültig ab": "2024-04-20",
+      "Gültig bis": "2024-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-20"
+    },
+    {
+      "Gültig ab": "2024-04-20",
+      "Gültig bis": "2024-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-20"
+    },
+    {
+      "Gültig ab": "2024-04-17",
+      "Gültig bis": "2024-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-17"
+    },
+    {
+      "Gültig ab": "2024-04-17",
+      "Gültig bis": "2024-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-17"
+    },
+    {
+      "Gültig ab": "2024-04-06",
+      "Gültig bis": "2024-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-07"
+    },
+    {
+      "Gültig ab": "2024-04-06",
+      "Gültig bis": "2024-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-07"
+    },
+    {
+      "Gültig ab": "2024-03-24",
+      "Gültig bis": "2024-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-24"
+    },
+    {
+      "Gültig ab": "2024-03-24",
+      "Gültig bis": "2024-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-24"
+    },
+    {
+      "Gültig ab": "2024-03-17",
+      "Gültig bis": "2024-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-17"
+    },
+    {
+      "Gültig ab": "2024-03-17",
+      "Gültig bis": "2024-06-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-17"
+    },
+    {
+      "Gültig ab": "2024-02-27",
+      "Gültig bis": "2024-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, cpcalendars.sporrer.ch, cpcontacts.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-27"
+    },
+    {
+      "Gültig ab": "2024-02-27",
+      "Gültig bis": "2024-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, cpcalendars.sporrer.ch, cpcontacts.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-27"
+    },
+    {
+      "Gültig ab": "2024-02-19",
+      "Gültig bis": "2024-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-19"
+    },
+    {
+      "Gültig ab": "2024-02-19",
+      "Gültig bis": "2024-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-19"
+    },
+    {
+      "Gültig ab": "2024-02-16",
+      "Gültig bis": "2024-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-16"
+    },
+    {
+      "Gültig ab": "2024-02-16",
+      "Gültig bis": "2024-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-16"
+    },
+    {
+      "Gültig ab": "2024-02-03",
+      "Gültig bis": "2024-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-03"
+    },
+    {
+      "Gültig ab": "2024-02-03",
+      "Gültig bis": "2024-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-03"
+    },
+    {
+      "Gültig ab": "2024-01-23",
+      "Gültig bis": "2024-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-23"
+    },
+    {
+      "Gültig ab": "2024-01-23",
+      "Gültig bis": "2024-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-23"
+    },
+    {
+      "Gültig ab": "2024-01-16",
+      "Gültig bis": "2024-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "Gültig ab": "2024-01-16",
+      "Gültig bis": "2024-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-16"
+    },
+    {
+      "Gültig ab": "2023-12-28",
+      "Gültig bis": "2024-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-28"
+    },
+    {
+      "Gültig ab": "2023-12-28",
+      "Gültig bis": "2024-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-28"
+    },
+    {
+      "Gültig ab": "2023-12-20",
+      "Gültig bis": "2024-03-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-20"
+    },
+    {
+      "Gültig ab": "2023-12-20",
+      "Gültig bis": "2024-03-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-20"
+    },
+    {
+      "Gültig ab": "2023-12-17",
+      "Gültig bis": "2024-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-17"
+    },
+    {
+      "Gültig ab": "2023-12-17",
+      "Gültig bis": "2024-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-17"
+    },
+    {
+      "Gültig ab": "2023-12-04",
+      "Gültig bis": "2024-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "Gültig ab": "2023-12-04",
+      "Gültig bis": "2024-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-04"
+    },
+    {
+      "Gültig ab": "2023-11-23",
+      "Gültig bis": "2024-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-23"
+    },
+    {
+      "Gültig ab": "2023-11-23",
+      "Gültig bis": "2024-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-23"
+    },
+    {
+      "Gültig ab": "2023-11-16",
+      "Gültig bis": "2024-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-16"
+    },
+    {
+      "Gültig ab": "2023-11-16",
+      "Gültig bis": "2024-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-16"
+    },
+    {
+      "Gültig ab": "2023-10-28",
+      "Gültig bis": "2024-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-28"
+    },
+    {
+      "Gültig ab": "2023-10-28",
+      "Gültig bis": "2024-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-28"
+    },
+    {
+      "Gültig ab": "2023-10-20",
+      "Gültig bis": "2024-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-20"
+    },
+    {
+      "Gültig ab": "2023-10-20",
+      "Gültig bis": "2024-01-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-20"
+    },
+    {
+      "Gültig ab": "2023-10-19",
+      "Gültig bis": "2024-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-19"
+    },
+    {
+      "Gültig ab": "2023-10-19",
+      "Gültig bis": "2024-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ilsalottodelsigaro.ch.sporrer.ch, www.ilsalottodelsigaro.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-19"
+    },
+    {
+      "Gültig ab": "2023-10-17",
+      "Gültig bis": "2024-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "Gültig ab": "2023-10-17",
+      "Gültig bis": "2024-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-09-23",
+      "Gültig bis": "2023-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-23"
+    },
+    {
+      "Gültig ab": "2023-09-23",
+      "Gültig bis": "2023-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-23"
+    },
+    {
+      "Gültig ab": "2023-09-16",
+      "Gültig bis": "2023-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-16"
+    },
+    {
+      "Gültig ab": "2023-09-16",
+      "Gültig bis": "2023-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-16"
+    },
+    {
+      "Gültig ab": "2023-08-28",
+      "Gültig bis": "2023-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-28"
+    },
+    {
+      "Gültig ab": "2023-08-28",
+      "Gültig bis": "2023-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-28"
+    },
+    {
+      "Gültig ab": "2023-08-17",
+      "Gültig bis": "2023-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-17"
+    },
+    {
+      "Gültig ab": "2023-08-17",
+      "Gültig bis": "2023-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-17"
+    },
+    {
+      "Gültig ab": "2023-08-04",
+      "Gültig bis": "2023-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-04"
+    },
+    {
+      "Gültig ab": "2023-08-04",
+      "Gültig bis": "2023-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-04"
+    },
+    {
+      "Gültig ab": "2023-07-24",
+      "Gültig bis": "2023-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-24"
+    },
+    {
+      "Gültig ab": "2023-07-24",
+      "Gültig bis": "2023-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-24"
+    },
+    {
+      "Gültig ab": "2023-07-17",
+      "Gültig bis": "2023-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-17"
+    },
+    {
+      "Gültig ab": "2023-07-17",
+      "Gültig bis": "2023-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-17"
+    },
+    {
+      "Gültig ab": "2023-06-28",
+      "Gültig bis": "2023-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-28"
+    },
+    {
+      "Gültig ab": "2023-06-28",
+      "Gültig bis": "2023-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.sporrer.ch, sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-28"
+    },
+    {
+      "Gültig ab": "2023-06-17",
+      "Gültig bis": "2023-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "Gültig ab": "2023-06-17",
+      "Gültig bis": "2023-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "Gültig ab": "2023-06-04",
+      "Gültig bis": "2023-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-04"
+    },
+    {
+      "Gültig ab": "2022-11-24",
+      "Gültig bis": "2023-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-24"
+    },
+    {
+      "Gültig ab": "2023-06-04",
+      "Gültig bis": "2023-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.ch.sporrer.ch, the-mesh.com.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch, www.prosec.ch.sporrer.ch, www.the-mesh.com.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-04"
+    },
+    {
+      "Gültig ab": "2023-05-24",
+      "Gültig bis": "2023-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-24"
+    },
+    {
+      "Gültig ab": "2023-05-24",
+      "Gültig bis": "2023-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-24"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-07",
+      "Gültig bis": "2023-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-07"
+    },
+    {
+      "Gültig ab": "2023-05-07",
+      "Gültig bis": "2023-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-07"
+    },
+    {
+      "Gültig ab": "2023-05-07",
+      "Gültig bis": "2023-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-07"
+    },
+    {
+      "Gültig ab": "2023-05-07",
+      "Gültig bis": "2023-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-07"
+    },
+    {
+      "Gültig ab": "2023-04-28",
+      "Gültig bis": "2023-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, cpcalendars.sporrer.ch, cpcontacts.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-28"
+    },
+    {
+      "Gültig ab": "2023-04-28",
+      "Gültig bis": "2023-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, cpcalendars.sporrer.ch, cpcontacts.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-28"
+    },
+    {
+      "Gültig ab": "2023-04-17",
+      "Gültig bis": "2023-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-17"
+    },
+    {
+      "Gültig ab": "2023-04-17",
+      "Gültig bis": "2023-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-17"
+    },
+    {
+      "Gültig ab": "2023-03-26",
+      "Gültig bis": "2023-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-26"
+    },
+    {
+      "Gültig ab": "2023-03-26",
+      "Gültig bis": "2023-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-26"
+    },
+    {
+      "Gültig ab": "2023-03-20",
+      "Gültig bis": "2023-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "Gültig ab": "2023-03-20",
+      "Gültig bis": "2023-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "Gültig ab": "2023-03-10",
+      "Gültig bis": "2023-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-10"
+    },
+    {
+      "Gültig ab": "2023-03-10",
+      "Gültig bis": "2023-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-10"
+    },
+    {
+      "Gültig ab": "2023-03-10",
+      "Gültig bis": "2023-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-10"
+    },
+    {
+      "Gültig ab": "2023-03-10",
+      "Gültig bis": "2023-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-10"
+    },
+    {
+      "Gültig ab": "2023-03-01",
+      "Gültig bis": "2023-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, cpcalendars.sporrer.ch, cpcontacts.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-01"
+    },
+    {
+      "Gültig ab": "2023-03-01",
+      "Gültig bis": "2023-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, cpcalendars.sporrer.ch, cpcontacts.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-01"
+    },
+    {
+      "Gültig ab": "2023-02-17",
+      "Gültig bis": "2023-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-17"
+    },
+    {
+      "Gültig ab": "2023-02-17",
+      "Gültig bis": "2023-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-17"
+    },
+    {
+      "Gültig ab": "2023-01-27",
+      "Gültig bis": "2023-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-27"
+    },
+    {
+      "Gültig ab": "2023-01-27",
+      "Gültig bis": "2023-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-27"
+    },
+    {
+      "Gültig ab": "2023-01-21",
+      "Gültig bis": "2023-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-21"
+    },
+    {
+      "Gültig ab": "2023-01-21",
+      "Gültig bis": "2023-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-21"
+    },
+    {
+      "Gültig ab": "2023-01-11",
+      "Gültig bis": "2023-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-11"
+    },
+    {
+      "Gültig ab": "2023-01-11",
+      "Gültig bis": "2023-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-11"
+    },
+    {
+      "Gültig ab": "2023-01-11",
+      "Gültig bis": "2023-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-11"
+    },
+    {
+      "Gültig ab": "2023-01-11",
+      "Gültig bis": "2023-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-11"
+    },
+    {
+      "Gültig ab": "2023-01-01",
+      "Gültig bis": "2023-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, cpcalendars.sporrer.ch, cpcontacts.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-01"
+    },
+    {
+      "Gültig ab": "2023-01-01",
+      "Gültig bis": "2023-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, cpcalendars.sporrer.ch, cpcontacts.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-01"
+    },
+    {
+      "Gültig ab": "2022-12-21",
+      "Gültig bis": "2023-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "Gültig ab": "2022-12-21",
+      "Gültig bis": "2023-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "Gültig ab": "2022-11-30",
+      "Gültig bis": "2023-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "Gültig ab": "2022-11-30",
+      "Gültig bis": "2023-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "Gültig ab": "2022-11-24",
+      "Gültig bis": "2023-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-24"
+    },
+    {
+      "Gültig ab": "2022-11-13",
+      "Gültig bis": "2023-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-13"
+    },
+    {
+      "Gültig ab": "2022-11-13",
+      "Gültig bis": "2023-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-13"
+    },
+    {
+      "Gültig ab": "2022-11-13",
+      "Gültig bis": "2023-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-13"
+    },
+    {
+      "Gültig ab": "2022-11-13",
+      "Gültig bis": "2023-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-13"
+    },
+    {
+      "Gültig ab": "2022-11-04",
+      "Gültig bis": "2023-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, cpcalendars.sporrer.ch, cpcontacts.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-04"
+    },
+    {
+      "Gültig ab": "2022-11-04",
+      "Gültig bis": "2023-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, cpcalendars.sporrer.ch, cpcontacts.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-04"
+    },
+    {
+      "Gültig ab": "2022-10-24",
+      "Gültig bis": "2023-01-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-24"
+    },
+    {
+      "Gültig ab": "2022-10-24",
+      "Gültig bis": "2023-01-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-24"
+    },
+    {
+      "Gültig ab": "2022-10-02",
+      "Gültig bis": "2022-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-02"
+    },
+    {
+      "Gültig ab": "2022-10-02",
+      "Gültig bis": "2022-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-02"
+    },
+    {
+      "Gültig ab": "2022-09-26",
+      "Gültig bis": "2022-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "Gültig ab": "2022-09-26",
+      "Gültig bis": "2022-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-26"
+    },
+    {
+      "Gültig ab": "2022-09-23",
+      "Gültig bis": "2022-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-23"
+    },
+    {
+      "Gültig ab": "2022-09-23",
+      "Gültig bis": "2022-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-23"
+    },
+    {
+      "Gültig ab": "2022-09-23",
+      "Gültig bis": "2022-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-23"
+    },
+    {
+      "Gültig ab": "2022-09-23",
+      "Gültig bis": "2022-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch, www.algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-23"
+    },
+    {
+      "Gültig ab": "2022-09-23",
+      "Gültig bis": "2022-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-23"
+    },
+    {
+      "Gültig ab": "2022-09-23",
+      "Gültig bis": "2022-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "algiardino.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-23"
+    },
+    {
+      "Gültig ab": "2022-09-16",
+      "Gültig bis": "2022-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-16"
+    },
+    {
+      "Gültig ab": "2022-09-16",
+      "Gültig bis": "2022-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-16"
+    },
+    {
+      "Gültig ab": "2022-09-16",
+      "Gültig bis": "2022-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-16"
+    },
+    {
+      "Gültig ab": "2022-09-16",
+      "Gültig bis": "2022-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-16"
+    },
+    {
+      "Gültig ab": "2022-09-16",
+      "Gültig bis": "2022-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-16"
+    },
+    {
+      "Gültig ab": "2022-09-16",
+      "Gültig bis": "2022-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-16"
+    },
+    {
+      "Gültig ab": "2022-08-26",
+      "Gültig bis": "2022-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-26"
+    },
+    {
+      "Gültig ab": "2022-08-26",
+      "Gültig bis": "2022-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-26"
+    },
+    {
+      "Gültig ab": "2022-07-30",
+      "Gültig bis": "2022-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-30"
+    },
+    {
+      "Gültig ab": "2022-07-30",
+      "Gültig bis": "2022-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-30"
+    },
+    {
+      "Gültig ab": "2022-07-20",
+      "Gültig bis": "2022-10-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-20"
+    },
+    {
+      "Gültig ab": "2022-07-20",
+      "Gültig bis": "2022-10-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-20"
+    },
+    {
+      "Gültig ab": "2022-07-20",
+      "Gültig bis": "2022-10-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-20"
+    },
+    {
+      "Gültig ab": "2022-07-20",
+      "Gültig bis": "2022-10-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-20"
+    },
+    {
+      "Gültig ab": "2022-07-20",
+      "Gültig bis": "2022-10-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-20"
+    },
+    {
+      "Gültig ab": "2022-07-20",
+      "Gültig bis": "2022-10-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-20"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-29",
+      "Gültig bis": "2022-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-29"
+    },
+    {
+      "Gültig ab": "2022-06-02",
+      "Gültig bis": "2022-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-02"
+    },
+    {
+      "Gültig ab": "2022-06-02",
+      "Gültig bis": "2022-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-02"
+    },
+    {
+      "Gültig ab": "2022-05-23",
+      "Gültig bis": "2022-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-23"
+    },
+    {
+      "Gültig ab": "2022-05-23",
+      "Gültig bis": "2022-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-23"
+    },
+    {
+      "Gültig ab": "2022-05-23",
+      "Gültig bis": "2022-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-23"
+    },
+    {
+      "Gültig ab": "2022-05-23",
+      "Gültig bis": "2022-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-23"
+    },
+    {
+      "Gültig ab": "2022-05-23",
+      "Gültig bis": "2022-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-23"
+    },
+    {
+      "Gültig ab": "2022-05-23",
+      "Gültig bis": "2022-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-23"
+    },
+    {
+      "Gültig ab": "2022-05-02",
+      "Gültig bis": "2022-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-02"
+    },
+    {
+      "Gültig ab": "2022-05-02",
+      "Gültig bis": "2022-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-02"
+    },
+    {
+      "Gültig ab": "2022-04-05",
+      "Gültig bis": "2022-07-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-05"
+    },
+    {
+      "Gültig ab": "2022-04-05",
+      "Gültig bis": "2022-07-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-05"
+    },
+    {
+      "Gültig ab": "2022-03-26",
+      "Gültig bis": "2022-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-26"
+    },
+    {
+      "Gültig ab": "2022-03-26",
+      "Gültig bis": "2022-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-26"
+    },
+    {
+      "Gültig ab": "2022-03-26",
+      "Gültig bis": "2022-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-26"
+    },
+    {
+      "Gültig ab": "2022-03-26",
+      "Gültig bis": "2022-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-26"
+    },
+    {
+      "Gültig ab": "2022-03-26",
+      "Gültig bis": "2022-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-26"
+    },
+    {
+      "Gültig ab": "2022-03-26",
+      "Gültig bis": "2022-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-26"
+    },
+    {
+      "Gültig ab": "2022-03-05",
+      "Gültig bis": "2022-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-05"
+    },
+    {
+      "Gültig ab": "2022-03-05",
+      "Gültig bis": "2022-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-05"
+    },
+    {
+      "Gültig ab": "2022-01-28",
+      "Gültig bis": "2022-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-28"
+    },
+    {
+      "Gültig ab": "2022-01-28",
+      "Gültig bis": "2022-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-28"
+    },
+    {
+      "Gültig ab": "2022-01-26",
+      "Gültig bis": "2022-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-27"
+    },
+    {
+      "Gültig ab": "2022-01-26",
+      "Gültig bis": "2022-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-27"
+    },
+    {
+      "Gültig ab": "2022-01-26",
+      "Gültig bis": "2022-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-27"
+    },
+    {
+      "Gültig ab": "2022-01-26",
+      "Gültig bis": "2022-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-27"
+    },
+    {
+      "Gültig ab": "2022-01-26",
+      "Gültig bis": "2022-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-27"
+    },
+    {
+      "Gültig ab": "2022-01-26",
+      "Gültig bis": "2022-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-27"
+    },
+    {
+      "Gültig ab": "2022-01-06",
+      "Gültig bis": "2022-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-06"
+    },
+    {
+      "Gültig ab": "2022-01-06",
+      "Gültig bis": "2022-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-06"
+    },
+    {
+      "Gültig ab": "2021-12-01",
+      "Gültig bis": "2022-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-01"
+    },
+    {
+      "Gültig ab": "2021-12-01",
+      "Gültig bis": "2022-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-01"
+    },
+    {
+      "Gültig ab": "2021-11-29",
+      "Gültig bis": "2022-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-29"
+    },
+    {
+      "Gültig ab": "2021-11-29",
+      "Gültig bis": "2022-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-29"
+    },
+    {
+      "Gültig ab": "2021-11-29",
+      "Gültig bis": "2022-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-29"
+    },
+    {
+      "Gültig ab": "2021-11-29",
+      "Gültig bis": "2022-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-29"
+    },
+    {
+      "Gültig ab": "2021-11-29",
+      "Gültig bis": "2022-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-29"
+    },
+    {
+      "Gültig ab": "2021-11-29",
+      "Gültig bis": "2022-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-29"
+    },
+    {
+      "Gültig ab": "2021-11-09",
+      "Gültig bis": "2022-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-09"
+    },
+    {
+      "Gültig ab": "2021-11-09",
+      "Gültig bis": "2022-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-09"
+    },
+    {
+      "Gültig ab": "2021-10-04",
+      "Gültig bis": "2022-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-04"
+    },
+    {
+      "Gültig ab": "2021-10-04",
+      "Gültig bis": "2022-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-04"
+    },
+    {
+      "Gültig ab": "2021-10-02",
+      "Gültig bis": "2021-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-02"
+    },
+    {
+      "Gültig ab": "2021-10-02",
+      "Gültig bis": "2021-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-02"
+    },
+    {
+      "Gültig ab": "2021-10-02",
+      "Gültig bis": "2021-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-02"
+    },
+    {
+      "Gültig ab": "2021-10-02",
+      "Gültig bis": "2021-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-02"
+    },
+    {
+      "Gültig ab": "2021-10-02",
+      "Gültig bis": "2021-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-02"
+    },
+    {
+      "Gültig ab": "2021-10-02",
+      "Gültig bis": "2021-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-02"
+    },
+    {
+      "Gültig ab": "2021-09-11",
+      "Gültig bis": "2021-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-11"
+    },
+    {
+      "Gültig ab": "2021-09-11",
+      "Gültig bis": "2021-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-11"
+    },
+    {
+      "Gültig ab": "2021-08-07",
+      "Gültig bis": "2021-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-07"
+    },
+    {
+      "Gültig ab": "2021-08-07",
+      "Gültig bis": "2021-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-07"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "Gültig ab": "2021-07-15",
+      "Gültig bis": "2021-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-15"
+    },
+    {
+      "Gültig ab": "2021-07-15",
+      "Gültig bis": "2021-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-15"
+    },
+    {
+      "Gültig ab": "2021-06-10",
+      "Gültig bis": "2021-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-10"
+    },
+    {
+      "Gültig ab": "2021-06-10",
+      "Gültig bis": "2021-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-10"
+    },
+    {
+      "Gültig ab": "2021-06-08",
+      "Gültig bis": "2021-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-08"
+    },
+    {
+      "Gültig ab": "2021-06-08",
+      "Gültig bis": "2021-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-08"
+    },
+    {
+      "Gültig ab": "2021-06-08",
+      "Gültig bis": "2021-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-08"
+    },
+    {
+      "Gültig ab": "2021-06-08",
+      "Gültig bis": "2021-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-08"
+    },
+    {
+      "Gültig ab": "2021-06-08",
+      "Gültig bis": "2021-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-08"
+    },
+    {
+      "Gültig ab": "2021-06-08",
+      "Gültig bis": "2021-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-08"
+    },
+    {
+      "Gültig ab": "2021-05-18",
+      "Gültig bis": "2021-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-18"
+    },
+    {
+      "Gültig ab": "2021-05-18",
+      "Gültig bis": "2021-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-18"
+    },
+    {
+      "Gültig ab": "2021-04-12",
+      "Gültig bis": "2021-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-12"
+    },
+    {
+      "Gültig ab": "2021-04-12",
+      "Gültig bis": "2021-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-12"
+    },
+    {
+      "Gültig ab": "2021-04-10",
+      "Gültig bis": "2021-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-10"
+    },
+    {
+      "Gültig ab": "2021-04-10",
+      "Gültig bis": "2021-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-10"
+    },
+    {
+      "Gültig ab": "2021-04-10",
+      "Gültig bis": "2021-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-10"
+    },
+    {
+      "Gültig ab": "2021-04-10",
+      "Gültig bis": "2021-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-10"
+    },
+    {
+      "Gültig ab": "2021-04-10",
+      "Gültig bis": "2021-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-10"
+    },
+    {
+      "Gültig ab": "2021-04-10",
+      "Gültig bis": "2021-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-10"
+    },
+    {
+      "Gültig ab": "2021-03-20",
+      "Gültig bis": "2021-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-20"
+    },
+    {
+      "Gültig ab": "2021-03-20",
+      "Gültig bis": "2021-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-03-20"
+    },
+    {
+      "Gültig ab": "2021-02-13",
+      "Gültig bis": "2021-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-13"
+    },
+    {
+      "Gültig ab": "2021-02-13",
+      "Gültig bis": "2021-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-13"
+    },
+    {
+      "Gültig ab": "2021-02-11",
+      "Gültig bis": "2021-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-11"
+    },
+    {
+      "Gültig ab": "2021-02-11",
+      "Gültig bis": "2021-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-11"
+    },
+    {
+      "Gültig ab": "2021-02-11",
+      "Gültig bis": "2021-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-11"
+    },
+    {
+      "Gültig ab": "2021-02-11",
+      "Gültig bis": "2021-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-11"
+    },
+    {
+      "Gültig ab": "2021-02-11",
+      "Gültig bis": "2021-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-11"
+    },
+    {
+      "Gültig ab": "2021-02-11",
+      "Gültig bis": "2021-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-11"
+    },
+    {
+      "Gültig ab": "2021-01-21",
+      "Gültig bis": "2021-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-21"
+    },
+    {
+      "Gültig ab": "2021-01-21",
+      "Gültig bis": "2021-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-21"
+    },
+    {
+      "Gültig ab": "2020-12-17",
+      "Gültig bis": "2021-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-17"
+    },
+    {
+      "Gültig ab": "2020-12-17",
+      "Gültig bis": "2021-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-17"
+    },
+    {
+      "Gültig ab": "2020-12-15",
+      "Gültig bis": "2021-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-15"
+    },
+    {
+      "Gültig ab": "2020-12-15",
+      "Gültig bis": "2021-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-15"
+    },
+    {
+      "Gültig ab": "2020-12-15",
+      "Gültig bis": "2021-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-15"
+    },
+    {
+      "Gültig ab": "2020-12-15",
+      "Gültig bis": "2021-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-15"
+    },
+    {
+      "Gültig ab": "2020-12-15",
+      "Gültig bis": "2021-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-15"
+    },
+    {
+      "Gültig ab": "2020-12-15",
+      "Gültig bis": "2021-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-15"
+    },
+    {
+      "Gültig ab": "2020-11-24",
+      "Gültig bis": "2021-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-11-24"
+    },
+    {
+      "Gültig ab": "2020-11-24",
+      "Gültig bis": "2021-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-11-24"
+    },
+    {
+      "Gültig ab": "2020-10-19",
+      "Gültig bis": "2021-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-19"
+    },
+    {
+      "Gültig ab": "2020-10-19",
+      "Gültig bis": "2021-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-19"
+    },
+    {
+      "Gültig ab": "2020-10-18",
+      "Gültig bis": "2021-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-18"
+    },
+    {
+      "Gültig ab": "2020-10-18",
+      "Gültig bis": "2021-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-18"
+    },
+    {
+      "Gültig ab": "2019-09-07",
+      "Gültig bis": "2019-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-09-07"
+    },
+    {
+      "Gültig ab": "2020-10-18",
+      "Gültig bis": "2021-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-18"
+    },
+    {
+      "Gültig ab": "2020-10-18",
+      "Gültig bis": "2021-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-18"
+    },
+    {
+      "Gültig ab": "2020-10-18",
+      "Gültig bis": "2021-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-18"
+    },
+    {
+      "Gültig ab": "2020-10-18",
+      "Gültig bis": "2021-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-18"
+    },
+    {
+      "Gültig ab": "2020-09-26",
+      "Gültig bis": "2020-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-09-26"
+    },
+    {
+      "Gültig ab": "2020-09-26",
+      "Gültig bis": "2020-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-09-26"
+    },
+    {
+      "Gültig ab": "2020-08-22",
+      "Gültig bis": "2020-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-22"
+    },
+    {
+      "Gültig ab": "2020-08-22",
+      "Gültig bis": "2020-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-22"
+    },
+    {
+      "Gültig ab": "2020-08-20",
+      "Gültig bis": "2020-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-20"
+    },
+    {
+      "Gültig ab": "2020-08-20",
+      "Gültig bis": "2020-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-20"
+    },
+    {
+      "Gültig ab": "2020-08-20",
+      "Gültig bis": "2020-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-20"
+    },
+    {
+      "Gültig ab": "2020-08-20",
+      "Gültig bis": "2020-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-20"
+    },
+    {
+      "Gültig ab": "2020-08-20",
+      "Gültig bis": "2020-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-20"
+    },
+    {
+      "Gültig ab": "2020-08-20",
+      "Gültig bis": "2020-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-20"
+    },
+    {
+      "Gültig ab": "2020-07-30",
+      "Gültig bis": "2020-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-07-30"
+    },
+    {
+      "Gültig ab": "2020-07-30",
+      "Gültig bis": "2020-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-07-30"
+    },
+    {
+      "Gültig ab": "2020-06-25",
+      "Gültig bis": "2020-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-25"
+    },
+    {
+      "Gültig ab": "2020-06-25",
+      "Gültig bis": "2020-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "brocki-shop.sporrer.ch, www.brocki-shop.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-25"
+    },
+    {
+      "Gültig ab": "2020-06-23",
+      "Gültig bis": "2020-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-23"
+    },
+    {
+      "Gültig ab": "2020-06-23",
+      "Gültig bis": "2020-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-23"
+    },
+    {
+      "Gültig ab": "2020-06-23",
+      "Gültig bis": "2020-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-23"
+    },
+    {
+      "Gültig ab": "2020-06-23",
+      "Gültig bis": "2020-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-23"
+    },
+    {
+      "Gültig ab": "2020-06-23",
+      "Gültig bis": "2020-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-23"
+    },
+    {
+      "Gültig ab": "2020-06-23",
+      "Gültig bis": "2020-09-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-23"
+    },
+    {
+      "Gültig ab": "2020-06-02",
+      "Gültig bis": "2020-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-02"
+    },
+    {
+      "Gültig ab": "2020-06-02",
+      "Gültig bis": "2020-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-02"
+    },
+    {
+      "Gültig ab": "2020-04-26",
+      "Gültig bis": "2020-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-26"
+    },
+    {
+      "Gültig ab": "2020-04-26",
+      "Gültig bis": "2020-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-26"
+    },
+    {
+      "Gültig ab": "2020-04-26",
+      "Gültig bis": "2020-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-26"
+    },
+    {
+      "Gültig ab": "2020-04-26",
+      "Gültig bis": "2020-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-26"
+    },
+    {
+      "Gültig ab": "2020-04-26",
+      "Gültig bis": "2020-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-26"
+    },
+    {
+      "Gültig ab": "2020-04-26",
+      "Gültig bis": "2020-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-26"
+    },
+    {
+      "Gültig ab": "2020-04-05",
+      "Gültig bis": "2020-07-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "Gültig ab": "2020-04-05",
+      "Gültig bis": "2020-07-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-05"
+    },
+    {
+      "Gültig ab": "2020-02-27",
+      "Gültig bis": "2020-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-27"
+    },
+    {
+      "Gültig ab": "2020-02-27",
+      "Gültig bis": "2020-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-27"
+    },
+    {
+      "Gültig ab": "2020-02-27",
+      "Gültig bis": "2020-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-27"
+    },
+    {
+      "Gültig ab": "2020-02-27",
+      "Gültig bis": "2020-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-27"
+    },
+    {
+      "Gültig ab": "2020-02-27",
+      "Gültig bis": "2020-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-27"
+    },
+    {
+      "Gültig ab": "2020-02-27",
+      "Gültig bis": "2020-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-27"
+    },
+    {
+      "Gültig ab": "2020-02-06",
+      "Gültig bis": "2020-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-07"
+    },
+    {
+      "Gültig ab": "2020-02-06",
+      "Gültig bis": "2020-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "2019.sporrer.ch, www.2019.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-07"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-11-03",
+      "Gültig bis": "2020-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-03"
+    },
+    {
+      "Gültig ab": "2019-11-03",
+      "Gültig bis": "2020-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "autodiscover.sporrer.ch, cpanel.sporrer.ch, mail.sporrer.ch, sporrer.ch, webdisk.sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-03"
+    },
+    {
+      "Gültig ab": "2019-11-03",
+      "Gültig bis": "2020-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-03"
+    },
+    {
+      "Gültig ab": "2019-11-03",
+      "Gültig bis": "2020-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "prosec.ch.sporrer.ch, www.prosec.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-03"
+    },
+    {
+      "Gültig ab": "2019-11-03",
+      "Gültig bis": "2020-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-03"
+    },
+    {
+      "Gültig ab": "2019-11-03",
+      "Gültig bis": "2020-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "lehrlingsmonat.ch.sporrer.ch, www.lehrlingsmonat.ch.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-11-03"
+    },
+    {
+      "Gültig ab": "2019-10-03",
+      "Gültig bis": "2020-01-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.sporrer.ch, sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-03"
+    },
+    {
+      "Gültig ab": "2019-10-03",
+      "Gültig bis": "2020-01-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.sporrer.ch, sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-03"
+    },
+    {
+      "Gültig ab": "2019-09-07",
+      "Gültig bis": "2019-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-09-07"
+    },
+    {
+      "Gültig ab": "2019-07-09",
+      "Gültig bis": "2019-10-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-07-09"
+    },
+    {
+      "Gültig ab": "2019-07-09",
+      "Gültig bis": "2019-10-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-07-09"
+    },
+    {
+      "Gültig ab": "2019-05-09",
+      "Gültig bis": "2019-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-05-10"
+    },
+    {
+      "Gültig ab": "2019-05-09",
+      "Gültig bis": "2019-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-05-10"
+    },
+    {
+      "Gültig ab": "2019-03-10",
+      "Gültig bis": "2019-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-03-10"
+    },
+    {
+      "Gültig ab": "2019-03-10",
+      "Gültig bis": "2019-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-03-10"
+    },
+    {
+      "Gültig ab": "2019-01-09",
+      "Gültig bis": "2019-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "Gültig ab": "2019-01-09",
+      "Gültig bis": "2019-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-01-09"
+    },
+    {
+      "Gültig ab": "2018-11-10",
+      "Gültig bis": "2019-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-11-10"
+    },
+    {
+      "Gültig ab": "2018-11-10",
+      "Gültig bis": "2019-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-11-10"
+    },
+    {
+      "Gültig ab": "2018-09-10",
+      "Gültig bis": "2018-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-11"
+    },
+    {
+      "Gültig ab": "2018-09-10",
+      "Gültig bis": "2018-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-09-11"
+    },
+    {
+      "Gültig ab": "2018-07-12",
+      "Gültig bis": "2018-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-07-12"
+    },
+    {
+      "Gültig ab": "2018-07-12",
+      "Gültig bis": "2018-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sporrer.ch, webmail.sporrer.ch, www.sporrer.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2018-07-12"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://sporrer.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://sporrer.ch/comments/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://sporrer.ch/index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://sporrer.ch/jobs/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://sporrer.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-sitemap-users-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://sporrer.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/about/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/contact/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/feed.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/feeds/all.atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-admin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsporrer.ch%2Fcontact%2F&format=xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-sitemap-posts-page-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-sitemap-posts-post-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-sitemap-taxonomies-category-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "URL": "https://sporrer.ch/category/restaurant/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://sporrer.ch/dessertkarte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://sporrer.ch/gartenrestaurant/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://sporrer.ch/gutscheinebestellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://sporrer.ch/reservation/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wild/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "URL": "https://sporrer.ch/a-la-carte-lm/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://sporrer.ch/a-la-carte-sommer-2021/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://sporrer.ch/author/digiplus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://sporrer.ch/kinderkarte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://sporrer.ch/lehrlingsmonat/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://sporrer.ch/lehrstellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://sporrer.ch/lieferanten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://sporrer.ch/menu/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://sporrer.ch/partner_freunde/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://sporrer.ch/teamlernende/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://sporrer.ch/weinkarte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2024/12/Menuevorschlaege-ab-Januar-2025.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://sporrer.ch/archiv/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2020/09/glutenfrei-erhaeltlich.bmp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-12"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2020/09/glutenfrei.bmp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-12"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2020/09/schweizer-fleisch.bmp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-12"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2020/09/vegan.bmp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-12"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2022/05/scharf.bmp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-12"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2022/05/scharf2.bmp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-12"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-12"
+    },
+    {
+      "URL": "http://www.sporrer.ch/home",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-31"
+    },
+    {
+      "URL": "https://sporrer.ch/lehrstellen-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-04"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2021/06/Menuevorschlaege-2021-Fruehling-Sommer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-25"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2020/09/Menuevorschlaege-Herbst-2020.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-01-27"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/sporrer/assets/css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-26"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/sporrer/assets/css/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-24"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/sporrer/assets/css/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-19"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/sporrer/assets/css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-19"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/VC-Icons.woff?otu1sf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-17"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/VC-Icons.ttf?otu1sf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-02-14"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/de/portrait/news.asp?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-04-27"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/portrait/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-04-27"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/restaurant/karten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-22"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/restaurant/restaurant",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-01-22"
+    },
+    {
+      "URL": "http://www.sporrer.ch/humans.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-09-11"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/bankette/bankette",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-25"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/bankette/vorschlaege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-25"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/restaurant/garten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-25"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-24"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/kontakt/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-24"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/portrait/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-24"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/portrait/news",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-24"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/portrait/ueberuns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-08-24"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/portrait/jobs",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-06-22"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/portrait/philosophie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-06-22"
+    },
+    {
+      "URL": "http://sporrer.ch/default.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-11-26"
+    },
+    {
+      "URL": "http://www.sporrer.ch/bankett.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-11-26"
+    },
+    {
+      "URL": "http://www.sporrer.ch/garten.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-11-26"
+    },
+    {
+      "URL": "http://www.sporrer.ch/kontakt.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-11-26"
+    },
+    {
+      "URL": "https://sporrer.ch/author/parham/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://sporrer.ch/bankette/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://sporrer.ch/betriebsferien/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://sporrer.ch/booking/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://sporrer.ch/bookings/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://sporrer.ch/events/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://sporrer.ch/mittagsmenue/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://sporrer.ch/oeffnungszeigen-weihnachten-neujahr/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://sporrer.ch/philosophie/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://sporrer.ch/zum-schluss-lm/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://sporrer.ch/zum-schluss-sommer-2021/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://sporrer.ch/bookme/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-01"
+    },
+    {
+      "URL": "https://sporrer.ch/kinderkarte-lm/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-01"
+    },
+    {
+      "URL": "https://sporrer.ch/motto/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-01"
+    },
+    {
+      "URL": "https://sporrer.ch/restaurant/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-01"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2024/10/Menuevorschlaege-Herbst-und-Winter-2024v2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-01"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-json/wp/v2/pages/946",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-20"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-json/wp/v2/pages/479",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "URL": "https://sporrer.ch/author/restaurant-sporrer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-09"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2024/06/Menuevorschlaege-Sommer-2024.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-31"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-json/wp/v2/pages/1022",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-json/wp/v2/pages/11",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2023/12/Menuevorschlaege-Winter-2024.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-json/wp/v2/pages/15",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-17"
+    },
+    {
+      "URL": "https://sporrer.ch/0,0,0,0.3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-27"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2022/01/Sporrer-Flyer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-27"
+    },
+    {
+      "URL": "https://sporrer.ch/xmlrpc.php?rsd=",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-27"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2023/11/Menuevorschlaege-Herbst-Winter-2023_neue_Oeffnungszeiten.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-16"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.25.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.25.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.25.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.25.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/elementor/assets/lib/swiper/css/%22data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox='0%200%20120%20120'%20xmlns='http:/www.w3.org/2000/svg'%20xmlns:xlink='http:/www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cpath%20id='a'%20stroke='%236c6c6c'%20stroke-width='11'%20stroke-linecap='round'%20d='M60%207v20'/%3E%3C/defs%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'/%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'%20transform='rotate(30%2060%2060",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2022/08/Anfahrt_Restaurant_Sporrer.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-03"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/elementor/assets/lib/swiper/css/%22data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox='0%200%20120%20120'%20xmlns='http:/www.w3.org/2000/svg'%20xmlns:xlink='http:/www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cpath%20id='a'%20stroke='%23fff'%20stroke-width='11'%20stroke-linecap='round'%20d='M60%207v20'/%3E%3C/defs%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'/%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'%20transform='rotate(30%2060%2060",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.eot?vk8f9n",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.ttf?vk8f9n",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.woff?vk8f9n",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/revslider/public/assets/css/closedhand.cur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/revslider/public/assets/css/openhand.cur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/dine/assets/css/font-awesome5/webfonts/fa-brands-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/dine/assets/css/font-awesome5/webfonts/fa-brands-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/dine/assets/css/font-awesome5/webfonts/fa-brands-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/dine/assets/css/font-awesome5/webfonts/fa-brands-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/dine/assets/css/font-awesome5/webfonts/fa-regular-400.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/dine/assets/css/font-awesome5/webfonts/fa-regular-400.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/dine/assets/css/font-awesome5/webfonts/fa-regular-400.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/dine/assets/css/font-awesome5/webfonts/fa-regular-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/dine/assets/css/font-awesome5/webfonts/fa-solid-900.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/dine/assets/css/font-awesome5/webfonts/fa-solid-900.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/dine/assets/css/font-awesome5/webfonts/fa-solid-900.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/themes/dine/assets/css/font-awesome5/webfonts/fa-solid-900.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/uploads/2020/02/Checkliste-2020_02-1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-10"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-09"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-09"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-09"
+    },
+    {
+      "URL": "https://sporrer.ch/wp-login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-04"
+    },
+    {
+      "URL": "http://www.sporrer.ch/philosophie.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-11-26"
+    },
+    {
+      "URL": "http://www.sporrer.ch/restaurant.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-11-26"
+    },
+    {
+      "URL": "http://www.sporrer.ch/team.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-11-26"
+    },
+    {
+      "URL": "http://www.sporrer.ch/ueberuns.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-11-26"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/webmaster/publisher_popup.asp?id=172758",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2011-04-13"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/Default.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "1999-08-31"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/mp3db/default.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "1999-08-31"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/mp3db/mp3liste.asp?Titelsuche=b&amp%3BLastsearch=",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "1999-08-31"
+    },
+    {
+      "URL": "http://www.sporrer.ch:80/news.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "1999-08-31"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@sporrer.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "E-Mail": "pedram@sporrer.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522222708",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

@@ -1,0 +1,3399 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "75.2.70.75",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "IPv4-Adresse": "99.83.190.102",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "betosan-ch.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.bdm.microsoftonline.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Name Server": "ns2.bdm.microsoftonline.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Name Server": "ns3.bdm.microsoftonline.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Name Server": "ns4.bdm.microsoftonline.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms92186841\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Text Record": "\"mscid=gzSQ3a4ExdDcOIJ/66AOoSDc0aES9K94rOl0VAz3DUDQXJOk6qY3hCwm3H0BWPeFs7ORWBEpxWp1IgZGvNSSeA==\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Text Record": "\"v=spf1 ip4:46.14.36.170 include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "300",
+      "Expire": "2419200",
+      "Serial": "1",
+      "Refresh": "3600",
+      "Hostmaster": "azuredns-hostmaster.microsoft.com.",
+      "Minimum TTL": "300",
+      "Primary Nameserver": "ns1.bdm.microsoftonline.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "75.2.70.75",
+      "PTR-Domain": "aacb0a264e514dd48.awsglobalaccelerator.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "IP-Adresse": "99.83.190.102",
+      "PTR-Domain": "aacb0a264e514dd48.awsglobalaccelerator.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "betosan.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "cms.betosan.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-29",
+      "Gültig bis": "2025-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-29"
+    },
+    {
+      "Gültig ab": "2025-04-29",
+      "Gültig bis": "2025-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-29"
+    },
+    {
+      "Gültig ab": "2025-04-26",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-26"
+    },
+    {
+      "Gültig ab": "2025-04-26",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-26"
+    },
+    {
+      "Gültig ab": "2025-03-31",
+      "Gültig bis": "2025-06-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "Gültig ab": "2025-03-31",
+      "Gültig bis": "2025-06-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "Gültig ab": "2025-03-12",
+      "Gültig bis": "2025-06-10",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-12"
+    },
+    {
+      "Gültig ab": "2025-03-12",
+      "Gültig bis": "2025-06-10",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-12"
+    },
+    {
+      "Gültig ab": "2025-02-28",
+      "Gültig bis": "2025-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-28"
+    },
+    {
+      "Gültig ab": "2025-02-28",
+      "Gültig bis": "2025-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-28"
+    },
+    {
+      "Gültig ab": "2025-02-26",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-26"
+    },
+    {
+      "Gültig ab": "2025-02-26",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-26"
+    },
+    {
+      "Gültig ab": "2025-02-26",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-26"
+    },
+    {
+      "Gültig ab": "2025-02-26",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-26"
+    },
+    {
+      "Gültig ab": "2025-02-26",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-26"
+    },
+    {
+      "Gültig ab": "2025-01-12",
+      "Gültig bis": "2025-04-12",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "Gültig ab": "2025-01-12",
+      "Gültig bis": "2025-04-12",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "Gültig ab": "2025-01-12",
+      "Gültig bis": "2025-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "Gültig ab": "2025-01-12",
+      "Gültig bis": "2025-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "Gültig ab": "2024-12-31",
+      "Gültig bis": "2025-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-31"
+    },
+    {
+      "Gültig ab": "2024-12-31",
+      "Gültig bis": "2025-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-31"
+    },
+    {
+      "Gültig ab": "2024-12-10",
+      "Gültig bis": "2025-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    },
+    {
+      "Gültig ab": "2024-12-10",
+      "Gültig bis": "2025-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-10"
+    },
+    {
+      "Gültig ab": "2024-11-02",
+      "Gültig bis": "2025-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "Gültig ab": "2024-11-02",
+      "Gültig bis": "2025-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "Gültig ab": "2024-10-30",
+      "Gültig bis": "2025-01-28",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-30"
+    },
+    {
+      "Gültig ab": "2024-10-30",
+      "Gültig bis": "2025-01-28",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-30"
+    },
+    {
+      "Gültig ab": "2024-10-29",
+      "Gültig bis": "2025-01-27",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WE1",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-29"
+    },
+    {
+      "Gültig ab": "2024-10-29",
+      "Gültig bis": "2025-01-27",
+      "Ausgestellt von": "C=US, O=Google Trust Services, CN=WR1",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-29"
+    },
+    {
+      "Gültig ab": "2024-10-26",
+      "Gültig bis": "2025-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-26"
+    },
+    {
+      "Gültig ab": "2024-10-26",
+      "Gültig bis": "2025-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-26"
+    },
+    {
+      "Gültig ab": "2024-09-23",
+      "Gültig bis": "2024-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-23"
+    },
+    {
+      "Gültig ab": "2024-09-23",
+      "Gültig bis": "2024-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-23"
+    },
+    {
+      "Gültig ab": "2024-09-04",
+      "Gültig bis": "2024-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-04"
+    },
+    {
+      "Gültig ab": "2024-09-04",
+      "Gültig bis": "2024-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-04"
+    },
+    {
+      "Gültig ab": "2024-08-09",
+      "Gültig bis": "2024-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-09"
+    },
+    {
+      "Gültig ab": "2024-08-09",
+      "Gültig bis": "2024-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-09"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-06-14",
+      "Gültig bis": "2024-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-14"
+    },
+    {
+      "Gültig ab": "2024-06-14",
+      "Gültig bis": "2024-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-14"
+    },
+    {
+      "Gültig ab": "2024-06-14",
+      "Gültig bis": "2024-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-14"
+    },
+    {
+      "Gültig ab": "2024-06-14",
+      "Gültig bis": "2024-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-14"
+    },
+    {
+      "Gültig ab": "2024-05-23",
+      "Gültig bis": "2024-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-23"
+    },
+    {
+      "Gültig ab": "2024-05-23",
+      "Gültig bis": "2024-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-23"
+    },
+    {
+      "Gültig ab": "2024-05-09",
+      "Gültig bis": "2024-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-09"
+    },
+    {
+      "Gültig ab": "2024-05-09",
+      "Gültig bis": "2024-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-09"
+    },
+    {
+      "Gültig ab": "2024-04-20",
+      "Gültig bis": "2024-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-20"
+    },
+    {
+      "Gültig ab": "2024-04-20",
+      "Gültig bis": "2024-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-20"
+    },
+    {
+      "Gültig ab": "2024-03-11",
+      "Gültig bis": "2024-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-11"
+    },
+    {
+      "Gültig ab": "2024-03-11",
+      "Gültig bis": "2024-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-11"
+    },
+    {
+      "Gültig ab": "2024-02-14",
+      "Gültig bis": "2024-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-14"
+    },
+    {
+      "Gültig ab": "2024-02-14",
+      "Gültig bis": "2024-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-14"
+    },
+    {
+      "Gültig ab": "2024-02-14",
+      "Gültig bis": "2024-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-14"
+    },
+    {
+      "Gültig ab": "2024-02-14",
+      "Gültig bis": "2024-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-14"
+    },
+    {
+      "Gültig ab": "2024-02-14",
+      "Gültig bis": "2024-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-14"
+    },
+    {
+      "Gültig ab": "2024-02-14",
+      "Gültig bis": "2024-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E1",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-14"
+    },
+    {
+      "Gültig ab": "2024-02-14",
+      "Gültig bis": "2024-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-14"
+    },
+    {
+      "Gültig ab": "2024-02-14",
+      "Gültig bis": "2024-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-14"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-01-11",
+      "Gültig bis": "2024-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "Gültig ab": "2024-01-11",
+      "Gültig bis": "2024-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-11-13",
+      "Gültig bis": "2024-02-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-13"
+    },
+    {
+      "Gültig ab": "2023-09-15",
+      "Gültig bis": "2023-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-15"
+    },
+    {
+      "Gültig ab": "2023-09-15",
+      "Gültig bis": "2023-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-15"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-05-20",
+      "Gültig bis": "2023-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-20"
+    },
+    {
+      "Gültig ab": "2023-05-20",
+      "Gültig bis": "2023-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-20"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2023-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-03-21",
+      "Gültig bis": "2023-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-21"
+    },
+    {
+      "Gültig ab": "2023-01-21",
+      "Gültig bis": "2023-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-21"
+    },
+    {
+      "Gültig ab": "2023-01-21",
+      "Gültig bis": "2023-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-21"
+    },
+    {
+      "Gültig ab": "2022-11-23",
+      "Gültig bis": "2023-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-23"
+    },
+    {
+      "Gültig ab": "2022-11-23",
+      "Gültig bis": "2023-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-23"
+    },
+    {
+      "Gültig ab": "2022-09-25",
+      "Gültig bis": "2022-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "Gültig ab": "2022-09-25",
+      "Gültig bis": "2022-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "Gültig ab": "2022-07-28",
+      "Gültig bis": "2022-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-28"
+    },
+    {
+      "Gültig ab": "2022-07-28",
+      "Gültig bis": "2022-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-28"
+    },
+    {
+      "Gültig ab": "2022-05-30",
+      "Gültig bis": "2022-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-05-30"
+    },
+    {
+      "Gültig ab": "2022-05-30",
+      "Gültig bis": "2022-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-05-30"
+    },
+    {
+      "Gültig ab": "2022-04-01",
+      "Gültig bis": "2022-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-01"
+    },
+    {
+      "Gültig ab": "2022-04-01",
+      "Gültig bis": "2022-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-01"
+    },
+    {
+      "Gültig ab": "2022-01-31",
+      "Gültig bis": "2022-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-31"
+    },
+    {
+      "Gültig ab": "2022-01-31",
+      "Gültig bis": "2022-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-31"
+    },
+    {
+      "Gültig ab": "2021-12-03",
+      "Gültig bis": "2022-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-03"
+    },
+    {
+      "Gültig ab": "2021-12-03",
+      "Gültig bis": "2022-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-03"
+    },
+    {
+      "Gültig ab": "2021-10-05",
+      "Gültig bis": "2022-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-05"
+    },
+    {
+      "Gültig ab": "2021-10-05",
+      "Gültig bis": "2022-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-05"
+    },
+    {
+      "Gültig ab": "2021-08-07",
+      "Gültig bis": "2021-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-07"
+    },
+    {
+      "Gültig ab": "2021-08-07",
+      "Gültig bis": "2021-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-07"
+    },
+    {
+      "Gültig ab": "2021-06-09",
+      "Gültig bis": "2021-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-09"
+    },
+    {
+      "Gültig ab": "2021-06-09",
+      "Gültig bis": "2021-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-09"
+    },
+    {
+      "Gültig ab": "2021-04-11",
+      "Gültig bis": "2021-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "Gültig ab": "2021-04-11",
+      "Gültig bis": "2021-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "Gültig ab": "2021-02-10",
+      "Gültig bis": "2021-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-02-10"
+    },
+    {
+      "Gültig ab": "2021-02-10",
+      "Gültig bis": "2021-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-02-10"
+    },
+    {
+      "Gültig ab": "2020-12-13",
+      "Gültig bis": "2021-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-12-13"
+    },
+    {
+      "Gültig ab": "2020-12-13",
+      "Gültig bis": "2021-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-12-13"
+    },
+    {
+      "Gültig ab": "2020-10-14",
+      "Gültig bis": "2021-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-10-14"
+    },
+    {
+      "Gültig ab": "2020-10-14",
+      "Gültig bis": "2021-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-10-14"
+    },
+    {
+      "Gültig ab": "2020-10-08",
+      "Gültig bis": "2021-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-10-08"
+    },
+    {
+      "Gültig ab": "2020-10-08",
+      "Gültig bis": "2021-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch, cms.betosan.ch, www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-10-08"
+    },
+    {
+      "Gültig ab": "2020-08-09",
+      "Gültig bis": "2020-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-09"
+    },
+    {
+      "Gültig ab": "2020-08-09",
+      "Gültig bis": "2020-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-09"
+    },
+    {
+      "Gültig ab": "2020-08-02",
+      "Gültig bis": "2020-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-02"
+    },
+    {
+      "Gültig ab": "2020-08-02",
+      "Gültig bis": "2020-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-02"
+    },
+    {
+      "Gültig ab": "2020-08-02",
+      "Gültig bis": "2020-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-02"
+    },
+    {
+      "Gültig ab": "2020-08-02",
+      "Gültig bis": "2020-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-02"
+    },
+    {
+      "Gültig ab": "2020-05-18",
+      "Gültig bis": "2020-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-05-18"
+    },
+    {
+      "Gültig ab": "2020-05-18",
+      "Gültig bis": "2020-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-05-18"
+    },
+    {
+      "Gültig ab": "2020-05-12",
+      "Gültig bis": "2020-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-05-12"
+    },
+    {
+      "Gültig ab": "2020-05-12",
+      "Gültig bis": "2020-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-05-12"
+    },
+    {
+      "Gültig ab": "2020-05-12",
+      "Gültig bis": "2020-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-05-12"
+    },
+    {
+      "Gültig ab": "2020-05-12",
+      "Gültig bis": "2020-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-05-12"
+    },
+    {
+      "Gültig ab": "2020-02-25",
+      "Gültig bis": "2020-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-02-25"
+    },
+    {
+      "Gültig ab": "2020-02-25",
+      "Gültig bis": "2020-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-02-25"
+    },
+    {
+      "Gültig ab": "2020-02-20",
+      "Gültig bis": "2020-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-02-20"
+    },
+    {
+      "Gültig ab": "2020-02-20",
+      "Gültig bis": "2020-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-02-20"
+    },
+    {
+      "Gültig ab": "2020-02-20",
+      "Gültig bis": "2020-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-02-20"
+    },
+    {
+      "Gültig ab": "2020-02-20",
+      "Gültig bis": "2020-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-02-20"
+    },
+    {
+      "Gültig ab": "2019-12-04",
+      "Gültig bis": "2020-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-12-04"
+    },
+    {
+      "Gültig ab": "2019-12-04",
+      "Gültig bis": "2020-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-12-04"
+    },
+    {
+      "Gültig ab": "2019-11-29",
+      "Gültig bis": "2020-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-11-30"
+    },
+    {
+      "Gültig ab": "2019-11-29",
+      "Gültig bis": "2020-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-11-30"
+    },
+    {
+      "Gültig ab": "2019-11-29",
+      "Gültig bis": "2020-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-11-30"
+    },
+    {
+      "Gültig ab": "2019-11-29",
+      "Gültig bis": "2020-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-11-30"
+    },
+    {
+      "Gültig ab": "2019-09-12",
+      "Gültig bis": "2019-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-09-12"
+    },
+    {
+      "Gültig ab": "2019-09-12",
+      "Gültig bis": "2019-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-09-12"
+    },
+    {
+      "Gültig ab": "2019-09-08",
+      "Gültig bis": "2019-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-09-08"
+    },
+    {
+      "Gültig ab": "2019-09-08",
+      "Gültig bis": "2019-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-09-08"
+    },
+    {
+      "Gültig ab": "2019-09-08",
+      "Gültig bis": "2019-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-09-08"
+    },
+    {
+      "Gültig ab": "2019-09-08",
+      "Gültig bis": "2019-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-09-08"
+    },
+    {
+      "Gültig ab": "2019-06-21",
+      "Gültig bis": "2019-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-06-21"
+    },
+    {
+      "Gültig ab": "2019-06-21",
+      "Gültig bis": "2019-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-06-21"
+    },
+    {
+      "Gültig ab": "2019-06-18",
+      "Gültig bis": "2019-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-06-18"
+    },
+    {
+      "Gültig ab": "2019-06-18",
+      "Gültig bis": "2019-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-06-18"
+    },
+    {
+      "Gültig ab": "2019-06-18",
+      "Gültig bis": "2019-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-06-18"
+    },
+    {
+      "Gültig ab": "2019-06-18",
+      "Gültig bis": "2019-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-06-18"
+    },
+    {
+      "Gültig ab": "2019-03-30",
+      "Gültig bis": "2019-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-03-30"
+    },
+    {
+      "Gültig ab": "2019-03-30",
+      "Gültig bis": "2019-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-03-30"
+    },
+    {
+      "Gültig ab": "2019-03-28",
+      "Gültig bis": "2019-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-03-28"
+    },
+    {
+      "Gültig ab": "2019-03-28",
+      "Gültig bis": "2019-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-03-28"
+    },
+    {
+      "Gültig ab": "2019-03-28",
+      "Gültig bis": "2019-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-03-28"
+    },
+    {
+      "Gültig ab": "2019-03-28",
+      "Gültig bis": "2019-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-03-28"
+    },
+    {
+      "Gültig ab": "2019-01-06",
+      "Gültig bis": "2019-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-06"
+    },
+    {
+      "Gültig ab": "2019-01-06",
+      "Gültig bis": "2019-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-06"
+    },
+    {
+      "Gültig ab": "2019-01-04",
+      "Gültig bis": "2019-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-05"
+    },
+    {
+      "Gültig ab": "2019-01-04",
+      "Gültig bis": "2019-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-05"
+    },
+    {
+      "Gültig ab": "2019-01-04",
+      "Gültig bis": "2019-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-05"
+    },
+    {
+      "Gültig ab": "2019-01-04",
+      "Gültig bis": "2019-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-05"
+    },
+    {
+      "Gültig ab": "2018-10-15",
+      "Gültig bis": "2019-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-15"
+    },
+    {
+      "Gültig ab": "2018-10-15",
+      "Gültig bis": "2019-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-15"
+    },
+    {
+      "Gültig ab": "2018-10-14",
+      "Gültig bis": "2019-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-14"
+    },
+    {
+      "Gültig ab": "2018-10-14",
+      "Gültig bis": "2019-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-14"
+    },
+    {
+      "Gültig ab": "2018-10-14",
+      "Gültig bis": "2019-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-14"
+    },
+    {
+      "Gültig ab": "2018-10-14",
+      "Gültig bis": "2019-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-10-14"
+    },
+    {
+      "Gültig ab": "2018-07-24",
+      "Gültig bis": "2018-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-24"
+    },
+    {
+      "Gültig ab": "2018-07-24",
+      "Gültig bis": "2018-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-24"
+    },
+    {
+      "Gültig ab": "2018-07-24",
+      "Gültig bis": "2018-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-24"
+    },
+    {
+      "Gültig ab": "2018-07-24",
+      "Gültig bis": "2018-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-24"
+    },
+    {
+      "Gültig ab": "2018-07-24",
+      "Gültig bis": "2018-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-24"
+    },
+    {
+      "Gültig ab": "2018-07-24",
+      "Gültig bis": "2018-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-07-24"
+    },
+    {
+      "Gültig ab": "2018-05-02",
+      "Gültig bis": "2018-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-05-02"
+    },
+    {
+      "Gültig ab": "2018-05-02",
+      "Gültig bis": "2018-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-05-02"
+    },
+    {
+      "Gültig ab": "2018-05-02",
+      "Gültig bis": "2018-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-05-02"
+    },
+    {
+      "Gültig ab": "2018-05-02",
+      "Gültig bis": "2018-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-05-02"
+    },
+    {
+      "Gültig ab": "2018-05-02",
+      "Gültig bis": "2018-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-05-02"
+    },
+    {
+      "Gültig ab": "2018-05-02",
+      "Gültig bis": "2018-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-05-02"
+    },
+    {
+      "Gültig ab": "2018-02-09",
+      "Gültig bis": "2018-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-02-10"
+    },
+    {
+      "Gültig ab": "2018-02-02",
+      "Gültig bis": "2018-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-02-02"
+    },
+    {
+      "Gültig ab": "2018-02-02",
+      "Gültig bis": "2018-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2018-02-02"
+    },
+    {
+      "Gültig ab": "2017-11-19",
+      "Gültig bis": "2018-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-11-19"
+    },
+    {
+      "Gültig ab": "2017-11-12",
+      "Gültig bis": "2018-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-11-12"
+    },
+    {
+      "Gültig ab": "2017-11-12",
+      "Gültig bis": "2018-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-11-12"
+    },
+    {
+      "Gültig ab": "2017-08-29",
+      "Gültig bis": "2017-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cms.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-08-29"
+    },
+    {
+      "Gültig ab": "2017-08-22",
+      "Gültig bis": "2017-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-08-22"
+    },
+    {
+      "Gültig ab": "2017-08-22",
+      "Gültig bis": "2017-11-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-08-22"
+    },
+    {
+      "Gültig ab": "2017-06-01",
+      "Gültig bis": "2017-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-06-01"
+    },
+    {
+      "Gültig ab": "2017-06-01",
+      "Gültig bis": "2017-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-06-01"
+    },
+    {
+      "Gültig ab": "2017-03-11",
+      "Gültig bis": "2017-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-11"
+    },
+    {
+      "Gültig ab": "2017-03-11",
+      "Gültig bis": "2017-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-11"
+    },
+    {
+      "Gültig ab": "2017-03-11",
+      "Gültig bis": "2017-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-11"
+    },
+    {
+      "Gültig ab": "2016-12-19",
+      "Gültig bis": "2017-03-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-19"
+    },
+    {
+      "Gültig ab": "2016-12-19",
+      "Gültig bis": "2017-03-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "betosan.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-19"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.betosan.ch/referenz/frauenklinik-bern",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/n13-galerie-rofla",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.betosan.ch/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.betosan.ch/beitrag/betosan---seit-40-jahren-erfolgreich-unterwegs",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/beitrag/verstarkung-in-der-geschaftsleitung-der-betosan-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/datenschutzerklaerung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/kompetenz/bautenschutz-und-betonkosmetik",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/kompetenz/bauwerkinstandsetzung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/kompetenz/hochbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/kompetenz/tiefbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/offene-stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/portrait",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/ara-worblental-worblaufen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/einkaufszentrum-pizolpark-mels",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/entsorgung-recycling-bunker-stadt-zurich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/redingstrasse-basel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/sanierung-hochhaus-telli-b-c-aarau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/sanierung-schrahbachbrucke-innerthal",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/sprungturm-freiluft-und-hallenbad-bodeli-unterseen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/tiefgarage-bahnhofstrasse-78-aarau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/tiefgararage-churerstrasse-pfaffikon",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/trinkwasser---reservoir-gonhard-aarau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/standorte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/taetigkeitsbereiche",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "URL": "https://www.betosan.ch/agb",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/aktuell",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "http://betosan.ch/leistungen-bauwerkinstandsetzung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/leistungen-brandschutz.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/leistungen-schadstoffsanierung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/leistungen-tragwerkverstaerkung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/leistungen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/referenzen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/unternehmen-fakten-und-zahlen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/unternehmen-kontaktadressen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/unternehmen-mitarbeitende.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/unternehmen-offene-stellen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/unternehmen-philosophie.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/agb.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-07-09"
+    },
+    {
+      "URL": "http://betosan.ch/referenzen-hochbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-06-25"
+    },
+    {
+      "URL": "http://betosan.ch/unternehmen-mitarbeitende-geschaeftsleitung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-06-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-light-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-05-12"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/error-404.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2014-09-09"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Unternehmen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2014-09-09"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Dienstleistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2014-08-24"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Mitarbeitende",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2014-08-24"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Zwinglikirche,%20B%C3%B6zingen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2014-08-24"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Offene%20Stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2014-08-22"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Wohnheim%20Rossfeld,%20Bern",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-15"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Abdichtung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Bautenschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Bauwerkinstandsetzung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Downloads",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Hochhaus%20AEW,%20Aarau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Hochkamin%20jura%20cement,%20Wildegg%20AG",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Leistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Schulanlage%20Heumatt,%20Z%C3%BCrich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Terrassenhaus%20Brandwingert,%20Seuzach",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Tiefbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Tragwerkverst%C3%A4rkung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Umwelttechnik",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Wasserbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Hochbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-05"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/Schulanlage%20Staudenb%C3%BChl,%20Z%C3%BCrich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-08-05"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/ARGE%20Egschi",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-06-05"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/ARA%20Grubensteg,%20R%C3%BCti%20ZH",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-05-24"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/ARA%20Interlaken",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2013-05-19"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/default.aspx?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2011-04-12"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/default.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2007-02-05"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/webincludes/functions/printForm.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2005-03-19"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/Mozilla/4.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-28"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/referenz_2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-28"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/referenz_3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-28"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/referenz_5.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-28"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/referenz_6.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-28"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/referenz_7.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-28"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/fr/Offres.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-26"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/fr/Mozilla/4.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-22"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/services.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-21"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/de/referenz_4.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-21"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/entreprise.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-20"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/organisation.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-20"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/prestations.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-20"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/references.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-20"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/fr/documentation.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-16"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/fr/nous.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-16"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/fr/prestations.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-16"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/fr/documentation.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-13"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/fr/entreprise.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-13"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/fr/organisation.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-13"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/fr/prestations.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-13"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/fr/references.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-13"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/fr/regions.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-13"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/fr/services.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-13"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/de/informations.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-02"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/de/leistung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-02"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/de/news.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-02"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/de/uber_uns.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-02"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/fr/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-01"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/de/index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-01"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/fr/index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-08-01"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-06-18"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/regions.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-05-26"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/documentation.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-04-09"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/news.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-04-09"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/de/referenzen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-04-09"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/de/Stellenangebote.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-04-09"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/fr/news.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-04-09"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/fr/offres.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-04-09"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/fr/references.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-04-09"
+    },
+    {
+      "URL": "https://www.betosan.ch/download",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/kompetenz/abdichtung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/kompetenz/brandschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/kompetenz/saureschutzbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/kompetenz/stahl-korrosionsschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/kompetenz/tragwerkverstarkung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/ara-region-bern-deckenverstarkung-dickschlamm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/ara-region-burgdorf-fraubrunnen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/feuerwehrmagazin-lenzburg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/hh-achslenstrasse-st-gallen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/mastsockelsanierung-st-gallen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/mastsockelsanierung-walensee",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/n13-tunnel-san-bernardino",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/ostermundigen-unterdorfstrasse-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/porsche-zentrum-zug-rotkreuz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/rohsohletank-3-4-mohlin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/tiefgarage-neuenburgerstrasse-1-12-aarau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "URL": "https://betosan.ch/cli/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://betosan.ch/de/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://betosan.ch/images/pdf/Zeit_fuer_Neues-Dankeschoen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://betosan.ch/layouts/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/administrator/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/bin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/cache/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/components/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/de/installation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/de/joomla/administrator",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/de/logs",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/de/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/includes/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/installation/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/joomla/administrator/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/language/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/libraries/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/logs/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/modules/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/plugins/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/tmp/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-21"
+    },
+    {
+      "URL": "https://www.betosan.ch/images/pdf/Betosan_Infoblatt_Injektionen_DE.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/images/pdf/Betosan_Infoblatt_Korrosionsschutz_DE.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/2-uncategorised/7-allgemeine-geschaeftsbedingungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/2-uncategorised/99-betosan-stellt-sich-vor",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/abdichtung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/allgemein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/baustelle-des-monats",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/bautenschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/brandschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/downloads",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/fakten-und-zahlen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/hochbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/kontakt/adressen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/kontakt/kontaktformular",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/korrosionsschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/mitarbeitende-region-west",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/oekologische-bauwerkinstandsetzung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/offene-stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/philosophie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/saeureschutzbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/standorte-region-mitte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/standorte-region-ost",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/standorte-region-west",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/taetigkeitsbereiche",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/tiefbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/tragwerkverstaerkung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/de/wasserbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.betosan.ch/index.php/fr/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://betosan.ch/index.php/de/dienstleistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-22"
+    },
+    {
+      "URL": "https://betosan.ch/index.php/de/mitarbeitende",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-22"
+    },
+    {
+      "URL": "https://betosan.ch/index.php/de/organisation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-22"
+    },
+    {
+      "URL": "https://betosan.ch/index.php/fr/9-categorie-fr-fr/2-article-fr-fr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-22"
+    },
+    {
+      "URL": "https://betosan.ch/index.php/de/bauwerksinstandsetzung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-10"
+    },
+    {
+      "URL": "https://betosan.ch/index.php/de/schadstoffsanierung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-08-10"
+    },
+    {
+      "URL": "https://betosan.ch/templates/betosan_b/css/BillionWebFonts.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-30"
+    },
+    {
+      "URL": "https://betosan.ch/scripts/boxsizing.htc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-26"
+    },
+    {
+      "URL": "https://betosan.ch/templates/betosan_b/css/BillionWebFonts.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-23"
+    },
+    {
+      "URL": "https://betosan.ch/index.php/de/component/search/?id=76&Itemid=105&format=opensearch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2019-01-11"
+    },
+    {
+      "URL": "http://www.betosan.ch/error-404.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-09-26"
+    },
+    {
+      "URL": "http://betosan.ch/dokumente/organigramm-betosan.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-03"
+    },
+    {
+      "URL": "http://betosan.ch/dokumente/sanierung-hochkamin.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-03"
+    },
+    {
+      "URL": "http://betosan.ch/leistungen-umwelttechnik.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-03"
+    },
+    {
+      "URL": "http://betosan.ch/referenzen-tiefbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-03"
+    },
+    {
+      "URL": "http://betosan.ch/referenzen-wasserbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-03"
+    },
+    {
+      "URL": "http://betosan.ch/unternehmen-mitarbeitende-dienstleistungen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-03"
+    },
+    {
+      "URL": "http://betosan.ch/dokumente/betosan-broschuere-franz.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-02"
+    },
+    {
+      "URL": "http://betosan.ch/dokumente/injektionen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-02"
+    },
+    {
+      "URL": "http://betosan.ch/dokumente/iso-zertifikat.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-02"
+    },
+    {
+      "URL": "http://betosan.ch/dokumente/jubilaeumsflyer-25.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-02"
+    },
+    {
+      "URL": "http://betosan.ch/dokumente/pcb-sanierung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-02"
+    },
+    {
+      "URL": "http://betosan.ch/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-02"
+    },
+    {
+      "URL": "http://betosan.ch/unternehmen-mitarbeitende-mitte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-02"
+    },
+    {
+      "URL": "http://betosan.ch/unternehmen-mitarbeitende-ost.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-02"
+    },
+    {
+      "URL": "http://betosan.ch/unternehmen-mitarbeitende-west.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2017-03-02"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-bold-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-bold-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-bolditalic-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-bolditalic-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-italic-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-italic-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-italic-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-light-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-lightitalic-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-lightitalic-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-lightitalic-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-regular-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-regular-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-regular-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-25"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-bold-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-24"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-bolditalic-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-24"
+    },
+    {
+      "URL": "http://betosan.ch/fonts/open-sans/opensans-light-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-12-24"
+    },
+    {
+      "URL": "http://betosan.ch/downloads.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/impressum.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/index-franz.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/kontaktadressen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/leistungen-abdichtung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "http://betosan.ch/leistungen-bautenschutz.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2016-10-20"
+    },
+    {
+      "URL": "https://www.betosan.ch/home-neu",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.betosan.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.betosan.ch/kompetenz/wasserbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.betosan.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.betosan.ch/referenz/fangkanal-tossallmend-pfungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/SiteNew/de/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-02-09"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/fr/news.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2003-02-08"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/referenz_1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2002-10-06"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/offres.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2002-10-05"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/news.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2001-10-27"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/fr/news.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2001-10-27"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/choix.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2001-10-25"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/index.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2001-01-10"
+    },
+    {
+      "URL": "http://www.betosan.ch:80/de/documentation.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2000-12-08"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "aarau@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "bannier@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "basel@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "casty@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "christen@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "guener@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "haechler@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "hiltbrunner@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "info@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "jehli@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "kuepfer@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "kunz@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "lleshaj@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "luethi@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "oezkan@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "olten@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "ostschweiz@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "schwarz@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "seiler@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "spahr@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "sybil.schwarz@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "thueler@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "vogel@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "willimann@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "E-Mail": "wohler@betosan.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41313350541",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41313350543",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41313350545",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41313350546",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41313350550",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41313350551",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41313350555",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41444925100",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41522240190",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41614811122",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41622129932",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41628222925",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41764663928",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41793261379",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41793379779",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41793401811",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41794358607",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41794429956",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41795426234",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41796025298",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41796052170",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41796482777",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41797428332",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41797938064",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41798359457",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41798666509",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "Telefonnummern": "+41816304113",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

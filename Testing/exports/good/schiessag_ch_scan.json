@@ -1,0 +1,2289 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "149.126.4.88",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a01:ab20:0:4::88",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "schiessag-ch.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Name Server": "ns2.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"brevo-code:ddc0f31f9992db9f05e560f7c6b736e0\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "Text Record": "\"v=spf1 include:spf.protection.outlook.com include:spf.mandrillapp.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "3600000",
+      "Serial": "2023082201",
+      "Refresh": "86400",
+      "Hostmaster": "server.cyon.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "149.126.4.88",
+      "PTR-Domain": "s079.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    },
+    {
+      "IP-Adresse": "2a01:ab20:0:4::88",
+      "PTR-Domain": "s079.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "schiessag.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "mail.schiessag.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "remote.schiessag.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "remote.schiessag.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "vorschau.schiessag.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    },
+    {
+      "Subdomainname": "vorschau.schiessag.ch",
+      "In Digitalem Twin gescant am": "2025-05-15"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-21",
+      "Gültig bis": "2025-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "Gültig ab": "2025-04-21",
+      "Gültig bis": "2025-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-15"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-15"
+    },
+    {
+      "Gültig ab": "2025-02-19",
+      "Gültig bis": "2025-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "Gültig ab": "2025-02-19",
+      "Gültig bis": "2025-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "Gültig ab": "2025-02-12",
+      "Gültig bis": "2025-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "Gültig ab": "2025-02-12",
+      "Gültig bis": "2025-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "Gültig ab": "2024-12-17",
+      "Gültig bis": "2025-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-17"
+    },
+    {
+      "Gültig ab": "2024-12-17",
+      "Gültig bis": "2025-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-17"
+    },
+    {
+      "Gültig ab": "2024-12-13",
+      "Gültig bis": "2025-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "Gültig ab": "2024-12-13",
+      "Gültig bis": "2025-03-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "Gültig ab": "2024-10-17",
+      "Gültig bis": "2025-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-17"
+    },
+    {
+      "Gültig ab": "2024-10-17",
+      "Gültig bis": "2025-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-17"
+    },
+    {
+      "Gültig ab": "2024-10-13",
+      "Gültig bis": "2025-01-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-13"
+    },
+    {
+      "Gültig ab": "2024-10-13",
+      "Gültig bis": "2025-01-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-13"
+    },
+    {
+      "Gültig ab": "2024-08-17",
+      "Gültig bis": "2024-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-17"
+    },
+    {
+      "Gültig ab": "2024-08-17",
+      "Gültig bis": "2024-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-17"
+    },
+    {
+      "Gültig ab": "2024-08-13",
+      "Gültig bis": "2024-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "Gültig ab": "2024-08-13",
+      "Gültig bis": "2024-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "Gültig ab": "2024-08-05",
+      "Gültig bis": "2025-08-29",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "Gültig ab": "2024-08-05",
+      "Gültig bis": "2025-08-29",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-08-05"
+    },
+    {
+      "Gültig ab": "2024-06-17",
+      "Gültig bis": "2024-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "Gültig ab": "2024-06-17",
+      "Gültig bis": "2024-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "Gültig ab": "2024-06-13",
+      "Gültig bis": "2024-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-13"
+    },
+    {
+      "Gültig ab": "2024-06-13",
+      "Gültig bis": "2024-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-13"
+    },
+    {
+      "Gültig ab": "2024-04-15",
+      "Gültig bis": "2024-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "Gültig ab": "2024-04-15",
+      "Gültig bis": "2024-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "Gültig ab": "2024-04-13",
+      "Gültig bis": "2024-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "Gültig ab": "2024-04-13",
+      "Gültig bis": "2024-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-04-13"
+    },
+    {
+      "Gültig ab": "2024-02-11",
+      "Gültig bis": "2024-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-11"
+    },
+    {
+      "Gültig ab": "2024-02-11",
+      "Gültig bis": "2024-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-11"
+    },
+    {
+      "Gültig ab": "2024-02-11",
+      "Gültig bis": "2024-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-11"
+    },
+    {
+      "Gültig ab": "2024-02-11",
+      "Gültig bis": "2024-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-02-11"
+    },
+    {
+      "Gültig ab": "2023-12-11",
+      "Gültig bis": "2024-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-11"
+    },
+    {
+      "Gültig ab": "2023-12-11",
+      "Gültig bis": "2024-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-11"
+    },
+    {
+      "Gültig ab": "2023-12-11",
+      "Gültig bis": "2024-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-11"
+    },
+    {
+      "Gültig ab": "2023-12-11",
+      "Gültig bis": "2024-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-12-11"
+    },
+    {
+      "Gültig ab": "2023-10-11",
+      "Gültig bis": "2024-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-11"
+    },
+    {
+      "Gültig ab": "2023-10-11",
+      "Gültig bis": "2024-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-11"
+    },
+    {
+      "Gültig ab": "2023-10-11",
+      "Gültig bis": "2024-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-11"
+    },
+    {
+      "Gültig ab": "2023-10-11",
+      "Gültig bis": "2024-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-10-11"
+    },
+    {
+      "Gültig ab": "2023-08-24",
+      "Gültig bis": "2024-08-29",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-24"
+    },
+    {
+      "Gültig ab": "2023-08-24",
+      "Gültig bis": "2024-08-29",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-24"
+    },
+    {
+      "Gültig ab": "2023-08-12",
+      "Gültig bis": "2023-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-12"
+    },
+    {
+      "Gültig ab": "2023-08-12",
+      "Gültig bis": "2023-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-12"
+    },
+    {
+      "Gültig ab": "2023-08-11",
+      "Gültig bis": "2023-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-11"
+    },
+    {
+      "Gültig ab": "2023-08-11",
+      "Gültig bis": "2023-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-08-11"
+    },
+    {
+      "Gültig ab": "2023-06-11",
+      "Gültig bis": "2023-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-11"
+    },
+    {
+      "Gültig ab": "2023-06-11",
+      "Gültig bis": "2023-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-11"
+    },
+    {
+      "Gültig ab": "2023-06-11",
+      "Gültig bis": "2023-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-11"
+    },
+    {
+      "Gültig ab": "2023-06-11",
+      "Gültig bis": "2023-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-06-11"
+    },
+    {
+      "Gültig ab": "2023-04-11",
+      "Gültig bis": "2023-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-12"
+    },
+    {
+      "Gültig ab": "2023-04-11",
+      "Gültig bis": "2023-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-12"
+    },
+    {
+      "Gültig ab": "2023-04-11",
+      "Gültig bis": "2023-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-12"
+    },
+    {
+      "Gültig ab": "2023-04-11",
+      "Gültig bis": "2023-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-04-12"
+    },
+    {
+      "Gültig ab": "2023-02-10",
+      "Gültig bis": "2023-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-10"
+    },
+    {
+      "Gültig ab": "2023-02-10",
+      "Gültig bis": "2023-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-10"
+    },
+    {
+      "Gültig ab": "2023-02-09",
+      "Gültig bis": "2023-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "Gültig ab": "2023-02-09",
+      "Gültig bis": "2023-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "Gültig ab": "2022-12-10",
+      "Gültig bis": "2023-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-11"
+    },
+    {
+      "Gültig ab": "2022-12-10",
+      "Gültig bis": "2023-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-11"
+    },
+    {
+      "Gültig ab": "2022-12-10",
+      "Gültig bis": "2023-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-11"
+    },
+    {
+      "Gültig ab": "2022-12-10",
+      "Gültig bis": "2023-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-12-11"
+    },
+    {
+      "Gültig ab": "2022-10-11",
+      "Gültig bis": "2023-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-11"
+    },
+    {
+      "Gültig ab": "2022-10-11",
+      "Gültig bis": "2023-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-11"
+    },
+    {
+      "Gültig ab": "2022-10-10",
+      "Gültig bis": "2023-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-10"
+    },
+    {
+      "Gültig ab": "2022-10-10",
+      "Gültig bis": "2023-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-10-10"
+    },
+    {
+      "Gültig ab": "2022-08-25",
+      "Gültig bis": "2023-08-30",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-25"
+    },
+    {
+      "Gültig ab": "2022-08-25",
+      "Gültig bis": "2023-08-30",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-25"
+    },
+    {
+      "Gültig ab": "2022-08-10",
+      "Gültig bis": "2022-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-10"
+    },
+    {
+      "Gültig ab": "2022-08-10",
+      "Gültig bis": "2022-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-10"
+    },
+    {
+      "Gültig ab": "2022-08-09",
+      "Gültig bis": "2022-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-09"
+    },
+    {
+      "Gültig ab": "2022-08-09",
+      "Gültig bis": "2022-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-08-09"
+    },
+    {
+      "Gültig ab": "2022-06-10",
+      "Gültig bis": "2022-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-10"
+    },
+    {
+      "Gültig ab": "2022-06-10",
+      "Gültig bis": "2022-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-10"
+    },
+    {
+      "Gültig ab": "2022-06-10",
+      "Gültig bis": "2022-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-10"
+    },
+    {
+      "Gültig ab": "2022-06-10",
+      "Gültig bis": "2022-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-06-10"
+    },
+    {
+      "Gültig ab": "2022-04-10",
+      "Gültig bis": "2022-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-04-10"
+    },
+    {
+      "Gültig ab": "2022-04-10",
+      "Gültig bis": "2022-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-04-10"
+    },
+    {
+      "Gültig ab": "2022-04-10",
+      "Gültig bis": "2022-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-04-10"
+    },
+    {
+      "Gültig ab": "2022-04-10",
+      "Gültig bis": "2022-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-04-10"
+    },
+    {
+      "Gültig ab": "2022-02-09",
+      "Gültig bis": "2022-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-02-09"
+    },
+    {
+      "Gültig ab": "2022-02-09",
+      "Gültig bis": "2022-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-02-09"
+    },
+    {
+      "Gültig ab": "2022-02-08",
+      "Gültig bis": "2022-05-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-02-08"
+    },
+    {
+      "Gültig ab": "2022-02-08",
+      "Gültig bis": "2022-05-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2022-02-08"
+    },
+    {
+      "Gültig ab": "2021-12-08",
+      "Gültig bis": "2022-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-08"
+    },
+    {
+      "Gültig ab": "2021-12-08",
+      "Gültig bis": "2022-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-08"
+    },
+    {
+      "Gültig ab": "2021-12-07",
+      "Gültig bis": "2022-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-07"
+    },
+    {
+      "Gültig ab": "2021-12-07",
+      "Gültig bis": "2022-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-12-07"
+    },
+    {
+      "Gültig ab": "2021-10-08",
+      "Gültig bis": "2022-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-10-08"
+    },
+    {
+      "Gültig ab": "2021-10-08",
+      "Gültig bis": "2022-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-10-08"
+    },
+    {
+      "Gültig ab": "2021-10-05",
+      "Gültig bis": "2022-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-10-05"
+    },
+    {
+      "Gültig ab": "2021-10-05",
+      "Gültig bis": "2022-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-10-05"
+    },
+    {
+      "Gültig ab": "2021-08-30",
+      "Gültig bis": "2022-08-30",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-08-30"
+    },
+    {
+      "Gültig ab": "2021-08-30",
+      "Gültig bis": "2022-08-30",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-08-30"
+    },
+    {
+      "Gültig ab": "2021-08-03",
+      "Gültig bis": "2021-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-08-03"
+    },
+    {
+      "Gültig ab": "2021-08-03",
+      "Gültig bis": "2021-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-08-03"
+    },
+    {
+      "Gültig ab": "2021-08-02",
+      "Gültig bis": "2021-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "Gültig ab": "2021-08-02",
+      "Gültig bis": "2021-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "Gültig ab": "2021-06-02",
+      "Gültig bis": "2021-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-02"
+    },
+    {
+      "Gültig ab": "2021-06-02",
+      "Gültig bis": "2021-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-02"
+    },
+    {
+      "Gültig ab": "2021-06-02",
+      "Gültig bis": "2021-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-02"
+    },
+    {
+      "Gültig ab": "2021-06-02",
+      "Gültig bis": "2021-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-06-02"
+    },
+    {
+      "Gültig ab": "2021-03-18",
+      "Gültig bis": "2021-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-03-18"
+    },
+    {
+      "Gültig ab": "2021-03-18",
+      "Gültig bis": "2021-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-03-18"
+    },
+    {
+      "Gültig ab": "2021-03-14",
+      "Gültig bis": "2021-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-03-14"
+    },
+    {
+      "Gültig ab": "2021-03-14",
+      "Gültig bis": "2021-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-03-14"
+    },
+    {
+      "Gültig ab": "2021-01-15",
+      "Gültig bis": "2021-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-15"
+    },
+    {
+      "Gültig ab": "2021-01-15",
+      "Gültig bis": "2021-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-15"
+    },
+    {
+      "Gültig ab": "2021-01-12",
+      "Gültig bis": "2021-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-12"
+    },
+    {
+      "Gültig ab": "2021-01-12",
+      "Gültig bis": "2021-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2021-01-12"
+    },
+    {
+      "Gültig ab": "2020-11-12",
+      "Gültig bis": "2021-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-11-12"
+    },
+    {
+      "Gültig ab": "2020-11-12",
+      "Gültig bis": "2021-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-11-12"
+    },
+    {
+      "Gültig ab": "2020-11-12",
+      "Gültig bis": "2021-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-11-12"
+    },
+    {
+      "Gültig ab": "2020-11-12",
+      "Gültig bis": "2021-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-11-12"
+    },
+    {
+      "Gültig ab": "2020-09-13",
+      "Gültig bis": "2020-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-13"
+    },
+    {
+      "Gültig ab": "2020-09-13",
+      "Gültig bis": "2020-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-13"
+    },
+    {
+      "Gültig ab": "2020-09-12",
+      "Gültig bis": "2020-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-12"
+    },
+    {
+      "Gültig ab": "2020-09-12",
+      "Gültig bis": "2020-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-12"
+    },
+    {
+      "Gültig ab": "2020-09-03",
+      "Gültig bis": "2021-10-05",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-03"
+    },
+    {
+      "Gültig ab": "2020-09-03",
+      "Gültig bis": "2021-10-05",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-09-03"
+    },
+    {
+      "Gültig ab": "2020-07-05",
+      "Gültig bis": "2020-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-07-05"
+    },
+    {
+      "Gültig ab": "2020-07-05",
+      "Gültig bis": "2020-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-07-05"
+    },
+    {
+      "Gültig ab": "2020-07-02",
+      "Gültig bis": "2020-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-07-02"
+    },
+    {
+      "Gültig ab": "2020-07-02",
+      "Gültig bis": "2020-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-07-02"
+    },
+    {
+      "Gültig ab": "2020-05-03",
+      "Gültig bis": "2020-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-03"
+    },
+    {
+      "Gültig ab": "2020-05-03",
+      "Gültig bis": "2020-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-03"
+    },
+    {
+      "Gültig ab": "2020-05-02",
+      "Gültig bis": "2020-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-02"
+    },
+    {
+      "Gültig ab": "2020-05-02",
+      "Gültig bis": "2020-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-05-02"
+    },
+    {
+      "Gültig ab": "2020-03-01",
+      "Gültig bis": "2020-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-03-01"
+    },
+    {
+      "Gültig ab": "2020-03-01",
+      "Gültig bis": "2020-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-03-01"
+    },
+    {
+      "Gültig ab": "2020-02-29",
+      "Gültig bis": "2020-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-29"
+    },
+    {
+      "Gültig ab": "2020-02-29",
+      "Gültig bis": "2020-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2020-02-29"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-12-31",
+      "Gültig bis": "2020-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-31"
+    },
+    {
+      "Gültig ab": "2019-12-29",
+      "Gültig bis": "2020-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-29"
+    },
+    {
+      "Gültig ab": "2019-12-29",
+      "Gültig bis": "2020-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-12-29"
+    },
+    {
+      "Gültig ab": "2019-10-30",
+      "Gültig bis": "2020-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-30"
+    },
+    {
+      "Gültig ab": "2019-10-30",
+      "Gültig bis": "2020-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-30"
+    },
+    {
+      "Gültig ab": "2019-10-29",
+      "Gültig bis": "2020-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-29"
+    },
+    {
+      "Gültig ab": "2019-10-29",
+      "Gültig bis": "2020-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-10-29"
+    },
+    {
+      "Gültig ab": "2019-08-30",
+      "Gültig bis": "2019-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-08-30"
+    },
+    {
+      "Gültig ab": "2019-08-30",
+      "Gültig bis": "2019-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-08-30"
+    },
+    {
+      "Gültig ab": "2019-08-28",
+      "Gültig bis": "2019-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-08-28"
+    },
+    {
+      "Gültig ab": "2019-08-28",
+      "Gültig bis": "2019-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-08-28"
+    },
+    {
+      "Gültig ab": "2019-06-30",
+      "Gültig bis": "2019-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-06-30"
+    },
+    {
+      "Gültig ab": "2019-06-30",
+      "Gültig bis": "2019-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-06-30"
+    },
+    {
+      "Gültig ab": "2019-06-26",
+      "Gültig bis": "2019-09-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-06-26"
+    },
+    {
+      "Gültig ab": "2019-06-26",
+      "Gültig bis": "2019-09-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-06-26"
+    },
+    {
+      "Gültig ab": "2019-04-26",
+      "Gültig bis": "2019-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-04-26"
+    },
+    {
+      "Gültig ab": "2019-04-26",
+      "Gültig bis": "2019-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-04-26"
+    },
+    {
+      "Gültig ab": "2019-04-26",
+      "Gültig bis": "2019-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-04-26"
+    },
+    {
+      "Gültig ab": "2019-04-26",
+      "Gültig bis": "2019-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-04-26"
+    },
+    {
+      "Gültig ab": "2019-02-20",
+      "Gültig bis": "2019-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-20"
+    },
+    {
+      "Gültig ab": "2019-02-20",
+      "Gültig bis": "2019-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-20"
+    },
+    {
+      "Gültig ab": "2019-02-20",
+      "Gültig bis": "2019-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-20"
+    },
+    {
+      "Gültig ab": "2019-02-20",
+      "Gültig bis": "2019-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-02-20"
+    },
+    {
+      "Gültig ab": "2019-01-01",
+      "Gültig bis": "2019-04-01",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-01"
+    },
+    {
+      "Gültig ab": "2019-01-01",
+      "Gültig bis": "2019-04-01",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2019-01-01"
+    },
+    {
+      "Gültig ab": "2018-12-16",
+      "Gültig bis": "2019-03-16",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.schiessag.ch, schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "Gültig ab": "2018-12-16",
+      "Gültig bis": "2019-03-16",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.schiessag.ch, schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "Gültig ab": "2018-10-17",
+      "Gültig bis": "2019-01-15",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-17"
+    },
+    {
+      "Gültig ab": "2018-10-17",
+      "Gültig bis": "2019-01-15",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-17"
+    },
+    {
+      "Gültig ab": "2018-10-01",
+      "Gültig bis": "2018-12-30",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.schiessag.ch, schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-01"
+    },
+    {
+      "Gültig ab": "2018-10-01",
+      "Gültig bis": "2018-12-30",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.schiessag.ch, schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-10-01"
+    },
+    {
+      "Gültig ab": "2018-09-05",
+      "Gültig bis": "2020-09-04",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-05"
+    },
+    {
+      "Gültig ab": "2018-09-05",
+      "Gültig bis": "2020-09-04",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-05"
+    },
+    {
+      "Gültig ab": "2018-09-04",
+      "Gültig bis": "2018-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "Gültig ab": "2018-09-04",
+      "Gültig bis": "2018-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-09-04"
+    },
+    {
+      "Gültig ab": "2018-08-02",
+      "Gültig bis": "2018-10-31",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-08-02"
+    },
+    {
+      "Gültig ab": "2018-08-02",
+      "Gültig bis": "2018-10-31",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-08-02"
+    },
+    {
+      "Gültig ab": "2018-07-06",
+      "Gültig bis": "2018-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-07-06"
+    },
+    {
+      "Gültig ab": "2018-07-06",
+      "Gültig bis": "2018-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-07-06"
+    },
+    {
+      "Gültig ab": "2018-05-08",
+      "Gültig bis": "2018-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-05-08"
+    },
+    {
+      "Gültig ab": "2018-05-08",
+      "Gültig bis": "2018-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-05-08"
+    },
+    {
+      "Gültig ab": "2018-05-08",
+      "Gültig bis": "2018-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-05-08"
+    },
+    {
+      "Gültig ab": "2018-05-08",
+      "Gültig bis": "2018-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-05-08"
+    },
+    {
+      "Gültig ab": "2018-05-08",
+      "Gültig bis": "2018-08-06",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-05-08"
+    },
+    {
+      "Gültig ab": "2018-05-08",
+      "Gültig bis": "2018-08-06",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "vorschau.schiessag.ch, www.vorschau.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-05-08"
+    },
+    {
+      "Gültig ab": "2018-05-07",
+      "Gültig bis": "2018-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-05-07"
+    },
+    {
+      "Gültig ab": "2018-05-07",
+      "Gültig bis": "2018-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "schiessag.ch, www.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-05-07"
+    },
+    {
+      "Gültig ab": "2018-04-26",
+      "Gültig bis": "2018-07-25",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.schiessag.ch, schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-04-26"
+    },
+    {
+      "Gültig ab": "2018-04-26",
+      "Gültig bis": "2018-07-25",
+      "Ausgestellt von": "C=US, ST=TX, L=Houston, O=\"cPanel, Inc.\", CN=\"cPanel, Inc. Certification Authority\"",
+      "Domain/Subdomain": "mail.schiessag.ch, schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-04-26"
+    },
+    {
+      "Gültig ab": "2015-06-16",
+      "Gültig bis": "2018-09-13",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "remote.schiessag.ch, www.remote.schiessag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-01-15"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.schiessag.ch/wp-json/wp/v2/pages/4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-26"
+    },
+    {
+      "URL": "http://www.schiessag.ch/line.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-10-26"
+    },
+    {
+      "URL": "https://www.schiessag.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-30"
+    },
+    {
+      "URL": "https://www.schiessag.ch/reinigung/fuer-privathaushalte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-30"
+    },
+    {
+      "URL": "https://www.schiessag.ch/reinigung/fuer-unternehmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-30"
+    },
+    {
+      "URL": "https://www.schiessag.ch/anfrage/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.schiessag.ch/datenschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.schiessag.ch/fairness/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.schiessag.ch/ueber-uns/jobs/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.schiessag.ch/ueber-uns/lehrstellen-gebauedereinigerin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.schiessag.ch/ueber-uns/unternehmen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-content/themes/theme-schiess/build/css/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-content/themes/theme-schiess/build/fonts/443ceb9a-576f-4f01-8072-1b5e16848faa.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-content/themes/theme-schiess/build/fonts/514fad5e-2c05-4493-94a2-bd308ad36e53.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-content/themes/theme-schiess/build/fonts/677f0ee2-30de-45fc-aead-44ce6f995069.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-content/themes/theme-schiess/build/fonts/8d90dadd-915f-4838-b610-4fb8cad8a324.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-content/themes/theme-schiess/build/fonts/8df29452-77ca-4e75-9e4b-d1783379751b.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-content/themes/theme-schiess/build/fonts/90807bcf-e7e3-43ac-9ebb-a96364087325.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-02"
+    },
+    {
+      "URL": "https://www.schiessag.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://www.schiessag.ch/putz-abc/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://www.schiessag.ch/ueber-uns/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://www.schiessag.ch/ueber-uns/geschichte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://www.schiessag.ch/ueber-uns/team/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-content/uploads/2022/04/2025-01-schiess-personalverantwortliche-job-1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "URL": "https://www.schiessag.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-10-10"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-content/themes/theme-schiess/favicons/site.webmanifest",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-27"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-09-26"
+    },
+    {
+      "URL": "https://www.schiessag.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "URL": "https://www.schiessag.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "URL": "https://www.schiessag.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-json/wp/v2/pages/1346",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-json/wp/v2/pages/14",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-json/wp/v2/pages/16",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-json/wp/v2/pages/18",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-json/wp/v2/pages/22",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "URL": "https://www.schiessag.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "URL": "https://www.schiessag.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "URL": "https://www.schiessag.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "URL": "https://www.schiessag.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "URL": "https://www.schiessag.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "URL": "https://www.schiessag.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "URL": "https://www.schiessag.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "URL": "https://www.schiessag.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-content/uploads/2019/06/arbeitsbedingungen_reinigungsbranche.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "URL": "https://schiessag.ch/wp-admin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-22"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-login.php?redirect_to=https%3A%2F%2Fschiessag.ch%2Fwp-admin%2F&reauth=1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-22"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-content/uploads/2018/04/schiess-job-spezialreiniger.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-21"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-includes/fonts/dashicons.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-19"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-admin/load-styles.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-18"
+    },
+    {
+      "URL": "https://www.schiessag.ch/wp-includes/fonts/dashicons.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2023-05-18"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/wirueberuns.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/home.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2018-01-13"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/flecken_abc.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-07-08"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/bueroreinigung.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-06-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/flexibilitaet.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-06-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/hygiene.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-06-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/mieter.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-06-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/naturglanz.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-06-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/ortsplan.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-06-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/unterhaltsreinigung.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2017-06-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch/treuhand/default.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.schiessag.ch/intro_reinigung.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-10-26"
+    },
+    {
+      "URL": "http://www.schiessag.ch/intro_treuhand.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2015-10-26"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/flecken.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2008-04-06"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/treuhand/checklist.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-10-03"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/start.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-04-19"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/treuhand/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-02-09"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/treuhand/border.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-02-09"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/treuhand/dienstleistungen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-02-09"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/wohnungen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2005-01-11"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/buros.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-11"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/fassaden.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-11"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/laden.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-11"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/natursteinboden.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-11"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/neubauten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-11"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/ortsplan.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-11"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/spitaler.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-11"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/home.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-09"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/treuhand/kontakt.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-06"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/treuhand/steuern.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-06"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/reinigung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-04"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/treuhand.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2004-12-04"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/kontakt.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2002-12-10"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/news.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2001-12-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/treuhand/info.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2001-04-14"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/50jahre.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2001-03-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/boden.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2001-03-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/default.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2001-03-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/neubau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2001-03-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/referenz.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2001-03-05"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/treuhand/info.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2001-03-03"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/buero.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2001-01-25"
+    },
+    {
+      "URL": "http://www.schiessag.ch:80/info.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2001-01-09"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "desiree.schiess@schiessag.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-30"
+    },
+    {
+      "E-Mail": "info@schiessag.ch",
+      "Passwort geleakt (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-30"
+    },
+    {
+      "E-Mail": "isabela.vitali@schiessag.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "E-Mail": "jakob.schiess@schiessag.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "E-Mail": "stephan.schiess@schiessag.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-30"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522335623",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-30"
+    },
+    {
+      "Telefonnummern": "+41522335818",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "In öffentlicher Datenbank erfasst am": "2025-04-30"
+    }
+  ],
+  "service": [
+    {
+      "Port": 443,
+      "Dienst": "Microsoft IIS httpd",
+      "Version": "10.0",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "212.25.11.104",
+      "Domain/Subdomain": "www.remote.schiessag.ch, 104.11.25.212.ftth.as8758.net, remote.schiessag.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:microsoft:internet_information_services, cpe:/a:microsoft:internet_information_services:10.0, cpe:/o:microsoft:windows",
+      "Im Digitalen Zwilling gescannt am": "2025-05-15",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

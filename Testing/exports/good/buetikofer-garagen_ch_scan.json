@@ -1,0 +1,4583 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "18.194.210.159",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "IPv4-Adresse": "18.194.31.48",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "mx1.mtaroutes.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx2.mtaroutes.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Präferenz": "20",
+      "Mailserver (MX)": "mx3.mtaroutes.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Präferenz": "30",
+      "Mailserver (MX)": "mx4.mtaroutes.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Name Server": "ns2.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms72270132\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"brevo-code:e6f6b2bdbe885733b6da9414a6928521\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"google-site-verification=AERcVq_wEG2If8Fn5Q6toZJjmAlaFFppkJcVQ45Tjr0\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"google-site-verification=Czxu3CQDO7qJwnweb4D-7w6ZfYp8glToCIlwsCDKLGU\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"google-site-verification=oavAkWF4Spgz-GkZIYYTF493IXP7zjH8OwEd6aTihSI\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"v=spf1 +a +mx +ip4:194.126.200.0/24 +ip4:149.126.0.0/21 include:spf.mtaroutes.com include:spf.mandrillapp.com include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "1209600",
+      "Serial": "2024021401",
+      "Refresh": "14400",
+      "Hostmaster": "server.cyon.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "18.194.210.159",
+      "PTR-Domain": "ec2-18-194-210-159.eu-central-1.compute.amazonaws.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "IP-Adresse": "18.194.31.48",
+      "PTR-Domain": "ec2-18-194-31-48.eu-central-1.compute.amazonaws.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "buetikofer-garagen.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "media.buetikofer-garagen.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-16",
+      "Gültig bis": "2025-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-16"
+    },
+    {
+      "Gültig ab": "2025-04-16",
+      "Gültig bis": "2025-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-16"
+    },
+    {
+      "Gültig ab": "2025-04-16",
+      "Gültig bis": "2025-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-16"
+    },
+    {
+      "Gültig ab": "2025-04-16",
+      "Gültig bis": "2025-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-16"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-08"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-08"
+    },
+    {
+      "Gültig ab": "2025-02-25",
+      "Gültig bis": "2025-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-25"
+    },
+    {
+      "Gültig ab": "2025-02-25",
+      "Gültig bis": "2025-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-25"
+    },
+    {
+      "Gültig ab": "2025-02-25",
+      "Gültig bis": "2025-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-25"
+    },
+    {
+      "Gültig ab": "2025-02-25",
+      "Gültig bis": "2025-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-25"
+    },
+    {
+      "Gültig ab": "2025-02-16",
+      "Gültig bis": "2025-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "Gültig ab": "2025-02-16",
+      "Gültig bis": "2025-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "Gültig ab": "2025-01-06",
+      "Gültig bis": "2025-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-06"
+    },
+    {
+      "Gültig ab": "2025-01-06",
+      "Gültig bis": "2025-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-06"
+    },
+    {
+      "Gültig ab": "2025-01-06",
+      "Gültig bis": "2025-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-06"
+    },
+    {
+      "Gültig ab": "2025-01-06",
+      "Gültig bis": "2025-04-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-06"
+    },
+    {
+      "Gültig ab": "2024-12-29",
+      "Gültig bis": "2025-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-29"
+    },
+    {
+      "Gültig ab": "2024-12-29",
+      "Gültig bis": "2025-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-29"
+    },
+    {
+      "Gültig ab": "2024-11-17",
+      "Gültig bis": "2025-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "Gültig ab": "2024-11-17",
+      "Gültig bis": "2025-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "Gültig ab": "2024-11-17",
+      "Gültig bis": "2025-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "Gültig ab": "2024-11-17",
+      "Gültig bis": "2025-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "Gültig ab": "2024-11-09",
+      "Gültig bis": "2025-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-09"
+    },
+    {
+      "Gültig ab": "2024-11-09",
+      "Gültig bis": "2025-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-09"
+    },
+    {
+      "Gültig ab": "2024-09-28",
+      "Gültig bis": "2024-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-28"
+    },
+    {
+      "Gültig ab": "2024-09-28",
+      "Gültig bis": "2024-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-28"
+    },
+    {
+      "Gültig ab": "2024-09-28",
+      "Gültig bis": "2024-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-28"
+    },
+    {
+      "Gültig ab": "2024-09-28",
+      "Gültig bis": "2024-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-28"
+    },
+    {
+      "Gültig ab": "2024-09-20",
+      "Gültig bis": "2024-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "Gültig ab": "2024-09-20",
+      "Gültig bis": "2024-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "Gültig ab": "2024-08-09",
+      "Gültig bis": "2024-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-09"
+    },
+    {
+      "Gültig ab": "2024-08-09",
+      "Gültig bis": "2024-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-09"
+    },
+    {
+      "Gültig ab": "2024-08-09",
+      "Gültig bis": "2024-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-09"
+    },
+    {
+      "Gültig ab": "2024-08-09",
+      "Gültig bis": "2024-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-09"
+    },
+    {
+      "Gültig ab": "2024-08-01",
+      "Gültig bis": "2024-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-01"
+    },
+    {
+      "Gültig ab": "2024-08-01",
+      "Gültig bis": "2024-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-01"
+    },
+    {
+      "Gültig ab": "2024-06-20",
+      "Gültig bis": "2024-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "Gültig ab": "2024-06-20",
+      "Gültig bis": "2024-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "Gültig ab": "2024-06-20",
+      "Gültig bis": "2024-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "Gültig ab": "2024-06-20",
+      "Gültig bis": "2024-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "Gültig ab": "2024-06-12",
+      "Gültig bis": "2024-09-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "Gültig ab": "2024-06-12",
+      "Gültig bis": "2024-09-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2024-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2024-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2024-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-05-01",
+      "Gültig bis": "2024-07-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-01"
+    },
+    {
+      "Gültig ab": "2024-04-23",
+      "Gültig bis": "2024-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-23"
+    },
+    {
+      "Gültig ab": "2024-04-23",
+      "Gültig bis": "2024-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-23"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-12",
+      "Gültig bis": "2024-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-12"
+    },
+    {
+      "Gültig ab": "2024-03-04",
+      "Gültig bis": "2024-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-04"
+    },
+    {
+      "Gültig ab": "2024-03-04",
+      "Gültig bis": "2024-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-04"
+    },
+    {
+      "Gültig ab": "2024-01-22",
+      "Gültig bis": "2024-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-22"
+    },
+    {
+      "Gültig ab": "2024-01-22",
+      "Gültig bis": "2024-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-22"
+    },
+    {
+      "Gültig ab": "2024-01-22",
+      "Gültig bis": "2024-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-22"
+    },
+    {
+      "Gültig ab": "2024-01-22",
+      "Gültig bis": "2024-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-22"
+    },
+    {
+      "Gültig ab": "2024-01-14",
+      "Gültig bis": "2024-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-14"
+    },
+    {
+      "Gültig ab": "2024-01-14",
+      "Gültig bis": "2024-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-14"
+    },
+    {
+      "Gültig ab": "2023-12-03",
+      "Gültig bis": "2024-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "Gültig ab": "2023-12-03",
+      "Gültig bis": "2024-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "Gültig ab": "2023-12-03",
+      "Gültig bis": "2024-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "Gültig ab": "2023-12-03",
+      "Gültig bis": "2024-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "Gültig ab": "2023-11-25",
+      "Gültig bis": "2024-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-11-25"
+    },
+    {
+      "Gültig ab": "2023-11-25",
+      "Gültig bis": "2024-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-11-25"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "Gültig ab": "2023-10-14",
+      "Gültig bis": "2024-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-14"
+    },
+    {
+      "Gültig ab": "2023-10-06",
+      "Gültig bis": "2024-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-06"
+    },
+    {
+      "Gültig ab": "2023-10-06",
+      "Gültig bis": "2024-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-06"
+    },
+    {
+      "Gültig ab": "2023-08-25",
+      "Gültig bis": "2023-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-25"
+    },
+    {
+      "Gültig ab": "2023-08-25",
+      "Gültig bis": "2023-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-25"
+    },
+    {
+      "Gültig ab": "2023-08-25",
+      "Gültig bis": "2023-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-25"
+    },
+    {
+      "Gültig ab": "2023-08-25",
+      "Gültig bis": "2023-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-25"
+    },
+    {
+      "Gültig ab": "2023-08-17",
+      "Gültig bis": "2023-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-17"
+    },
+    {
+      "Gültig ab": "2023-08-17",
+      "Gültig bis": "2023-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-17"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-07-06"
+    },
+    {
+      "Gültig ab": "2023-06-28",
+      "Gültig bis": "2023-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-28"
+    },
+    {
+      "Gültig ab": "2023-06-28",
+      "Gültig bis": "2023-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-28"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-17",
+      "Gültig bis": "2023-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-17"
+    },
+    {
+      "Gültig ab": "2023-05-09",
+      "Gültig bis": "2023-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-09"
+    },
+    {
+      "Gültig ab": "2023-05-09",
+      "Gültig bis": "2023-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-09"
+    },
+    {
+      "Gültig ab": "2023-03-28",
+      "Gültig bis": "2023-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "Gültig ab": "2023-03-28",
+      "Gültig bis": "2023-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "Gültig ab": "2023-03-28",
+      "Gültig bis": "2023-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "Gültig ab": "2023-03-28",
+      "Gültig bis": "2023-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-28"
+    },
+    {
+      "Gültig ab": "2023-03-13",
+      "Gültig bis": "2023-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-13"
+    },
+    {
+      "Gültig ab": "2023-03-13",
+      "Gültig bis": "2023-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-13"
+    },
+    {
+      "Gültig ab": "2023-02-06",
+      "Gültig bis": "2023-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "Gültig ab": "2023-02-06",
+      "Gültig bis": "2023-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "Gültig ab": "2023-02-06",
+      "Gültig bis": "2023-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "Gültig ab": "2023-02-06",
+      "Gültig bis": "2023-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-06"
+    },
+    {
+      "Gültig ab": "2023-01-22",
+      "Gültig bis": "2023-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-01-22"
+    },
+    {
+      "Gültig ab": "2023-01-22",
+      "Gültig bis": "2023-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-01-22"
+    },
+    {
+      "Gültig ab": "2022-12-18",
+      "Gültig bis": "2023-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-18"
+    },
+    {
+      "Gültig ab": "2022-12-18",
+      "Gültig bis": "2023-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-18"
+    },
+    {
+      "Gültig ab": "2022-12-18",
+      "Gültig bis": "2023-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-18"
+    },
+    {
+      "Gültig ab": "2022-12-18",
+      "Gültig bis": "2023-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-18"
+    },
+    {
+      "Gültig ab": "2022-12-03",
+      "Gültig bis": "2023-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-03"
+    },
+    {
+      "Gültig ab": "2022-12-03",
+      "Gültig bis": "2023-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-03"
+    },
+    {
+      "Gültig ab": "2022-10-29",
+      "Gültig bis": "2023-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-29"
+    },
+    {
+      "Gültig ab": "2022-10-29",
+      "Gültig bis": "2023-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-29"
+    },
+    {
+      "Gültig ab": "2022-10-29",
+      "Gültig bis": "2023-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-29"
+    },
+    {
+      "Gültig ab": "2022-10-29",
+      "Gültig bis": "2023-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-29"
+    },
+    {
+      "Gültig ab": "2022-10-14",
+      "Gültig bis": "2023-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-14"
+    },
+    {
+      "Gültig ab": "2022-10-14",
+      "Gültig bis": "2023-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-14"
+    },
+    {
+      "Gültig ab": "2022-09-09",
+      "Gültig bis": "2022-12-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-09"
+    },
+    {
+      "Gültig ab": "2022-09-09",
+      "Gültig bis": "2022-12-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-09"
+    },
+    {
+      "Gültig ab": "2022-09-09",
+      "Gültig bis": "2022-12-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-09"
+    },
+    {
+      "Gültig ab": "2022-09-09",
+      "Gültig bis": "2022-12-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-09"
+    },
+    {
+      "Gültig ab": "2022-08-25",
+      "Gültig bis": "2022-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-25"
+    },
+    {
+      "Gültig ab": "2022-08-25",
+      "Gültig bis": "2022-11-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "media.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-25"
+    },
+    {
+      "Gültig ab": "2022-07-21",
+      "Gültig bis": "2022-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-21"
+    },
+    {
+      "Gültig ab": "2022-07-21",
+      "Gültig bis": "2022-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-21"
+    },
+    {
+      "Gültig ab": "2022-07-21",
+      "Gültig bis": "2022-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-21"
+    },
+    {
+      "Gültig ab": "2022-07-21",
+      "Gültig bis": "2022-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-21"
+    },
+    {
+      "Gültig ab": "2022-06-01",
+      "Gültig bis": "2022-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-01"
+    },
+    {
+      "Gültig ab": "2022-06-01",
+      "Gültig bis": "2022-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-01"
+    },
+    {
+      "Gültig ab": "2022-06-01",
+      "Gültig bis": "2022-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-01"
+    },
+    {
+      "Gültig ab": "2022-06-01",
+      "Gültig bis": "2022-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-01"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-13"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-13"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-13"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-13"
+    },
+    {
+      "Gültig ab": "2022-02-22",
+      "Gültig bis": "2022-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-22"
+    },
+    {
+      "Gültig ab": "2022-02-22",
+      "Gültig bis": "2022-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-22"
+    },
+    {
+      "Gültig ab": "2022-02-22",
+      "Gültig bis": "2022-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-22"
+    },
+    {
+      "Gültig ab": "2022-02-22",
+      "Gültig bis": "2022-05-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-22"
+    },
+    {
+      "Gültig ab": "2022-01-03",
+      "Gültig bis": "2022-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-03"
+    },
+    {
+      "Gültig ab": "2022-01-03",
+      "Gültig bis": "2022-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-03"
+    },
+    {
+      "Gültig ab": "2022-01-03",
+      "Gültig bis": "2022-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-03"
+    },
+    {
+      "Gültig ab": "2022-01-03",
+      "Gültig bis": "2022-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-03"
+    },
+    {
+      "Gültig ab": "2021-11-14",
+      "Gültig bis": "2022-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-11-14"
+    },
+    {
+      "Gültig ab": "2021-11-14",
+      "Gültig bis": "2022-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-11-14"
+    },
+    {
+      "Gültig ab": "2021-11-14",
+      "Gültig bis": "2022-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-11-14"
+    },
+    {
+      "Gültig ab": "2021-11-14",
+      "Gültig bis": "2022-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-11-14"
+    },
+    {
+      "Gültig ab": "2021-09-25",
+      "Gültig bis": "2021-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-25"
+    },
+    {
+      "Gültig ab": "2021-09-25",
+      "Gültig bis": "2021-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-25"
+    },
+    {
+      "Gültig ab": "2021-09-25",
+      "Gültig bis": "2021-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-25"
+    },
+    {
+      "Gültig ab": "2021-09-25",
+      "Gültig bis": "2021-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-25"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-05"
+    },
+    {
+      "Gültig ab": "2021-06-16",
+      "Gültig bis": "2021-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "Gültig ab": "2021-06-16",
+      "Gültig bis": "2021-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "Gültig ab": "2021-06-16",
+      "Gültig bis": "2021-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "Gültig ab": "2021-06-16",
+      "Gültig bis": "2021-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-16"
+    },
+    {
+      "Gültig ab": "2021-05-28",
+      "Gültig bis": "2021-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch, www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-05-28"
+    },
+    {
+      "Gültig ab": "2021-05-28",
+      "Gültig bis": "2021-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "buetikofer-garagen.ch, www.buetikofer-garagen.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-05-28"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/firmenfahrzeuge/fahrzeugaenhanger-humbaur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/lagerfahrzeuge-auto/?&make=27&model=171",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/lagerfahrzeuge-moto/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/ducati-vespa-service/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/elektroauto-heimladestation/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/fahrzeugservice/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/harley-umbauten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/klimaanlage-wartung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/mfk-prufung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/motorrad-winterservice-und-winterlager/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/videocheck-mit-service-cam/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/desertx-discovery/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/desmo-450mx/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/cupra-born/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-bronco/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-capri/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-explorer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-focus-turnier/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-puma/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-tourneo-courier/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-transit/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-6-sedan/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-6-sport-wagon/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-cx-80/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-mx-30/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/seat-leon-sportstourer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/event-registrierung/?event_id=3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/across-the-alps-tour/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ausfahrt-amici-ducatisti-mit-doc-heilbronn/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ducati-warmup-trackday/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/events-butikofer-harley-davidson-betriebe/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ford-explorer-prasentationen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/hop-and-ride-ducati-testevent-bei-moto77/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/moto77-trackday-mirecourt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/rennstrecken-event-anneau-du-rhin-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/tcs-mobilty-day/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/wdw-world-ducati-week/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-xdiavel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ford/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/mazda/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/scrambler-ducati/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/anmeldung-zum-newsletter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/cupra-leon-sp/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/cupra-terramar/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-kuga/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-tourneo-connect/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-tourneo-custom/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-transit-courier/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-transit-custom/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-2-hybrid/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-3-sedan/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-cx-5/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-cx-60/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/seat-ateca/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/cookie-policy/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/autoshow/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/autospektakel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ducati-trackday-cremona-circuit/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/moto77-end-of-season-party/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/moto77-endurotag-geisingen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/moto77-saison-start-training/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/rennstrecken-event-anneau-du-rhin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/vespa-ausfahrt-ans-tre-nazioni-treffen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/firmenfahrzeuge/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/ford-kampagne/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/lagerfahrzeuge-occasionen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/ducati-umbauten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/e-vignette/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-wattwil/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthur/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/ueber-uns/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/karosserie-lack-auto-moto/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/leasing-finanzierung-auto-moto-ostschweiz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/styling-zubehoer-autos/zubehoer-moto77/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/styling-zubehoer-autos/zubehoer-moto84/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/wartung-reparaturen-auto/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/cupra/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-desert/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-superleggera/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-supersport/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ford/camper/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/seat/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/vespa/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/404/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/cupra-ateca/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/cupra-formentor/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/focus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-explorer-elektro/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-mustang-mach-e/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-ranger-raptor/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-transit-chassis-cab/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-transit-custom-nugget-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-transit-custom-nugget/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-3-hatchback/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-cx-30/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-mx-5-rf/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/seat-arona/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/seat-ibiza/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/seat-leon/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/dev/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/dev/styleguide/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/autoshow-toggenburg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/doc-days-sinsheim/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ducati-on-tour-testride-in-kreuzlingen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ducati-test-and-safety/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/moto77-brno-ennstrecke/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/moto77-fruehlingsausstellung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/moto77-moto-gp-valencia/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/motorradwelt-bodensee/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/mxgp-of-switzerland-frauenfeld/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/season-opening/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/we-love-borgo-panigale/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/firmenfahrzeuge/fahrzeugbeschriftung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/firmenfahrzeuge/fahrzeugeinrichtung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/geschichte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/connect-beratung-auto/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/fruhlingscheck/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/hagelschaden/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/pflege/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/mazda-kampagne/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-desertx-rally/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-destertx/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-hypermotard-698-mono/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-hypermotard/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-multistrada-v4-rs/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-scrambler-nightsthift/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/e-bike-mig-s/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-cvo-sreet-glide/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-fat-boy/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-softail-standard/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-panigale-v2S/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-scrambler-1100-sport-pro/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-fat-bob/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-road-glide-st/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-sportster-s/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/piaggio-beverly-300/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/vespa-elettrica/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/vespa-gts-125/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/vespa-gts-300/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/vespa-gts-super-300/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/vespa-gtv/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ford-ranger/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/rabatt-beim-kauf-einer-35-kw-ducati/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-frauenfeld-west/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-e-mtb/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-multistrada/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-streetfighter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ford/ford-nutzfahrzeuge/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/connect-beratung-moto/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/fruhlings-check/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-streetfighter-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-streetfighter-v2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-road-king-special/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/vespa-gts-125-super/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-gachnang/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/butikofer-mobility-ag/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-diavel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/reifenwechsel-samstag/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/ducati-bekleidung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/jsi18n/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/static/build/Apax-Bold.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/static/build/Apax-Medium.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-panigale-v4-sp2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-20"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-panigale-v4r/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-20"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/maserati-granturismo/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/maserati-grecale/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/maserati-mc20/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ducati-season-opening/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/malaguti-xtm-125/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/maserati/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/fiesta/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/maserati-ghibli/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/maserati-levante/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/maserati-quattroporte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ducati-red-friday/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ducati-streetfighter-lamborghini-prasentation/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automobilfachmann-frau-oder-automobilmechatroniker-in-80-100-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/carrosseriespengler-in-efz-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/lehrstelle-als-detailhandelsfachmann-frau-efz-textil-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/lehrstelle-als-detailhandelsfachmann-frau-efz-textil-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/lehrstelle-als-detailhandelsfachmann-frau-efz-textil/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/leiter-werkstatt-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/motorradmechaniker-in-efz-marke-ducati/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/malaguti-drakon-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/malaguti-monte-pro-125/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/malaguti-xsm-125/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/maserati-grecale/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/maserati-mc20-sportwagen-mit-stil/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/piaggio-electric/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/buetikofer-move-auto-motorrad-mieten/maserati-mieten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automobilfachmann-frau-oder-automobilmechatroniker-in-80-100-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-11-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/cupra-sportmodelle-testen-auf-der-hulftegg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-31"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/handwerkskunst-bei-butikofer-wattwil/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-31"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/marken/vespa/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/.well-known/ai-plugin.json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/.well-known/assetlinks.json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/.well-known/dnt-policy.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/.well-known/gpc.json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/.well-known/nodeinfo/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/.well-known/openid-configuration/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/.well-known/security.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/.well-known/trust.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/ads.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/app-ads.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthur.well-known/ai-plugin.json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthur.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthur.well-known/dnt-policy.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthur.well-known/gpc.json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthur.well-known/nodeinfo/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthur.well-known/openid-configuration/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthur.well-known/security.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthur.well-known/trust.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthurads.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthurapp-ads.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthurrobots.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthursitemap.xml/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/autoherbst-frauenfeld/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-diavel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ducati-diavel-1260-s-black-and-steel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ducati-monster/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/vespa-pic-nic/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/moto84/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/moto84zh/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/buetikofer-move-auto-motorrad-mieten/ford-mustang-mieten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/3/?plugin_id=45091",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/alles-gute-zum-geburtstag-ducati-scrambler/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/admin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/admin/login/?next=/de/admin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/autoshow-wattwil/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automobildiagnostikerin-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/lehrstelle-als-motorradmechaniker-in/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/mitarbeiterin-buchhaltung-80-bis-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/login/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/cupra-servicepaket/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ducati-multistrada-v4-promotion/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ducati-panigale-v2-bayliss/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/justin-bieber-x-vespa/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/mit-neuem-auftritt-richtung-zukunft-rebranding-buetikofer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/scrambler-nighshift/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/seat-leon-bestseller-in-vierter-generation/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/vespa-feiert-den-75-geburtstag/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/vespa-gts-swiss-edition/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/www.buetikofer-garagen.ch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/www.buetikofer-garagen.ch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-06"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/carrosseriespengler-in-efz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/werkstattleiter-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-20"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/enduro-tour-moto77/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-27"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-21"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-s-max/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automilfachmann-frau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automobilmechatroniker-in-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/etl-ga-80-100-12-2022/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/junior-kundendienstberater-in-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/kundendienstberater-in-in-der-zweiradbranche-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/kundendienstberater-in-marke-ford-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/vespa-sei-giorni-300/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/ersatzteillagerist-in-80-100-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-29"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/kundendienstberater-in-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-29"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/kundendienstberater-in-serviceassistenz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-29"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/mitarbeiter-in-marketing-design-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-29"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/werkstattleiter-bam-ow/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-29"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/bis-fr-1-000-herbstrabatte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-29"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/harley-davidson/harley-cvo/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-29"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-galaxy/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automobildiagnostiker-in/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/ersatzteilelagerist-in-der-zweiradbranche/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-scrambler-803/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-scrambler-desert-sled/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-streetfighter-v4-sp/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/scrambler-800-urban-motard/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/maserati-ausstattungslinien-2022/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/buetikofer-care-autoversicherung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/harley-davidson/harley-adventure-touring/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/harley-davidson/harley-cruiser/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/harley-davidson/harley-elektro-motorraeder/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/harley-davidson/harley-touring/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/harley-davidson/harley-trike/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/harley-davidson/sport/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/kino-open-air-uster/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-07"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/harley-x-mas-moto84-open-house/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/prasentation-ducati-streetfighter-v2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/detailhandelsfachmann-frau-als-lagerist-in/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/verkaufer-in-harley-davidson/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/moto84/gtm.start",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-17"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-usterrobots.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/black-friday-black-saturday/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/red-friday-red-saturday/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automobilverkaufsberater-in-marke-ford-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/ersatzteillagerist-in/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/seat-alhambra/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-panigale-superleggera-v4/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-panigale-v4-sp/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-cvo-limited/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-electra-glide-icons/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-livewire/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-pan-americatm/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-softail-fat-bob/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-softail-slim/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/hraley-davidson-street-glide-special/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ducati-und-scrambler-ducati-modelle-2021-moto77/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/hog-east-side-chapter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/buetikofer-move-auto-motorrad-mieten/ford-nugget-mieten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automobilmechatroniker-in/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-21"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/carrosseriespengler-in/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-21"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/junior-verkaufer-in-harley-davidson/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-21"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/reifenpraktiker-raderverantwortlicher-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-21"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-pangale-v4-r/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-21"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/open-house-moto84-ag/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-21"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/versteigerung-electra-glide-revival/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-21"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/bike-day-mit-camille-balanche/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-low-rider-s/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-low-rider-st/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-pan-americatm-1250-special/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-road-glide-limited/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-road-glide-special/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-road-king/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-street-glide-st/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/Livewire-one/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/multistrada-v4s/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/piaggio-beverly-400-s/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/piaggio-liberty-125/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/piaggio-mp3-500/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/powerstage-rr-limited-edition/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/vespa-primavera/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/2/?plugin_id=7262",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/film-ab-butikofer-jetzt-auf-youtube/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ford-0-leasing/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ford-e-transit-der-vollelektrische-transporter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-frauenfeld-ost/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-uster/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/moto77/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/ueber-uns/amici-ducatisti/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/ueber-uns/hog-east-side-chapter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/motorradhandel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/service-umbauten-motos/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/styling-zubehoer-autos/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/styling-zubehoer-autos/thule-dachboxen-auto/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-desertx/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-offfroad/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-pangiale/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/ersatzfahrzeug/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/Harley-Davidson-Bekleidung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/harley-davidson-service/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/lenkgeometrie/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/reifenhotel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/sommer-pneus-und-winter-pneus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-950-supersport-s/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-hypermotard-698-mono-RVE/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-hypermotard-950-rve/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-monster-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-multistrada-v4-pikes-peak/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-multistrada-v4-rally/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-panigale-v4-s/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-panigale-v4/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-streetfighter-v2-new/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-streetfighter-v2s-new/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-streetfighter-v4-sp2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/e-bike-tk-01-rr/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-breakout/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-nightster/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-sport-glide/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-street-bob/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-trike-tri-glide-ultra/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-ultra-limited/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/multistrada-v4/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/piaggio-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/piaggio-medley-125/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/scrambler-full-throttle/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/amici-ducatisti/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ford-mustang-mach-e-gt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/probefahren/?car=False&category=23&categoryname=Ducati&id=89",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-neftenbach/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-trike-freeewheeler/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/piaggio-liberty-50/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/piaggio-mp3-300/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/piaggio-mp3-400/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/vespa-sprint/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/cupra-born/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/cupra-tavascan/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ford-active-transit-custom-und-connect/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ford-transit-reisemobil-camper-umbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/probefahren-ubersicht/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-hypermotard/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ducati/ducati-monster/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/piaggio/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/2/?plugin_id=49372",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/cupra-leon/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/cupra-tavascan/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-mustang/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-puma-genE/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-ranger/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-transit-connect/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/mazda-mx-5/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/seat-tarraco/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/cupra-tavascan-prasentationen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ducati-rideout/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/girls-days/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/moto77-ducati-trentino-tour/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/moto77-lernfahr-training-l/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/wintercheck-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-hypermotard-950-sp/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-panigale-v2-superquadro/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/static/build/Apax-Regular.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/static/build/icomoon.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/static/build/icomoon.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/rennstrecken-event-anneau-du-rhin-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-05"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-xdiavel-s/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-05"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-scrambler-1100-dark-pro/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-xdiavel-nera/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ducati-prasentiert-die-neuen-modelle/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/buetikofer-move-auto-motorrad-mieten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/buetikofer-move-auto-motorrad-mieten/mazda-mx-5-mieten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-frauenfeld-ost/%28844%20/%201500",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-frauenfeld-ost/R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-uster/%28844%20/%201500",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-uster/R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/ford/ford-nutzfahrzeuge/R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/static/images/favicons/site.webmanifest",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-950-supersport-950-supersport-s/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-multistrada-950/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-scrambler-1100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/e-scrambler/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/der-cupra-formwentor-vz5/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/mazda-cx-60-japanische-handwerkskunst/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/vespa-modelle-2024/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-leistungen-auto-moto/autos-im-abo-mieten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-11"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-xdiavel/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/scrambler-1100-tribute-pro/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/einstellplatze-butikofer-wattwil/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/hd-zuerich/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/hd-zuerich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-multistrada-950-s/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-13"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/leistungen/butikofer-budgetservice/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-31"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/lehrstelle-automobilmechatroniker-in-buetikofer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/malaguti/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-gt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/maserati-mc20-cielo/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/reifenwechsel-samstag-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automobilverkaufsberater-in-80-100-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/carrosserielackierer-in-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/kundendienstberater-in-80-100-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/kundendienstberater-in-80-100-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/lehrstelle-als-carrosserielackierer-in-efz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/lehrstelle-als-carrosseriespengler-in-efz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/lehrstelle-als-detailhandelsfachmann-frau-efz-automobil-after-sales-gestalten-von-einkaufserlebnissen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/lehrstelle-motorradmechaniker/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/motorradmechaniker-in-efz-marke-harley-davidson/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/verkaufer-in-harley-davidson-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/werkstattleiter-marke-harley-davidson/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-diavel-s/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/malaguti-dune-125/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/malaguti-rst-125/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ducati-monster-anniversary-edition/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/ford-kuga-hybrid-beispielhafte-verbrauchseffizienz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/maserati-gt-granturismo/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-28"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-frauenfeld-west/R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-26"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-winterthur/R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-26"
+    },
+    {
+      "URL": "https://buetikofer-garagen.ch/admin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-03"
+    },
+    {
+      "URL": "https://buetikofer-garagen.ch/anmeldung-zum-newsletter",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/static/build/icomoon.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/ueber-uns/doc-thurgau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-07-24"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-15"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/butikofer-wattwil-an-der-toggenburgermesse/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ducati-schulung-assistenzsysteme/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ducati-testtag-auf-der-hulftegg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ducati-the-grand-tour/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/e-mobile-infotag/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/elektro-mobilitaet/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/exklusive-prasentation-der-ducati-multistrada-v4-rally/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/h-d-zuerich-pop-up-store/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/harley-davidson-nightster-saturday/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/harley-davidson-testride-hulftegg/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/maserati-the-grand-tour/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/moto77-sardinien-tour/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/multistrada-days/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/vespa-ausfahrt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automobilfachmann-frau-oder-automobilmechatroniker-in-teilzeit-moglich-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automobilmechatroniker-in-80-100-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/junior-verkaufer-fur-vespa-boutique/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/kundendienstberater-in-marke-harley-davidson/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/kundendienstberater-in-marke-seat-80-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/lehrstelle-als-motorradmechaniker-in-efz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/mitarbeiter-in-fahrzeugaufbereitung-60-100/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/marken/cupra/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/marken/ducati/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/marken/ford-nutzfahrzeuge/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/marken/ford/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/marken/harley-davidson/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/marken/malaguti/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/marken/maserati/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/marken/mazda/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/marken/piaggio/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/marken/scrambler-ducati/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/marken/seat/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-10"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/mitarbeiter-in-fahrzeugaufbereitung-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-07"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/unsere-marken-autos-motos-nutzfahrzeuge/harley-davidson/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-07"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/das-magische-andalusien/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/grill-chill/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/kundendienstberater-in-in-der-zweiradbranche/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/kundendienstberater-in/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/mitarbeiter-in-fahrzeugaufbereitung-uster/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/mitarbeiter-in-fahrzeugaufbereitung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/verkaufer-in-boutique/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/harley-davidson-prasentiert-die-modelle-2022/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-03"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/autos/ford-mondeo/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/cupra-showroom-eroffnung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/moto77-open-house/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/allrounder-in-inkl-garten-und-umgebungspflege/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/allrounder-in-rund-ums-motorrad-marke-harley-davidson-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automobilmechatroniker-in-1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/junior-ersatzteillagerist/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/kaufmannische-allrounder-in-50/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/verkaufer-in-im-aussen-und-innendienst-fur-bau-und-industriebedarf/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/Harley-Davidson-Sportster-S/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-25"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-uster/gtm.start",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-16"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-neftenbachrobots.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/moto77robots.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-01"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-frauenfeld-ost/gtm.start",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-03-19"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/moto77/gtm.start",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-03-13"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/news/touring-motorrad-harley-davidson-pan-america/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-03-12"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/standorte/buetikofer-frauenfeld-westrobots.txt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-03-07"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/verteiler/buetikofer-automobile-ag.html/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/verteiler/buetikofer-automobile-ag.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-08"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/static/images/favicons/browserconfig.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-25"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/events/ford-business-weeks/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-18"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/automobilverkaufsberater-in-marke-ford/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/mitarbeiter-in-finanz-und-rechnungswesen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/karriere/personalchef-in/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-diavel-v4/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-monster-sp/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-monster/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-multistrada-v2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-multistrada-V2S/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-panigale-v2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-panigale-v4-r/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-panigale-v4-tricolore/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-scrambler-icon-dark/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-scrambler-icon-rizoma/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-scrambler-icon/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-streetfighter/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-supeersport-950/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/ducati-xdiavel-v4/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/E-bike-futa/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/futa-all-road/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-cvo-road-glide/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-cvo-tri-glide/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "URL": "https://www.buetikofer-garagen.ch/de/motos/harley-davidson-heritage-classic/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "max.mustermann@gmail.com",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "E-Mail": "max.mustermann@mail.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41053033786",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41182119313",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41276547356",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41434442323",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41444547356",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41445441515",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41493862766",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41522451111",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41523153525",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41523690369",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41527250770",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41527250776",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41527280405",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41527283600",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41719877777",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41758577313",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41759452644",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41762103116",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41762509302",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41762509406",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41762509632",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41762509729",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41762509807",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41762509834",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41762510091",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41762510148",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41763312318",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Telefonnummern": "+41922688958",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

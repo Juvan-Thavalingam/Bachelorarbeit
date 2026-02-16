@@ -1,0 +1,3875 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "80.74.136.150",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "5",
+      "Mailserver (MX)": "mail.hawadoc.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Name Server": "ns2.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"31814f1f9b98175fab9b1f6ae016f96f3af06c2e343bb783182bf3db948df12\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Text Record": "\"MS=ms35973850\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Text Record": "\"mx-fe265196e5da6d1c\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    },
+    {
+      "Text Record": "\"v=spf1 mx a:mail.hawadoc.ch mx:hin.ch ip4:82.197.167.210 ip4:109.202.196.252 ip4:80.74.136.151 ip4:80.74.136.154 ip4:80.74.136.155 ip4:80.74.136.152 include:spf.mailxpert.ch include:spf.protection.outlook.com include:_spf.sui-inter.net ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "1209600",
+      "Serial": "2024070400",
+      "Refresh": "3600",
+      "Hostmaster": "server.cyon.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "80.74.136.150",
+      "PTR-Domain": "smaragd.metanet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "hawadoc.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "autodiscover.hawadoc.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "intranet.hawadoc.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "kundenumfragen.hawadoc.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "mail.hawadoc.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "nl.hawadoc.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "oma.hawadoc.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "oma.hawadoc.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "staging.hawadoc.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    },
+    {
+      "Subdomainname": "vpn.hawadoc.ch",
+      "In Digitalem Twin gescant am": "2025-05-20"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-17",
+      "Gültig bis": "2025-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-18"
+    },
+    {
+      "Gültig ab": "2025-05-17",
+      "Gültig bis": "2025-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-18"
+    },
+    {
+      "Gültig ab": "2025-05-07",
+      "Gültig bis": "2025-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-07"
+    },
+    {
+      "Gültig ab": "2025-05-07",
+      "Gültig bis": "2025-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-05-07"
+    },
+    {
+      "Gültig ab": "2025-04-26",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-26"
+    },
+    {
+      "Gültig ab": "2025-04-26",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-26"
+    },
+    {
+      "Gültig ab": "2025-04-24",
+      "Gültig bis": "2025-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-24"
+    },
+    {
+      "Gültig ab": "2025-04-24",
+      "Gültig bis": "2025-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-24"
+    },
+    {
+      "Gültig ab": "2025-04-21",
+      "Gültig bis": "2025-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "kundenumfragen.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Gültig ab": "2025-04-21",
+      "Gültig bis": "2025-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "kundenumfragen.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-22"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "intranet.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-16"
+    },
+    {
+      "Gültig ab": "2025-04-15",
+      "Gültig bis": "2025-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "intranet.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-04-16"
+    },
+    {
+      "Gültig ab": "2025-03-22",
+      "Gültig bis": "2025-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "Gültig ab": "2025-03-22",
+      "Gültig bis": "2025-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "Gültig ab": "2025-03-18",
+      "Gültig bis": "2025-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "Gültig ab": "2025-03-18",
+      "Gültig bis": "2025-06-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-18"
+    },
+    {
+      "Gültig ab": "2025-02-25",
+      "Gültig bis": "2025-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-25"
+    },
+    {
+      "Gültig ab": "2025-02-25",
+      "Gültig bis": "2025-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-25"
+    },
+    {
+      "Gültig ab": "2025-02-23",
+      "Gültig bis": "2025-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-23"
+    },
+    {
+      "Gültig ab": "2025-02-23",
+      "Gültig bis": "2025-05-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-23"
+    },
+    {
+      "Gültig ab": "2025-02-20",
+      "Gültig bis": "2025-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "kundenumfragen.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-20"
+    },
+    {
+      "Gültig ab": "2025-02-20",
+      "Gültig bis": "2025-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "kundenumfragen.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-20"
+    },
+    {
+      "Gültig ab": "2025-02-15",
+      "Gültig bis": "2025-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "intranet.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "Gültig ab": "2025-02-15",
+      "Gültig bis": "2025-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "intranet.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2025-01-16",
+      "Gültig bis": "2025-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "Gültig ab": "2025-01-16",
+      "Gültig bis": "2025-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-16"
+    },
+    {
+      "Gültig ab": "2024-12-27",
+      "Gültig bis": "2025-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-27"
+    },
+    {
+      "Gültig ab": "2024-12-27",
+      "Gültig bis": "2025-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-27"
+    },
+    {
+      "Gültig ab": "2024-12-25",
+      "Gültig bis": "2025-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-25"
+    },
+    {
+      "Gültig ab": "2024-12-25",
+      "Gültig bis": "2025-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-25"
+    },
+    {
+      "Gültig ab": "2024-12-22",
+      "Gültig bis": "2025-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "kundenumfragen.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-22"
+    },
+    {
+      "Gültig ab": "2024-12-22",
+      "Gültig bis": "2025-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "kundenumfragen.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-22"
+    },
+    {
+      "Gültig ab": "2024-12-16",
+      "Gültig bis": "2025-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "intranet.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-16"
+    },
+    {
+      "Gültig ab": "2024-12-16",
+      "Gültig bis": "2025-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "intranet.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-12-16"
+    },
+    {
+      "Gültig ab": "2024-11-21",
+      "Gültig bis": "2025-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "Gültig ab": "2024-11-21",
+      "Gültig bis": "2025-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "Gültig ab": "2024-11-17",
+      "Gültig bis": "2025-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "Gültig ab": "2024-11-17",
+      "Gültig bis": "2025-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-17"
+    },
+    {
+      "Gültig ab": "2024-11-06",
+      "Gültig bis": "2025-11-06",
+      "Ausgestellt von": "C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Domain Validation CA SHA2",
+      "Domain/Subdomain": "*.hawadoc.ch, hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-11-06"
+    },
+    {
+      "Gültig ab": "2024-10-28",
+      "Gültig bis": "2025-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-28"
+    },
+    {
+      "Gültig ab": "2024-10-28",
+      "Gültig bis": "2025-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-28"
+    },
+    {
+      "Gültig ab": "2024-10-26",
+      "Gültig bis": "2025-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-26"
+    },
+    {
+      "Gültig ab": "2024-10-26",
+      "Gültig bis": "2025-01-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-26"
+    },
+    {
+      "Gültig ab": "2024-10-22",
+      "Gültig bis": "2025-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "kundenumfragen.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-22"
+    },
+    {
+      "Gültig ab": "2024-10-22",
+      "Gültig bis": "2025-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "kundenumfragen.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-10-22"
+    },
+    {
+      "Gültig ab": "2024-09-21",
+      "Gültig bis": "2024-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-22"
+    },
+    {
+      "Gültig ab": "2024-09-21",
+      "Gültig bis": "2024-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-22"
+    },
+    {
+      "Gültig ab": "2024-09-17",
+      "Gültig bis": "2024-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-18"
+    },
+    {
+      "Gültig ab": "2024-09-17",
+      "Gültig bis": "2024-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-18"
+    },
+    {
+      "Gültig ab": "2024-08-29",
+      "Gültig bis": "2024-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-29"
+    },
+    {
+      "Gültig ab": "2024-08-29",
+      "Gültig bis": "2024-11-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-29"
+    },
+    {
+      "Gültig ab": "2024-08-27",
+      "Gültig bis": "2024-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-27"
+    },
+    {
+      "Gültig ab": "2024-08-27",
+      "Gültig bis": "2024-11-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-08-27"
+    },
+    {
+      "Gültig ab": "2024-07-23",
+      "Gültig bis": "2024-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "Gültig ab": "2024-07-23",
+      "Gültig bis": "2024-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "Gültig ab": "2024-07-19",
+      "Gültig bis": "2024-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-20"
+    },
+    {
+      "Gültig ab": "2024-07-19",
+      "Gültig bis": "2024-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-20"
+    },
+    {
+      "Gültig ab": "2024-06-30",
+      "Gültig bis": "2024-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "Gültig ab": "2024-06-30",
+      "Gültig bis": "2024-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "Gültig ab": "2024-06-28",
+      "Gültig bis": "2024-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-28"
+    },
+    {
+      "Gültig ab": "2024-06-28",
+      "Gültig bis": "2024-09-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-28"
+    },
+    {
+      "Gültig ab": "2024-05-24",
+      "Gültig bis": "2024-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-25"
+    },
+    {
+      "Gültig ab": "2024-05-24",
+      "Gültig bis": "2024-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-25"
+    },
+    {
+      "Gültig ab": "2024-05-20",
+      "Gültig bis": "2024-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "Gültig ab": "2024-05-20",
+      "Gültig bis": "2024-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "Gültig ab": "2024-04-30",
+      "Gültig bis": "2024-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-30"
+    },
+    {
+      "Gültig ab": "2024-04-30",
+      "Gültig bis": "2024-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-30"
+    },
+    {
+      "Gültig ab": "2024-04-29",
+      "Gültig bis": "2024-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-29"
+    },
+    {
+      "Gültig ab": "2024-04-29",
+      "Gültig bis": "2024-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "vpn.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-04-29"
+    },
+    {
+      "Gültig ab": "2024-03-25",
+      "Gültig bis": "2024-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "Gültig ab": "2024-03-25",
+      "Gültig bis": "2024-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "Gültig ab": "2024-03-21",
+      "Gültig bis": "2024-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-21"
+    },
+    {
+      "Gültig ab": "2024-03-21",
+      "Gültig bis": "2024-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-21"
+    },
+    {
+      "Gültig ab": "2024-03-01",
+      "Gültig bis": "2024-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-01"
+    },
+    {
+      "Gültig ab": "2024-03-01",
+      "Gültig bis": "2024-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-03-01"
+    },
+    {
+      "Gültig ab": "2024-01-24",
+      "Gültig bis": "2024-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-24"
+    },
+    {
+      "Gültig ab": "2024-01-24",
+      "Gültig bis": "2024-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-24"
+    },
+    {
+      "Gültig ab": "2024-01-20",
+      "Gültig bis": "2024-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-20"
+    },
+    {
+      "Gültig ab": "2024-01-20",
+      "Gültig bis": "2024-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-20"
+    },
+    {
+      "Gültig ab": "2024-01-01",
+      "Gültig bis": "2024-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-01"
+    },
+    {
+      "Gültig ab": "2024-01-01",
+      "Gültig bis": "2024-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-01-01"
+    },
+    {
+      "Gültig ab": "2023-11-25",
+      "Gültig bis": "2024-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-25"
+    },
+    {
+      "Gültig ab": "2023-11-25",
+      "Gültig bis": "2024-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-25"
+    },
+    {
+      "Gültig ab": "2023-11-21",
+      "Gültig bis": "2024-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-21"
+    },
+    {
+      "Gültig ab": "2023-11-21",
+      "Gültig bis": "2024-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-21"
+    },
+    {
+      "Gültig ab": "2023-11-10",
+      "Gültig bis": "2024-11-09",
+      "Ausgestellt von": "C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Domain Validation CA SHA2",
+      "Domain/Subdomain": "*.hawadoc.ch, hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-10"
+    },
+    {
+      "Gültig ab": "2023-11-02",
+      "Gültig bis": "2024-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-02"
+    },
+    {
+      "Gültig ab": "2023-11-02",
+      "Gültig bis": "2024-01-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-02"
+    },
+    {
+      "Gültig ab": "2023-09-25",
+      "Gültig bis": "2023-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-26"
+    },
+    {
+      "Gültig ab": "2023-09-25",
+      "Gültig bis": "2023-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-26"
+    },
+    {
+      "Gültig ab": "2023-09-21",
+      "Gültig bis": "2023-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "Gültig ab": "2023-09-21",
+      "Gültig bis": "2023-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-22"
+    },
+    {
+      "Gültig ab": "2023-09-03",
+      "Gültig bis": "2023-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-03"
+    },
+    {
+      "Gültig ab": "2023-09-03",
+      "Gültig bis": "2023-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-09-03"
+    },
+    {
+      "Gültig ab": "2023-07-27",
+      "Gültig bis": "2023-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-28"
+    },
+    {
+      "Gültig ab": "2023-07-27",
+      "Gültig bis": "2023-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-28"
+    },
+    {
+      "Gültig ab": "2023-07-23",
+      "Gültig bis": "2023-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-24"
+    },
+    {
+      "Gültig ab": "2023-07-23",
+      "Gültig bis": "2023-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-24"
+    },
+    {
+      "Gültig ab": "2023-07-04",
+      "Gültig bis": "2023-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-04"
+    },
+    {
+      "Gültig ab": "2023-07-04",
+      "Gültig bis": "2023-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-07-04"
+    },
+    {
+      "Gültig ab": "2023-05-28",
+      "Gültig bis": "2023-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-29"
+    },
+    {
+      "Gültig ab": "2023-05-28",
+      "Gültig bis": "2023-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-29"
+    },
+    {
+      "Gültig ab": "2023-05-24",
+      "Gültig bis": "2023-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-25"
+    },
+    {
+      "Gültig ab": "2023-05-24",
+      "Gültig bis": "2023-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-25"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-05-05",
+      "Gültig bis": "2023-08-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-05"
+    },
+    {
+      "Gültig ab": "2023-03-29",
+      "Gültig bis": "2023-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-30"
+    },
+    {
+      "Gültig ab": "2023-03-29",
+      "Gültig bis": "2023-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-30"
+    },
+    {
+      "Gültig ab": "2023-03-25",
+      "Gültig bis": "2023-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-25"
+    },
+    {
+      "Gültig ab": "2023-03-25",
+      "Gültig bis": "2023-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-25"
+    },
+    {
+      "Gültig ab": "2023-03-06",
+      "Gültig bis": "2023-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-06"
+    },
+    {
+      "Gültig ab": "2023-03-06",
+      "Gültig bis": "2023-06-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-03-06"
+    },
+    {
+      "Gültig ab": "2023-01-29",
+      "Gültig bis": "2023-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "Gültig ab": "2023-01-29",
+      "Gültig bis": "2023-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-29"
+    },
+    {
+      "Gültig ab": "2023-01-23",
+      "Gültig bis": "2023-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-23"
+    },
+    {
+      "Gültig ab": "2023-01-23",
+      "Gültig bis": "2023-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-23"
+    },
+    {
+      "Gültig ab": "2023-01-05",
+      "Gültig bis": "2023-04-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-05"
+    },
+    {
+      "Gültig ab": "2023-01-05",
+      "Gültig bis": "2023-04-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-01-05"
+    },
+    {
+      "Gültig ab": "2022-11-30",
+      "Gültig bis": "2023-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "Gültig ab": "2022-11-30",
+      "Gültig bis": "2023-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "Gültig ab": "2022-11-24",
+      "Gültig bis": "2023-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-24"
+    },
+    {
+      "Gültig ab": "2022-11-24",
+      "Gültig bis": "2023-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-24"
+    },
+    {
+      "Gültig ab": "2022-11-09",
+      "Gültig bis": "2023-11-12",
+      "Ausgestellt von": "C=US, O=\"DigiCert, Inc.\", CN=RapidSSL Global TLS RSA4096 SHA256 2022 CA1",
+      "Domain/Subdomain": "*.hawadoc.ch, hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-09"
+    },
+    {
+      "Gültig ab": "2022-11-09",
+      "Gültig bis": "2023-11-12",
+      "Ausgestellt von": "C=US, O=\"DigiCert, Inc.\", CN=RapidSSL Global TLS RSA4096 SHA256 2022 CA1",
+      "Domain/Subdomain": "*.hawadoc.ch, hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-09"
+    },
+    {
+      "Gültig ab": "2022-11-06",
+      "Gültig bis": "2023-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-06"
+    },
+    {
+      "Gültig ab": "2022-11-06",
+      "Gültig bis": "2023-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-06"
+    },
+    {
+      "Gültig ab": "2022-09-29",
+      "Gültig bis": "2022-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-30"
+    },
+    {
+      "Gültig ab": "2022-09-29",
+      "Gültig bis": "2022-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-30"
+    },
+    {
+      "Gültig ab": "2022-09-24",
+      "Gültig bis": "2022-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "Gültig ab": "2022-09-24",
+      "Gültig bis": "2022-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "Gültig ab": "2022-09-07",
+      "Gültig bis": "2022-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-07"
+    },
+    {
+      "Gültig ab": "2022-09-07",
+      "Gültig bis": "2022-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-09-07"
+    },
+    {
+      "Gültig ab": "2022-07-31",
+      "Gültig bis": "2022-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-01"
+    },
+    {
+      "Gültig ab": "2022-07-31",
+      "Gültig bis": "2022-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-08-01"
+    },
+    {
+      "Gültig ab": "2022-07-26",
+      "Gültig bis": "2022-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-27"
+    },
+    {
+      "Gültig ab": "2022-07-26",
+      "Gültig bis": "2022-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-27"
+    },
+    {
+      "Gültig ab": "2022-07-08",
+      "Gültig bis": "2022-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-08"
+    },
+    {
+      "Gültig ab": "2022-07-08",
+      "Gültig bis": "2022-10-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-07-08"
+    },
+    {
+      "Gültig ab": "2022-06-01",
+      "Gültig bis": "2022-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-02"
+    },
+    {
+      "Gültig ab": "2022-06-01",
+      "Gültig bis": "2022-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-06-02"
+    },
+    {
+      "Gültig ab": "2022-05-27",
+      "Gültig bis": "2022-08-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-28"
+    },
+    {
+      "Gültig ab": "2022-05-27",
+      "Gültig bis": "2022-08-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-28"
+    },
+    {
+      "Gültig ab": "2022-05-09",
+      "Gültig bis": "2022-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-09"
+    },
+    {
+      "Gültig ab": "2022-05-09",
+      "Gültig bis": "2022-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-05-09"
+    },
+    {
+      "Gültig ab": "2022-04-02",
+      "Gültig bis": "2022-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-03"
+    },
+    {
+      "Gültig ab": "2022-04-02",
+      "Gültig bis": "2022-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-04-03"
+    },
+    {
+      "Gültig ab": "2022-03-28",
+      "Gültig bis": "2022-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-29"
+    },
+    {
+      "Gültig ab": "2022-03-28",
+      "Gültig bis": "2022-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-29"
+    },
+    {
+      "Gültig ab": "2022-03-10",
+      "Gültig bis": "2022-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-10"
+    },
+    {
+      "Gültig ab": "2022-03-10",
+      "Gültig bis": "2022-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-03-10"
+    },
+    {
+      "Gültig ab": "2022-02-02",
+      "Gültig bis": "2022-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-02"
+    },
+    {
+      "Gültig ab": "2022-02-02",
+      "Gültig bis": "2022-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-02-02"
+    },
+    {
+      "Gültig ab": "2022-01-27",
+      "Gültig bis": "2022-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-27"
+    },
+    {
+      "Gültig ab": "2022-01-27",
+      "Gültig bis": "2022-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-27"
+    },
+    {
+      "Gültig ab": "2022-01-09",
+      "Gültig bis": "2022-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-09"
+    },
+    {
+      "Gültig ab": "2022-01-09",
+      "Gültig bis": "2022-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-01-09"
+    },
+    {
+      "Gültig ab": "2021-12-04",
+      "Gültig bis": "2022-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-04"
+    },
+    {
+      "Gültig ab": "2021-12-04",
+      "Gültig bis": "2022-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-12-04"
+    },
+    {
+      "Gültig ab": "2021-11-28",
+      "Gültig bis": "2022-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-28"
+    },
+    {
+      "Gültig ab": "2021-11-28",
+      "Gültig bis": "2022-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-28"
+    },
+    {
+      "Gültig ab": "2021-11-12",
+      "Gültig bis": "2022-11-12",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, CN=RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1",
+      "Domain/Subdomain": "*.hawadoc.ch, hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-12"
+    },
+    {
+      "Gültig ab": "2021-11-10",
+      "Gültig bis": "2022-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-10"
+    },
+    {
+      "Gültig ab": "2021-11-10",
+      "Gültig bis": "2022-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-11-10"
+    },
+    {
+      "Gültig ab": "2021-10-04",
+      "Gültig bis": "2022-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-05"
+    },
+    {
+      "Gültig ab": "2021-10-04",
+      "Gültig bis": "2022-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-10-05"
+    },
+    {
+      "Gültig ab": "2021-09-28",
+      "Gültig bis": "2021-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-29"
+    },
+    {
+      "Gültig ab": "2021-09-28",
+      "Gültig bis": "2021-12-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-29"
+    },
+    {
+      "Gültig ab": "2021-09-11",
+      "Gültig bis": "2021-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-11"
+    },
+    {
+      "Gültig ab": "2021-09-11",
+      "Gültig bis": "2021-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-09-11"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-06"
+    },
+    {
+      "Gültig ab": "2021-08-05",
+      "Gültig bis": "2021-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-08-06"
+    },
+    {
+      "Gültig ab": "2021-07-30",
+      "Gültig bis": "2021-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-31"
+    },
+    {
+      "Gültig ab": "2021-07-30",
+      "Gültig bis": "2021-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-31"
+    },
+    {
+      "Gültig ab": "2021-07-13",
+      "Gültig bis": "2021-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-13"
+    },
+    {
+      "Gültig ab": "2021-07-13",
+      "Gültig bis": "2021-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-07-13"
+    },
+    {
+      "Gültig ab": "2021-06-06",
+      "Gültig bis": "2021-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-07"
+    },
+    {
+      "Gültig ab": "2021-06-06",
+      "Gültig bis": "2021-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-07"
+    },
+    {
+      "Gültig ab": "2021-05-31",
+      "Gültig bis": "2021-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-01"
+    },
+    {
+      "Gültig ab": "2021-05-31",
+      "Gültig bis": "2021-08-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-06-01"
+    },
+    {
+      "Gültig ab": "2021-05-14",
+      "Gültig bis": "2021-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-14"
+    },
+    {
+      "Gültig ab": "2021-05-14",
+      "Gültig bis": "2021-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-05-14"
+    },
+    {
+      "Gültig ab": "2021-04-07",
+      "Gültig bis": "2021-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-04-08"
+    },
+    {
+      "Gültig ab": "2021-04-07",
+      "Gültig bis": "2021-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-04-08"
+    },
+    {
+      "Gültig ab": "2021-04-01",
+      "Gültig bis": "2021-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-04-02"
+    },
+    {
+      "Gültig ab": "2021-04-01",
+      "Gültig bis": "2021-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-04-02"
+    },
+    {
+      "Gültig ab": "2021-03-15",
+      "Gültig bis": "2021-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-15"
+    },
+    {
+      "Gültig ab": "2021-03-15",
+      "Gültig bis": "2021-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-03-15"
+    },
+    {
+      "Gültig ab": "2021-02-06",
+      "Gültig bis": "2021-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-06"
+    },
+    {
+      "Gültig ab": "2021-02-06",
+      "Gültig bis": "2021-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-02-06"
+    },
+    {
+      "Gültig ab": "2021-01-31",
+      "Gültig bis": "2021-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-01-31"
+    },
+    {
+      "Gültig ab": "2021-01-31",
+      "Gültig bis": "2021-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-01-31"
+    },
+    {
+      "Gültig ab": "2021-01-14",
+      "Gültig bis": "2021-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-01-14"
+    },
+    {
+      "Gültig ab": "2021-01-14",
+      "Gültig bis": "2021-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2021-01-14"
+    },
+    {
+      "Gültig ab": "2020-12-08",
+      "Gültig bis": "2021-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-08"
+    },
+    {
+      "Gültig ab": "2020-12-08",
+      "Gültig bis": "2021-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-08"
+    },
+    {
+      "Gültig ab": "2020-12-02",
+      "Gültig bis": "2021-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-02"
+    },
+    {
+      "Gültig ab": "2020-12-02",
+      "Gültig bis": "2021-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-12-02"
+    },
+    {
+      "Gültig ab": "2020-11-15",
+      "Gültig bis": "2021-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-11-15"
+    },
+    {
+      "Gültig ab": "2020-11-15",
+      "Gültig bis": "2021-02-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-11-15"
+    },
+    {
+      "Gültig ab": "2020-10-22",
+      "Gültig bis": "2021-11-20",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, CN=RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1",
+      "Domain/Subdomain": "*.hawadoc.ch, hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-22"
+    },
+    {
+      "Gültig ab": "2020-10-08",
+      "Gültig bis": "2021-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-09"
+    },
+    {
+      "Gültig ab": "2020-10-08",
+      "Gültig bis": "2021-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-09"
+    },
+    {
+      "Gültig ab": "2020-10-02",
+      "Gültig bis": "2020-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-03"
+    },
+    {
+      "Gültig ab": "2020-10-02",
+      "Gültig bis": "2020-12-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-10-03"
+    },
+    {
+      "Gültig ab": "2020-09-16",
+      "Gültig bis": "2020-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-09-16"
+    },
+    {
+      "Gültig ab": "2020-09-16",
+      "Gültig bis": "2020-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-09-16"
+    },
+    {
+      "Gültig ab": "2020-08-09",
+      "Gültig bis": "2020-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-08-10"
+    },
+    {
+      "Gültig ab": "2020-08-09",
+      "Gültig bis": "2020-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-08-10"
+    },
+    {
+      "Gültig ab": "2020-08-03",
+      "Gültig bis": "2020-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-08-04"
+    },
+    {
+      "Gültig ab": "2020-08-03",
+      "Gültig bis": "2020-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-08-04"
+    },
+    {
+      "Gültig ab": "2020-07-17",
+      "Gültig bis": "2020-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-07-17"
+    },
+    {
+      "Gültig ab": "2020-07-17",
+      "Gültig bis": "2020-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-07-17"
+    },
+    {
+      "Gültig ab": "2020-06-10",
+      "Gültig bis": "2020-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-06-10"
+    },
+    {
+      "Gültig ab": "2020-06-10",
+      "Gültig bis": "2020-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "staging.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-06-10"
+    },
+    {
+      "Gültig ab": "2020-06-04",
+      "Gültig bis": "2020-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-06-05"
+    },
+    {
+      "Gültig ab": "2020-06-04",
+      "Gültig bis": "2020-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-06-05"
+    },
+    {
+      "Gültig ab": "2020-05-18",
+      "Gültig bis": "2020-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-05-18"
+    },
+    {
+      "Gültig ab": "2020-05-18",
+      "Gültig bis": "2020-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-05-18"
+    },
+    {
+      "Gültig ab": "2020-04-05",
+      "Gültig bis": "2020-07-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-06"
+    },
+    {
+      "Gültig ab": "2020-04-05",
+      "Gültig bis": "2020-07-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-04-06"
+    },
+    {
+      "Gültig ab": "2020-03-19",
+      "Gültig bis": "2020-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-03-19"
+    },
+    {
+      "Gültig ab": "2020-03-19",
+      "Gültig bis": "2020-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-03-19"
+    },
+    {
+      "Gültig ab": "2020-02-05",
+      "Gültig bis": "2020-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-05"
+    },
+    {
+      "Gültig ab": "2020-02-05",
+      "Gültig bis": "2020-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-02-05"
+    },
+    {
+      "Gültig ab": "2020-01-19",
+      "Gültig bis": "2020-04-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-01-19"
+    },
+    {
+      "Gültig ab": "2020-01-19",
+      "Gültig bis": "2020-04-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2020-01-19"
+    },
+    {
+      "Gültig ab": "2019-12-07",
+      "Gültig bis": "2020-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-12-07"
+    },
+    {
+      "Gültig ab": "2019-12-07",
+      "Gültig bis": "2020-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-12-07"
+    },
+    {
+      "Gültig ab": "2019-11-20",
+      "Gültig bis": "2020-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-20"
+    },
+    {
+      "Gültig ab": "2019-11-20",
+      "Gültig bis": "2020-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-11-20"
+    },
+    {
+      "Gültig ab": "2019-10-07",
+      "Gültig bis": "2020-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-10-08"
+    },
+    {
+      "Gültig ab": "2019-10-07",
+      "Gültig bis": "2020-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-10-08"
+    },
+    {
+      "Gültig ab": "2019-09-20",
+      "Gültig bis": "2019-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-09-21"
+    },
+    {
+      "Gültig ab": "2019-09-20",
+      "Gültig bis": "2019-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-09-21"
+    },
+    {
+      "Gültig ab": "2019-08-08",
+      "Gültig bis": "2019-11-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-08-09"
+    },
+    {
+      "Gültig ab": "2019-08-08",
+      "Gültig bis": "2019-11-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-08-09"
+    },
+    {
+      "Gültig ab": "2019-07-22",
+      "Gültig bis": "2019-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-22"
+    },
+    {
+      "Gültig ab": "2019-07-22",
+      "Gültig bis": "2019-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-07-22"
+    },
+    {
+      "Gültig ab": "2019-06-09",
+      "Gültig bis": "2019-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-06-10"
+    },
+    {
+      "Gültig ab": "2019-06-09",
+      "Gültig bis": "2019-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-06-10"
+    },
+    {
+      "Gültig ab": "2019-05-23",
+      "Gültig bis": "2019-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-05-23"
+    },
+    {
+      "Gültig ab": "2019-05-23",
+      "Gültig bis": "2019-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "nl.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-05-23"
+    },
+    {
+      "Gültig ab": "2019-04-10",
+      "Gültig bis": "2019-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-04-11"
+    },
+    {
+      "Gültig ab": "2019-04-10",
+      "Gültig bis": "2019-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-04-11"
+    },
+    {
+      "Gültig ab": "2018-10-29",
+      "Gültig bis": "2020-10-28",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL RSA CA 2018",
+      "Domain/Subdomain": "*.hawadoc.ch, hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-02-26"
+    },
+    {
+      "Gültig ab": "2019-02-09",
+      "Gültig bis": "2019-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-02-09"
+    },
+    {
+      "Gültig ab": "2019-02-09",
+      "Gültig bis": "2019-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2019-02-09"
+    },
+    {
+      "Gültig ab": "2018-12-11",
+      "Gültig bis": "2019-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-11"
+    },
+    {
+      "Gültig ab": "2018-12-11",
+      "Gültig bis": "2019-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-12-11"
+    },
+    {
+      "Gültig ab": "2018-10-29",
+      "Gültig bis": "2020-10-28",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL RSA CA 2018",
+      "Domain/Subdomain": "*.hawadoc.ch, hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-10-29"
+    },
+    {
+      "Gültig ab": "2018-10-11",
+      "Gültig bis": "2019-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "Gültig ab": "2018-10-11",
+      "Gültig bis": "2019-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-10-12"
+    },
+    {
+      "Gültig ab": "2018-08-12",
+      "Gültig bis": "2018-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-08-13"
+    },
+    {
+      "Gültig ab": "2018-08-12",
+      "Gültig bis": "2018-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-08-13"
+    },
+    {
+      "Gültig ab": "2018-06-07",
+      "Gültig bis": "2020-06-06",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL RSA CA 2018",
+      "Domain/Subdomain": "mail.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-06-15"
+    },
+    {
+      "Gültig ab": "2018-06-13",
+      "Gültig bis": "2018-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-06-14"
+    },
+    {
+      "Gültig ab": "2018-06-13",
+      "Gültig bis": "2018-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-06-14"
+    },
+    {
+      "Gültig ab": "2018-06-07",
+      "Gültig bis": "2020-06-06",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL RSA CA 2018",
+      "Domain/Subdomain": "mail.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-06-07"
+    },
+    {
+      "Gültig ab": "2018-04-14",
+      "Gültig bis": "2018-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-04-14"
+    },
+    {
+      "Gültig ab": "2018-04-14",
+      "Gültig bis": "2018-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-04-14"
+    },
+    {
+      "Gültig ab": "2018-02-13",
+      "Gültig bis": "2018-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-02-13"
+    },
+    {
+      "Gültig ab": "2015-10-25",
+      "Gültig bis": "2018-10-26",
+      "Ausgestellt von": "C=US, O=GeoTrust Inc., CN=RapidSSL SHA256 CA - G3",
+      "Domain/Subdomain": "mail.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    },
+    {
+      "Gültig ab": "2017-12-15",
+      "Gültig bis": "2018-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-12-15"
+    },
+    {
+      "Gültig ab": "2017-10-15",
+      "Gültig bis": "2018-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-10-15"
+    },
+    {
+      "Gültig ab": "2017-08-03",
+      "Gültig bis": "2017-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-08-03"
+    },
+    {
+      "Gültig ab": "2017-05-22",
+      "Gültig bis": "2017-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-05-22"
+    },
+    {
+      "Gültig ab": "2017-03-05",
+      "Gültig bis": "2017-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-03-05"
+    },
+    {
+      "Gültig ab": "2017-02-16",
+      "Gültig bis": "2017-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-02-16"
+    },
+    {
+      "Gültig ab": "2016-10-17",
+      "Gültig bis": "2019-11-22",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "oma.hawadoc.ch, www.oma.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-01-11"
+    },
+    {
+      "Gültig ab": "2016-12-22",
+      "Gültig bis": "2017-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-12-22"
+    },
+    {
+      "Gültig ab": "2016-12-22",
+      "Gültig bis": "2017-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "hawadoc.ch, www.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-12-22"
+    },
+    {
+      "Gültig ab": "2011-02-18",
+      "Gültig bis": "2014-02-17",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, OU=www.quovadisglobal.com, CN=QuoVadis Global SSL ICA",
+      "Domain/Subdomain": "autodiscover.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-10-01"
+    },
+    {
+      "Gültig ab": "2011-11-22",
+      "Gültig bis": "2016-11-22",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certificates.godaddy.com/repository, CN=Go Daddy Secure Certification Authority, serialNumber=07969287",
+      "Domain/Subdomain": "oma.hawadoc.ch, www.oma.hawadoc.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-10-01"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.hawadoc.ch/home/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/links_zeitschriften.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-28"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/links_informationen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-27"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/links_evidence.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-26"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/information_viren.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-24"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/information_supportblue.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-23"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/versicherte_notfall.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-08-26"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/pdf/0450_Jahresbericht_2002.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-04-21"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/versicherte_grippe.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-04-10"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/versicherte_partner.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-04-10"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/wir_jahresberichte.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-01-27"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/wir_daten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-01-22"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/versicherte_praemien.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-01-14"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/qualitaet_zweck.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2003-05-26"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/pdf/0510_news_2002_2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2003-05-24"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/01_NEWS/0100_Web_Auftritt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-12-16"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawatrust/roko-studie_mas-erhebung.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/factsheet_roko_mas.pdf?m=1705586077",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/datenschutzerklaerung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-19"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/factsheet_datensammlung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-19"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/factsheet_praxisspiegel.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-19"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/factsheet_rechnungsdruck.pdf?m=1705586255&",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-19"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/factsheet_treuhand.pdf?m=1705586413&",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-19"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/factsheet_trustcenter.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-19"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawaplus/hawaplus_dienstleistungen_cirdoc.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/de/hawaplus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/fonts/feather-webfont.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/fonts/feather-webfont.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/fonts/feather-webfont.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/fonts/glyphicons-halflings-regular.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/fonts/glyphicons-halflings-regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/fonts/glyphicons-halflings-regular.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawaplus/hawaplus_beratung.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-24"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawaplus/hawaplus_treuhand.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-24"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/links_qualitaetsmanagement.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-27"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/kranken_uebersicht.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-25"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/information_supporthin.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-23"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/information_blue.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-22"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/aerzte_agenda.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-08-27"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/news_bulletin.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-08-27"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/wir_mission.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-08-26"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/versicherte_links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-04-10"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/news_ebm.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-02-16"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/wir_gruppen.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-01-26"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/vertragliches.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2003-05-29"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/pdf/0510_news_2002_1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2003-05-24"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/home/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/kontakt/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawaplus/lageplan.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/Allgemeine-Geschaeftsbedingungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/ueber-uns/ansprechpersonen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/ueber-uns/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/ueber-uns/leitbild.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/ueber-uns/mailing-anmeldung.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/ueber-uns/publikationen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/ueber-uns/stellen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/ueber-uns/unsere-partner.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "http://hawadoc.ch//pdf/Aerzte-Webseite/praxis_am_chreisel/Datenschutzerklaerung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-19"
+    },
+    {
+      "URL": "https://hawadoc.ch/pdf/Aerzte-Webseite/praxis_am_chreisel/Datenschutzerklaerung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-19"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/favicons/manifest.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-11-10"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawatrust/hawatrust_anmeldung.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-02-24"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawatrust/hawatrust_datenlieferung.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-02-24"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawatrust/hawatrust_praxisspiegel.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-02-24"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawatrust/hawatrust_produkte.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-02-24"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawatrust/hawatrust_rechnungsversand.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-02-24"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/default.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-02-24"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawaplus/hawaplus_fortbildungen.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2017-02-23"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawadoc/hawadoc_partner_versicherer.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-12-20"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_kontakt.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-26"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_partner_mandate.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-26"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_partner_spitaeler.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-26"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawanet/hawanet_standorte.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-26"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_dienstleistungen.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_lageplan.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_links.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_organisation.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_partner.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_partner_aerztenetze.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_partner_managedcare.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_partner_management.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_publikationen_jahresberichte.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawanet/hawanet_blueevidence.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawanet/hawanet_dienstleistungen.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawanet/hawanet_seminare.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawaplus/hawaplus_aerzte_gesucht.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0250_HAWADOC_AG/0252_Leistungsangebot.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-12-16"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/01_NEWS/0110_Medienmitteilungen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-12-13"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/01_NEWS/0120_Agenda.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-12-13"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0200_VEREIN_HAWA/0200_Verein_HAWA.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-12-13"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0200_VEREIN_HAWA/0202_Basisnetzgruppen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-12-13"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0200_VEREIN_HAWA/0203_Statuten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-12-13"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0250_HAWADOC_AG/0250_SUBFRAME_HAWAdoc.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-12-13"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0250_HAWADOC_AG/0251_Organigramm_HAWAdoc.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-12-13"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/start.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-12-13"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/Leerseite.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-11-22"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/logo_hawadoc.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-11-22"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/NAV_INDEX.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-11-22"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/01_NEWS/0100_News.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-10-17"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/07_SITEMAP/0700_Seitenstruktur.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-10-17"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/05_PARTNER/0500_MANAGED_CARE_PARTNER/0504_Dachverband_machs.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-10-01"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/05_PARTNER/0500_MANAGED_CARE_PARTNER/0503_thurcare_AG.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-09-30"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/05_PARTNER/0500_MANAGED_CARE_PARTNER/0502_argomed_AG.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-09-29"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/05_PARTNER/0500_MANAGED_CARE_PARTNER/0500_SUBFRAME_MAN_CARE_PARTNER.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-09-10"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/05_PARTNER/0500_MANAGED_CARE_PARTNER/0501_BlueCare_AG.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-09-10"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/04_ARZT/0450_QUALITAETSMANAGEMENT/0450_Qualizirkel.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-09-09"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/04_ARZT/0460_MED_INTERNET_LINKS/0460_Medizinische_Internet_Links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-09-09"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/04_ARZT/0440_DIENSTLEISTUNGEN_HAWADOC/0443_BlueEvidence.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-09-08"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/04_ARZT/0440_DIENSTLEISTUNGEN_HAWADOC/0444_Virenschutz.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-09-08"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/04_ARZT/0440_DIENSTLEISTUNGEN_HAWADOC/0441_Datenmanagement.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-09-07"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/04_ARZT/0420_GLOSSAR/0420_GLOSSAR.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-09-06"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/04_ARZT/0430_RESSORTBERICHTE/0430_HAWA_Ressorts.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-09-06"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/03_PATIENT/0360_Grippeimpfung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-09-03"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0200_VEREIN_HAWA/0201_1_Organigramm_HAWA.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-08-10"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0200_VEREIN_HAWA/0204_Mitgliedschaftskriterien.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-08-10"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0210_JAHRESBERICHTE/0210_SUBFRAME_JAHRESBERICHTE.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-08-10"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0260_PROJEKTE/0260_SUBFRAME_Projekte.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-08-10"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/03_PATIENT/0330_Aerzteliste_nach_Namen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-08-10"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/03_PATIENT/0340_Kassenliste.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-08-10"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0250_HAWADOC_AG/0250_HAWAdoc_AG.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-07-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/aerzte.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-10-14"
+    },
+    {
+      "URL": "http://hawadoc.ch:80/aerzte.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-04-06"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawanet/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-18"
+    },
+    {
+      "URL": "https://hawadoc.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-19"
+    },
+    {
+      "URL": "https://hawadoc.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2022-12-19"
+    },
+    {
+      "URL": "http://hawadoc.ch/pdf/hawatrust/praxiskompass_bestellung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-25"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawaplus/hawaplus_praxisberatung.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-24"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/information_adobe.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-12-07"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/partner_argomed.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-12-06"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/news_presse.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-02-16"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/wir_presse.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-02-01"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/wir_organigramm.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-01-27"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/wir_bedingungen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-01-22"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/wir_aerzteliste.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2004-01-14"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/pdf/0510_news_2003_1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2003-05-25"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/qualitaet_rahmen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2003-05-25"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawatrust/treuhand.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/fonts/frutiger-pro45-light.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/fonts/frutiger-pro65-bold.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-01-17"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawaplus/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-18"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawatrust/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-18"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/management_summary_konfig_neu.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/RoKo-2010-InfoKOCH-Aug10def.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-30"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/Eastcare_RoKo.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-27"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/pdf/hawadoc/Partnerschaftsvertrag_Ampell%C3%B6sung_InkassoMed.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/factsheet_beratung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/factsheet_debitorenmanagement.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/pdf/hawatrust/factsheet_praxisspiegel-analyse.pdf?m=1705586207",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "URL": "http://hawadoc.ch/pdf/hawaplus/Seminarraumangebot_hawadoc_AG.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-24"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawanet/hawanet_wasist.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-19"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawaplus/hawaplus_wasist.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-19"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawadoc/hawadoc_leitbild.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-18"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawadoc/hawadoc_partner_sponsoren_kooperationspartner.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-18"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawaplus/hawaplus_seminarraeume_am_garnmarkt.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-18"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/versicherer.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-11-18"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/de/hawatrust/hawatrust_wasist_hawatrust.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-10-22"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/de/hawaplus/hawaplus_webseite.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-09-21"
+    },
+    {
+      "URL": "http://www.hawadoc.ch/scripts/iepngfix.htc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2016-08-21"
+    },
+    {
+      "URL": "http://hawadoc.ch/de/hawadoc/hawadoc_partner_kooperationen.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2015-02-09"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/de/hawadoc/hawadoc_oeffnungszeiten.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-08-08"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/de/hawadoc/hawadoc_partner_sponsoren.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-08-08"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/de/hawaplus/hawaplus_dienstleistungen_fortbildungen.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2014-08-08"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/de/hawatrust/hawatrust_daten.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-08-22"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/de/suchresultat.asp?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-08-20"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/versicherte_aerzteliste.asp?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-08-20"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/versicherte_hawa.asp?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-08-20"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/links_guidelines.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2010-06-20"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/versicherte_hausarzt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2008-09-22"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/wir.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-09-26"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/hilfsmenue.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-09-25"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/partner.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-09-21"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-09-14"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/links_care.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-09-09"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/versicherte.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-09-08"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/sitemap.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-09-05"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/home.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-04-05"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/leer.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-04-05"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/partner_buero.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-02-01"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/partner_controlling.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-02-01"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/partner_fachliteratur.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-02-01"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/news_mitteilungen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-30"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/partner_awa.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-30"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/partner_bluecare.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-30"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/mitglied_bed.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-29"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/links_software.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2005-01-28"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0250_HAWADOC_AG/0250_HAWAdoc_navi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-07-25"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0210_JAHRESBERICHTE/0210_JAHRESBERICHTE_start.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-07-24"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0260_PROJEKTE/0260_PROJEKTE_navi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-07-23"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/06_KONTAKT/0610_Plan.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-07-20"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/07_SITEMAP/0710_Webmaster.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-07-20"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/06_KONTAKT/0600_Adresse.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-07-19"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/05_PARTNER/0550_LIEFERANTEN/0550_Lieferanten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-07-18"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/04_ARZT/0440_DIENSTLEISTUNGEN_HAWADOC/0440_DIENSTLEISTUNGEN_navi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-07-11"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/04_ARZT/0410_PRESSE_MEDIEN/0410_SUBFRAME_BLUECARE_FLASH.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-07-08"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/03_PATIENT/0350_Hilfe_im_Notfall.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-07-06"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/03_PATIENT/0300_Hausarztsystem.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-06-07"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0210_JAHRESBERICHTE/0210_JAHRESBERICHTE_navi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-03-27"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/05_PARTNER/0560_KASSENPARTNER/0560_Kassenpartner.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2002-03-22"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/05_PARTNER/0500_MANAGED_CARE_PARTNER/0500_Managed_Care_Partner.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-04-19"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/04_ARZT/0410_PRESSE_MEDIEN/0410_BLUECARE_FLASH_Index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-04-18"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/04_ARZT/0410_PRESSE_MEDIEN/0410_BLUECARE_FLASH_navi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-04-18"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/05_PARTNER/0500_MANAGED_CARE_PARTNER/0500_MAN_CARE_PARTNER_navi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-04-18"
+    },
+    {
+      "URL": "http://www.hawadoc.ch:80/02_UNS/0260_PROJEKTE/0260_Projekte_AMC2001.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2001-03-08"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/fonts/glyphicons-halflings-regular.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawaplus/aerzte-webseite.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-20"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/_pdf/?sID=562",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawanet/blueevidence_und_blueccm.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawanet/dienstleistungen_fuer_aerztenetze.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawanet/dienstleistungen_fuer_arztpraxen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawanet/dienstleistungen_fuer_versicherer.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawanet/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawanet/qualitaetszirkel.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawanet/werbemittel_fuer_das_hausarztmodell.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawaplus/fortbildungen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawaplus/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawaplus/seminarraeume.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawatrust/anmeldung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawatrust/beratung.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawatrust/datensammlung.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawatrust/debitorenmanagement.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawatrust/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawatrust/praxisspiegel-analyse.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawatrust/praxisspiegel.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "URL": "https://www.hawadoc.ch/hawatrust/rechnungsdruck.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "christian.widmer@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-18"
+    },
+    {
+      "E-Mail": "dielleza.ibrahimi@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "E-Mail": "gabriela.ott@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "E-Mail": "hawadoc@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "E-Mail": "jasmin.truppe@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-18"
+    },
+    {
+      "E-Mail": "jessica.ott@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "E-Mail": "kujtim.shkodra@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "E-Mail": "markus.wieser@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-18"
+    },
+    {
+      "E-Mail": "nadia.frisullo@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "E-Mail": "nadine.meier@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "E-Mail": "peter.ritzmann@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "E-Mail": "rueyam.hengartner@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "E-Mail": "sabina.renold@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "E-Mail": "samuel.keiser@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-18"
+    },
+    {
+      "E-Mail": "severine.muenger@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "E-Mail": "shirlenys.haueter@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "E-Mail": "sven.wanner@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "E-Mail": "thomas.kerker@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2024-09-18"
+    },
+    {
+      "E-Mail": "yves.broccon@hawadoc.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41123456789",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "Telefonnummern": "+41522350170",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "Telefonnummern": "+41522350177",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    }
+  ],
+  "service": [
+    {
+      "Port": 25,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "82.197.167.210",
+      "Domain/Subdomain": "mail.hawadoc.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "82.197.167.211",
+      "Domain/Subdomain": "empty.init7.net, hawadoc.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "109.202.196.252",
+      "Domain/Subdomain": "vpn.hawadoc.ch, 109-202-196-252.fiber7.init7.net",
+      "Common Platform Enumeration (CPE)": "cpe:/o:fortinet:fortios",
+      "Im Digitalen Zwilling gescannt am": "2025-05-20",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

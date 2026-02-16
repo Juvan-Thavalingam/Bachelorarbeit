@@ -1,0 +1,2347 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "46.231.207.71",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mail.wespi-partner.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.chromaflex.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    },
+    {
+      "Name Server": "ns2.chromaflex.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 mx a a:relay.corvent.ch a:relay.holzapfel.ch a:mail.geovm.net ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "1814400",
+      "Serial": "2025031306",
+      "Refresh": "10800",
+      "Hostmaster": "info.corvent.ch.",
+      "Minimum TTL": "7200",
+      "Primary Nameserver": "ns1.chromaflex.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "46.231.207.71",
+      "PTR-Domain": "mc16m2112.dnh.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "wespi-partner.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "cloud.wespi-partner.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "download.wespi-partner.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "downloadneu.wespi-partner.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "downloads.wespi-partner.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "kalender.wespi-partner.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "link.wespi-partner.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "mail.wespi-partner.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    },
+    {
+      "Subdomainname": "sogo.wespi-partner.ch",
+      "In Digitalem Twin gescant am": "2025-05-23"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "link.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E5",
+      "Domain/Subdomain": "link.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-04-27",
+      "Gültig bis": "2025-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-27"
+    },
+    {
+      "Gültig ab": "2025-04-27",
+      "Gültig bis": "2025-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-04-27"
+    },
+    {
+      "Gültig ab": "2025-03-28",
+      "Gültig bis": "2025-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-28"
+    },
+    {
+      "Gültig ab": "2025-03-28",
+      "Gültig bis": "2025-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-28"
+    },
+    {
+      "Gültig ab": "2025-03-13",
+      "Gültig bis": "2025-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "link.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-13"
+    },
+    {
+      "Gültig ab": "2025-03-13",
+      "Gültig bis": "2025-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=E6",
+      "Domain/Subdomain": "link.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-03-13"
+    },
+    {
+      "Gültig ab": "2025-02-26",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-26"
+    },
+    {
+      "Gültig ab": "2025-02-26",
+      "Gültig bis": "2025-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-02-26"
+    },
+    {
+      "Gültig ab": "2025-01-26",
+      "Gültig bis": "2025-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-26"
+    },
+    {
+      "Gültig ab": "2025-01-26",
+      "Gültig bis": "2025-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2025-01-26"
+    },
+    {
+      "Gültig ab": "2024-12-28",
+      "Gültig bis": "2025-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-28"
+    },
+    {
+      "Gültig ab": "2024-12-28",
+      "Gültig bis": "2025-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-12-28"
+    },
+    {
+      "Gültig ab": "2024-11-26",
+      "Gültig bis": "2025-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-26"
+    },
+    {
+      "Gültig ab": "2024-11-26",
+      "Gültig bis": "2025-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-11-26"
+    },
+    {
+      "Gültig ab": "2024-10-29",
+      "Gültig bis": "2025-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-29"
+    },
+    {
+      "Gültig ab": "2024-10-29",
+      "Gültig bis": "2025-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-10-29"
+    },
+    {
+      "Gültig ab": "2024-09-27",
+      "Gültig bis": "2024-12-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-27"
+    },
+    {
+      "Gültig ab": "2024-09-27",
+      "Gültig bis": "2024-12-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-09-27"
+    },
+    {
+      "Gültig ab": "2024-08-30",
+      "Gültig bis": "2024-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-30"
+    },
+    {
+      "Gültig ab": "2024-08-30",
+      "Gültig bis": "2024-11-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-08-30"
+    },
+    {
+      "Gültig ab": "2024-07-28",
+      "Gültig bis": "2024-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-07-28"
+    },
+    {
+      "Gültig ab": "2024-07-28",
+      "Gültig bis": "2024-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-07-28"
+    },
+    {
+      "Gültig ab": "2024-07-01",
+      "Gültig bis": "2024-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-07-01"
+    },
+    {
+      "Gültig ab": "2024-07-01",
+      "Gültig bis": "2024-09-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-07-01"
+    },
+    {
+      "Gültig ab": "2024-05-29",
+      "Gültig bis": "2024-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-29"
+    },
+    {
+      "Gültig ab": "2024-05-29",
+      "Gültig bis": "2024-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-29"
+    },
+    {
+      "Gültig ab": "2024-05-02",
+      "Gültig bis": "2024-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-02"
+    },
+    {
+      "Gültig ab": "2024-05-02",
+      "Gültig bis": "2024-07-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-05-02"
+    },
+    {
+      "Gültig ab": "2024-03-30",
+      "Gültig bis": "2024-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-30"
+    },
+    {
+      "Gültig ab": "2024-03-30",
+      "Gültig bis": "2024-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-30"
+    },
+    {
+      "Gültig ab": "2024-03-03",
+      "Gültig bis": "2024-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "Gültig ab": "2024-03-03",
+      "Gültig bis": "2024-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-03"
+    },
+    {
+      "Gültig ab": "2024-01-29",
+      "Gültig bis": "2024-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-29"
+    },
+    {
+      "Gültig ab": "2024-01-29",
+      "Gültig bis": "2024-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-29"
+    },
+    {
+      "Gültig ab": "2024-01-03",
+      "Gültig bis": "2024-04-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-03"
+    },
+    {
+      "Gültig ab": "2024-01-03",
+      "Gültig bis": "2024-04-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-03"
+    },
+    {
+      "Gültig ab": "2023-11-30",
+      "Gültig bis": "2024-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-11-30"
+    },
+    {
+      "Gültig ab": "2023-11-30",
+      "Gültig bis": "2024-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-11-30"
+    },
+    {
+      "Gültig ab": "2023-11-04",
+      "Gültig bis": "2024-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-11-04"
+    },
+    {
+      "Gültig ab": "2023-11-04",
+      "Gültig bis": "2024-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-11-04"
+    },
+    {
+      "Gültig ab": "2023-10-01",
+      "Gültig bis": "2023-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-01"
+    },
+    {
+      "Gültig ab": "2023-10-01",
+      "Gültig bis": "2023-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-10-01"
+    },
+    {
+      "Gültig ab": "2023-09-05",
+      "Gültig bis": "2023-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-05"
+    },
+    {
+      "Gültig ab": "2023-09-05",
+      "Gültig bis": "2023-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-09-05"
+    },
+    {
+      "Gültig ab": "2023-08-01",
+      "Gültig bis": "2023-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-01"
+    },
+    {
+      "Gültig ab": "2023-08-01",
+      "Gültig bis": "2023-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-08-01"
+    },
+    {
+      "Gültig ab": "2023-07-07",
+      "Gültig bis": "2023-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-07-07"
+    },
+    {
+      "Gültig ab": "2023-07-07",
+      "Gültig bis": "2023-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-07-07"
+    },
+    {
+      "Gültig ab": "2022-09-10",
+      "Gültig bis": "2022-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-09-10"
+    },
+    {
+      "Gültig ab": "2023-06-02",
+      "Gültig bis": "2023-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "Gültig ab": "2023-06-02",
+      "Gültig bis": "2023-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-06-02"
+    },
+    {
+      "Gültig ab": "2023-05-08",
+      "Gültig bis": "2023-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-08"
+    },
+    {
+      "Gültig ab": "2023-05-08",
+      "Gültig bis": "2023-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-05-08"
+    },
+    {
+      "Gültig ab": "2023-04-03",
+      "Gültig bis": "2023-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-04-03"
+    },
+    {
+      "Gültig ab": "2023-04-03",
+      "Gültig bis": "2023-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-04-03"
+    },
+    {
+      "Gültig ab": "2023-03-09",
+      "Gültig bis": "2023-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-09"
+    },
+    {
+      "Gültig ab": "2023-03-09",
+      "Gültig bis": "2023-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-03-09"
+    },
+    {
+      "Gültig ab": "2023-02-02",
+      "Gültig bis": "2023-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "Gültig ab": "2023-02-02",
+      "Gültig bis": "2023-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "Gültig ab": "2023-01-08",
+      "Gültig bis": "2023-04-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-01-08"
+    },
+    {
+      "Gültig ab": "2023-01-08",
+      "Gültig bis": "2023-04-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2023-01-08"
+    },
+    {
+      "Gültig ab": "2022-12-04",
+      "Gültig bis": "2023-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-04"
+    },
+    {
+      "Gültig ab": "2022-12-04",
+      "Gültig bis": "2023-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-12-04"
+    },
+    {
+      "Gültig ab": "2022-11-09",
+      "Gültig bis": "2023-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-11-09"
+    },
+    {
+      "Gültig ab": "2022-11-09",
+      "Gültig bis": "2023-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-11-09"
+    },
+    {
+      "Gültig ab": "2022-10-04",
+      "Gültig bis": "2023-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-04"
+    },
+    {
+      "Gültig ab": "2022-10-04",
+      "Gültig bis": "2023-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-10-04"
+    },
+    {
+      "Gültig ab": "2022-09-10",
+      "Gültig bis": "2022-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-09-10"
+    },
+    {
+      "Gültig ab": "2022-08-05",
+      "Gültig bis": "2022-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-05"
+    },
+    {
+      "Gültig ab": "2022-08-05",
+      "Gültig bis": "2022-11-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-08-05"
+    },
+    {
+      "Gültig ab": "2022-07-12",
+      "Gültig bis": "2022-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-07-12"
+    },
+    {
+      "Gültig ab": "2022-07-12",
+      "Gültig bis": "2022-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-07-12"
+    },
+    {
+      "Gültig ab": "2022-06-06",
+      "Gültig bis": "2022-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-06-06"
+    },
+    {
+      "Gültig ab": "2022-06-06",
+      "Gültig bis": "2022-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-06-06"
+    },
+    {
+      "Gültig ab": "2022-05-13",
+      "Gültig bis": "2022-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-05-13"
+    },
+    {
+      "Gültig ab": "2022-05-13",
+      "Gültig bis": "2022-08-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-05-13"
+    },
+    {
+      "Gültig ab": "2022-04-07",
+      "Gültig bis": "2022-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-07"
+    },
+    {
+      "Gültig ab": "2022-04-07",
+      "Gültig bis": "2022-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-04-07"
+    },
+    {
+      "Gültig ab": "2022-03-14",
+      "Gültig bis": "2022-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-03-14"
+    },
+    {
+      "Gültig ab": "2022-03-14",
+      "Gültig bis": "2022-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-03-14"
+    },
+    {
+      "Gültig ab": "2022-02-06",
+      "Gültig bis": "2022-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-06"
+    },
+    {
+      "Gültig ab": "2022-02-06",
+      "Gültig bis": "2022-05-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-02-06"
+    },
+    {
+      "Gültig ab": "2022-01-13",
+      "Gültig bis": "2022-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-01-13"
+    },
+    {
+      "Gültig ab": "2022-01-13",
+      "Gültig bis": "2022-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2022-01-13"
+    },
+    {
+      "Gültig ab": "2021-12-08",
+      "Gültig bis": "2022-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-08"
+    },
+    {
+      "Gültig ab": "2021-12-08",
+      "Gültig bis": "2022-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-12-08"
+    },
+    {
+      "Gültig ab": "2021-11-14",
+      "Gültig bis": "2022-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-11-14"
+    },
+    {
+      "Gültig ab": "2021-11-14",
+      "Gültig bis": "2022-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-11-14"
+    },
+    {
+      "Gültig ab": "2021-10-08",
+      "Gültig bis": "2022-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-10-08"
+    },
+    {
+      "Gültig ab": "2021-10-08",
+      "Gültig bis": "2022-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-10-08"
+    },
+    {
+      "Gültig ab": "2021-09-15",
+      "Gültig bis": "2021-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-09-15"
+    },
+    {
+      "Gültig ab": "2021-09-15",
+      "Gültig bis": "2021-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-09-15"
+    },
+    {
+      "Gültig ab": "2021-08-09",
+      "Gültig bis": "2021-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-08-09"
+    },
+    {
+      "Gültig ab": "2021-08-09",
+      "Gültig bis": "2021-11-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-08-09"
+    },
+    {
+      "Gültig ab": "2021-07-17",
+      "Gültig bis": "2021-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-07-17"
+    },
+    {
+      "Gültig ab": "2021-07-17",
+      "Gültig bis": "2021-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-07-17"
+    },
+    {
+      "Gültig ab": "2021-06-10",
+      "Gültig bis": "2021-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-06-10"
+    },
+    {
+      "Gültig ab": "2021-06-10",
+      "Gültig bis": "2021-09-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch, sogo.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-06-10"
+    },
+    {
+      "Gültig ab": "2021-05-26",
+      "Gültig bis": "2021-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-05-26"
+    },
+    {
+      "Gültig ab": "2021-05-26",
+      "Gültig bis": "2021-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-05-26"
+    },
+    {
+      "Gültig ab": "2021-05-18",
+      "Gültig bis": "2021-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-05-18"
+    },
+    {
+      "Gültig ab": "2021-05-18",
+      "Gültig bis": "2021-08-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-05-18"
+    },
+    {
+      "Gültig ab": "2021-03-26",
+      "Gültig bis": "2021-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-03-26"
+    },
+    {
+      "Gültig ab": "2021-03-26",
+      "Gültig bis": "2021-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-03-26"
+    },
+    {
+      "Gültig ab": "2021-03-19",
+      "Gültig bis": "2021-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-03-19"
+    },
+    {
+      "Gültig ab": "2021-03-19",
+      "Gültig bis": "2021-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-03-19"
+    },
+    {
+      "Gültig ab": "2021-01-25",
+      "Gültig bis": "2021-04-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "Gültig ab": "2021-01-25",
+      "Gültig bis": "2021-04-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "Gültig ab": "2021-01-17",
+      "Gültig bis": "2021-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-01-18"
+    },
+    {
+      "Gültig ab": "2021-01-17",
+      "Gültig bis": "2021-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2021-01-18"
+    },
+    {
+      "Gültig ab": "2020-11-25",
+      "Gültig bis": "2021-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "Gültig ab": "2020-11-25",
+      "Gültig bis": "2021-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "cloud.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, kalender.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "Gültig ab": "2020-11-18",
+      "Gültig bis": "2021-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-11-19"
+    },
+    {
+      "Gültig ab": "2020-11-18",
+      "Gültig bis": "2021-02-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-11-19"
+    },
+    {
+      "Gültig ab": "2020-11-06",
+      "Gültig bis": "2021-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-11-06"
+    },
+    {
+      "Gültig ab": "2020-11-06",
+      "Gültig bis": "2021-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-11-06"
+    },
+    {
+      "Gültig ab": "2020-10-11",
+      "Gültig bis": "2021-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-10-11"
+    },
+    {
+      "Gültig ab": "2020-10-11",
+      "Gültig bis": "2021-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-10-11"
+    },
+    {
+      "Gültig ab": "2020-09-19",
+      "Gültig bis": "2020-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-09-20"
+    },
+    {
+      "Gültig ab": "2020-09-19",
+      "Gültig bis": "2020-12-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-09-20"
+    },
+    {
+      "Gültig ab": "2020-09-08",
+      "Gültig bis": "2020-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-09-08"
+    },
+    {
+      "Gültig ab": "2020-09-08",
+      "Gültig bis": "2020-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-09-08"
+    },
+    {
+      "Gültig ab": "2020-08-13",
+      "Gültig bis": "2020-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-13"
+    },
+    {
+      "Gültig ab": "2020-08-13",
+      "Gültig bis": "2020-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-08-13"
+    },
+    {
+      "Gültig ab": "2020-07-21",
+      "Gültig bis": "2020-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-07-22"
+    },
+    {
+      "Gültig ab": "2020-07-21",
+      "Gültig bis": "2020-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-07-22"
+    },
+    {
+      "Gültig ab": "2020-06-17",
+      "Gültig bis": "2020-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-06-17"
+    },
+    {
+      "Gültig ab": "2020-06-17",
+      "Gültig bis": "2020-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-06-17"
+    },
+    {
+      "Gültig ab": "2020-05-25",
+      "Gültig bis": "2020-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-05-25"
+    },
+    {
+      "Gültig ab": "2020-05-25",
+      "Gültig bis": "2020-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-05-25"
+    },
+    {
+      "Gültig ab": "2020-05-22",
+      "Gültig bis": "2020-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-05-23"
+    },
+    {
+      "Gültig ab": "2020-05-22",
+      "Gültig bis": "2020-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-05-23"
+    },
+    {
+      "Gültig ab": "2020-04-08",
+      "Gültig bis": "2020-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-08"
+    },
+    {
+      "Gültig ab": "2020-04-08",
+      "Gültig bis": "2020-07-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-04-08"
+    },
+    {
+      "Gültig ab": "2020-03-23",
+      "Gültig bis": "2020-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-03-24"
+    },
+    {
+      "Gültig ab": "2020-03-23",
+      "Gültig bis": "2020-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-03-24"
+    },
+    {
+      "Gültig ab": "2020-03-05",
+      "Gültig bis": "2020-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-03-05"
+    },
+    {
+      "Gültig ab": "2020-03-05",
+      "Gültig bis": "2020-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-03-05"
+    },
+    {
+      "Gültig ab": "2020-01-27",
+      "Gültig bis": "2020-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-01-27"
+    },
+    {
+      "Gültig ab": "2020-01-27",
+      "Gültig bis": "2020-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-01-27"
+    },
+    {
+      "Gültig ab": "2020-01-27",
+      "Gültig bis": "2020-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-01-27"
+    },
+    {
+      "Gültig ab": "2020-01-27",
+      "Gültig bis": "2020-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-01-27"
+    },
+    {
+      "Gültig ab": "2020-01-23",
+      "Gültig bis": "2020-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-01-23"
+    },
+    {
+      "Gültig ab": "2020-01-23",
+      "Gültig bis": "2020-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-01-23"
+    },
+    {
+      "Gültig ab": "2020-01-13",
+      "Gültig bis": "2020-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-01-13"
+    },
+    {
+      "Gültig ab": "2020-01-13",
+      "Gültig bis": "2020-04-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2020-01-13"
+    },
+    {
+      "Gültig ab": "2019-11-24",
+      "Gültig bis": "2020-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-11-24"
+    },
+    {
+      "Gültig ab": "2019-11-24",
+      "Gültig bis": "2020-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-11-24"
+    },
+    {
+      "Gültig ab": "2019-11-21",
+      "Gültig bis": "2020-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-11-21"
+    },
+    {
+      "Gültig ab": "2019-11-21",
+      "Gültig bis": "2020-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-11-21"
+    },
+    {
+      "Gültig ab": "2019-11-06",
+      "Gültig bis": "2020-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-11-06"
+    },
+    {
+      "Gültig ab": "2019-11-06",
+      "Gültig bis": "2020-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "downloads.wespi-partner.ch, download.wespi-partner.ch, mail.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-11-06"
+    },
+    {
+      "Gültig ab": "2019-09-25",
+      "Gültig bis": "2019-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-25"
+    },
+    {
+      "Gültig ab": "2019-09-25",
+      "Gültig bis": "2019-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-25"
+    },
+    {
+      "Gültig ab": "2019-09-18",
+      "Gültig bis": "2019-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-18"
+    },
+    {
+      "Gültig ab": "2019-09-18",
+      "Gültig bis": "2019-12-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-09-18"
+    },
+    {
+      "Gültig ab": "2019-07-27",
+      "Gültig bis": "2019-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-07-27"
+    },
+    {
+      "Gültig ab": "2019-07-27",
+      "Gültig bis": "2019-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-07-27"
+    },
+    {
+      "Gültig ab": "2019-07-10",
+      "Gültig bis": "2019-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-07-10"
+    },
+    {
+      "Gültig ab": "2019-07-10",
+      "Gültig bis": "2019-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-07-10"
+    },
+    {
+      "Gültig ab": "2019-05-28",
+      "Gültig bis": "2019-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-28"
+    },
+    {
+      "Gültig ab": "2019-05-28",
+      "Gültig bis": "2019-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-05-28"
+    },
+    {
+      "Gültig ab": "2019-04-30",
+      "Gültig bis": "2019-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-04-30"
+    },
+    {
+      "Gültig ab": "2019-04-30",
+      "Gültig bis": "2019-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-04-30"
+    },
+    {
+      "Gültig ab": "2019-03-29",
+      "Gültig bis": "2019-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-03-29"
+    },
+    {
+      "Gültig ab": "2019-03-29",
+      "Gültig bis": "2019-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-03-29"
+    },
+    {
+      "Gültig ab": "2019-02-01",
+      "Gültig bis": "2019-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-02-01"
+    },
+    {
+      "Gültig ab": "2019-02-01",
+      "Gültig bis": "2019-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-02-01"
+    },
+    {
+      "Gültig ab": "2019-01-28",
+      "Gültig bis": "2019-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-28"
+    },
+    {
+      "Gültig ab": "2019-01-28",
+      "Gültig bis": "2019-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-01-28"
+    },
+    {
+      "Gültig ab": "2018-11-29",
+      "Gültig bis": "2019-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-11-29"
+    },
+    {
+      "Gültig ab": "2018-11-29",
+      "Gültig bis": "2019-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-11-29"
+    },
+    {
+      "Gültig ab": "2018-11-07",
+      "Gültig bis": "2019-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-11-07"
+    },
+    {
+      "Gültig ab": "2018-11-07",
+      "Gültig bis": "2019-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "kalender.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-11-07"
+    },
+    {
+      "Gültig ab": "2018-09-30",
+      "Gültig bis": "2018-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-30"
+    },
+    {
+      "Gültig ab": "2018-09-30",
+      "Gültig bis": "2018-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-09-30"
+    },
+    {
+      "Gültig ab": "2018-08-01",
+      "Gültig bis": "2018-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-01"
+    },
+    {
+      "Gültig ab": "2018-08-01",
+      "Gültig bis": "2018-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-01"
+    },
+    {
+      "Gültig ab": "2018-06-02",
+      "Gültig bis": "2018-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-06-02"
+    },
+    {
+      "Gültig ab": "2018-06-02",
+      "Gültig bis": "2018-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-06-02"
+    },
+    {
+      "Gültig ab": "2018-04-03",
+      "Gültig bis": "2018-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-04-05"
+    },
+    {
+      "Gültig ab": "2018-04-03",
+      "Gültig bis": "2018-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-04-03"
+    },
+    {
+      "Gültig ab": "2018-02-02",
+      "Gültig bis": "2018-05-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-02-02"
+    },
+    {
+      "Gültig ab": "2017-12-04",
+      "Gültig bis": "2018-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-12-04"
+    },
+    {
+      "Gültig ab": "2017-10-04",
+      "Gültig bis": "2018-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-10-04"
+    },
+    {
+      "Gültig ab": "2017-08-04",
+      "Gültig bis": "2017-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-08-04"
+    },
+    {
+      "Gültig ab": "2017-06-04",
+      "Gültig bis": "2017-09-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-06-04"
+    },
+    {
+      "Gültig ab": "2017-03-28",
+      "Gültig bis": "2017-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-28"
+    },
+    {
+      "Gültig ab": "2017-03-28",
+      "Gültig bis": "2017-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "wespi-partner.ch, www.wespi-partner.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-28"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.wespi-partner.ch/index.php?id=1&type=888",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-07"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/verkauf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-03-07"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-20"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/404",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/chronik",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/datenschutzerklaerung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/leistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/werkliste",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/glyphicons-halflings-regular.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-06-08"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/glyphicons-halflings-regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-06-08"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/glyphicons-halflings-regular.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-06-08"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/ionicons.eot?v=2.0.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-06-08"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/ionicons.ttf?v=2.0.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-06-08"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/ionicons.woff?v=2.0.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2019-06-08"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/3-efh-steckborn/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/7-team/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/efh-pfungen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/etw-ermatingen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/etw-weid-seuzach/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/mietwohnungen-rorbas/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/wespi-partner-architekten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-08-30"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/typo3conf/ext/bootstrap_package/Resources/Public/Fonts/glyphicons-halflings-regular.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-07-11"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/8-kontakt/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-07-25"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/miethaeuser-gotzenwil/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-06-28"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/etw-hinterwiler/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-05-29"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/etw-thurpark/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-05-29"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/wohnhaus-thurpark/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-05-29"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/refh-hinterwiler/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-05-08"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/efh-thurpark/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-04-27"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch/sagi-neftenbach/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2017-03-01"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch/1-startseite/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-02"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch/adresse/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-02"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch/2-projekte/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-01"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch/3-referenzen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-01"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch/4-chronik/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-01"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch/5-philosophie/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-01"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch/6-dienstleistungen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-01"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch/9-links/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-01"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch/cms/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-11-01"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch/refh-wilerweg/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2016-06-02"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch/efh-chaemiwisen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2014-01-08"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/cms/upload/projekte/pdf/EFH_Pfungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-12-04"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/defh-popolo-volken/index.html?a=78&level=1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-11-29"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/efh-popolo-volken/index.html?a=77&level=1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-11-29"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/efh-winterthur/index.html?a=16&level=1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-11-29"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/refh-efh-wartgutstr./index.html?a=70&level=1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-11-29"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/refh-thurpark/index.html?a=80&level=1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-11-29"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/efh-neftenbach/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2013-04-01"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/cms/front_content.php?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2011-08-05"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/cms/lageplan.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-04-23"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/cms/upload/projekte/pdf/grundriss_forrenberg_seuzach.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-03-31"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/cms/upload/projekte/pdf/wb_forrenberg.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-03-31"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/projekte/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-03-01"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/projekte/winterthur.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-03-01"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/firmenportrait/team.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2010-01-30"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/projekte/_pdf/info_im_bad_muenchwilen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-27"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/projekte/_pdf/umgebung_bad.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-27"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/firmenportrait/chronik.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/firmenportrait/dienstleistungen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/firmenportrait/philosophie.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/kontakt/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/lageplan.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/links/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/projekte/blumenweg.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/projekte/info@wespi-partner.ch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/projekte/Meienhof1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/projekte/Meienhof2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/projekte/rorbas.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/referenzen/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    },
+    {
+      "URL": "https://www.wespi-partner.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "URL": "http://www.wespi-partner.ch:80/adresse.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2009-11-21"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "c.ruppert@wespi-partner.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "E-Mail": "d.zwicky@wespi-partner.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "E-Mail": "info@wespi-partner.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "E-Mail": "j.vollenweider@wespi-partner.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "E-Mail": "m.rietmann@wespi-partner.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "E-Mail": "m.wespi@wespi-partner.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "E-Mail": "n.mueller@wespi-partner.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "E-Mail": "s.gaetzi@wespi-partner.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "E-Mail": "s.sofranko@wespi-partner.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    },
+    {
+      "E-Mail": "u.loretz@wespi-partner.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2018-10-23"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41523050150",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    },
+    {
+      "Telefonnummern": "+41716885836",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "In öffentlicher Datenbank erfasst am": "2024-01-18"
+    }
+  ],
+  "service": [
+    {
+      "Port": 993,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "77.58.18.66",
+      "Domain/Subdomain": "mail.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, sogo.wespi-partner.ch, cloud.wespi-partner.ch, kalender.wespi-partner.ch, 77-58-18-66.dclient.hispeed.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "Nextcloud",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "77.58.18.66",
+      "Domain/Subdomain": "mail.wespi-partner.ch, downloadneu.wespi-partner.ch, download.wespi-partner.ch, sogo.wespi-partner.ch, cloud.wespi-partner.ch, kalender.wespi-partner.ch, 77-58-18-66.dclient.hispeed.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-23",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

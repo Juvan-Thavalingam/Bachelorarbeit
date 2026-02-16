@@ -1,0 +1,4246 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "149.126.4.102",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a01:ab20:0:4::102",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "mail.brunobinder.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "Name Server": "ns2.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 +a +mx +ip4:194.126.200.0/24 +ip4:149.126.0.0/21 -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "1800",
+      "Expire": "1209600",
+      "Serial": "2023071805",
+      "Refresh": "14400",
+      "Hostmaster": "server.cyon.ch.",
+      "Minimum TTL": "3600",
+      "Primary Nameserver": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "149.126.4.102",
+      "PTR-Domain": "s093.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    },
+    {
+      "IP-Adresse": "2a01:ab20:0:4::102",
+      "PTR-Domain": "s093.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "coaching.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "energylounge.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "projektorganisation.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "coaching.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "erfolgreichfuehren.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "projektorganisation.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "ebook.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "erfolgreichfuehren.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "stressmanagement.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "achtsam.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "ebook.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "kmupotenzialschmiede.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "stressmanagement.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "achtsam.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "energylabor.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "kmupotenzialschmiede.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "arbeitsumfeld.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "energylabor.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "potentialanalyse.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "arbeitsumfeld.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "energylounge.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    },
+    {
+      "Subdomainname": "potentialanalyse.brunobinder.ch",
+      "In Digitalem Twin gescant am": "2025-05-16"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-23",
+      "Gültig bis": "2025-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-23"
+    },
+    {
+      "Gültig ab": "2025-04-23",
+      "Gültig bis": "2025-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-23"
+    },
+    {
+      "Gültig ab": "2025-04-20",
+      "Gültig bis": "2025-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "Gültig ab": "2025-04-20",
+      "Gültig bis": "2025-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "Gültig ab": "2025-04-17",
+      "Gültig bis": "2025-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "Gültig ab": "2025-04-17",
+      "Gültig bis": "2025-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-17"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-04-07",
+      "Gültig bis": "2025-07-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-04-07"
+    },
+    {
+      "Gültig ab": "2025-03-30",
+      "Gültig bis": "2025-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "Gültig ab": "2025-03-30",
+      "Gültig bis": "2025-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "Gültig ab": "2025-03-26",
+      "Gültig bis": "2025-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-27"
+    },
+    {
+      "Gültig ab": "2025-03-26",
+      "Gültig bis": "2025-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-27"
+    },
+    {
+      "Gültig ab": "2025-03-24",
+      "Gültig bis": "2025-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "Gültig ab": "2025-03-24",
+      "Gültig bis": "2025-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "Gültig ab": "2025-03-24",
+      "Gültig bis": "2025-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "Gültig ab": "2025-03-24",
+      "Gültig bis": "2025-06-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-24"
+    },
+    {
+      "Gültig ab": "2025-03-22",
+      "Gültig bis": "2025-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "Gültig ab": "2025-03-22",
+      "Gültig bis": "2025-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "Gültig ab": "2025-03-16",
+      "Gültig bis": "2025-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "Gültig ab": "2025-03-16",
+      "Gültig bis": "2025-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-03-16"
+    },
+    {
+      "Gültig ab": "2025-02-20",
+      "Gültig bis": "2025-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-20"
+    },
+    {
+      "Gültig ab": "2025-02-20",
+      "Gültig bis": "2025-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-20"
+    },
+    {
+      "Gültig ab": "2025-02-18",
+      "Gültig bis": "2025-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    },
+    {
+      "Gültig ab": "2025-02-18",
+      "Gültig bis": "2025-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    },
+    {
+      "Gültig ab": "2025-02-15",
+      "Gültig bis": "2025-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "Gültig ab": "2025-02-15",
+      "Gültig bis": "2025-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-15"
+    },
+    {
+      "Gültig ab": "2025-02-05",
+      "Gültig bis": "2025-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-05"
+    },
+    {
+      "Gültig ab": "2025-02-05",
+      "Gültig bis": "2025-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-05"
+    },
+    {
+      "Gültig ab": "2025-02-04",
+      "Gültig bis": "2025-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-04"
+    },
+    {
+      "Gültig ab": "2025-02-04",
+      "Gültig bis": "2025-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-04"
+    },
+    {
+      "Gültig ab": "2025-01-27",
+      "Gültig bis": "2025-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-27"
+    },
+    {
+      "Gültig ab": "2025-01-27",
+      "Gültig bis": "2025-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-27"
+    },
+    {
+      "Gültig ab": "2025-01-22",
+      "Gültig bis": "2025-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "Gültig ab": "2025-01-22",
+      "Gültig bis": "2025-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "Gültig ab": "2025-01-22",
+      "Gültig bis": "2025-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "Gültig ab": "2025-01-22",
+      "Gültig bis": "2025-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "Gültig ab": "2025-01-22",
+      "Gültig bis": "2025-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "Gültig ab": "2025-01-22",
+      "Gültig bis": "2025-04-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-23"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2025-01-14",
+      "Gültig bis": "2025-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "Gültig ab": "2025-01-14",
+      "Gültig bis": "2025-04-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-14"
+    },
+    {
+      "Gültig ab": "2024-12-21",
+      "Gültig bis": "2025-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-21"
+    },
+    {
+      "Gültig ab": "2024-12-21",
+      "Gültig bis": "2025-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-21"
+    },
+    {
+      "Gültig ab": "2024-12-18",
+      "Gültig bis": "2025-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-18"
+    },
+    {
+      "Gültig ab": "2024-12-18",
+      "Gültig bis": "2025-03-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-18"
+    },
+    {
+      "Gültig ab": "2024-12-16",
+      "Gültig bis": "2025-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-16"
+    },
+    {
+      "Gültig ab": "2024-12-16",
+      "Gültig bis": "2025-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-16"
+    },
+    {
+      "Gültig ab": "2024-12-06",
+      "Gültig bis": "2025-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "Gültig ab": "2024-12-06",
+      "Gültig bis": "2025-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-06"
+    },
+    {
+      "Gültig ab": "2024-12-04",
+      "Gültig bis": "2025-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "Gültig ab": "2024-12-04",
+      "Gültig bis": "2025-03-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "Gültig ab": "2024-11-28",
+      "Gültig bis": "2025-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-28"
+    },
+    {
+      "Gültig ab": "2024-11-28",
+      "Gültig bis": "2025-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-28"
+    },
+    {
+      "Gültig ab": "2024-11-23",
+      "Gültig bis": "2025-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-23"
+    },
+    {
+      "Gültig ab": "2024-11-23",
+      "Gültig bis": "2025-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-23"
+    },
+    {
+      "Gültig ab": "2024-11-23",
+      "Gültig bis": "2025-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-23"
+    },
+    {
+      "Gültig ab": "2024-11-23",
+      "Gültig bis": "2025-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-23"
+    },
+    {
+      "Gültig ab": "2024-11-23",
+      "Gültig bis": "2025-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-23"
+    },
+    {
+      "Gültig ab": "2024-11-23",
+      "Gültig bis": "2025-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-23"
+    },
+    {
+      "Gültig ab": "2024-11-20",
+      "Gültig bis": "2025-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-20"
+    },
+    {
+      "Gültig ab": "2024-11-20",
+      "Gültig bis": "2025-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-20"
+    },
+    {
+      "Gültig ab": "2024-11-14",
+      "Gültig bis": "2025-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-14"
+    },
+    {
+      "Gültig ab": "2024-11-14",
+      "Gültig bis": "2025-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-14"
+    },
+    {
+      "Gültig ab": "2024-10-21",
+      "Gültig bis": "2025-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-21"
+    },
+    {
+      "Gültig ab": "2024-10-21",
+      "Gültig bis": "2025-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-21"
+    },
+    {
+      "Gültig ab": "2024-10-18",
+      "Gültig bis": "2025-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-18"
+    },
+    {
+      "Gültig ab": "2024-10-18",
+      "Gültig bis": "2025-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-18"
+    },
+    {
+      "Gültig ab": "2024-10-15",
+      "Gültig bis": "2025-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-15"
+    },
+    {
+      "Gültig ab": "2024-10-15",
+      "Gültig bis": "2025-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-15"
+    },
+    {
+      "Gültig ab": "2024-10-06",
+      "Gültig bis": "2025-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "Gültig ab": "2024-10-06",
+      "Gültig bis": "2025-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-06"
+    },
+    {
+      "Gültig ab": "2024-10-04",
+      "Gültig bis": "2025-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-04"
+    },
+    {
+      "Gültig ab": "2024-10-04",
+      "Gültig bis": "2025-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-10-04"
+    },
+    {
+      "Gültig ab": "2024-09-27",
+      "Gültig bis": "2024-12-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-27"
+    },
+    {
+      "Gültig ab": "2024-09-27",
+      "Gültig bis": "2024-12-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-27"
+    },
+    {
+      "Gültig ab": "2024-09-24",
+      "Gültig bis": "2024-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "Gültig ab": "2024-09-24",
+      "Gültig bis": "2024-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "Gültig ab": "2024-09-24",
+      "Gültig bis": "2024-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "Gültig ab": "2024-09-24",
+      "Gültig bis": "2024-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-24"
+    },
+    {
+      "Gültig ab": "2024-09-23",
+      "Gültig bis": "2024-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-23"
+    },
+    {
+      "Gültig ab": "2024-09-23",
+      "Gültig bis": "2024-12-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-23"
+    },
+    {
+      "Gültig ab": "2024-09-20",
+      "Gültig bis": "2024-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "Gültig ab": "2024-09-20",
+      "Gültig bis": "2024-12-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-20"
+    },
+    {
+      "Gültig ab": "2024-09-14",
+      "Gültig bis": "2024-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-14"
+    },
+    {
+      "Gültig ab": "2024-09-14",
+      "Gültig bis": "2024-12-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-09-14"
+    },
+    {
+      "Gültig ab": "2024-08-21",
+      "Gültig bis": "2024-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-21"
+    },
+    {
+      "Gültig ab": "2024-08-21",
+      "Gültig bis": "2024-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-21"
+    },
+    {
+      "Gültig ab": "2024-08-18",
+      "Gültig bis": "2024-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-18"
+    },
+    {
+      "Gültig ab": "2024-08-18",
+      "Gültig bis": "2024-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-18"
+    },
+    {
+      "Gültig ab": "2024-08-15",
+      "Gültig bis": "2024-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-15"
+    },
+    {
+      "Gültig ab": "2024-08-15",
+      "Gültig bis": "2024-11-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-15"
+    },
+    {
+      "Gültig ab": "2024-08-06",
+      "Gültig bis": "2024-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "Gültig ab": "2024-08-06",
+      "Gültig bis": "2024-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-06"
+    },
+    {
+      "Gültig ab": "2024-08-04",
+      "Gültig bis": "2024-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "Gültig ab": "2024-08-04",
+      "Gültig bis": "2024-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "Gültig ab": "2024-07-28",
+      "Gültig bis": "2024-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-28"
+    },
+    {
+      "Gültig ab": "2024-07-28",
+      "Gültig bis": "2024-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-28"
+    },
+    {
+      "Gültig ab": "2024-07-25",
+      "Gültig bis": "2024-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-25"
+    },
+    {
+      "Gültig ab": "2024-07-25",
+      "Gültig bis": "2024-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-25"
+    },
+    {
+      "Gültig ab": "2024-07-24",
+      "Gültig bis": "2024-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "Gültig ab": "2024-07-24",
+      "Gültig bis": "2024-10-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "Gültig ab": "2024-07-22",
+      "Gültig bis": "2024-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "Gültig ab": "2024-07-22",
+      "Gültig bis": "2024-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-22"
+    },
+    {
+      "Gültig ab": "2024-07-21",
+      "Gültig bis": "2024-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "Gültig ab": "2024-07-21",
+      "Gültig bis": "2024-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-21"
+    },
+    {
+      "Gültig ab": "2024-07-15",
+      "Gültig bis": "2024-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "Gültig ab": "2024-07-15",
+      "Gültig bis": "2024-10-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "Gültig ab": "2024-06-20",
+      "Gültig bis": "2024-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "Gültig ab": "2024-06-20",
+      "Gültig bis": "2024-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-20"
+    },
+    {
+      "Gültig ab": "2024-06-18",
+      "Gültig bis": "2024-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "Gültig ab": "2024-06-18",
+      "Gültig bis": "2024-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-18"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-06-15",
+      "Gültig bis": "2024-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-15"
+    },
+    {
+      "Gültig ab": "2024-06-06",
+      "Gültig bis": "2024-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "Gültig ab": "2024-06-06",
+      "Gültig bis": "2024-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-06"
+    },
+    {
+      "Gültig ab": "2024-06-03",
+      "Gültig bis": "2024-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-03"
+    },
+    {
+      "Gültig ab": "2024-06-03",
+      "Gültig bis": "2024-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-06-03"
+    },
+    {
+      "Gültig ab": "2024-05-28",
+      "Gültig bis": "2024-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "Gültig ab": "2024-05-28",
+      "Gültig bis": "2024-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "Gültig ab": "2024-05-25",
+      "Gültig bis": "2024-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-25"
+    },
+    {
+      "Gültig ab": "2024-05-25",
+      "Gültig bis": "2024-08-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-25"
+    },
+    {
+      "Gültig ab": "2024-05-22",
+      "Gültig bis": "2024-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-22"
+    },
+    {
+      "Gültig ab": "2024-05-22",
+      "Gültig bis": "2024-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-22"
+    },
+    {
+      "Gültig ab": "2024-05-22",
+      "Gültig bis": "2024-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-22"
+    },
+    {
+      "Gültig ab": "2024-05-22",
+      "Gültig bis": "2024-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-22"
+    },
+    {
+      "Gültig ab": "2024-05-19",
+      "Gültig bis": "2024-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-19"
+    },
+    {
+      "Gültig ab": "2024-05-19",
+      "Gültig bis": "2024-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-19"
+    },
+    {
+      "Gültig ab": "2024-05-15",
+      "Gültig bis": "2024-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-15"
+    },
+    {
+      "Gültig ab": "2024-05-15",
+      "Gültig bis": "2024-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-15"
+    },
+    {
+      "Gültig ab": "2024-04-20",
+      "Gültig bis": "2024-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-20"
+    },
+    {
+      "Gültig ab": "2024-04-20",
+      "Gültig bis": "2024-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-20"
+    },
+    {
+      "Gültig ab": "2024-04-18",
+      "Gültig bis": "2024-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-18"
+    },
+    {
+      "Gültig ab": "2024-04-18",
+      "Gültig bis": "2024-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-18"
+    },
+    {
+      "Gültig ab": "2024-04-15",
+      "Gültig bis": "2024-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "Gültig ab": "2024-04-15",
+      "Gültig bis": "2024-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-15"
+    },
+    {
+      "Gültig ab": "2024-04-04",
+      "Gültig bis": "2024-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-04-04",
+      "Gültig bis": "2024-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-04-03",
+      "Gültig bis": "2024-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-03"
+    },
+    {
+      "Gültig ab": "2024-04-03",
+      "Gültig bis": "2024-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-04-03"
+    },
+    {
+      "Gültig ab": "2024-03-28",
+      "Gültig bis": "2024-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-28"
+    },
+    {
+      "Gültig ab": "2024-03-28",
+      "Gültig bis": "2024-06-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-28"
+    },
+    {
+      "Gültig ab": "2024-03-25",
+      "Gültig bis": "2024-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "Gültig ab": "2024-03-25",
+      "Gültig bis": "2024-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "Gültig ab": "2024-03-22",
+      "Gültig bis": "2024-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-22"
+    },
+    {
+      "Gültig ab": "2024-03-22",
+      "Gültig bis": "2024-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-22"
+    },
+    {
+      "Gültig ab": "2024-03-22",
+      "Gültig bis": "2024-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-22"
+    },
+    {
+      "Gültig ab": "2024-03-22",
+      "Gültig bis": "2024-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-22"
+    },
+    {
+      "Gültig ab": "2024-03-19",
+      "Gültig bis": "2024-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-19"
+    },
+    {
+      "Gültig ab": "2024-03-19",
+      "Gültig bis": "2024-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-19"
+    },
+    {
+      "Gültig ab": "2024-03-15",
+      "Gültig bis": "2024-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-15"
+    },
+    {
+      "Gültig ab": "2024-03-15",
+      "Gültig bis": "2024-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-03-15"
+    },
+    {
+      "Gültig ab": "2024-02-17",
+      "Gültig bis": "2024-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "Gültig ab": "2024-02-17",
+      "Gültig bis": "2024-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "Gültig ab": "2024-02-17",
+      "Gültig bis": "2024-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "Gültig ab": "2024-02-17",
+      "Gültig bis": "2024-05-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-17"
+    },
+    {
+      "Gültig ab": "2024-02-14",
+      "Gültig bis": "2024-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-14"
+    },
+    {
+      "Gültig ab": "2024-02-14",
+      "Gültig bis": "2024-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-14"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-02-02",
+      "Gültig bis": "2024-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-02-02"
+    },
+    {
+      "Gültig ab": "2024-01-27",
+      "Gültig bis": "2024-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-27"
+    },
+    {
+      "Gültig ab": "2024-01-27",
+      "Gültig bis": "2024-04-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-27"
+    },
+    {
+      "Gültig ab": "2024-01-24",
+      "Gültig bis": "2024-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-24"
+    },
+    {
+      "Gültig ab": "2024-01-24",
+      "Gültig bis": "2024-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-24"
+    },
+    {
+      "Gültig ab": "2024-01-21",
+      "Gültig bis": "2024-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "Gültig ab": "2024-01-21",
+      "Gültig bis": "2024-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-21"
+    },
+    {
+      "Gültig ab": "2024-01-19",
+      "Gültig bis": "2024-04-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-19"
+    },
+    {
+      "Gültig ab": "2024-01-19",
+      "Gültig bis": "2024-04-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-19"
+    },
+    {
+      "Gültig ab": "2024-01-17",
+      "Gültig bis": "2024-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "Gültig ab": "2024-01-17",
+      "Gültig bis": "2024-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "Gültig ab": "2024-01-14",
+      "Gültig bis": "2024-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-14"
+    },
+    {
+      "Gültig ab": "2024-01-14",
+      "Gültig bis": "2024-04-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-01-14"
+    },
+    {
+      "Gültig ab": "2023-12-17",
+      "Gültig bis": "2024-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-17"
+    },
+    {
+      "Gültig ab": "2023-12-17",
+      "Gültig bis": "2024-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-17"
+    },
+    {
+      "Gültig ab": "2023-12-17",
+      "Gültig bis": "2024-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-17"
+    },
+    {
+      "Gültig ab": "2023-12-17",
+      "Gültig bis": "2024-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-17"
+    },
+    {
+      "Gültig ab": "2023-12-15",
+      "Gültig bis": "2024-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "Gültig ab": "2023-12-15",
+      "Gültig bis": "2024-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-15"
+    },
+    {
+      "Gültig ab": "2023-12-03",
+      "Gültig bis": "2024-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "Gültig ab": "2023-12-03",
+      "Gültig bis": "2024-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "Gültig ab": "2023-12-03",
+      "Gültig bis": "2024-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "Gültig ab": "2023-12-03",
+      "Gültig bis": "2024-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-12-03"
+    },
+    {
+      "Gültig ab": "2023-11-26",
+      "Gültig bis": "2024-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-26"
+    },
+    {
+      "Gültig ab": "2023-11-26",
+      "Gültig bis": "2024-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-26"
+    },
+    {
+      "Gültig ab": "2023-11-24",
+      "Gültig bis": "2024-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-24"
+    },
+    {
+      "Gültig ab": "2023-11-24",
+      "Gültig bis": "2024-02-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-24"
+    },
+    {
+      "Gültig ab": "2023-11-21",
+      "Gültig bis": "2024-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-21"
+    },
+    {
+      "Gültig ab": "2023-11-21",
+      "Gültig bis": "2024-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-21"
+    },
+    {
+      "Gültig ab": "2023-11-16",
+      "Gültig bis": "2024-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-16"
+    },
+    {
+      "Gültig ab": "2023-11-16",
+      "Gültig bis": "2024-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-16"
+    },
+    {
+      "Gültig ab": "2023-11-16",
+      "Gültig bis": "2024-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-16"
+    },
+    {
+      "Gültig ab": "2023-11-16",
+      "Gültig bis": "2024-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-16"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "Gültig ab": "2023-11-14",
+      "Gültig bis": "2024-02-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-11-14"
+    },
+    {
+      "Gültig ab": "2023-10-17",
+      "Gültig bis": "2024-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "Gültig ab": "2023-10-17",
+      "Gültig bis": "2024-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "Gültig ab": "2023-10-17",
+      "Gültig bis": "2024-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "Gültig ab": "2023-10-17",
+      "Gültig bis": "2024-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "Gültig ab": "2023-10-15",
+      "Gültig bis": "2024-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-15"
+    },
+    {
+      "Gültig ab": "2023-10-15",
+      "Gültig bis": "2024-01-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-15"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-10-04",
+      "Gültig bis": "2024-01-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-04"
+    },
+    {
+      "Gültig ab": "2023-10-03",
+      "Gültig bis": "2024-01-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "Gültig ab": "2023-10-03",
+      "Gültig bis": "2024-01-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "Gültig ab": "2023-09-26",
+      "Gültig bis": "2023-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-26"
+    },
+    {
+      "Gültig ab": "2023-09-26",
+      "Gültig bis": "2023-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-26"
+    },
+    {
+      "Gültig ab": "2023-09-24",
+      "Gültig bis": "2023-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "Gültig ab": "2023-09-24",
+      "Gültig bis": "2023-12-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-24"
+    },
+    {
+      "Gültig ab": "2023-09-21",
+      "Gültig bis": "2023-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "Gültig ab": "2023-09-21",
+      "Gültig bis": "2023-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-21"
+    },
+    {
+      "Gültig ab": "2023-09-17",
+      "Gültig bis": "2023-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-17"
+    },
+    {
+      "Gültig ab": "2023-09-17",
+      "Gültig bis": "2023-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-17"
+    },
+    {
+      "Gültig ab": "2023-09-17",
+      "Gültig bis": "2023-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-17"
+    },
+    {
+      "Gültig ab": "2023-09-17",
+      "Gültig bis": "2023-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-17"
+    },
+    {
+      "Gültig ab": "2023-09-15",
+      "Gültig bis": "2023-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-15"
+    },
+    {
+      "Gültig ab": "2023-09-15",
+      "Gültig bis": "2023-12-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-09-15"
+    },
+    {
+      "Gültig ab": "2023-08-18",
+      "Gültig bis": "2023-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-08-18"
+    },
+    {
+      "Gültig ab": "2023-08-18",
+      "Gültig bis": "2023-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-08-18"
+    },
+    {
+      "Gültig ab": "2023-08-17",
+      "Gültig bis": "2023-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-08-17"
+    },
+    {
+      "Gültig ab": "2023-08-17",
+      "Gültig bis": "2023-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-08-17"
+    },
+    {
+      "Gültig ab": "2023-08-13",
+      "Gültig bis": "2023-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-08-14"
+    },
+    {
+      "Gültig ab": "2023-08-13",
+      "Gültig bis": "2023-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-08-14"
+    },
+    {
+      "Gültig ab": "2023-08-03",
+      "Gültig bis": "2023-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-08-03"
+    },
+    {
+      "Gültig ab": "2023-08-03",
+      "Gültig bis": "2023-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-08-03"
+    },
+    {
+      "Gültig ab": "2023-08-03",
+      "Gültig bis": "2023-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-08-03"
+    },
+    {
+      "Gültig ab": "2023-08-03",
+      "Gültig bis": "2023-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-08-03"
+    },
+    {
+      "Gültig ab": "2023-07-27",
+      "Gültig bis": "2023-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-27"
+    },
+    {
+      "Gültig ab": "2023-07-27",
+      "Gültig bis": "2023-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-27"
+    },
+    {
+      "Gültig ab": "2023-07-25",
+      "Gültig bis": "2023-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-25"
+    },
+    {
+      "Gültig ab": "2023-07-25",
+      "Gültig bis": "2023-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-25"
+    },
+    {
+      "Gültig ab": "2023-07-22",
+      "Gültig bis": "2023-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-22"
+    },
+    {
+      "Gültig ab": "2023-07-22",
+      "Gültig bis": "2023-10-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-22"
+    },
+    {
+      "Gültig ab": "2023-07-19",
+      "Gültig bis": "2023-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-19"
+    },
+    {
+      "Gültig ab": "2023-07-19",
+      "Gültig bis": "2023-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-19"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-18",
+      "Gültig bis": "2023-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "kmupotenzialschmiede.brunobinder.ch, www.kmupotenzialschmiede.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-18"
+    },
+    {
+      "Gültig ab": "2023-07-16",
+      "Gültig bis": "2023-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-16"
+    },
+    {
+      "Gültig ab": "2023-07-16",
+      "Gültig bis": "2023-10-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-07-16"
+    },
+    {
+      "Gültig ab": "2023-06-18",
+      "Gültig bis": "2023-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-18"
+    },
+    {
+      "Gültig ab": "2023-06-18",
+      "Gültig bis": "2023-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-18"
+    },
+    {
+      "Gültig ab": "2023-06-17",
+      "Gültig bis": "2023-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "Gültig ab": "2023-06-17",
+      "Gültig bis": "2023-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-17"
+    },
+    {
+      "Gültig ab": "2023-06-13",
+      "Gültig bis": "2023-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-13"
+    },
+    {
+      "Gültig ab": "2023-06-13",
+      "Gültig bis": "2023-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-13"
+    },
+    {
+      "Gültig ab": "2023-06-03",
+      "Gültig bis": "2023-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-03"
+    },
+    {
+      "Gültig ab": "2023-06-03",
+      "Gültig bis": "2023-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-03"
+    },
+    {
+      "Gültig ab": "2023-06-03",
+      "Gültig bis": "2023-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-03"
+    },
+    {
+      "Gültig ab": "2023-06-03",
+      "Gültig bis": "2023-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-06-03"
+    },
+    {
+      "Gültig ab": "2023-05-26",
+      "Gültig bis": "2023-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-27"
+    },
+    {
+      "Gültig ab": "2023-05-26",
+      "Gültig bis": "2023-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-27"
+    },
+    {
+      "Gültig ab": "2023-05-22",
+      "Gültig bis": "2023-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-22"
+    },
+    {
+      "Gültig ab": "2023-05-22",
+      "Gültig bis": "2023-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-22"
+    },
+    {
+      "Gültig ab": "2023-05-22",
+      "Gültig bis": "2023-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-22"
+    },
+    {
+      "Gültig ab": "2023-05-22",
+      "Gültig bis": "2023-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-22"
+    },
+    {
+      "Gültig ab": "2023-05-19",
+      "Gültig bis": "2023-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-19"
+    },
+    {
+      "Gültig ab": "2023-05-19",
+      "Gültig bis": "2023-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-19"
+    },
+    {
+      "Gültig ab": "2023-05-14",
+      "Gültig bis": "2023-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "Gültig ab": "2023-05-14",
+      "Gültig bis": "2023-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-05-14"
+    },
+    {
+      "Gültig ab": "2023-04-19",
+      "Gültig bis": "2023-07-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-04-19"
+    },
+    {
+      "Gültig ab": "2023-04-19",
+      "Gültig bis": "2023-07-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-04-19"
+    },
+    {
+      "Gültig ab": "2023-04-17",
+      "Gültig bis": "2023-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-04-17"
+    },
+    {
+      "Gültig ab": "2023-04-17",
+      "Gültig bis": "2023-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "potentialanalyse.brunobinder.ch, www.potentialanalyse.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-04-17"
+    },
+    {
+      "Gültig ab": "2023-04-14",
+      "Gültig bis": "2023-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-04-14"
+    },
+    {
+      "Gültig ab": "2023-04-14",
+      "Gültig bis": "2023-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-04-14"
+    },
+    {
+      "Gültig ab": "2023-04-04",
+      "Gültig bis": "2023-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-04-04"
+    },
+    {
+      "Gültig ab": "2023-04-04",
+      "Gültig bis": "2023-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-04-04"
+    },
+    {
+      "Gültig ab": "2023-04-03",
+      "Gültig bis": "2023-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-04-03"
+    },
+    {
+      "Gültig ab": "2023-04-03",
+      "Gültig bis": "2023-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-04-03"
+    },
+    {
+      "Gültig ab": "2023-03-26",
+      "Gültig bis": "2023-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-26"
+    },
+    {
+      "Gültig ab": "2023-03-26",
+      "Gültig bis": "2023-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-26"
+    },
+    {
+      "Gültig ab": "2023-03-23",
+      "Gültig bis": "2023-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-23"
+    },
+    {
+      "Gültig ab": "2023-03-23",
+      "Gültig bis": "2023-06-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "arbeitsumfeld.brunobinder.ch, www.arbeitsumfeld.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-23"
+    },
+    {
+      "Gültig ab": "2023-03-22",
+      "Gültig bis": "2023-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "projektorganisation.brunobinder.ch, www.projektorganisation.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-22"
+    },
+    {
+      "Gültig ab": "2023-03-22",
+      "Gültig bis": "2023-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "projektorganisation.brunobinder.ch, www.projektorganisation.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-22"
+    },
+    {
+      "Gültig ab": "2023-03-22",
+      "Gültig bis": "2023-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-22"
+    },
+    {
+      "Gültig ab": "2023-03-22",
+      "Gültig bis": "2023-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "erfolgreichfuehren.brunobinder.ch, www.erfolgreichfuehren.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-22"
+    },
+    {
+      "Gültig ab": "2023-03-19",
+      "Gültig bis": "2023-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-19"
+    },
+    {
+      "Gültig ab": "2023-03-19",
+      "Gültig bis": "2023-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-19"
+    },
+    {
+      "Gültig ab": "2023-03-13",
+      "Gültig bis": "2023-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-13"
+    },
+    {
+      "Gültig ab": "2023-03-13",
+      "Gültig bis": "2023-06-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-03-13"
+    },
+    {
+      "Gültig ab": "2023-02-17",
+      "Gültig bis": "2023-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-17"
+    },
+    {
+      "Gültig ab": "2023-02-17",
+      "Gültig bis": "2023-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-17"
+    },
+    {
+      "Gültig ab": "2023-02-12",
+      "Gültig bis": "2023-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-12"
+    },
+    {
+      "Gültig ab": "2023-02-12",
+      "Gültig bis": "2023-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-12"
+    },
+    {
+      "Gültig ab": "2023-02-01",
+      "Gültig bis": "2023-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-01"
+    },
+    {
+      "Gültig ab": "2023-02-01",
+      "Gültig bis": "2023-05-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-02-01"
+    },
+    {
+      "Gültig ab": "2023-01-31",
+      "Gültig bis": "2023-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "Gültig ab": "2023-01-31",
+      "Gültig bis": "2023-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "Gültig ab": "2023-01-23",
+      "Gültig bis": "2023-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-23"
+    },
+    {
+      "Gültig ab": "2023-01-23",
+      "Gültig bis": "2023-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-23"
+    },
+    {
+      "Gültig ab": "2023-01-17",
+      "Gültig bis": "2023-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-17"
+    },
+    {
+      "Gültig ab": "2023-01-17",
+      "Gültig bis": "2023-04-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-17"
+    },
+    {
+      "Gültig ab": "2023-01-11",
+      "Gültig bis": "2023-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-11"
+    },
+    {
+      "Gültig ab": "2023-01-11",
+      "Gültig bis": "2023-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2023-01-11"
+    },
+    {
+      "Gültig ab": "2022-12-17",
+      "Gültig bis": "2023-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-17"
+    },
+    {
+      "Gültig ab": "2022-12-17",
+      "Gültig bis": "2023-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-17"
+    },
+    {
+      "Gültig ab": "2022-12-12",
+      "Gültig bis": "2023-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-12"
+    },
+    {
+      "Gültig ab": "2022-12-12",
+      "Gültig bis": "2023-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-12"
+    },
+    {
+      "Gültig ab": "2022-12-02",
+      "Gültig bis": "2023-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-02"
+    },
+    {
+      "Gültig ab": "2022-12-02",
+      "Gültig bis": "2023-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-12-02"
+    },
+    {
+      "Gültig ab": "2022-11-30",
+      "Gültig bis": "2023-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "Gültig ab": "2022-11-30",
+      "Gültig bis": "2023-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-30"
+    },
+    {
+      "Gültig ab": "2022-11-23",
+      "Gültig bis": "2023-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-23"
+    },
+    {
+      "Gültig ab": "2022-11-23",
+      "Gültig bis": "2023-02-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-23"
+    },
+    {
+      "Gültig ab": "2022-11-17",
+      "Gültig bis": "2023-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-17"
+    },
+    {
+      "Gültig ab": "2022-11-17",
+      "Gültig bis": "2023-02-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-17"
+    },
+    {
+      "Gültig ab": "2022-11-10",
+      "Gültig bis": "2023-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-10"
+    },
+    {
+      "Gültig ab": "2022-11-10",
+      "Gültig bis": "2023-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-11-10"
+    },
+    {
+      "Gültig ab": "2022-10-17",
+      "Gültig bis": "2023-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-17"
+    },
+    {
+      "Gültig ab": "2022-10-17",
+      "Gültig bis": "2023-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-17"
+    },
+    {
+      "Gültig ab": "2022-10-11",
+      "Gültig bis": "2023-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-11"
+    },
+    {
+      "Gültig ab": "2022-10-11",
+      "Gültig bis": "2023-01-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-11"
+    },
+    {
+      "Gültig ab": "2022-10-01",
+      "Gültig bis": "2022-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-01"
+    },
+    {
+      "Gültig ab": "2022-10-01",
+      "Gültig bis": "2022-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-10-01"
+    },
+    {
+      "Gültig ab": "2022-09-29",
+      "Gültig bis": "2022-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-29"
+    },
+    {
+      "Gültig ab": "2022-09-29",
+      "Gültig bis": "2022-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-29"
+    },
+    {
+      "Gültig ab": "2022-09-22",
+      "Gültig bis": "2022-12-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-22"
+    },
+    {
+      "Gültig ab": "2022-09-22",
+      "Gültig bis": "2022-12-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-22"
+    },
+    {
+      "Gültig ab": "2022-09-17",
+      "Gültig bis": "2022-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-17"
+    },
+    {
+      "Gültig ab": "2022-09-17",
+      "Gültig bis": "2022-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-17"
+    },
+    {
+      "Gültig ab": "2022-09-11",
+      "Gültig bis": "2022-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-11"
+    },
+    {
+      "Gültig ab": "2022-09-11",
+      "Gültig bis": "2022-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-09-11"
+    },
+    {
+      "Gültig ab": "2022-08-18",
+      "Gültig bis": "2022-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-18"
+    },
+    {
+      "Gültig ab": "2022-08-18",
+      "Gültig bis": "2022-11-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-18"
+    },
+    {
+      "Gültig ab": "2022-08-12",
+      "Gültig bis": "2022-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-12"
+    },
+    {
+      "Gültig ab": "2022-08-12",
+      "Gültig bis": "2022-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-12"
+    },
+    {
+      "Gültig ab": "2022-08-01",
+      "Gültig bis": "2022-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-01"
+    },
+    {
+      "Gültig ab": "2022-08-01",
+      "Gültig bis": "2022-10-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-08-01"
+    },
+    {
+      "Gültig ab": "2022-07-30",
+      "Gültig bis": "2022-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-30"
+    },
+    {
+      "Gültig ab": "2022-07-30",
+      "Gültig bis": "2022-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-30"
+    },
+    {
+      "Gültig ab": "2022-07-21",
+      "Gültig bis": "2022-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-21"
+    },
+    {
+      "Gültig ab": "2022-07-21",
+      "Gültig bis": "2022-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-21"
+    },
+    {
+      "Gültig ab": "2022-07-19",
+      "Gültig bis": "2022-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-19"
+    },
+    {
+      "Gültig ab": "2022-07-19",
+      "Gültig bis": "2022-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "achtsam.brunobinder.ch, www.achtsam.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-19"
+    },
+    {
+      "Gültig ab": "2022-07-12",
+      "Gültig bis": "2022-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-12"
+    },
+    {
+      "Gültig ab": "2022-07-12",
+      "Gültig bis": "2022-10-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-07-12"
+    },
+    {
+      "Gültig ab": "2022-06-17",
+      "Gültig bis": "2022-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-17"
+    },
+    {
+      "Gültig ab": "2022-06-17",
+      "Gültig bis": "2022-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-17"
+    },
+    {
+      "Gültig ab": "2022-06-12",
+      "Gültig bis": "2022-09-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-12"
+    },
+    {
+      "Gültig ab": "2022-06-12",
+      "Gültig bis": "2022-09-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-12"
+    },
+    {
+      "Gültig ab": "2022-06-01",
+      "Gültig bis": "2022-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-01"
+    },
+    {
+      "Gültig ab": "2022-06-01",
+      "Gültig bis": "2022-08-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-06-01"
+    },
+    {
+      "Gültig ab": "2022-05-28",
+      "Gültig bis": "2022-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-05-28"
+    },
+    {
+      "Gültig ab": "2022-05-28",
+      "Gültig bis": "2022-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-05-28"
+    },
+    {
+      "Gültig ab": "2022-05-20",
+      "Gültig bis": "2022-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-05-20"
+    },
+    {
+      "Gültig ab": "2022-05-20",
+      "Gültig bis": "2022-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-05-20"
+    },
+    {
+      "Gültig ab": "2022-05-12",
+      "Gültig bis": "2022-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-05-12"
+    },
+    {
+      "Gültig ab": "2022-05-12",
+      "Gültig bis": "2022-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stressmanagement.brunobinder.ch, www.stressmanagement.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-05-12"
+    },
+    {
+      "Gültig ab": "2022-04-17",
+      "Gültig bis": "2022-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-17"
+    },
+    {
+      "Gültig ab": "2022-04-17",
+      "Gültig bis": "2022-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-17"
+    },
+    {
+      "Gültig ab": "2022-04-11",
+      "Gültig bis": "2022-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "Gültig ab": "2022-04-11",
+      "Gültig bis": "2022-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylabor.brunobinder.ch, www.energylabor.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "Gültig ab": "2022-04-01",
+      "Gültig bis": "2022-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-01"
+    },
+    {
+      "Gültig ab": "2022-04-01",
+      "Gültig bis": "2022-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-01"
+    },
+    {
+      "Gültig ab": "2022-03-27",
+      "Gültig bis": "2022-06-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-27"
+    },
+    {
+      "Gültig ab": "2022-03-27",
+      "Gültig bis": "2022-06-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-27"
+    },
+    {
+      "Gültig ab": "2022-03-20",
+      "Gültig bis": "2022-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-20"
+    },
+    {
+      "Gültig ab": "2022-03-20",
+      "Gültig bis": "2022-06-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-03-20"
+    },
+    {
+      "Gültig ab": "2022-02-15",
+      "Gültig bis": "2022-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-02-15"
+    },
+    {
+      "Gültig ab": "2022-02-15",
+      "Gültig bis": "2022-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-02-15"
+    },
+    {
+      "Gültig ab": "2022-01-30",
+      "Gültig bis": "2022-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-30"
+    },
+    {
+      "Gültig ab": "2022-01-30",
+      "Gültig bis": "2022-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-30"
+    },
+    {
+      "Gültig ab": "2022-01-23",
+      "Gültig bis": "2022-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-23"
+    },
+    {
+      "Gültig ab": "2022-01-23",
+      "Gültig bis": "2022-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-23"
+    },
+    {
+      "Gültig ab": "2022-01-18",
+      "Gültig bis": "2022-04-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-18"
+    },
+    {
+      "Gültig ab": "2022-01-18",
+      "Gültig bis": "2022-04-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-18"
+    },
+    {
+      "Gültig ab": "2021-12-15",
+      "Gültig bis": "2022-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-15"
+    },
+    {
+      "Gültig ab": "2021-12-15",
+      "Gültig bis": "2022-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-15"
+    },
+    {
+      "Gültig ab": "2021-12-01",
+      "Gültig bis": "2022-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-01"
+    },
+    {
+      "Gültig ab": "2021-12-01",
+      "Gültig bis": "2022-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-01"
+    },
+    {
+      "Gültig ab": "2021-11-22",
+      "Gültig bis": "2022-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-11-23"
+    },
+    {
+      "Gültig ab": "2021-11-22",
+      "Gültig bis": "2022-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-11-23"
+    },
+    {
+      "Gültig ab": "2021-11-19",
+      "Gültig bis": "2022-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-11-19"
+    },
+    {
+      "Gültig ab": "2021-11-19",
+      "Gültig bis": "2022-02-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "energylounge.brunobinder.ch, www.energylounge.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-11-19"
+    },
+    {
+      "Gültig ab": "2021-10-14",
+      "Gültig bis": "2022-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-14"
+    },
+    {
+      "Gültig ab": "2021-10-14",
+      "Gültig bis": "2022-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-14"
+    },
+    {
+      "Gültig ab": "2021-10-05",
+      "Gültig bis": "2022-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-05"
+    },
+    {
+      "Gültig ab": "2021-10-05",
+      "Gültig bis": "2022-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-10-05"
+    },
+    {
+      "Gültig ab": "2021-09-22",
+      "Gültig bis": "2021-12-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-09-22"
+    },
+    {
+      "Gültig ab": "2021-09-22",
+      "Gültig bis": "2021-12-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-09-22"
+    },
+    {
+      "Gültig ab": "2021-08-12",
+      "Gültig bis": "2021-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-12"
+    },
+    {
+      "Gültig ab": "2021-08-12",
+      "Gültig bis": "2021-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-12"
+    },
+    {
+      "Gültig ab": "2021-08-03",
+      "Gültig bis": "2021-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-03"
+    },
+    {
+      "Gültig ab": "2021-08-03",
+      "Gültig bis": "2021-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-08-03"
+    },
+    {
+      "Gültig ab": "2021-07-02",
+      "Gültig bis": "2021-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-07-02"
+    },
+    {
+      "Gültig ab": "2021-07-02",
+      "Gültig bis": "2021-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-07-02"
+    },
+    {
+      "Gültig ab": "2021-06-13",
+      "Gültig bis": "2021-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-13"
+    },
+    {
+      "Gültig ab": "2021-06-13",
+      "Gültig bis": "2021-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-13"
+    },
+    {
+      "Gültig ab": "2021-06-02",
+      "Gültig bis": "2021-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-02"
+    },
+    {
+      "Gültig ab": "2021-06-02",
+      "Gültig bis": "2021-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-06-02"
+    },
+    {
+      "Gültig ab": "2021-05-03",
+      "Gültig bis": "2021-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-05-03"
+    },
+    {
+      "Gültig ab": "2021-05-03",
+      "Gültig bis": "2021-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "ebook.brunobinder.ch, www.ebook.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-05-03"
+    },
+    {
+      "Gültig ab": "2021-04-13",
+      "Gültig bis": "2021-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-04-13"
+    },
+    {
+      "Gültig ab": "2021-04-13",
+      "Gültig bis": "2021-07-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-04-13"
+    },
+    {
+      "Gültig ab": "2021-03-15",
+      "Gültig bis": "2021-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-03-15"
+    },
+    {
+      "Gültig ab": "2021-03-15",
+      "Gültig bis": "2021-06-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-03-15"
+    },
+    {
+      "Gültig ab": "2021-02-11",
+      "Gültig bis": "2021-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-02-11"
+    },
+    {
+      "Gültig ab": "2021-02-11",
+      "Gültig bis": "2021-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "coaching.brunobinder.ch, www.coaching.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-02-11"
+    },
+    {
+      "Gültig ab": "2021-01-09",
+      "Gültig bis": "2021-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-09"
+    },
+    {
+      "Gültig ab": "2021-01-09",
+      "Gültig bis": "2021-04-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-01-09"
+    },
+    {
+      "Gültig ab": "2020-11-09",
+      "Gültig bis": "2021-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-09"
+    },
+    {
+      "Gültig ab": "2020-11-09",
+      "Gültig bis": "2021-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-11-09"
+    },
+    {
+      "Gültig ab": "2020-09-10",
+      "Gültig bis": "2020-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-10"
+    },
+    {
+      "Gültig ab": "2020-09-10",
+      "Gültig bis": "2020-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "brunobinder.ch, www.brunobinder.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2020-09-10"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://brunobinder.ch/logs",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/blog/blog-einfach-mal-nichts-tun/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    },
+    {
+      "URL": "https://brunobinder.ch/kontakt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    },
+    {
+      "URL": "https://brunobinder.ch/blog/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://brunobinder.ch/blog/30-dinge-die-fuehrungskraefte-nicht-tun-sollten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://brunobinder.ch/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-content/uploads/2022/04/Flyer_BusinessFLOW_1-1_Workshop_V1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-content/uploads/2022/04/Flyer_BusinessFLOW_2-0_Kurs_V1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "https://brunobinder.ch/blog/burnout-symptome-bist-du-von-burnout-betroffen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://brunobinder.ch/blog/ingenieure-warum-gerade-sie-meditieren-sollten/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://brunobinder.ch/blog/warum-zeitmangel-oft-eine-ausrede-ist/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://brunobinder.ch/burnout-praevention/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://brunobinder.ch/burnout-praevention/businesscoaching/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://brunobinder.ch/datenschutz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://brunobinder.ch/ueber-mich-leben/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://brunobinder.ch/cli",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/tmp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/bin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/burnout-praevention/privatpersonen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-11-09"
+    },
+    {
+      "URL": "https://brunobinder.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/page-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/post-sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/sitemap_index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-admin/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-content/themes/brunobinder/fav/manifest.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-json/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbrunobinder.ch%2Fkontakt%2F",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-json/wp/v2/pages/19",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-json/wp/v2/pages/2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-json/wp/v2/pages/21",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-json/wp/v2/pages/284",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-json/wp/v2/pages/286",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-json/wp/v2/posts/181",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-json/wp/v2/posts/906",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-json/wp/v2/posts/929",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/wp-login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "URL": "https://brunobinder.ch/administrator",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/cache",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/component/search/?id=4&Itemid=101&format=opensearch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/components",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/includes",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/installation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/joomla/administrator",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/language",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/layouts",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/libraries",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/modules",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/plugins",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-04-11"
+    },
+    {
+      "URL": "https://brunobinder.ch/fuer-privatpersonen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-17"
+    },
+    {
+      "URL": "https://brunobinder.ch/fuer-unternehmen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-17"
+    },
+    {
+      "URL": "https://brunobinder.ch/human-flow",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-17"
+    },
+    {
+      "URL": "https://brunobinder.ch/ueber-mich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2022-01-17"
+    },
+    {
+      "URL": "https://brunobinder.ch/2-uncategorised/12-datenschutzerklaerung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://brunobinder.ch/2-uncategorised/3-impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://brunobinder.ch/fuer-privatpersonen/2-uncategorised/12-datenschutzerklaerung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://brunobinder.ch/fuer-privatpersonen/2-uncategorised/3-impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://brunobinder.ch/fuer-unternehmen/2-uncategorised/12-datenschutzerklaerung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://brunobinder.ch/fuer-unternehmen/2-uncategorised/3-impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://brunobinder.ch/human-flow/2-uncategorised/12-datenschutzerklaerung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://brunobinder.ch/human-flow/2-uncategorised/3-impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://brunobinder.ch/kontakt/12-datenschutzerklaerung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://brunobinder.ch/kontakt/3-impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://brunobinder.ch/ueber-mich/2-uncategorised/12-datenschutzerklaerung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    },
+    {
+      "URL": "https://brunobinder.ch/ueber-mich/2-uncategorised/3-impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2021-12-05"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "bruno.binder@bb-impact.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    },
+    {
+      "E-Mail": "hello@helloblack.digital",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2024-05-12"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41796690563",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "In öffentlicher Datenbank erfasst am": "2025-02-18"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-16",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

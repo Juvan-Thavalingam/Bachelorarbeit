@@ -1,0 +1,1752 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "193.9.122.12",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "comes-org.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "dns1.escapenet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Name Server": "dns2.escapenet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms83822001\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"v=spf1 a mx ip4:81.62.133.146 include:spf.protection.outlook.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "604800",
+      "Serial": "2024120201",
+      "Refresh": "28800",
+      "Hostmaster": "hostmaster.escapenet.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "dns1.escapenet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "193.9.122.12",
+      "PTR-Domain": "agenor.escapenet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "comes.org",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "autodiscover.comes.org",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "mail.comes.org",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "webmail.comes.org",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-14",
+      "Gültig bis": "2025-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-14"
+    },
+    {
+      "Gültig ab": "2025-04-14",
+      "Gültig bis": "2025-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-14"
+    },
+    {
+      "Gültig ab": "2025-02-17",
+      "Gültig bis": "2025-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "Gültig ab": "2025-02-17",
+      "Gültig bis": "2025-05-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-17"
+    },
+    {
+      "Gültig ab": "2024-12-24",
+      "Gültig bis": "2025-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-24"
+    },
+    {
+      "Gültig ab": "2024-12-24",
+      "Gültig bis": "2025-03-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-24"
+    },
+    {
+      "Gültig ab": "2024-11-25",
+      "Gültig bis": "2025-08-07",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-25"
+    },
+    {
+      "Gültig ab": "2024-11-25",
+      "Gültig bis": "2025-08-07",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-25"
+    },
+    {
+      "Gültig ab": "2024-10-29",
+      "Gültig bis": "2025-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-29"
+    },
+    {
+      "Gültig ab": "2024-10-29",
+      "Gültig bis": "2025-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-29"
+    },
+    {
+      "Gültig ab": "2024-09-04",
+      "Gültig bis": "2024-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-04"
+    },
+    {
+      "Gültig ab": "2024-09-04",
+      "Gültig bis": "2024-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-04"
+    },
+    {
+      "Gültig ab": "2024-07-11",
+      "Gültig bis": "2024-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-11"
+    },
+    {
+      "Gültig ab": "2024-07-11",
+      "Gültig bis": "2024-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-11"
+    },
+    {
+      "Gültig ab": "2024-05-17",
+      "Gültig bis": "2024-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-17"
+    },
+    {
+      "Gültig ab": "2024-05-17",
+      "Gültig bis": "2024-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-17"
+    },
+    {
+      "Gültig ab": "2024-03-22",
+      "Gültig bis": "2024-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-22"
+    },
+    {
+      "Gültig ab": "2024-03-22",
+      "Gültig bis": "2024-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-22"
+    },
+    {
+      "Gültig ab": "2024-01-26",
+      "Gültig bis": "2024-04-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-26"
+    },
+    {
+      "Gültig ab": "2024-01-26",
+      "Gültig bis": "2024-04-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-26"
+    },
+    {
+      "Gültig ab": "2023-12-02",
+      "Gültig bis": "2024-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "Gültig ab": "2023-12-02",
+      "Gültig bis": "2024-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "Gültig ab": "2023-10-30",
+      "Gültig bis": "2024-11-29",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-30"
+    },
+    {
+      "Gültig ab": "2023-10-30",
+      "Gültig bis": "2024-11-29",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-30"
+    },
+    {
+      "Gültig ab": "2023-10-13",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-13"
+    },
+    {
+      "Gültig ab": "2023-10-13",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-13"
+    },
+    {
+      "Gültig ab": "2023-10-08",
+      "Gültig bis": "2024-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-08"
+    },
+    {
+      "Gültig ab": "2023-10-08",
+      "Gültig bis": "2024-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-08"
+    },
+    {
+      "Gültig ab": "2023-08-13",
+      "Gültig bis": "2023-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-13"
+    },
+    {
+      "Gültig ab": "2023-08-13",
+      "Gültig bis": "2023-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-13"
+    },
+    {
+      "Gültig ab": "2023-06-18",
+      "Gültig bis": "2023-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-18"
+    },
+    {
+      "Gültig ab": "2023-06-18",
+      "Gültig bis": "2023-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-18"
+    },
+    {
+      "Gültig ab": "2023-04-24",
+      "Gültig bis": "2023-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-24"
+    },
+    {
+      "Gültig ab": "2023-04-24",
+      "Gültig bis": "2023-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-24"
+    },
+    {
+      "Gültig ab": "2023-02-25",
+      "Gültig bis": "2023-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-25"
+    },
+    {
+      "Gültig ab": "2023-02-25",
+      "Gültig bis": "2023-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-25"
+    },
+    {
+      "Gültig ab": "2022-12-31",
+      "Gültig bis": "2023-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-31"
+    },
+    {
+      "Gültig ab": "2022-12-31",
+      "Gültig bis": "2023-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-31"
+    },
+    {
+      "Gültig ab": "2022-11-05",
+      "Gültig bis": "2023-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-05"
+    },
+    {
+      "Gültig ab": "2022-11-05",
+      "Gültig bis": "2023-02-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-05"
+    },
+    {
+      "Gültig ab": "2022-10-06",
+      "Gültig bis": "2023-11-06",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-06"
+    },
+    {
+      "Gültig ab": "2022-10-06",
+      "Gültig bis": "2023-11-06",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-06"
+    },
+    {
+      "Gültig ab": "2022-09-11",
+      "Gültig bis": "2022-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-11"
+    },
+    {
+      "Gültig ab": "2022-09-11",
+      "Gültig bis": "2022-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-11"
+    },
+    {
+      "Gültig ab": "2022-07-17",
+      "Gültig bis": "2022-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-17"
+    },
+    {
+      "Gültig ab": "2022-07-17",
+      "Gültig bis": "2022-10-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-17"
+    },
+    {
+      "Gültig ab": "2022-05-22",
+      "Gültig bis": "2022-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-22"
+    },
+    {
+      "Gültig ab": "2022-05-22",
+      "Gültig bis": "2022-08-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-22"
+    },
+    {
+      "Gültig ab": "2022-03-27",
+      "Gültig bis": "2022-06-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-03-27"
+    },
+    {
+      "Gültig ab": "2022-03-27",
+      "Gültig bis": "2022-06-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-03-27"
+    },
+    {
+      "Gültig ab": "2022-01-27",
+      "Gültig bis": "2022-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-27"
+    },
+    {
+      "Gültig ab": "2022-01-27",
+      "Gültig bis": "2022-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-27"
+    },
+    {
+      "Gültig ab": "2021-12-02",
+      "Gültig bis": "2022-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-02"
+    },
+    {
+      "Gültig ab": "2021-12-02",
+      "Gültig bis": "2022-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-02"
+    },
+    {
+      "Gültig ab": "2021-09-25",
+      "Gültig bis": "2021-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-25"
+    },
+    {
+      "Gültig ab": "2021-09-25",
+      "Gültig bis": "2021-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-25"
+    },
+    {
+      "Gültig ab": "2021-07-05",
+      "Gültig bis": "2021-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-07-05"
+    },
+    {
+      "Gültig ab": "2021-07-05",
+      "Gültig bis": "2021-10-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-07-05"
+    },
+    {
+      "Gültig ab": "2021-05-10",
+      "Gültig bis": "2021-08-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-05-10"
+    },
+    {
+      "Gültig ab": "2021-05-10",
+      "Gültig bis": "2021-08-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-05-10"
+    },
+    {
+      "Gültig ab": "2021-03-10",
+      "Gültig bis": "2021-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-10"
+    },
+    {
+      "Gültig ab": "2021-03-10",
+      "Gültig bis": "2021-06-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-10"
+    },
+    {
+      "Gültig ab": "2021-01-11",
+      "Gültig bis": "2021-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-11"
+    },
+    {
+      "Gültig ab": "2021-01-11",
+      "Gültig bis": "2021-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-11"
+    },
+    {
+      "Gültig ab": "2020-12-29",
+      "Gültig bis": "2021-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-29"
+    },
+    {
+      "Gültig ab": "2020-12-29",
+      "Gültig bis": "2021-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-29"
+    },
+    {
+      "Gültig ab": "2020-11-20",
+      "Gültig bis": "2021-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-20"
+    },
+    {
+      "Gültig ab": "2020-11-20",
+      "Gültig bis": "2021-02-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-20"
+    },
+    {
+      "Gültig ab": "2020-11-03",
+      "Gültig bis": "2021-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-03"
+    },
+    {
+      "Gültig ab": "2020-11-03",
+      "Gültig bis": "2021-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-03"
+    },
+    {
+      "Gültig ab": "2020-09-07",
+      "Gültig bis": "2020-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-07"
+    },
+    {
+      "Gültig ab": "2020-09-07",
+      "Gültig bis": "2020-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-07"
+    },
+    {
+      "Gültig ab": "2020-07-14",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-07-14"
+    },
+    {
+      "Gültig ab": "2020-07-14",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-07-14"
+    },
+    {
+      "Gültig ab": "2020-07-14",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-07-14"
+    },
+    {
+      "Gültig ab": "2020-07-14",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-07-14"
+    },
+    {
+      "Gültig ab": "2020-07-11",
+      "Gültig bis": "2020-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-07-11"
+    },
+    {
+      "Gültig ab": "2020-07-11",
+      "Gültig bis": "2020-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-07-11"
+    },
+    {
+      "Gültig ab": "2020-05-17",
+      "Gültig bis": "2020-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-05-17"
+    },
+    {
+      "Gültig ab": "2020-05-17",
+      "Gültig bis": "2020-08-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-05-17"
+    },
+    {
+      "Gültig ab": "2020-05-14",
+      "Gültig bis": "2020-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-05-14"
+    },
+    {
+      "Gültig ab": "2020-05-14",
+      "Gültig bis": "2020-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-05-14"
+    },
+    {
+      "Gültig ab": "2020-03-22",
+      "Gültig bis": "2020-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-03-22"
+    },
+    {
+      "Gültig ab": "2020-03-22",
+      "Gültig bis": "2020-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-03-22"
+    },
+    {
+      "Gültig ab": "2020-01-26",
+      "Gültig bis": "2020-04-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-01-26"
+    },
+    {
+      "Gültig ab": "2020-01-26",
+      "Gültig bis": "2020-04-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-01-26"
+    },
+    {
+      "Gültig ab": "2019-12-01",
+      "Gültig bis": "2020-02-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-01"
+    },
+    {
+      "Gültig ab": "2019-12-01",
+      "Gültig bis": "2020-02-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-01"
+    },
+    {
+      "Gültig ab": "2019-10-07",
+      "Gültig bis": "2020-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-07"
+    },
+    {
+      "Gültig ab": "2019-10-07",
+      "Gültig bis": "2020-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-07"
+    },
+    {
+      "Gültig ab": "2019-08-12",
+      "Gültig bis": "2019-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-08-12"
+    },
+    {
+      "Gültig ab": "2019-08-12",
+      "Gültig bis": "2019-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-08-12"
+    },
+    {
+      "Gültig ab": "2019-05-08",
+      "Gültig bis": "2019-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-05-08"
+    },
+    {
+      "Gültig ab": "2019-05-08",
+      "Gültig bis": "2019-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org, www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-05-08"
+    },
+    {
+      "Gültig ab": "2019-04-12",
+      "Gültig bis": "2019-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-12"
+    },
+    {
+      "Gültig ab": "2019-04-12",
+      "Gültig bis": "2019-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-12"
+    },
+    {
+      "Gültig ab": "2019-04-12",
+      "Gültig bis": "2019-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-12"
+    },
+    {
+      "Gültig ab": "2019-04-12",
+      "Gültig bis": "2019-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-12"
+    },
+    {
+      "Gültig ab": "2019-02-15",
+      "Gültig bis": "2019-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-15"
+    },
+    {
+      "Gültig ab": "2019-02-15",
+      "Gültig bis": "2019-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-15"
+    },
+    {
+      "Gültig ab": "2019-02-15",
+      "Gültig bis": "2019-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-15"
+    },
+    {
+      "Gültig ab": "2019-02-15",
+      "Gültig bis": "2019-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-15"
+    },
+    {
+      "Gültig ab": "2018-08-08",
+      "Gültig bis": "2020-08-07",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-08-08"
+    },
+    {
+      "Gültig ab": "2018-08-08",
+      "Gültig bis": "2020-08-07",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-08-08"
+    },
+    {
+      "Gültig ab": "2015-09-08",
+      "Gültig bis": "2018-09-08",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"Starfield Technologies, Inc.\", OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2",
+      "Domain/Subdomain": "*.comes.org, comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-10-11"
+    },
+    {
+      "Gültig ab": "2010-09-15",
+      "Gültig bis": "2013-09-14",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, OU=www.quovadisglobal.com, CN=QuoVadis Global SSL ICA",
+      "Domain/Subdomain": "autodiscover.comes.org, comes.org, mail.comes.org, webmail.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-10-01"
+    },
+    {
+      "Gültig ab": "2013-09-09",
+      "Gültig bis": "2016-09-09",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, OU=www.quovadisglobal.com, CN=QuoVadis Global SSL ICA",
+      "Domain/Subdomain": "autodiscover.comes.org, comes.org, mail.comes.org, webmail.comes.org",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-09-25"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://www.comes.org/bettertxout",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-12"
+    },
+    {
+      "URL": "http://comes.org/resources/UNHCRMoneyMattersJuly20092.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "URL": "https://www.comes.org/saq-plan-select-",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-25"
+    },
+    {
+      "URL": "http://comes.org/publications/efficiency-and-inefficiency-humanitarian-financing",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-17"
+    },
+    {
+      "URL": "https://comes.org/publi",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-13"
+    },
+    {
+      "URL": "https://www.comes.org/sites/default/files/publications/high-le-",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-02"
+    },
+    {
+      "URL": "https://www.comes.org/sites/default/files/publications/high-le-vel-briefing-paper-cva-en.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-02"
+    },
+    {
+      "URL": "https://www.comes.org/sites/default/files/publications/high-le-vel-briefing-paper-cva-en.pdf)",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-02"
+    },
+    {
+      "URL": "https://comes.org/endorse",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-27"
+    },
+    {
+      "URL": "https://comes.org/kccq-plan-se-",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-30"
+    },
+    {
+      "URL": "https://comes.org/kccq-plan-select-page/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-30"
+    },
+    {
+      "URL": "https://www.comes.org/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.comes.org/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.comes.org/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.comes.org/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.comes.org/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.comes.org/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.comes.org/sites/default/files/publications/pakistan_",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "URL": "https://www.comes.org/sites/default/files/publications/pakistan_floods_1122.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-02"
+    },
+    {
+      "URL": "https://www.comes.org/pharmoutcomes/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-11-25"
+    },
+    {
+      "URL": "https://www.comes.org/images/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-16"
+    },
+    {
+      "URL": "http://comes.org/papers/124.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-05"
+    },
+    {
+      "URL": "https://www.comes.org/sites/default/files/publications/score_ne_nigeria_01_2020.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "https://comes.org/publications/collective-resoluti-",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-04"
+    },
+    {
+      "URL": "http://comes.org/publications/cash-transfer-programming-emergencies",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-09"
+    },
+    {
+      "URL": "https://www.comes.org/treuhand/dokumente.php?TH=6&TK=33",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-21"
+    },
+    {
+      "URL": "https://www.comes.org/treuhand/galerie/anhang/Lohnausweis.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-21"
+    },
+    {
+      "URL": "https://www.comes.org/treuhand/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-21"
+    },
+    {
+      "URL": "https://www.comes.org/vermoegensverwaltung/dokumente.php?TK=33",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-16"
+    },
+    {
+      "URL": "https://www.comes.org/treuhand/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-01"
+    },
+    {
+      "URL": "https://www.comes.org/vermoegensverwaltung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-01"
+    },
+    {
+      "URL": "https://www.comes.org/vermoegensverwaltung/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-01"
+    },
+    {
+      "URL": "https://www.comes.org/treuhand/dienstleistungen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "URL": "https://www.comes.org/treuhand/impressum.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "URL": "https://www.comes.org/treuhand/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "URL": "https://www.comes.org/treuhand/team.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "URL": "https://www.comes.org/vermoegensverwaltung/dienstleistungen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "URL": "https://www.comes.org/vermoegensverwaltung/impressum.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "URL": "https://www.comes.org/vermoegensverwaltung/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "URL": "https://www.comes.org/vermoegensverwaltung/team.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-14"
+    },
+    {
+      "URL": "http://www.comes.org/home.htm?id=6",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-01-29"
+    },
+    {
+      "URL": "http://www.comes.org/menu.htm?id=7",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-01-29"
+    },
+    {
+      "URL": "http://comes.org:80/links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2015-05-13"
+    },
+    {
+      "URL": "http://comes.org/movie.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2013-12-22"
+    },
+    {
+      "URL": "http://www.comes.org/Default.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2011-08-07"
+    },
+    {
+      "URL": "http://www.comes.org:80/www",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-07-09"
+    },
+    {
+      "URL": "http://www.comes.org:80/download.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.comes.org:80/lageplan.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.comes.org:80/news.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Vermgen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-10-20"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Versicherungen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-10-20"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/New.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-08-31"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/aktuell+Unternutzung+Wohneigentum.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-04-22"
+    },
+    {
+      "URL": "https://www.comes.org/publications/state-humanitarian-system-2015-edition",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-29"
+    },
+    {
+      "URL": "https://comes.org/AWSDR2019Strohmeier",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://www.comes.org/AWSDR2019",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-31"
+    },
+    {
+      "URL": "https://www.comes.org/dokumente.php?TH=16&TK=",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.comes.org/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-22"
+    },
+    {
+      "URL": "http://comes.org/grace",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-18"
+    },
+    {
+      "URL": "https://www.comes.org/dienstleistungen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "https://www.comes.org/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "https://www.comes.org/team.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-08"
+    },
+    {
+      "URL": "http://comes.org/sites/default/files/create_somalia_",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-07"
+    },
+    {
+      "URL": "https://www.comes.org/impressum.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-08"
+    },
+    {
+      "URL": "https://www.comes.org/bettertxoutcom",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-15"
+    },
+    {
+      "URL": "http://comes.org/bet",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "URL": "http://comes.org/better",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "URL": "https://comes.org/bettertx",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-12"
+    },
+    {
+      "URL": "https://comes.org/bettertxoutcomes",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-12"
+    },
+    {
+      "URL": "http://www.comes.org:80/pop_lageplan.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.comes.org:80/portrait.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.comes.org:80/treuhand.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.comes.org:80/vermoegen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.comes.org:80/versicherung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-07"
+    },
+    {
+      "URL": "http://www.comes.org:80/kontakt.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-02-12"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Info%20Kuendigung%20Arbeitsvertrag.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-11-02"
+    },
+    {
+      "URL": "http://www.comes.org:80/Dok_PDF/Inventar%20Website.xlw",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-25"
+    },
+    {
+      "URL": "http://www.comes.org:80/Dok_PDF/Lohnausweis.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-25"
+    },
+    {
+      "URL": "http://www.comes.org:80/Dok_PDF/Plan%20per%20Auto.doc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-25"
+    },
+    {
+      "URL": "http://www.comes.org:80/Dok_PDF/Plan%20zu%20Fuss.doc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-25"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/karte%20mit%20auto.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-25"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Karte%20zu%20Fuss.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-25"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Steuertipps.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-25"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Archiv.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-24"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Karte.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-24"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/News.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-24"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Vermoegensverwaltung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-24"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Versicherungsberatung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-24"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Update.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-23"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/menu.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-22"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Treuhand.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-22"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Hauptseite.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-10-11"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-08-06"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/main.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-08-06"
+    },
+    {
+      "URL": "http://www.comes.org:80/Dok_PDF/AdbeRdr60_deu_full.exe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-06-10"
+    },
+    {
+      "URL": "http://www.comes.org:80/Dok_PDF/ar500deu.exe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-04-06"
+    },
+    {
+      "URL": "http://www.comes.org:80/Dok_PDF/Prospekt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-03-31"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Der%20neue%20Lohnausweis.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-12-18"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Vorstellung%20Andi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-08-09"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Witz_Management.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-08-09"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Info+Kuendigung+Arbeitsvertrag.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-10-15"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/karte+mit+auto.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-10-15"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Karte+zu+Fuss.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-10-15"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Vorstellung+Andi.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-10-15"
+    },
+    {
+      "URL": "http://www.comes.org:80/Seiten/Renditen+Lebensversicherungen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-06-02"
+    },
+    {
+      "URL": "http://www.comes.org:80/Dok_PDF/ar405deu.exe",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-06-01"
+    },
+    {
+      "URL": "https://www.comes.org/kccq-plan-",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-30"
+    },
+    {
+      "URL": "https://www.comes.org/kccq-plan-se-lect-page/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-30"
+    },
+    {
+      "URL": "http://www.comes.org/iepngfix.htc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-26"
+    },
+    {
+      "URL": "https://www.comes.org/publications/ngos-and-risk-how-international-humanitarian-actors-manage-uncertainty",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://dfa.ch/contentpics/File/DFA-Jahresbericht_2016.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/contentpics/File/DFA_Jahresbericht%202017_web.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/contentpics/File/GzD_Flyer_A6_US_Web.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/contentpics/File/GzD_Flyer_A6_WT_Web.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/contentpics/File/GzD_Flyer_A6_ZH_Web.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/contentpics/File/Leitbild%20DFA%20gem.%20Steuergruppe%2012.06.2017.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/DFA_uster.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/dfa_winterthur.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/dfa_zuerich.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/freiwillig.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/linkseite.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/publikationen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/rechtsberatung.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/sozialberatung.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/spenden.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://dfa.ch/stellensuche.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.comes.org/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.comes.org/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.comes.org/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.comes.org/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.comes.org/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://www.comes.org/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "abuse@joker.com",
+      "Passwort geleakt (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-19"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41052222332",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "Telefonnummern": "+41449410203",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "Telefonnummern": "+41522135020",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "Telefonnummern": "+41522223320",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    }
+  ],
+  "service": [
+    {
+      "Port": 443,
+      "Dienst": "Outlook Web App",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "81.62.133.146",
+      "Domain/Subdomain": "comes.org, mail.comes.org",
+      "Common Platform Enumeration (CPE)": "cpe:/a:microsoft:asp.net, cpe:/a:microsoft:internet_information_services, cpe:/a:microsoft:outlook, cpe:/a:microsoft:outlook_web_access:15.2.986, cpe:/o:microsoft:windows",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

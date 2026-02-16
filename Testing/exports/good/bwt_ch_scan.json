@@ -1,0 +1,5011 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "93.189.65.36",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "1",
+      "Mailserver (MX)": "bwt-ch.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.virtualtec.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Name Server": "ns2.virtualtec.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"03bwmjzq5thzf2ynhxzdcy540hl5wbpf\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"1115D166-F6AC-4919-92E8-562D4160A686\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"QuoVadis=8fb9dfcc-d98f-4387-9581-f36b6040e333\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"v=spf1 a mx ip4:45.80.139.34 ip4:85.195.197.130 ip4:46.14.150.246 ip4:85.195.197.122 include:spf.protection.outlook.com include:spf.EU.exclaimer.net -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "1209600",
+      "Serial": "2025051501",
+      "Refresh": "10800",
+      "Hostmaster": "hostmaster.bwt.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "ns1.virtualtec.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "93.189.65.36",
+      "PTR-Domain": "vth11.dux.virtualtec.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "bwt.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "citrix.bwt.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "neu.bwt.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "new.bwt.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "webmail.bwt.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2024-09-01",
+      "Gültig bis": "2024-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-01"
+    },
+    {
+      "Gültig ab": "2025-05-09",
+      "Gültig bis": "2025-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-09"
+    },
+    {
+      "Gültig ab": "2025-05-09",
+      "Gültig bis": "2025-08-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-09"
+    },
+    {
+      "Gültig ab": "2025-04-14",
+      "Gültig bis": "2026-04-15",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+      "Domain/Subdomain": "*.bwt.ch, bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-14"
+    },
+    {
+      "Gültig ab": "2025-03-09",
+      "Gültig bis": "2025-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-09"
+    },
+    {
+      "Gültig ab": "2025-03-09",
+      "Gültig bis": "2025-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-09"
+    },
+    {
+      "Gültig ab": "2025-01-05",
+      "Gültig bis": "2025-04-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-05"
+    },
+    {
+      "Gültig ab": "2025-01-05",
+      "Gültig bis": "2025-04-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-05"
+    },
+    {
+      "Gültig ab": "2024-11-03",
+      "Gültig bis": "2025-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "Gültig ab": "2024-11-03",
+      "Gültig bis": "2025-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-03"
+    },
+    {
+      "Gültig ab": "2024-09-01",
+      "Gültig bis": "2024-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-01"
+    },
+    {
+      "Gültig ab": "2024-06-30",
+      "Gültig bis": "2024-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "Gültig ab": "2024-06-30",
+      "Gültig bis": "2024-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-30"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-28"
+    },
+    {
+      "Gültig ab": "2024-04-28",
+      "Gültig bis": "2024-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-28"
+    },
+    {
+      "Gültig ab": "2024-04-16",
+      "Gültig bis": "2025-04-15",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+      "Domain/Subdomain": "*.bwt.ch, bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-16"
+    },
+    {
+      "Gültig ab": "2024-02-25",
+      "Gültig bis": "2024-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-25"
+    },
+    {
+      "Gültig ab": "2024-02-25",
+      "Gültig bis": "2024-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-25"
+    },
+    {
+      "Gültig ab": "2023-12-24",
+      "Gültig bis": "2024-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-24"
+    },
+    {
+      "Gültig ab": "2023-12-24",
+      "Gültig bis": "2024-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-24"
+    },
+    {
+      "Gültig ab": "2023-10-22",
+      "Gültig bis": "2024-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-22"
+    },
+    {
+      "Gültig ab": "2023-10-22",
+      "Gültig bis": "2024-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-22"
+    },
+    {
+      "Gültig ab": "2023-08-20",
+      "Gültig bis": "2023-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-20"
+    },
+    {
+      "Gültig ab": "2023-08-20",
+      "Gültig bis": "2023-11-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-20"
+    },
+    {
+      "Gültig ab": "2023-06-18",
+      "Gültig bis": "2023-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-18"
+    },
+    {
+      "Gültig ab": "2023-06-18",
+      "Gültig bis": "2023-09-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-18"
+    },
+    {
+      "Gültig ab": "2023-04-19",
+      "Gültig bis": "2024-04-23",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "*.bwt.ch, bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-19"
+    },
+    {
+      "Gültig ab": "2023-04-16",
+      "Gültig bis": "2023-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-16"
+    },
+    {
+      "Gültig ab": "2023-04-16",
+      "Gültig bis": "2023-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-16"
+    },
+    {
+      "Gültig ab": "2023-02-12",
+      "Gültig bis": "2023-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-12"
+    },
+    {
+      "Gültig ab": "2023-02-12",
+      "Gültig bis": "2023-05-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-12"
+    },
+    {
+      "Gültig ab": "2022-12-11",
+      "Gültig bis": "2023-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-11"
+    },
+    {
+      "Gültig ab": "2022-12-11",
+      "Gültig bis": "2023-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-11"
+    },
+    {
+      "Gültig ab": "2022-10-09",
+      "Gültig bis": "2023-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-09"
+    },
+    {
+      "Gültig ab": "2022-10-09",
+      "Gültig bis": "2023-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-09"
+    },
+    {
+      "Gültig ab": "2022-08-07",
+      "Gültig bis": "2022-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-07"
+    },
+    {
+      "Gültig ab": "2022-08-07",
+      "Gültig bis": "2022-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-07"
+    },
+    {
+      "Gültig ab": "2022-06-05",
+      "Gültig bis": "2022-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-05"
+    },
+    {
+      "Gültig ab": "2022-06-05",
+      "Gültig bis": "2022-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-05"
+    },
+    {
+      "Gültig ab": "2022-04-03",
+      "Gültig bis": "2022-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-03"
+    },
+    {
+      "Gültig ab": "2022-04-03",
+      "Gültig bis": "2022-07-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-03"
+    },
+    {
+      "Gültig ab": "2022-03-31",
+      "Gültig bis": "2023-04-24",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "*.bwt.ch, bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-03-31"
+    },
+    {
+      "Gültig ab": "2022-01-30",
+      "Gültig bis": "2022-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-30"
+    },
+    {
+      "Gültig ab": "2022-01-30",
+      "Gültig bis": "2022-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-30"
+    },
+    {
+      "Gültig ab": "2021-11-28",
+      "Gültig bis": "2022-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-11-28"
+    },
+    {
+      "Gültig ab": "2021-11-28",
+      "Gültig bis": "2022-02-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-11-28"
+    },
+    {
+      "Gültig ab": "2021-09-26",
+      "Gültig bis": "2021-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-26"
+    },
+    {
+      "Gültig ab": "2021-09-26",
+      "Gültig bis": "2021-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-26"
+    },
+    {
+      "Gültig ab": "2021-07-25",
+      "Gültig bis": "2021-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-07-25"
+    },
+    {
+      "Gültig ab": "2021-07-25",
+      "Gültig bis": "2021-10-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-07-25"
+    },
+    {
+      "Gültig ab": "2021-05-23",
+      "Gültig bis": "2021-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-05-23"
+    },
+    {
+      "Gültig ab": "2021-05-23",
+      "Gültig bis": "2021-08-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-05-23"
+    },
+    {
+      "Gültig ab": "2021-03-19",
+      "Gültig bis": "2021-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-19"
+    },
+    {
+      "Gültig ab": "2021-03-19",
+      "Gültig bis": "2021-06-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-19"
+    },
+    {
+      "Gültig ab": "2021-02-28",
+      "Gültig bis": "2021-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-28"
+    },
+    {
+      "Gültig ab": "2021-02-28",
+      "Gültig bis": "2021-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-28"
+    },
+    {
+      "Gültig ab": "2020-12-20",
+      "Gültig bis": "2021-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-20"
+    },
+    {
+      "Gültig ab": "2020-12-20",
+      "Gültig bis": "2021-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-20"
+    },
+    {
+      "Gültig ab": "2020-10-18",
+      "Gültig bis": "2021-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-18"
+    },
+    {
+      "Gültig ab": "2020-10-18",
+      "Gültig bis": "2021-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-18"
+    },
+    {
+      "Gültig ab": "2020-08-16",
+      "Gültig bis": "2020-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-16"
+    },
+    {
+      "Gültig ab": "2020-08-16",
+      "Gültig bis": "2020-11-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-16"
+    },
+    {
+      "Gültig ab": "2020-06-14",
+      "Gültig bis": "2020-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-06-14"
+    },
+    {
+      "Gültig ab": "2020-06-14",
+      "Gültig bis": "2020-09-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-06-14"
+    },
+    {
+      "Gültig ab": "2020-04-24",
+      "Gültig bis": "2022-04-24",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "*.bwt.ch, bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-24"
+    },
+    {
+      "Gültig ab": "2020-04-12",
+      "Gültig bis": "2020-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "Gültig ab": "2020-04-12",
+      "Gültig bis": "2020-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "Gültig ab": "2020-03-08",
+      "Gültig bis": "2020-06-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-03-08"
+    },
+    {
+      "Gültig ab": "2020-03-08",
+      "Gültig bis": "2020-06-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-03-08"
+    },
+    {
+      "Gültig ab": "2020-02-09",
+      "Gültig bis": "2020-05-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-09"
+    },
+    {
+      "Gültig ab": "2020-02-09",
+      "Gültig bis": "2020-05-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-09"
+    },
+    {
+      "Gültig ab": "2020-01-05",
+      "Gültig bis": "2020-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-01-05"
+    },
+    {
+      "Gültig ab": "2020-01-05",
+      "Gültig bis": "2020-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-01-05"
+    },
+    {
+      "Gültig ab": "2019-12-08",
+      "Gültig bis": "2020-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-08"
+    },
+    {
+      "Gültig ab": "2019-12-08",
+      "Gültig bis": "2020-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-08"
+    },
+    {
+      "Gültig ab": "2019-11-03",
+      "Gültig bis": "2020-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-11-03"
+    },
+    {
+      "Gültig ab": "2019-11-03",
+      "Gültig bis": "2020-02-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-11-03"
+    },
+    {
+      "Gültig ab": "2019-10-06",
+      "Gültig bis": "2020-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-06"
+    },
+    {
+      "Gültig ab": "2019-10-06",
+      "Gültig bis": "2020-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-06"
+    },
+    {
+      "Gültig ab": "2019-09-01",
+      "Gültig bis": "2019-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-09-01"
+    },
+    {
+      "Gültig ab": "2019-09-01",
+      "Gültig bis": "2019-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-09-01"
+    },
+    {
+      "Gültig ab": "2019-08-04",
+      "Gültig bis": "2019-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-08-04"
+    },
+    {
+      "Gültig ab": "2019-08-04",
+      "Gültig bis": "2019-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-08-04"
+    },
+    {
+      "Gültig ab": "2019-06-30",
+      "Gültig bis": "2019-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-30"
+    },
+    {
+      "Gültig ab": "2019-06-30",
+      "Gültig bis": "2019-09-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-30"
+    },
+    {
+      "Gültig ab": "2019-06-02",
+      "Gültig bis": "2019-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-02"
+    },
+    {
+      "Gültig ab": "2019-06-02",
+      "Gültig bis": "2019-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-02"
+    },
+    {
+      "Gültig ab": "2019-04-28",
+      "Gültig bis": "2019-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-28"
+    },
+    {
+      "Gültig ab": "2019-04-28",
+      "Gültig bis": "2019-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-28"
+    },
+    {
+      "Gültig ab": "2019-04-02",
+      "Gültig bis": "2019-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-02"
+    },
+    {
+      "Gültig ab": "2019-04-02",
+      "Gültig bis": "2019-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, neu.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-02"
+    },
+    {
+      "Gültig ab": "2019-02-24",
+      "Gültig bis": "2019-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-24"
+    },
+    {
+      "Gültig ab": "2019-02-24",
+      "Gültig bis": "2019-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-24"
+    },
+    {
+      "Gültig ab": "2018-12-23",
+      "Gültig bis": "2019-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-12-23"
+    },
+    {
+      "Gültig ab": "2018-12-23",
+      "Gültig bis": "2019-03-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-12-23"
+    },
+    {
+      "Gültig ab": "2018-10-21",
+      "Gültig bis": "2019-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-10-21"
+    },
+    {
+      "Gültig ab": "2018-10-21",
+      "Gültig bis": "2019-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-10-21"
+    },
+    {
+      "Gültig ab": "2018-08-19",
+      "Gültig bis": "2018-11-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-08-19"
+    },
+    {
+      "Gültig ab": "2018-08-19",
+      "Gültig bis": "2018-11-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-08-19"
+    },
+    {
+      "Gültig ab": "2018-06-17",
+      "Gültig bis": "2018-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-06-17"
+    },
+    {
+      "Gültig ab": "2018-06-17",
+      "Gültig bis": "2018-09-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-06-17"
+    },
+    {
+      "Gültig ab": "2018-04-15",
+      "Gültig bis": "2018-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-04-15"
+    },
+    {
+      "Gültig ab": "2018-04-15",
+      "Gültig bis": "2018-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-04-15"
+    },
+    {
+      "Gültig ab": "2018-02-11",
+      "Gültig bis": "2018-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-02-11"
+    },
+    {
+      "Gültig ab": "2017-04-28",
+      "Gültig bis": "2020-04-28",
+      "Ausgestellt von": "C=BM, O=QuoVadis Limited, CN=QuoVadis Global SSL ICA G2",
+      "Domain/Subdomain": "*.bwt.ch, bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    },
+    {
+      "Gültig ab": "2015-06-03",
+      "Gültig bis": "2018-08-03",
+      "Ausgestellt von": "C=US, O=GeoTrust Inc., OU=Domain Validated SSL, CN=GeoTrust DV SSL CA - G4",
+      "Domain/Subdomain": "citrix.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-01-19"
+    },
+    {
+      "Gültig ab": "2017-12-10",
+      "Gültig bis": "2018-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-12-10"
+    },
+    {
+      "Gültig ab": "2017-10-08",
+      "Gültig bis": "2018-01-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-10-08"
+    },
+    {
+      "Gültig ab": "2017-08-06",
+      "Gültig bis": "2017-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-08-06"
+    },
+    {
+      "Gültig ab": "2017-06-06",
+      "Gültig bis": "2017-09-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "bwt.ch, new.bwt.ch, www.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-06-06"
+    },
+    {
+      "Gültig ab": "2015-11-10",
+      "Gültig bis": "2018-12-11",
+      "Ausgestellt von": "C=US, O=GeoTrust Inc., OU=Domain Validated SSL, CN=GeoTrust DV SSL SHA256 CA - G2",
+      "Domain/Subdomain": "webmail.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-10-12"
+    },
+    {
+      "Gültig ab": "2012-06-24",
+      "Gültig bis": "2015-06-26",
+      "Ausgestellt von": "C=US, O=GeoTrust Inc., OU=Domain Validated SSL, CN=GeoTrust DV SSL CA",
+      "Domain/Subdomain": "citrix.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-10-01"
+    },
+    {
+      "Gültig ab": "2012-10-17",
+      "Gültig bis": "2015-11-19",
+      "Ausgestellt von": "C=US, O=GeoTrust Inc., OU=Domain Validated SSL, CN=GeoTrust DV SSL CA",
+      "Domain/Subdomain": "webmail.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-03-07"
+    },
+    {
+      "Gültig ab": "2009-10-19",
+      "Gültig bis": "2012-10-21",
+      "Ausgestellt von": "C=US, O=Equifax, OU=Equifax Secure Certificate Authority",
+      "Domain/Subdomain": "webmail.bwt.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-02-15"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://bwt.ch/system",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/zimmereiarbeiten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://bwt.ch/lehrlingstag-2023",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-05"
+    },
+    {
+      "URL": "https://bwt.ch/lehrstellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "URL": "http://www.bwt.ch/links",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-03-29"
+    },
+    {
+      "URL": "http://www.bwt.ch/wissenswertes",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-03-29"
+    },
+    {
+      "URL": "http://bwt.ch/holzbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-03-05"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/inventar.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porg_mark.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porg_pers.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "https://www.bwt.ch/leiterin-produktion-holzbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/mitarbeiterfest---familien-brunch-vom-180620237",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/mitarbeiterfest-der-bwgruppe-20245",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/mitarbeiterfest-vom-6-november-202176",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1841",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/produktschulung-mit-anschliessendem-go-kart-event",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/trailer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/referenzen/43",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/20190384/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210174/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210739/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/20225057--20201232/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/eth-zuerich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/kaderrapport-der-bwt-bau-ag4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/lehrlingstag-20246",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/leitbild",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://bwt.ch/jobs-alt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/projekt5.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-05-09"
+    },
+    {
+      "URL": "https://www.bwt.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/holzelementbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/14/BWTBauAG_Slider-Web_1500x642_V1.mp4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/14/videocover-1.webp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/43/BWT_Vorlage_Geschichte_2019-11-18_2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/datenschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/feed.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/feeds/all.atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/jobs",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/20211375/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "URL": "https://www.bwt.ch/20181559/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/20190546/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/20195179/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/202002719/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210042/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210739",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/20211302/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/20221313/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/bildungstage-der-bw-gruppe-vom-45-oktober-2021",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/bwt-bau-ag-nachhaltig-unterwegs",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/bwt-safety-day-2022",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/controllerin-kaufmaennische-verwaltung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/50/20250101-Organigramm-2025,-neu,-V2.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/ein-aufregender-start-in-die-zukunft9",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/gv-event-vom-2506202119",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/holzbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1611",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-25"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210113/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210223/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/mitarbeiterfest-vom-116202299",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/20191505",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.bwt.ch/202005530/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.bwt.ch/20211065/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/trailer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.bwt.ch/lehrlingstag-2024",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.bwt.ch/mitarbeiterfest-vom-15-juni-20195",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.bwt.ch/polier-neubau-sowie-polier-umbau4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.bwt.ch/referenzen/265",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-02"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/47/Infoblatt_Russpartikelfilter.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.bwt.ch/kaderrapport-der-bwt-bau-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.bwt.ch/referenzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-07"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210900",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/20211065",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/mitarbeiterfest-vom-9-juni-20186",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/zimmermann-efz-oder-holzbau-vorarbeiter",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/20200115/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/mitarbeiterfest-vom-17-juni-2017",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/ein-aufregender-start-in-die-zukunft",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-08"
+    },
+    {
+      "URL": "https://www.bwt.ch/unsere-neuen-brokk-abbruchroboter4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-08"
+    },
+    {
+      "URL": "https://www.bwt.ch/werkhof-rapport1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-08"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/50/20240401-Organigramm-2024.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "URL": "http://www.bwt.ch/customer/files/43/RZ_BWT_Flyer_Angebotsuebersicht_2021.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/50/20231201-Organigramm-2023.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.bwt.ch/neue-helme-fuer-die-bwt-bau-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-08"
+    },
+    {
+      "URL": "https://www.bwt.ch/baufuehrer-um--und-neubau3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-07"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/50/20230901-Organigramm-2023.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/assistentin-technische-verwaltung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/assistentin-technische-verwaltung8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/lehrlingstag-20231",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/50/20240201-Organigramm-2024.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/50/20230401-Organigramm-2023.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-05"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/50/20230201-Organigramm-2023.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-04"
+    },
+    {
+      "URL": "http://www.bwt.ch/customer/files/23/84024-d.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/43/BWT_Imagebroschuere.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1776",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1411",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1440",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1767",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/806",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/978",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/1628/AbW-Zertifikat_BWT-Bau-AG_1.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-02"
+    },
+    {
+      "URL": "https://www.bwt.ch/geschichte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-30"
+    },
+    {
+      "URL": "https://www.bwt.ch/neubau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-30"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/23/Asbest_erkennen-richtig_handeln.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-28"
+    },
+    {
+      "URL": "https://www.bwt.ch/20181559",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/202002719",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/202005530",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/20200996",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/20205015",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210223",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/20211302",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/20225057--20201232",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/ausflug-vom-18-januar-2017-aufs-jungfraujoch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/bauen-fuer-die-zukunft",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/bildungstage-der-bw-gruppe-vom-45-oktober-2021",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/bwt-bau-ag-auf-youtube",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/bwt-bau-ag-in-der-abendsonne",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/bwt-bau-ag-wird-175-jahre-alt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/bwt-mal-anders8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/bwt-safety-day-2022",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/bwt-stamm-vom-19-januar-2016",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/deine-lehre-auf-dem-bau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/eco-build-20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/eth-zuerich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/generalversammlung-der-bwt-bau-ag4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/gv-event-vom-2506202119",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/kmu-date-bei-der-bwt-bau-ag-in-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/lehrlingsausflug-vom-14-oktober-2019",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/lehrlingsausflug-vom-17-september-2018",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/lehrlingsausflug-vom-25092017--ein-tag-mit-au",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/lehrlingsausflug-vom-26092016--ein-gelungener",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/lehrlingstag-20231",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/mitarbeiterfest---familien-brunch-vom-180620237",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/mitarbeiterfest-vom-116202299",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/mitarbeiterfest-vom-15-juni-20195",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/mitarbeiterfest-vom-28-mai-2016",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/mitarbeiterfest-vom-6-november-202176",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/mitarbeiterfest-vom-9-juni-20186",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/nachhaltigkeits-engagement-ab-2023",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/produktschulung-mit-anschliessendem-go-kart-event",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/stabsuebergabe-in-der-bwt-bau-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/starte-mit-uns-durch5",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/teamausflug-holzbau22",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/umgang-mit-technik",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/unsere-frisch-gebackenen-lernenden-der-bwt-bau-ag3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/verstaerkung-fuer-unsere-bwt-flotte3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/werkhof-rapport",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/betonbohren-betonfraesen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/46/Infoblatt_Russpartikelfilter.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/46/SQS-Zertifikat-DE-21-06-2021.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1240",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1397",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-21"
+    },
+    {
+      "URL": "https://www.bwt.ch/20191505/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-14"
+    },
+    {
+      "URL": "https://www.bwt.ch/werkhof-rapport",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-14"
+    },
+    {
+      "URL": "https://bwt.ch/20180898/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://bwt.ch/20191697/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-29"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/layout/css/webfonts/38AE7E_1_0.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/layout/fonts/38AE7E_0_0.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/layout/fonts/38AE7E_0_0.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/layout/fonts/38AE7E_0_0.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/layout/fonts/38AE7E_0_0.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/layout/fonts/38AE7E_1_0.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/layout/fonts/38AE7E_1_0.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/layout/fonts/38AE7E_1_0.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/layout/fonts/ElegantIcons.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/layout/fonts/ElegantIcons.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/layout/fonts/ElegantIcons.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://bwt.ch/20180555--20185056/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-05"
+    },
+    {
+      "URL": "https://bwt.ch/20210042",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-05"
+    },
+    {
+      "URL": "https://bwt.ch/mitarbeiterfest-vom-6-november-2021",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-18"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/1039",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-18"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/512",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-18"
+    },
+    {
+      "URL": "https://www.bwt.ch/umbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-18"
+    },
+    {
+      "URL": "https://bwt.ch/20131418---20145065/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20155211/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20160115--20161645/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20161112/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20161658/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20165036/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/201651003/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20165200/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20170744/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20171378/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20175056/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20180753/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20181184-und-20175027293033/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20181436/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20181482/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/2018161/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/201816231/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20185042/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20185090/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20185167/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/201911050/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20191273/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20191550/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/20195077/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/aktuell/ferien",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/alterszentrum-kreuzlingen/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/axa-r17--axa-leben-ag/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/ekz-neuwiesen/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/embraport-halle-a/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/gv-event-vom-250620211",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/hallenbad-geiselweid/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/hotel-walhalla/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/mfh-hochwachtstrasse/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/mfh-holzlegi/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/mfh-roemertorstrasse/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/mfh-terrassenweg/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/fonts/bootstrap/glyphicons-halflings-regular.woff2?1454944672",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-03-24"
+    },
+    {
+      "URL": "https://www.bwt.ch/fonts/bootstrap/glyphicons-halflings-regular.woff?1454944672",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-03-24"
+    },
+    {
+      "URL": "https://www.bwt.ch/index.php?id=27&type=841133",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-01-27"
+    },
+    {
+      "URL": "https://www.bwt.ch/trennwaende",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-10-22"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/footer/disclaimer/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-06-10"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/jobs/baufuehrer-umbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-06-09"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/jobs/polier-umbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-06-09"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/jobs/spartenleiter-schadstoffsanierung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-06-09"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/footer/impressum/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-06-07"
+    },
+    {
+      "URL": "http://www.bwt.ch/fileadmin/user_upload/Holzbau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-21"
+    },
+    {
+      "URL": "http://www.bwt.ch/fileadmin/user_upload/Kleinauftraege/Kundenservice.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-20"
+    },
+    {
+      "URL": "http://www.bwt.ch/fileadmin/user_upload/Neubau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-20"
+    },
+    {
+      "URL": "http://www.bwt.ch/grabenloser-rohrvortrieb/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-20"
+    },
+    {
+      "URL": "http://www.bwt.ch/kanalbauwerkleitungsbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-20"
+    },
+    {
+      "URL": "http://www.bwt.ch/ueber-uns/geschichte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-20"
+    },
+    {
+      "URL": "http://www.bwt.ch/umbau-sanierung/umbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/betonbohrenbetonfraesen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-02-06"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/jobs/leiter-kundenservice",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-02-06"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/tiefbau/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-02-06"
+    },
+    {
+      "URL": "http://www.bwt.ch/aktuell-detail/news/detail/News/bwt-stamm-vom-19-januar-2016/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-12-23"
+    },
+    {
+      "URL": "http://www.bwt.ch/aktuell-detail/news/detail/News/lehrlingsausflug-vom-26092016-ein-gelungener-tag-mit-vielen-ueberraschungen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-12-23"
+    },
+    {
+      "URL": "http://www.bwt.ch/aktuell-detail/news/detail/News/mitarbeiterfest-vom-28-mai-2016/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-12-23"
+    },
+    {
+      "URL": "http://www.bwt.ch/wasserbaurenaturierung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-12-23"
+    },
+    {
+      "URL": "http://www.bwt.ch/fileadmin/user_upload/Holzbau/buewatek_100_trennwand.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-11-04"
+    },
+    {
+      "URL": "http://www.bwt.ch/fileadmin/user_upload/Holzbau/buewatek_tp_lite_trennwand.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-11-04"
+    },
+    {
+      "URL": "http://www.bwt.ch/fileadmin/user_upload/Holzbau/TIXIT_Trennwaende.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-11-04"
+    },
+    {
+      "URL": "http://www.bwt.ch/fileadmin/user_upload/Holzbau/wewatek_16.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-11-04"
+    },
+    {
+      "URL": "http://www.bwt.ch/news-archiv?month=201505",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-09-08"
+    },
+    {
+      "URL": "http://www.bwt.ch/kanalbau-werkleitungsbau?file=tl_files/bwt_images/downloads%20%28pdf%29/2014/Referenzblaetter/Werkleitungs-%20und%20Kanalbau_2015.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-08-29"
+    },
+    {
+      "URL": "http://www.bwt.ch/Wasserbau_Renaturierung?file=tl_files/bwt_images/downloads%20%28pdf%29/2014/Referenzblaetter/Wasserbau_2015.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-08-29"
+    },
+    {
+      "URL": "http://www.bwt.ch/aktuell/articles/aktuell",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-08-18"
+    },
+    {
+      "URL": "http://www.bwt.ch/seite-nicht-gefunden/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-06-28"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aktuell-detail/?tx_news_pi1%5Bnews%5D=3&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=ca98bd0a03875dbb28eecd304f04f46b",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-06-23"
+    },
+    {
+      "URL": "http://www.bwt.ch/'tl_files/bwt_images/backgrounds/pixel.png/'",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-15"
+    },
+    {
+      "URL": "http://www.bwt.ch/bauservice",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-03-29"
+    },
+    {
+      "URL": "http://www.bwt.ch/cron.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-03-29"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/umgebungsarbeiten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2014-12-06"
+    },
+    {
+      "URL": "http://www.bwt.ch/system/themes/bwt/)",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2013-05-26"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/tl_files/bwt_images/referenzen/Kanzleistrasse%20Winterthur-Seen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-06-24"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/suche",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2011-02-22"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kontakt-46",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2011-02-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/startseite-50",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2011-02-12"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-trennwand.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-11-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kontakt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-08-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/profilfoto1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-08-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-betonbohren.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-08-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/holzbauref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-07-11"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/holzbauref3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-07-11"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/holzbauref4.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-07-11"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-holzbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-07-11"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/jobs-baufuehrer.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-06-24"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/holzbauref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-12-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-tiefbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-10-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/hochbauref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-10-03"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-hochbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-24"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/referenzliste.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-19"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aktuell.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/betonsanierung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/holzsystembau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/jobs.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kunst.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/neuigkeiten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/organigramm.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/profil.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/sitemap.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kundenref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-16"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kundenref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-16"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/tiefbauref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-16"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/tiefbauref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-16"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/tiefbauref3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-16"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aktuell2.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aktuell4.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aktuell5.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aktuell6.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/danke.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/immobilien.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/geschichte5.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/geschichte6.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/geschichte7.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/geschichte8.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/geschichte9.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/hochbauref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/hochbauref3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/holzbauref5.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kunstref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kunstref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kunstref3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kunstref4.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/leitungref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/leitungref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/leitungref3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/organigramm2.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/organigramm3a.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/projekt3.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-asbestsanierung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-holzsystembau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-leitungsbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aktuell3.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-03"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/asbestsanierung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-02"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/betonbohren.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-02"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/leitungsbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-02"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/profilfoto2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/%20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-06-09"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/jobs-baufuehrer-TB.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-06-09"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/jobs-polier.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-06-07"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/projekt4.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-05-17"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/index_links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-12-11"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/index_links2.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-12-11"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/tixitref1-stgeorg.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-10-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/tixitref2-arjo.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-10-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/tixitref3-Aarau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-10-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/tixitref4-Walzmuehle.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-10-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/umbauref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-10-25"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/umbauref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-10-25"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/umbauref3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-10-25"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/projekt1.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-05-09"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test/kontakt_confirm.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test/aktuell.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-01-23"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test/hochbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-01-23"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test/profil.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-01-23"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test/sitemap.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-01-23"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/Magaziner.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-01-19"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-umerenzliste.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-12-02"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/flachdachref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-12-01"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kuref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-12-01"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/boxd.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-09-12"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/new/projekte.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-09-03"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/new/test.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-09-03"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/flash.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-08-28"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/noflash.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-08-28"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftportrait1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-21"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/img/TIXIT/B%FCwatek.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/img/TIXIT/Wewatek.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot13.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot4.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb-1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb-2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb-5.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb-Ku-Stamm-ZH-2006.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb-MA-Fest2002.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb-Stamm-WI-06.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/padressen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/pgeschichte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porg_techndienst.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porg_technunfall.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porgan.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/pprofil.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/preferenzen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/tixitref4-Walzmuehle.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-19"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftnews.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-19"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftportrait.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-19"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/flachdachref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/flachdachref3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "https://bwt.ch/20220294/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-05"
+    },
+    {
+      "URL": "https://bwt.ch/20200481/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "URL": "http://bwt.ch/trennwand.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-03-05"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/projekt2.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-05-09"
+    },
+    {
+      "URL": "https://bwt.ch/cms",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://bwt.ch/frontend",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://bwt.ch/lehrstellen-alt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1549",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1695",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1834",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/referenzen/47",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/schadstoffsanierung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/spezialitaeten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/stabsuebergabe-in-der-bwt-bau-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/standortleiterin-holzbau3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/umgang-mit-technik",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/unsere-frisch-gebackenen-lernenden-der-bwt-bau-ag3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210693",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/20220017",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/20220549",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/20225037",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/baufuehrerin-kleinauftraege-region-zuerich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/bwt-mal-anders8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/deine-lehre-auf-dem-bau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/neue-helme-fuer-die-bwt-bau-ag3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1538",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1956",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/planerin-holzbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/polier-oder-vorarbeiter-schadstoffsanierung1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/werkhof",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-12"
+    },
+    {
+      "URL": "https://www.bwt.ch/202010896/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210693/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/20215101/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/20215169/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/20220017/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/20220549/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/20225037/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/bauen-fuer-die-zukunft",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/eco-build-20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/lehrlingsausflug-vom-14-oktober-2019",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/lehrlingsausflug-vom-17-september-2018",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/lehrlingsausflug-vom-25092017--ein-tag-mit-au",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/nachhaltigkeit",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/schadstoffsanierer9",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/starte-mit-uns-durch5",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/verantwortung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/aktuell/archiv",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/420",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/721",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-29"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/50/20221013---Organigramm-2022.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "URL": "https://www.bwt.ch/20200431/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/20215033/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/betonsanierung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/verstaerkung-fuer-unsere-bwt-flotte3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-23"
+    },
+    {
+      "URL": "https://www.bwt.ch/20190384",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/20190546",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/20195179",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/20200115",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/20200431",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/202010896",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210113",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210174",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/20211375",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/20215009",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/20215033",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/202151279",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/20215169",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/20221313",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/50/20220701---Organigramm-2022.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1091",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1100",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1252",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1258",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1322",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1399",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1442",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1534",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1563",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1736",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1737",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1818",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/1942",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/403",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/573",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/pdftool/createReferenz/646",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/referenzen/48",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://www.bwt.ch/waermedaemmung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-16"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/1840",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "URL": "https://bwt.ch/referenzen/272",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-03"
+    },
+    {
+      "URL": "https://www.bwt.ch/prefbetonbohren.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-30"
+    },
+    {
+      "URL": "https://www.bwt.ch/customer/files/50/20230801-Organigramm-2023.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/disclaimer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/kontakt-formular-validate",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-04"
+    },
+    {
+      "URL": "https://bwt.ch/starte-mit-uns-durch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-08"
+    },
+    {
+      "URL": "https://bwt.ch/alterswohnungen-schneckenwiese/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-31"
+    },
+    {
+      "URL": "https://bwt.ch/baufuehrer-umbau-und-sanierung8",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-31"
+    },
+    {
+      "URL": "https://bwt.ch/mitarbeiterfest-vom-11620229",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-31"
+    },
+    {
+      "URL": "https://bwt.ch/referenzen/46",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-31"
+    },
+    {
+      "URL": "https://bwt.ch/referenzen/85",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-31"
+    },
+    {
+      "URL": "https://bwt.ch/zimmermann-efz-(mwd)-oder-holzbau-vorarbeiter-(m",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-31"
+    },
+    {
+      "URL": "https://www.bwt.ch/home/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-16"
+    },
+    {
+      "URL": "https://bwt.ch/mitarbeiterfest-vom-1162022",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-03"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/1417",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-03"
+    },
+    {
+      "URL": "https://bwt.ch/201805843/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-06"
+    },
+    {
+      "URL": "https://bwt.ch/20201262/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-06"
+    },
+    {
+      "URL": "https://bwt.ch/mitarbeiterfest-vom-6-november-20217",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-06"
+    },
+    {
+      "URL": "https://www.bwt.ch/baufuehrer-umbau-und-sanierung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/bauwerktrenner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/polier-oder-vorarbeiter-schadstoffsanierung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/praktikant-baufuehrer-um--oder-neubau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/zimmermann-efz-undoder-holzbau-vorarbeiter",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-04"
+    },
+    {
+      "URL": "https://www.bwt.ch/baufuehrer-um--und-neubau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-03"
+    },
+    {
+      "URL": "https://www.bwt.ch/polier-neubau-sowie-polier-umbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-03"
+    },
+    {
+      "URL": "https://www.bwt.ch/schadstoffsanierer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-03"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/1467",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-18"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/1468",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-18"
+    },
+    {
+      "URL": "https://bwt.ch/20200229/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-26"
+    },
+    {
+      "URL": "https://bwt.ch/20200649/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-26"
+    },
+    {
+      "URL": "https://bwt.ch/aktuell/mitarbeiterfest-vom-6-november-2021",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-26"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/501",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-26"
+    },
+    {
+      "URL": "https://bwt.ch/20160643/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-18"
+    },
+    {
+      "URL": "https://bwt.ch/20190225--20161511/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-18"
+    },
+    {
+      "URL": "https://bwt.ch/20200299/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-18"
+    },
+    {
+      "URL": "https://bwt.ch/aktuell/gv-event-vom-250620211",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-18"
+    },
+    {
+      "URL": "https://bwt.ch/aktuell/mitarbeiterfest-vom-15-juni-2019",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-18"
+    },
+    {
+      "URL": "https://bwt.ch/aktuell/mitarbeiterfest-vom-17-juni-2017",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-18"
+    },
+    {
+      "URL": "https://bwt.ch/mfh-wiesentalweg/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/pfarrhaus/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/pflegezentrum-lindehus/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/psychiatrische-klinik-gebaeude-a01/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/refh-am-setzibach/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-19"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/752",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-25"
+    },
+    {
+      "URL": "https://bwt.ch/gv-event-vom-25062021",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-19"
+    },
+    {
+      "URL": "https://bwt.ch/20201197/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-07-24"
+    },
+    {
+      "URL": "https://bwt.ch/20210013/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-07-24"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/429",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-07-24"
+    },
+    {
+      "URL": "https://bwt.ch/roesslitor-st-gallen/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "URL": "https://bwt.ch/wohnsiedlung-hegifeld/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "URL": "https://bwt.ch/wohnueberbauung-mattenbach/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "URL": "https://www.bwt.ch/mitarbeiterfest-vom-15-juni-2019",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-05-15"
+    },
+    {
+      "URL": "https://bwt.ch/20141384/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "URL": "https://bwt.ch/20151304/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "URL": "https://bwt.ch/20160134/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "URL": "https://bwt.ch/20161096/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "URL": "https://bwt.ch/20161199/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "URL": "https://bwt.ch/20170446/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "URL": "https://bwt.ch/20171127/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "URL": "https://bwt.ch/20171640/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "URL": "https://bwt.ch/20200271/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "URL": "https://bwt.ch/20200379/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "URL": "https://bwt.ch/20200430/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-11"
+    },
+    {
+      "URL": "https://bwt.ch/helferei-grossmuenster/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-25"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/333",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-25"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/344",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-25"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/380",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-25"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/415",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-25"
+    },
+    {
+      "URL": "https://bwt.ch/%7B%7Bchildren.0.src%7D%7D",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-15"
+    },
+    {
+      "URL": "https://www.bwt.ch/generalversammlung-der-bwt-bau-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-22"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/632",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-27"
+    },
+    {
+      "URL": "https://bwt.ch/pdftool/createReferenz/691",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-27"
+    },
+    {
+      "URL": "https://bwt.ch/forel-klinik/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-22"
+    },
+    {
+      "URL": "https://bwt.ch/klausstrasse-4/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://bwt.ch/wanneggstrasse-1/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-29"
+    },
+    {
+      "URL": "https://www.bwt.ch/fonts/bootstrap/glyphicons-halflings-regular.eot?1454944672",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-03-24"
+    },
+    {
+      "URL": "https://www.bwt.ch/fonts/bootstrap/glyphicons-halflings-regular.ttf?1454944672",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-03-24"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/jobs-vorarbeiter-tiefbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/jobs-vorarbeiter.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/jobs_maschinist-hydraulikbagger.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kundendienst.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/mitteilung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-betonsanierung.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-kundendienst.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-kunst.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-umbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/tiefbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/umbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aktuell1.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-14"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aktuell7.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-14"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/geschichte.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/hochbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-09-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-30"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/adressen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-26"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-26"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/asbestsanref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/asbestsanref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/betonbohrenref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/betonbohrenref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/betonbohrenref3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/betonsanref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/betonsanref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/betonsanref3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/BWT-HP-15.9.06/betrieb.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/BWT-HP-15.9.06/mitteilungen.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/BWT-HP-15.9.06/porgan-n-fi.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/BWT-HP-15.9.06/porgan-n-op.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/BWT-HP-15.9.06/prefformateam.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/formaref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/formaref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/formaref3.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/geschichte1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/geschichte10.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/geschichte11.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/geschichte2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/geschichte3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/geschichte4.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-08-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/BWT-HP-15.9.06/nprojekte%20P%205.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-12"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/BWT-HP-15.9.06/nprojekte%20P%206.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-12"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/BWT-HP-15.9.06/nprojekte%20P4.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-12"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test1/aktuell.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test1/hochbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test1/kontakt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test1/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test1/links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test1/profil.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test1/sitemap.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-04"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/BWT-HP-15.9.06/pdf/B&",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-02"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/fassadenbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-02"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/flachdacharbeiten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-02"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/profilfoto3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-03-02"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test1/danke.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-02-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test1/kontakt1.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-02-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kontakt_confirm.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-02-17"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/fassadenbauref1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-02-09"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/fassadenbauref2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-02-09"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/fassadenbauref3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-02-09"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-fassadenbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2008-02-09"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porgan-n.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-07-03"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/organigramm3.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-07-01"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/jobs-zimmermann.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-05-05"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aaa/kontaktformular-auswerten.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-04-03"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aaa/kontaktformular.ph",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-04-03"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aaa/kontaktformular.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-04-03"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-04-03"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test/danke.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-04-03"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test/kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-04-03"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ref-flachdacharbeiten.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-03-24"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test/links.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-03-24"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nprojekte%20P%205.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-02-21"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nprojekte%20P%206.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-02-21"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nprojekte%20P4.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-02-21"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test.thm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test/danke.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/test/kontakt.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2007-01-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot10.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot11.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot12.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot5.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot6.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot7.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot8.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftangebot9.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftnews1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftnews2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftnews4.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobsmaurer_allg.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobspolier-Tiefbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobspolier-Turbenthal.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobspolier.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftnews3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-17"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/atixit.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-16"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porgan_5.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-16"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aastbest.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/abeton.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/afassaden.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aflachdach.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/ahochbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aholzbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/akunden.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/akunst.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/atiefbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aumbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileft.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftportrait4.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nimmob.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobs.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nmitteilung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nprojekte.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porg_ammann.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porg_cjoehr.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porg_kd.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porg_pjoehr.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/prefastbest.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/prefbetonsan.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/preffassadenbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/prefflachdach.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/prefformateam.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/prefhochbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/prefholzbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/prefkunden.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/prefkunst.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/prefleitungsbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/preftiefbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/prefumbau.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftportrait2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-07-06"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobsbaufuehrer_Tiefbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-06-01"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porgan-n-op.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-05-24"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/abetonsan.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-05-17"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftportrait5.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-05-17"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porgan-n-fi.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-05-17"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/links.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-05-12"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/navileftportrait3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2006-04-30"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aforma.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-05-24"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/aleitung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-05-24"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/main.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-12"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/naviup.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-03-12"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/kontakt.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-02-16"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobs-turbenthal.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-02-16"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobsbaufuehrer.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-02-16"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb-Stamm-Wi-04.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-01-16"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/sitemap.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-01-16"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb-Ku-Stamm-ZH-2004.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2005-01-15"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobsvorarbeiter.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-12-11"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb-kzo.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-11-06"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb-3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-11-05"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobsbaufuehrer-umbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-09-05"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/javascript:enlargemap1()",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-06-25"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/akunst.html\"onMouseOver=\"parent.mover('kunst')",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-06-23"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/cgi/post.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-06-06"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/formagucki1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-05-21"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/akunden.html\"onMouseOver=\"parent.mover('kunden')",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-05-11"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/atixit.html\"onMouseOver=\"parent.mover('tixit')",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-05-11"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobsmaurer.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-04-09"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb-kzh.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2004-01-14"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/atixit.htm%22onMouseOver=%22parent.mover('tixit')",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-11-24"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/formagucki8.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-11-21"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nprojekte%20P1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-11-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nprojekte-kirche-turbenthal.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-11-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nneuesausbetrieb-Stamm-Wi-02.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-11-17"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/akunst.html%22onMouseOver=%22parent.mover('kunst')",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-11-06"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/atixit.html%22onMouseOver=%22parent.mover('tixit')",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-09-26"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nprojekte%20P2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-07-26"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/akunden.html%22onMouseOver=%22parent.mover('kunden')",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-07-20"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/baugeschaeft.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-07-09"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nprojekte%20P3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-05-18"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobsleiterflachdach.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2003-03-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobsbuchhaltung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-12-10"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobsgebaeudehuelle.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-12-10"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobsleiterholzbau.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-12-10"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/+",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2002-10-07"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobskundendienst.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-12-27"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nprojekte+P2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-10-21"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/formagucki2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-09-25"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porgan_2.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-09-25"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/porgan_3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-09-25"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nmitteilung_Altbau01.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-09-17"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/nprojekte+P+5.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-09-02"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/formagucki5.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-03-17"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/formagucki6.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-03-13"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/formagucki3.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-03-08"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/formagucki7.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-03-08"
+    },
+    {
+      "URL": "http://www.bwt.ch:80/njobskranfuehrer.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2001-03-06"
+    },
+    {
+      "URL": "https://www.bwt.ch/leiter-qualitaetssicherung--arbeitssicherheit---g5321",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/nachhaltigkeits-engagement-ab-2023",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/neue-berufswerbungskampagne-2024-einblick-auf-die-baustelle3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/organisation",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/startseite?utm_source=sportdate.tv&utm_medium=sponsor-footer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/teamausflug-holzbau22",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/umbau-sanierung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "URL": "https://www.bwt.ch/20200996/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/20201071/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/20205015/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/20210900/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/20215009/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/20215101",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/202151279/detail",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/beton-bohren-fraesen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/bwt-bau-ag-auf-youtube",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/bwt-bau-ag-in-der-abendsonne",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/generalversammlung-der-bwt-bau-ag4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/glossar",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/kalkulatorin1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/kleinauftraege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://www.bwt.ch/kmu-date-bei-der-bwt-bau-ag-in-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "a.merlo@bwt.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein","Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "E-Mail": "anfrage@bwt.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "E-Mail": "c.gutknecht@bwt.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "E-Mail": "info@strichpunkt.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "E-Mail": "medien@bwt.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41123456789",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    },
+    {
+      "Telefonnummern": "+41443251818",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "Telefonnummern": "+41443251819",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "Telefonnummern": "+41522128585",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "Telefonnummern": "+41522243107",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "Telefonnummern": "+41522243131",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "Telefonnummern": "+41522243132",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-04"
+    },
+    {
+      "Telefonnummern": "+41522243133",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-23"
+    }
+  ],
+  "service": [
+    {
+      "Port": 443,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "194.209.49.221",
+      "Domain/Subdomain": "smtp.bwt.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:jquery:jquery",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "85.195.197.122",
+      "Domain/Subdomain": "bwt.ch, 85-195-197-122.init7.net",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

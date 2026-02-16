@@ -1,0 +1,38 @@
+services:
+
+  backend:
+    build: ./Backend
+    container_name: backend
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    environment:
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_NAME: mydatabase
+      DB_USER: postgres
+      DB_PASSWORD: mysecretpassword
+
+  frontend:
+    build: ./Frontend
+    container_name: frontend
+    ports:
+      - "8080:80"
+
+  db:
+    image: postgres:15
+    container_name: db
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: mysecretpassword
+      POSTGRES_DB: mydatabase
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+
+volumes:
+  pgdata:

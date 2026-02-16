@@ -1,0 +1,1547 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "80.74.145.20",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mail.sutter-uhren.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ch.pro.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Name Server": "nl.pro.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Name Server": "p.dnh.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"v=spf1 include:_spf.sui-inter.net +mx +a -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "604800",
+      "Serial": "2023062200",
+      "Refresh": "10800",
+      "Hostmaster": "hostmaster.metanet.ch.",
+      "Minimum TTL": "1440",
+      "Primary Nameserver": "ch.pro.io.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "80.74.145.20",
+      "PTR-Domain": "napoleon.metanet.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "sutter-uhren.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "beta.sutter-uhren.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "v1.sutter-uhren.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "webmail.sutter-uhren.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2020-09-25",
+      "Gültig bis": "2020-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-09-26"
+    },
+    {
+      "Gültig ab": "2020-09-16",
+      "Gültig bis": "2020-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-09-17"
+    },
+    {
+      "Gültig ab": "2020-09-16",
+      "Gültig bis": "2020-12-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-09-17"
+    },
+    {
+      "Gültig ab": "2020-07-27",
+      "Gültig bis": "2020-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-07-28"
+    },
+    {
+      "Gültig ab": "2020-07-27",
+      "Gültig bis": "2020-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-07-28"
+    },
+    {
+      "Gültig ab": "2020-07-18",
+      "Gültig bis": "2020-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-07-19"
+    },
+    {
+      "Gültig ab": "2020-07-18",
+      "Gültig bis": "2020-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-07-19"
+    },
+    {
+      "Gültig ab": "2020-05-28",
+      "Gültig bis": "2020-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-05-28"
+    },
+    {
+      "Gültig ab": "2020-05-28",
+      "Gültig bis": "2020-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-05-28"
+    },
+    {
+      "Gültig ab": "2020-05-19",
+      "Gültig bis": "2020-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-05-20"
+    },
+    {
+      "Gültig ab": "2020-05-19",
+      "Gültig bis": "2020-08-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-05-20"
+    },
+    {
+      "Gültig ab": "2020-03-21",
+      "Gültig bis": "2020-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-21"
+    },
+    {
+      "Gültig ab": "2020-03-21",
+      "Gültig bis": "2020-06-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-21"
+    },
+    {
+      "Gültig ab": "2020-01-20",
+      "Gültig bis": "2020-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-01-20"
+    },
+    {
+      "Gültig ab": "2020-01-20",
+      "Gültig bis": "2020-04-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-01-20"
+    },
+    {
+      "Gültig ab": "2019-11-21",
+      "Gültig bis": "2020-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-11-21"
+    },
+    {
+      "Gültig ab": "2019-11-21",
+      "Gültig bis": "2020-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-11-21"
+    },
+    {
+      "Gültig ab": "2019-09-21",
+      "Gültig bis": "2019-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-09-22"
+    },
+    {
+      "Gültig ab": "2019-09-21",
+      "Gültig bis": "2019-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-09-22"
+    },
+    {
+      "Gültig ab": "2019-07-23",
+      "Gültig bis": "2019-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-07-24"
+    },
+    {
+      "Gültig ab": "2019-07-23",
+      "Gültig bis": "2019-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-07-24"
+    },
+    {
+      "Gültig ab": "2019-05-24",
+      "Gültig bis": "2019-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-05-25"
+    },
+    {
+      "Gültig ab": "2019-05-24",
+      "Gültig bis": "2019-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-05-25"
+    },
+    {
+      "Gültig ab": "2019-03-26",
+      "Gültig bis": "2019-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-03-26"
+    },
+    {
+      "Gültig ab": "2019-03-26",
+      "Gültig bis": "2019-06-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-03-26"
+    },
+    {
+      "Gültig ab": "2019-01-24",
+      "Gültig bis": "2019-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-24"
+    },
+    {
+      "Gültig ab": "2019-01-24",
+      "Gültig bis": "2019-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-24"
+    },
+    {
+      "Gültig ab": "2025-04-29",
+      "Gültig bis": "2025-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-30"
+    },
+    {
+      "Gültig ab": "2025-04-29",
+      "Gültig bis": "2025-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-30"
+    },
+    {
+      "Gültig ab": "2025-03-22",
+      "Gültig bis": "2025-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "Gültig ab": "2025-03-22",
+      "Gültig bis": "2025-06-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-03-22"
+    },
+    {
+      "Gültig ab": "2025-02-28",
+      "Gültig bis": "2025-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-28"
+    },
+    {
+      "Gültig ab": "2025-02-28",
+      "Gültig bis": "2025-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-28"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2025-01-20",
+      "Gültig bis": "2025-04-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-20"
+    },
+    {
+      "Gültig ab": "2024-12-30",
+      "Gültig bis": "2025-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-30"
+    },
+    {
+      "Gültig ab": "2024-12-30",
+      "Gültig bis": "2025-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-30"
+    },
+    {
+      "Gültig ab": "2024-11-21",
+      "Gültig bis": "2025-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "Gültig ab": "2024-11-21",
+      "Gültig bis": "2025-02-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-21"
+    },
+    {
+      "Gültig ab": "2024-10-31",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-10-31",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-09-21",
+      "Gültig bis": "2024-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-09-22"
+    },
+    {
+      "Gültig ab": "2024-09-21",
+      "Gültig bis": "2024-12-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-09-22"
+    },
+    {
+      "Gültig ab": "2024-08-31",
+      "Gültig bis": "2024-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-09-01"
+    },
+    {
+      "Gültig ab": "2024-08-31",
+      "Gültig bis": "2024-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-09-01"
+    },
+    {
+      "Gültig ab": "2024-07-23",
+      "Gültig bis": "2024-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "Gültig ab": "2024-07-23",
+      "Gültig bis": "2024-10-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-24"
+    },
+    {
+      "Gültig ab": "2024-07-02",
+      "Gültig bis": "2024-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "Gültig ab": "2024-07-02",
+      "Gültig bis": "2024-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "Gültig ab": "2024-05-24",
+      "Gültig bis": "2024-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-25"
+    },
+    {
+      "Gültig ab": "2024-05-24",
+      "Gültig bis": "2024-08-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-25"
+    },
+    {
+      "Gültig ab": "2024-05-03",
+      "Gültig bis": "2024-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-04"
+    },
+    {
+      "Gültig ab": "2024-05-03",
+      "Gültig bis": "2024-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-05-04"
+    },
+    {
+      "Gültig ab": "2024-03-25",
+      "Gültig bis": "2024-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "Gültig ab": "2024-03-25",
+      "Gültig bis": "2024-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-25"
+    },
+    {
+      "Gültig ab": "2024-03-04",
+      "Gültig bis": "2024-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-04"
+    },
+    {
+      "Gültig ab": "2024-03-04",
+      "Gültig bis": "2024-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-03-04"
+    },
+    {
+      "Gültig ab": "2024-01-25",
+      "Gültig bis": "2024-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-01-25"
+    },
+    {
+      "Gültig ab": "2024-01-25",
+      "Gültig bis": "2024-04-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-01-25"
+    },
+    {
+      "Gültig ab": "2024-01-03",
+      "Gültig bis": "2024-04-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-01-03"
+    },
+    {
+      "Gültig ab": "2024-01-03",
+      "Gültig bis": "2024-04-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-01-03"
+    },
+    {
+      "Gültig ab": "2023-11-26",
+      "Gültig bis": "2024-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-11-26"
+    },
+    {
+      "Gültig ab": "2023-11-26",
+      "Gültig bis": "2024-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-11-26"
+    },
+    {
+      "Gültig ab": "2023-11-04",
+      "Gültig bis": "2024-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-11-04"
+    },
+    {
+      "Gültig ab": "2023-11-04",
+      "Gültig bis": "2024-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-11-04"
+    },
+    {
+      "Gültig ab": "2023-09-26",
+      "Gültig bis": "2023-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "Gültig ab": "2023-09-26",
+      "Gültig bis": "2023-12-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-09-27"
+    },
+    {
+      "Gültig ab": "2023-09-04",
+      "Gültig bis": "2023-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-09-05"
+    },
+    {
+      "Gültig ab": "2023-09-04",
+      "Gültig bis": "2023-12-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-09-05"
+    },
+    {
+      "Gültig ab": "2023-07-28",
+      "Gültig bis": "2023-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-07-29"
+    },
+    {
+      "Gültig ab": "2023-07-28",
+      "Gültig bis": "2023-10-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-07-29"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-07-07"
+    },
+    {
+      "Gültig ab": "2023-07-06",
+      "Gültig bis": "2023-10-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-07-07"
+    },
+    {
+      "Gültig ab": "2023-05-29",
+      "Gültig bis": "2023-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-05-30"
+    },
+    {
+      "Gültig ab": "2023-05-29",
+      "Gültig bis": "2023-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-05-30"
+    },
+    {
+      "Gültig ab": "2023-05-07",
+      "Gültig bis": "2023-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-05-08"
+    },
+    {
+      "Gültig ab": "2023-05-07",
+      "Gültig bis": "2023-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-05-08"
+    },
+    {
+      "Gültig ab": "2023-03-30",
+      "Gültig bis": "2023-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-31"
+    },
+    {
+      "Gültig ab": "2023-03-30",
+      "Gültig bis": "2023-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-31"
+    },
+    {
+      "Gültig ab": "2023-03-09",
+      "Gültig bis": "2023-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-09"
+    },
+    {
+      "Gültig ab": "2023-03-09",
+      "Gültig bis": "2023-06-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-09"
+    },
+    {
+      "Gültig ab": "2023-01-30",
+      "Gültig bis": "2023-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-30"
+    },
+    {
+      "Gültig ab": "2023-01-30",
+      "Gültig bis": "2023-04-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-30"
+    },
+    {
+      "Gültig ab": "2023-01-08",
+      "Gültig bis": "2023-04-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-08"
+    },
+    {
+      "Gültig ab": "2023-01-08",
+      "Gültig bis": "2023-04-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-08"
+    },
+    {
+      "Gültig ab": "2022-12-01",
+      "Gültig bis": "2023-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-12-01"
+    },
+    {
+      "Gültig ab": "2022-12-01",
+      "Gültig bis": "2023-03-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-12-01"
+    },
+    {
+      "Gültig ab": "2022-11-09",
+      "Gültig bis": "2023-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-09"
+    },
+    {
+      "Gültig ab": "2022-11-09",
+      "Gültig bis": "2023-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-09"
+    },
+    {
+      "Gültig ab": "2022-10-01",
+      "Gültig bis": "2022-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-10-02"
+    },
+    {
+      "Gültig ab": "2022-10-01",
+      "Gültig bis": "2022-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-10-02"
+    },
+    {
+      "Gültig ab": "2022-09-09",
+      "Gültig bis": "2022-12-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-10"
+    },
+    {
+      "Gültig ab": "2022-09-09",
+      "Gültig bis": "2022-12-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-10"
+    },
+    {
+      "Gültig ab": "2022-08-02",
+      "Gültig bis": "2022-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-08-03"
+    },
+    {
+      "Gültig ab": "2022-08-02",
+      "Gültig bis": "2022-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-08-03"
+    },
+    {
+      "Gültig ab": "2022-07-10",
+      "Gültig bis": "2022-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-07-11"
+    },
+    {
+      "Gültig ab": "2022-07-10",
+      "Gültig bis": "2022-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-07-11"
+    },
+    {
+      "Gültig ab": "2022-06-03",
+      "Gültig bis": "2022-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-06-04"
+    },
+    {
+      "Gültig ab": "2022-06-03",
+      "Gültig bis": "2022-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-06-04"
+    },
+    {
+      "Gültig ab": "2022-05-11",
+      "Gültig bis": "2022-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-12"
+    },
+    {
+      "Gültig ab": "2022-05-11",
+      "Gültig bis": "2022-08-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-05-12"
+    },
+    {
+      "Gültig ab": "2022-04-04",
+      "Gültig bis": "2022-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-05"
+    },
+    {
+      "Gültig ab": "2022-04-04",
+      "Gültig bis": "2022-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-05"
+    },
+    {
+      "Gültig ab": "2022-03-12",
+      "Gültig bis": "2022-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-03-12"
+    },
+    {
+      "Gültig ab": "2022-03-12",
+      "Gültig bis": "2022-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-03-12"
+    },
+    {
+      "Gültig ab": "2022-02-04",
+      "Gültig bis": "2022-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-02-04"
+    },
+    {
+      "Gültig ab": "2022-02-04",
+      "Gültig bis": "2022-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-02-04"
+    },
+    {
+      "Gültig ab": "2022-01-10",
+      "Gültig bis": "2022-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-01-10"
+    },
+    {
+      "Gültig ab": "2022-01-10",
+      "Gültig bis": "2022-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-01-10"
+    },
+    {
+      "Gültig ab": "2021-12-06",
+      "Gültig bis": "2022-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-12-06"
+    },
+    {
+      "Gültig ab": "2021-12-06",
+      "Gültig bis": "2022-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-12-06"
+    },
+    {
+      "Gültig ab": "2021-11-11",
+      "Gültig bis": "2022-02-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-11-11"
+    },
+    {
+      "Gültig ab": "2021-11-11",
+      "Gültig bis": "2022-02-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-11-11"
+    },
+    {
+      "Gültig ab": "2021-10-06",
+      "Gültig bis": "2022-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-10-07"
+    },
+    {
+      "Gültig ab": "2021-10-06",
+      "Gültig bis": "2022-01-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-10-07"
+    },
+    {
+      "Gültig ab": "2021-09-11",
+      "Gültig bis": "2021-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-09-12"
+    },
+    {
+      "Gültig ab": "2021-09-11",
+      "Gültig bis": "2021-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-09-12"
+    },
+    {
+      "Gültig ab": "2021-08-07",
+      "Gültig bis": "2021-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-08-08"
+    },
+    {
+      "Gültig ab": "2021-08-07",
+      "Gültig bis": "2021-11-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-08-08"
+    },
+    {
+      "Gültig ab": "2021-07-13",
+      "Gültig bis": "2021-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-07-14"
+    },
+    {
+      "Gültig ab": "2021-07-13",
+      "Gültig bis": "2021-10-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-07-14"
+    },
+    {
+      "Gültig ab": "2021-06-08",
+      "Gültig bis": "2021-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-06-09"
+    },
+    {
+      "Gültig ab": "2021-06-08",
+      "Gültig bis": "2021-09-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-06-09"
+    },
+    {
+      "Gültig ab": "2021-05-14",
+      "Gültig bis": "2021-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-05-15"
+    },
+    {
+      "Gültig ab": "2021-05-14",
+      "Gültig bis": "2021-08-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-05-15"
+    },
+    {
+      "Gültig ab": "2021-04-09",
+      "Gültig bis": "2021-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-04-10"
+    },
+    {
+      "Gültig ab": "2021-04-09",
+      "Gültig bis": "2021-07-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-04-10"
+    },
+    {
+      "Gültig ab": "2021-03-16",
+      "Gültig bis": "2021-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-03-16"
+    },
+    {
+      "Gültig ab": "2021-03-16",
+      "Gültig bis": "2021-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-03-16"
+    },
+    {
+      "Gültig ab": "2021-02-08",
+      "Gültig bis": "2021-05-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-02-08"
+    },
+    {
+      "Gültig ab": "2021-02-08",
+      "Gültig bis": "2021-05-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-02-08"
+    },
+    {
+      "Gültig ab": "2021-01-15",
+      "Gültig bis": "2021-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-15"
+    },
+    {
+      "Gültig ab": "2021-01-15",
+      "Gültig bis": "2021-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-15"
+    },
+    {
+      "Gültig ab": "2020-12-09",
+      "Gültig bis": "2021-03-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-12-09"
+    },
+    {
+      "Gültig ab": "2020-12-09",
+      "Gültig bis": "2021-03-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "v1.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-12-09"
+    },
+    {
+      "Gültig ab": "2020-11-25",
+      "Gültig bis": "2021-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "Gültig ab": "2020-11-25",
+      "Gültig bis": "2021-02-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-11-25"
+    },
+    {
+      "Gültig ab": "2020-11-16",
+      "Gültig bis": "2021-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-11-16"
+    },
+    {
+      "Gültig ab": "2020-11-16",
+      "Gültig bis": "2021-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sutter-uhren.ch, webmail.sutter-uhren.ch, www.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-11-16"
+    },
+    {
+      "Gültig ab": "2020-09-25",
+      "Gültig bis": "2020-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "beta.sutter-uhren.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-09-26"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://sutter-uhren.ch/redaxo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-16"
+    },
+    {
+      "URL": "https://www.sutter-uhren.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-16"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/gia/gia.swf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-01-30"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/templates/assets/webfonts/woff/style_148503.woff",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-28"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/templates/assets/webfonts/ttf/style_148503.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-27"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/templates/assets/webfonts/eot/style_148503.eot",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-24"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/uhren/qlocktwo/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-17"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/uhren/certina/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/uhren/connected-watch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/uhren/iwc/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-16"
+    },
+    {
+      "URL": "http://www.sutter-uhren.ch/uhren/jaeger-lecoultre/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-10-09"
+    },
+    {
+      "URL": "http://www.sutter-uhren.ch/ethik-codex/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-10-03"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/schmuck/isabellefa/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-26"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/schmuck/meister/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-26"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/files/ethikcodex.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-20"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/gia/index_gia.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-19"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/wissen/brillant/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-09-15"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/geschichte/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-08-13"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/kontaktformular/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-08-13"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/service/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-08-13"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/trauringe/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-08-13"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/uhren/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-08-13"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/verlobungsringe/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-08-13"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/schmuck/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/under-construction/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/schmuck/piaget/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-04-27"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/schmuck/joerg-heinz/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-06-07"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/uhren/piaget/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-06-07"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/stellen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-12-18"
+    },
+    {
+      "URL": "http://sutter-uhren.ch/uhren/max-bill/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-12-18"
+    },
+    {
+      "URL": "http://www.sutter-uhren.ch:80/produkte.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2008-02-09"
+    },
+    {
+      "URL": "http://www.sutter-uhren.ch:80/default.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-09-08"
+    },
+    {
+      "URL": "http://www.sutter-uhren.ch:80/iwc.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-06"
+    },
+    {
+      "URL": "http://www.sutter-uhren.ch:80/kontakt.asp",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-06"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@sutter-uhren.ch",
+      "Passwort geleakt (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-09-08"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522123084",
+      "Passwort geleakt (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-17"
+    },
+    {
+      "Telefonnummern": "+41522133261",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-17"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

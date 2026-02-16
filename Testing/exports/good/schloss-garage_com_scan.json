@@ -1,0 +1,2602 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "94.126.23.139",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "schlossgarage-com01i.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "dns1.go4web.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Name Server": "dns2.go4web.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Name Server": "dns3.go4web.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms76076538\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    },
+    {
+      "Text Record": "\"v=spf1 a mx ptr ip4:212.147.16.92 include:mxlogic.net include:appriver.com include:spf.crsend.com include:spf.protection.outlook.com ~all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "604800",
+      "Serial": "2025040101",
+      "Refresh": "10800",
+      "Hostmaster": "info.schloss-garage.com.",
+      "Minimum TTL": "10800",
+      "Primary Nameserver": "dns1.go4web.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "94.126.23.139",
+      "PTR-Domain": "m15r1601.sui-inter.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "app.schloss-garage.com",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "autodiscover.schloss-garage.com",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "dev.schloss-garage.com",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "sslvpn.schloss-garage.com",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    },
+    {
+      "Subdomainname": "webmail.schloss-garage.com",
+      "In Digitalem Twin gescant am": "2025-05-22"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-04-29",
+      "Gültig bis": "2025-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-29"
+    },
+    {
+      "Gültig ab": "2025-04-29",
+      "Gültig bis": "2025-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-29"
+    },
+    {
+      "Gültig ab": "2025-04-01",
+      "Gültig bis": "2025-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-01"
+    },
+    {
+      "Gültig ab": "2025-04-01",
+      "Gültig bis": "2025-06-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-01"
+    },
+    {
+      "Gültig ab": "2025-03-30",
+      "Gültig bis": "2025-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "Gültig ab": "2025-03-30",
+      "Gültig bis": "2025-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-03-30"
+    },
+    {
+      "Gültig ab": "2025-02-28",
+      "Gültig bis": "2025-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-28"
+    },
+    {
+      "Gültig ab": "2025-02-28",
+      "Gültig bis": "2025-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-02-28"
+    },
+    {
+      "Gültig ab": "2025-01-31",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-31"
+    },
+    {
+      "Gültig ab": "2025-01-31",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-31"
+    },
+    {
+      "Gültig ab": "2025-01-29",
+      "Gültig bis": "2025-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-29"
+    },
+    {
+      "Gültig ab": "2025-01-29",
+      "Gültig bis": "2025-04-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-29"
+    },
+    {
+      "Gültig ab": "2024-12-30",
+      "Gültig bis": "2025-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-30"
+    },
+    {
+      "Gültig ab": "2024-12-30",
+      "Gültig bis": "2025-03-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-30"
+    },
+    {
+      "Gültig ab": "2024-12-02",
+      "Gültig bis": "2025-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "Gültig ab": "2024-12-02",
+      "Gültig bis": "2025-03-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "Gültig ab": "2024-11-30",
+      "Gültig bis": "2025-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-30"
+    },
+    {
+      "Gültig ab": "2024-11-30",
+      "Gültig bis": "2025-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-11-30"
+    },
+    {
+      "Gültig ab": "2024-10-31",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-10-31",
+      "Gültig bis": "2025-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-31"
+    },
+    {
+      "Gültig ab": "2024-10-03",
+      "Gültig bis": "2025-01-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "Gültig ab": "2024-10-03",
+      "Gültig bis": "2025-01-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-03"
+    },
+    {
+      "Gültig ab": "2024-10-01",
+      "Gültig bis": "2024-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-01"
+    },
+    {
+      "Gültig ab": "2024-10-01",
+      "Gültig bis": "2024-12-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-10-01"
+    },
+    {
+      "Gültig ab": "2024-09-01",
+      "Gültig bis": "2024-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-01"
+    },
+    {
+      "Gültig ab": "2024-09-01",
+      "Gültig bis": "2024-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-09-01"
+    },
+    {
+      "Gültig ab": "2024-08-14",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "Gültig ab": "2024-08-14",
+      "Gültig bis": "2024-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "Gültig ab": "2024-08-04",
+      "Gültig bis": "2024-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "Gültig ab": "2024-08-04",
+      "Gültig bis": "2024-11-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-04"
+    },
+    {
+      "Gültig ab": "2024-08-02",
+      "Gültig bis": "2024-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "Gültig ab": "2024-08-02",
+      "Gültig bis": "2024-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-08-02"
+    },
+    {
+      "Gültig ab": "2024-07-03",
+      "Gültig bis": "2024-10-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "Gültig ab": "2024-07-03",
+      "Gültig bis": "2024-10-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-03"
+    },
+    {
+      "Gültig ab": "2024-06-05",
+      "Gültig bis": "2024-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "Gültig ab": "2024-06-05",
+      "Gültig bis": "2024-09-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-05"
+    },
+    {
+      "Gültig ab": "2024-06-03",
+      "Gültig bis": "2024-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-03"
+    },
+    {
+      "Gültig ab": "2024-06-03",
+      "Gültig bis": "2024-09-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-03"
+    },
+    {
+      "Gültig ab": "2024-05-08",
+      "Gültig bis": "2024-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-08"
+    },
+    {
+      "Gültig ab": "2024-05-08",
+      "Gültig bis": "2024-08-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-08"
+    },
+    {
+      "Gültig ab": "2024-05-04",
+      "Gültig bis": "2024-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-04"
+    },
+    {
+      "Gültig ab": "2024-05-04",
+      "Gültig bis": "2024-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-05-04"
+    },
+    {
+      "Gültig ab": "2024-04-06",
+      "Gültig bis": "2024-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-06"
+    },
+    {
+      "Gültig ab": "2024-04-06",
+      "Gültig bis": "2024-07-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-06"
+    },
+    {
+      "Gültig ab": "2024-04-04",
+      "Gültig bis": "2024-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-04-04",
+      "Gültig bis": "2024-07-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-04-04"
+    },
+    {
+      "Gültig ab": "2024-03-05",
+      "Gültig bis": "2024-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-05"
+    },
+    {
+      "Gültig ab": "2024-03-05",
+      "Gültig bis": "2024-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-03-05"
+    },
+    {
+      "Gültig ab": "2024-02-06",
+      "Gültig bis": "2024-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-06"
+    },
+    {
+      "Gültig ab": "2024-02-06",
+      "Gültig bis": "2024-05-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-06"
+    },
+    {
+      "Gültig ab": "2024-02-05",
+      "Gültig bis": "2024-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-05"
+    },
+    {
+      "Gültig ab": "2024-02-05",
+      "Gültig bis": "2024-05-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-05"
+    },
+    {
+      "Gültig ab": "2024-02-04",
+      "Gültig bis": "2024-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-04"
+    },
+    {
+      "Gültig ab": "2024-02-04",
+      "Gültig bis": "2024-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-02-04"
+    },
+    {
+      "Gültig ab": "2024-01-05",
+      "Gültig bis": "2024-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-05"
+    },
+    {
+      "Gültig ab": "2024-01-05",
+      "Gültig bis": "2024-04-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-01-05"
+    },
+    {
+      "Gültig ab": "2023-12-08",
+      "Gültig bis": "2024-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "Gültig ab": "2023-12-08",
+      "Gültig bis": "2024-03-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-08"
+    },
+    {
+      "Gültig ab": "2023-12-06",
+      "Gültig bis": "2024-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-06"
+    },
+    {
+      "Gültig ab": "2023-12-06",
+      "Gültig bis": "2024-03-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-12-06"
+    },
+    {
+      "Gültig ab": "2023-11-06",
+      "Gültig bis": "2024-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-06"
+    },
+    {
+      "Gültig ab": "2023-11-06",
+      "Gültig bis": "2024-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-06"
+    },
+    {
+      "Gültig ab": "2023-11-06",
+      "Gültig bis": "2024-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-06"
+    },
+    {
+      "Gültig ab": "2023-11-06",
+      "Gültig bis": "2024-02-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-11-06"
+    },
+    {
+      "Gültig ab": "2023-10-09",
+      "Gültig bis": "2024-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-09"
+    },
+    {
+      "Gültig ab": "2023-10-09",
+      "Gültig bis": "2024-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-09"
+    },
+    {
+      "Gültig ab": "2023-10-07",
+      "Gültig bis": "2024-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-07"
+    },
+    {
+      "Gültig ab": "2023-10-07",
+      "Gültig bis": "2024-01-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-10-07"
+    },
+    {
+      "Gültig ab": "2023-09-07",
+      "Gültig bis": "2023-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-07"
+    },
+    {
+      "Gültig ab": "2023-09-07",
+      "Gültig bis": "2023-12-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-09-07"
+    },
+    {
+      "Gültig ab": "2023-08-10",
+      "Gültig bis": "2023-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-10"
+    },
+    {
+      "Gültig ab": "2023-08-10",
+      "Gültig bis": "2023-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-10"
+    },
+    {
+      "Gültig ab": "2023-08-08",
+      "Gültig bis": "2023-11-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-08"
+    },
+    {
+      "Gültig ab": "2023-08-08",
+      "Gültig bis": "2023-11-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-08"
+    },
+    {
+      "Gültig ab": "2023-08-03",
+      "Gültig bis": "2023-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-03"
+    },
+    {
+      "Gültig ab": "2023-08-03",
+      "Gültig bis": "2023-11-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-08-03"
+    },
+    {
+      "Gültig ab": "2023-07-09",
+      "Gültig bis": "2023-10-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-09"
+    },
+    {
+      "Gültig ab": "2023-07-09",
+      "Gültig bis": "2023-10-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-07-09"
+    },
+    {
+      "Gültig ab": "2023-06-11",
+      "Gültig bis": "2023-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-11"
+    },
+    {
+      "Gültig ab": "2023-06-11",
+      "Gültig bis": "2023-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-11"
+    },
+    {
+      "Gültig ab": "2023-06-09",
+      "Gültig bis": "2023-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "Gültig ab": "2023-06-09",
+      "Gültig bis": "2023-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "Gültig ab": "2023-06-09",
+      "Gültig bis": "2023-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "Gültig ab": "2023-06-09",
+      "Gültig bis": "2023-09-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-09"
+    },
+    {
+      "Gültig ab": "2023-05-10",
+      "Gültig bis": "2023-08-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-10"
+    },
+    {
+      "Gültig ab": "2023-05-10",
+      "Gültig bis": "2023-08-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-10"
+    },
+    {
+      "Gültig ab": "2023-04-15",
+      "Gültig bis": "2023-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-15"
+    },
+    {
+      "Gültig ab": "2023-04-15",
+      "Gültig bis": "2023-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-15"
+    },
+    {
+      "Gültig ab": "2023-04-11",
+      "Gültig bis": "2023-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-11"
+    },
+    {
+      "Gültig ab": "2023-04-11",
+      "Gültig bis": "2023-07-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-11"
+    },
+    {
+      "Gültig ab": "2023-04-10",
+      "Gültig bis": "2023-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-10"
+    },
+    {
+      "Gültig ab": "2023-04-10",
+      "Gültig bis": "2023-07-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-04-10"
+    },
+    {
+      "Gültig ab": "2023-03-11",
+      "Gültig bis": "2023-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-11"
+    },
+    {
+      "Gültig ab": "2023-03-11",
+      "Gültig bis": "2023-06-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-11"
+    },
+    {
+      "Gültig ab": "2023-02-19",
+      "Gültig bis": "2023-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-19"
+    },
+    {
+      "Gültig ab": "2023-02-19",
+      "Gültig bis": "2023-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-19"
+    },
+    {
+      "Gültig ab": "2023-02-10",
+      "Gültig bis": "2023-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-10"
+    },
+    {
+      "Gültig ab": "2023-02-10",
+      "Gültig bis": "2023-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-10"
+    },
+    {
+      "Gültig ab": "2023-02-09",
+      "Gültig bis": "2023-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "Gültig ab": "2023-02-09",
+      "Gültig bis": "2023-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-09"
+    },
+    {
+      "Gültig ab": "2023-01-10",
+      "Gültig bis": "2023-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-10"
+    },
+    {
+      "Gültig ab": "2023-01-10",
+      "Gültig bis": "2023-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-10"
+    },
+    {
+      "Gültig ab": "2022-12-25",
+      "Gültig bis": "2023-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-25"
+    },
+    {
+      "Gültig ab": "2022-12-25",
+      "Gültig bis": "2023-03-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-25"
+    },
+    {
+      "Gültig ab": "2022-12-12",
+      "Gültig bis": "2023-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-12"
+    },
+    {
+      "Gültig ab": "2022-12-12",
+      "Gültig bis": "2023-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-12"
+    },
+    {
+      "Gültig ab": "2022-12-11",
+      "Gültig bis": "2023-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-11"
+    },
+    {
+      "Gültig ab": "2022-12-11",
+      "Gültig bis": "2023-03-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-11"
+    },
+    {
+      "Gültig ab": "2022-11-11",
+      "Gültig bis": "2023-02-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-11"
+    },
+    {
+      "Gültig ab": "2022-11-11",
+      "Gültig bis": "2023-02-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-11-11"
+    },
+    {
+      "Gültig ab": "2022-10-31",
+      "Gültig bis": "2023-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-31"
+    },
+    {
+      "Gültig ab": "2022-10-31",
+      "Gültig bis": "2023-01-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-31"
+    },
+    {
+      "Gültig ab": "2022-10-13",
+      "Gültig bis": "2023-01-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-13"
+    },
+    {
+      "Gültig ab": "2022-10-13",
+      "Gültig bis": "2023-01-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-13"
+    },
+    {
+      "Gültig ab": "2022-10-12",
+      "Gültig bis": "2023-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-12"
+    },
+    {
+      "Gültig ab": "2022-10-12",
+      "Gültig bis": "2023-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-10-12"
+    },
+    {
+      "Gültig ab": "2022-09-12",
+      "Gültig bis": "2022-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "Gültig ab": "2022-09-12",
+      "Gültig bis": "2022-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "Gültig ab": "2022-09-05",
+      "Gültig bis": "2022-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-05"
+    },
+    {
+      "Gültig ab": "2022-09-05",
+      "Gültig bis": "2022-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-09-05"
+    },
+    {
+      "Gültig ab": "2022-08-14",
+      "Gültig bis": "2022-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-14"
+    },
+    {
+      "Gültig ab": "2022-08-14",
+      "Gültig bis": "2022-11-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-14"
+    },
+    {
+      "Gültig ab": "2022-08-13",
+      "Gültig bis": "2022-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-14"
+    },
+    {
+      "Gültig ab": "2022-08-13",
+      "Gültig bis": "2022-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-08-14"
+    },
+    {
+      "Gültig ab": "2022-07-14",
+      "Gültig bis": "2022-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-14"
+    },
+    {
+      "Gültig ab": "2022-07-14",
+      "Gültig bis": "2022-10-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-14"
+    },
+    {
+      "Gültig ab": "2022-07-11",
+      "Gültig bis": "2022-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-11"
+    },
+    {
+      "Gültig ab": "2022-07-11",
+      "Gültig bis": "2022-10-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-07-11"
+    },
+    {
+      "Gültig ab": "2022-06-15",
+      "Gültig bis": "2022-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-15"
+    },
+    {
+      "Gültig ab": "2022-06-15",
+      "Gültig bis": "2022-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-15"
+    },
+    {
+      "Gültig ab": "2022-06-15",
+      "Gültig bis": "2022-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-15"
+    },
+    {
+      "Gültig ab": "2022-06-15",
+      "Gültig bis": "2022-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-06-15"
+    },
+    {
+      "Gültig ab": "2022-05-15",
+      "Gültig bis": "2022-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-15"
+    },
+    {
+      "Gültig ab": "2022-05-15",
+      "Gültig bis": "2022-08-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-05-15"
+    },
+    {
+      "Gültig ab": "2022-04-16",
+      "Gültig bis": "2022-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-16"
+    },
+    {
+      "Gültig ab": "2022-04-16",
+      "Gültig bis": "2022-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-16"
+    },
+    {
+      "Gültig ab": "2022-04-16",
+      "Gültig bis": "2022-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-16"
+    },
+    {
+      "Gültig ab": "2022-04-16",
+      "Gültig bis": "2022-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-04-16"
+    },
+    {
+      "Gültig ab": "2022-03-16",
+      "Gültig bis": "2022-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-16"
+    },
+    {
+      "Gültig ab": "2022-03-16",
+      "Gültig bis": "2022-06-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-03-16"
+    },
+    {
+      "Gültig ab": "2022-02-15",
+      "Gültig bis": "2022-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-15"
+    },
+    {
+      "Gültig ab": "2022-02-15",
+      "Gültig bis": "2022-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-15"
+    },
+    {
+      "Gültig ab": "2022-02-15",
+      "Gültig bis": "2022-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-15"
+    },
+    {
+      "Gültig ab": "2022-02-15",
+      "Gültig bis": "2022-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-02-15"
+    },
+    {
+      "Gültig ab": "2022-01-15",
+      "Gültig bis": "2022-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-15"
+    },
+    {
+      "Gültig ab": "2022-01-15",
+      "Gültig bis": "2022-04-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-01-15"
+    },
+    {
+      "Gültig ab": "2021-12-17",
+      "Gültig bis": "2022-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-17"
+    },
+    {
+      "Gültig ab": "2021-12-17",
+      "Gültig bis": "2022-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-17"
+    },
+    {
+      "Gültig ab": "2021-12-17",
+      "Gültig bis": "2022-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-17"
+    },
+    {
+      "Gültig ab": "2021-12-17",
+      "Gültig bis": "2022-03-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-12-17"
+    },
+    {
+      "Gültig ab": "2021-11-16",
+      "Gültig bis": "2022-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-16"
+    },
+    {
+      "Gültig ab": "2021-11-16",
+      "Gültig bis": "2022-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-11-16"
+    },
+    {
+      "Gültig ab": "2021-10-18",
+      "Gültig bis": "2022-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-18"
+    },
+    {
+      "Gültig ab": "2021-10-18",
+      "Gültig bis": "2022-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-18"
+    },
+    {
+      "Gültig ab": "2021-10-18",
+      "Gültig bis": "2022-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-18"
+    },
+    {
+      "Gültig ab": "2021-10-18",
+      "Gültig bis": "2022-01-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-10-18"
+    },
+    {
+      "Gültig ab": "2021-09-17",
+      "Gültig bis": "2021-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-17"
+    },
+    {
+      "Gültig ab": "2021-09-17",
+      "Gültig bis": "2021-12-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-09-17"
+    },
+    {
+      "Gültig ab": "2021-08-19",
+      "Gültig bis": "2021-11-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-19"
+    },
+    {
+      "Gültig ab": "2021-08-19",
+      "Gültig bis": "2021-11-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-19"
+    },
+    {
+      "Gültig ab": "2021-08-19",
+      "Gültig bis": "2021-11-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-19"
+    },
+    {
+      "Gültig ab": "2021-08-19",
+      "Gültig bis": "2021-11-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-19"
+    },
+    {
+      "Gültig ab": "2021-08-18",
+      "Gültig bis": "2022-08-18",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, CN=RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-08-18"
+    },
+    {
+      "Gültig ab": "2021-07-19",
+      "Gültig bis": "2021-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-19"
+    },
+    {
+      "Gültig ab": "2021-07-19",
+      "Gültig bis": "2021-10-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-07-19"
+    },
+    {
+      "Gültig ab": "2021-06-20",
+      "Gültig bis": "2021-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "Gültig ab": "2021-06-20",
+      "Gültig bis": "2021-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "Gültig ab": "2021-06-20",
+      "Gültig bis": "2021-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "Gültig ab": "2021-06-20",
+      "Gültig bis": "2021-09-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-06-20"
+    },
+    {
+      "Gültig ab": "2021-05-20",
+      "Gültig bis": "2021-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-20"
+    },
+    {
+      "Gültig ab": "2021-05-20",
+      "Gültig bis": "2021-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-20"
+    },
+    {
+      "Gültig ab": "2021-05-20",
+      "Gültig bis": "2021-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-20"
+    },
+    {
+      "Gültig ab": "2021-05-20",
+      "Gültig bis": "2021-08-18",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "app.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-05-20"
+    },
+    {
+      "Gültig ab": "2021-04-21",
+      "Gültig bis": "2021-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-21"
+    },
+    {
+      "Gültig ab": "2021-04-21",
+      "Gültig bis": "2021-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-21"
+    },
+    {
+      "Gültig ab": "2021-04-21",
+      "Gültig bis": "2021-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-21"
+    },
+    {
+      "Gültig ab": "2021-04-21",
+      "Gültig bis": "2021-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-04-21"
+    },
+    {
+      "Gültig ab": "2021-02-20",
+      "Gültig bis": "2021-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-20"
+    },
+    {
+      "Gültig ab": "2021-02-20",
+      "Gültig bis": "2021-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-20"
+    },
+    {
+      "Gültig ab": "2021-02-20",
+      "Gültig bis": "2021-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-20"
+    },
+    {
+      "Gültig ab": "2021-02-20",
+      "Gültig bis": "2021-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2021-02-20"
+    },
+    {
+      "Gültig ab": "2020-12-22",
+      "Gültig bis": "2021-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-22"
+    },
+    {
+      "Gültig ab": "2020-12-22",
+      "Gültig bis": "2021-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-22"
+    },
+    {
+      "Gültig ab": "2020-12-21",
+      "Gültig bis": "2021-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-21"
+    },
+    {
+      "Gültig ab": "2020-12-21",
+      "Gültig bis": "2021-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-12-21"
+    },
+    {
+      "Gültig ab": "2020-10-23",
+      "Gültig bis": "2021-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "Gültig ab": "2020-10-23",
+      "Gültig bis": "2021-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-23"
+    },
+    {
+      "Gültig ab": "2020-10-22",
+      "Gültig bis": "2021-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-22"
+    },
+    {
+      "Gültig ab": "2020-10-22",
+      "Gültig bis": "2021-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-10-22"
+    },
+    {
+      "Gültig ab": "2020-08-24",
+      "Gültig bis": "2020-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-24"
+    },
+    {
+      "Gültig ab": "2020-08-24",
+      "Gültig bis": "2020-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-24"
+    },
+    {
+      "Gültig ab": "2020-08-23",
+      "Gültig bis": "2020-11-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-23"
+    },
+    {
+      "Gültig ab": "2020-08-23",
+      "Gültig bis": "2020-11-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-08-23"
+    },
+    {
+      "Gültig ab": "2020-06-25",
+      "Gültig bis": "2020-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-25"
+    },
+    {
+      "Gültig ab": "2020-06-25",
+      "Gültig bis": "2020-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-25"
+    },
+    {
+      "Gültig ab": "2020-06-24",
+      "Gültig bis": "2020-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-24"
+    },
+    {
+      "Gültig ab": "2020-06-24",
+      "Gültig bis": "2020-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-06-24"
+    },
+    {
+      "Gültig ab": "2020-04-26",
+      "Gültig bis": "2020-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-26"
+    },
+    {
+      "Gültig ab": "2020-04-26",
+      "Gültig bis": "2020-07-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-26"
+    },
+    {
+      "Gültig ab": "2020-04-25",
+      "Gültig bis": "2020-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-25"
+    },
+    {
+      "Gültig ab": "2020-04-25",
+      "Gültig bis": "2020-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-04-25"
+    },
+    {
+      "Gültig ab": "2020-02-26",
+      "Gültig bis": "2020-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-26"
+    },
+    {
+      "Gültig ab": "2020-02-26",
+      "Gültig bis": "2020-05-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-26"
+    },
+    {
+      "Gültig ab": "2020-02-25",
+      "Gültig bis": "2020-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-25"
+    },
+    {
+      "Gültig ab": "2020-02-25",
+      "Gültig bis": "2020-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2020-02-25"
+    },
+    {
+      "Gültig ab": "2019-12-28",
+      "Gültig bis": "2020-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "Gültig ab": "2019-12-28",
+      "Gültig bis": "2020-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "Gültig ab": "2019-12-27",
+      "Gültig bis": "2020-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-27"
+    },
+    {
+      "Gültig ab": "2019-12-27",
+      "Gültig bis": "2020-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-12-27"
+    },
+    {
+      "Gültig ab": "2019-10-28",
+      "Gültig bis": "2020-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "Gültig ab": "2019-10-28",
+      "Gültig bis": "2020-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "Gültig ab": "2019-10-28",
+      "Gültig bis": "2020-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "Gültig ab": "2019-10-28",
+      "Gültig bis": "2020-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "Gültig ab": "2019-08-23",
+      "Gültig bis": "2021-08-27",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, sslvpn.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-10-04"
+    },
+    {
+      "Gültig ab": "2019-08-23",
+      "Gültig bis": "2021-08-27",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA",
+      "Domain/Subdomain": "autodiscover.schloss-garage.com, sslvpn.schloss-garage.com, webmail.schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2019-08-23"
+    },
+    {
+      "Gültig ab": "2017-10-25",
+      "Gültig bis": "2019-10-25",
+      "Ausgestellt von": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA",
+      "Domain/Subdomain": "*.schloss-garage.com, schloss-garage.com",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2017-10-27"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "http://www.schloss-garage.com:80/styles/main.css.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-05-30"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/shop_bestellen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-05-29"
+    },
+    {
+      "URL": "http://www.schloss-garage.com/bilder_shop/DSC_70778888888888;3.JPG",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-05-08"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/shop_success.php?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-04-26"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/vorauskasse.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-04-26"
+    },
+    {
+      "URL": "http://www.schloss-garage.com/img/editor/dokumente/preislisten/abarth_695_biposto.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-03-15"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/resultate.php?markenfilter=39&modellfilter=626",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-27"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/404.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-03-08"
+    },
+    {
+      "URL": "http://schloss-garage.com/Presseschau/070000_Presseschau.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "http://www.schloss-garage.com/080814_MiTo/080814_Praesentation_Cary_Steinmann.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "http://www.schloss-garage.com/Kundendienst/Werkstattdienstleistungen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/080814_MiTo/080814_Referat_Christian_Maier.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/080814_MiTo/080814_Referat_Peter_Maier.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/090409_159/090409_Preisliste_Alfa%20159MY09.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/Kundendienst/Aktion_Zahnriemen.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/Lagerlisten/200_Neuwagen_ab_Lager.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/Lagerlisten/300_Gebrauchtwagen_auf_Bestellung.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/MiTo/080714_Preisliste_MiTo.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/MiTo/Broschuere_MiTo_d.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/shop_warenkorb.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-02"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/080814_MiTo/080814_Praesentation_MiTo_Christian_Maier.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-01"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/080814_MiTo/080814_Praesentation_MiTo_Peter_Maier.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-01"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/090820_MiTo/090820_Preisliste_MiTo.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-01"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-01"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/Presseschau/090102_AutoBild_159_small.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-01"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/Presseschau/090826_AR_1750.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-02-01"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/Boutique/090423_Boutique.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/details_pdf.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/galerie_admin.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/NEWSLETTER/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/NEWSLETTER/Newsletter-Dateien/filelist.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/shop_detail.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-01-31"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/autoscout/filter_button_ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2022-12-09"
+    },
+    {
+      "URL": "http://www.schloss-garage.com/fr/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-07-31"
+    },
+    {
+      "URL": "http://www.schloss-garage.com/it/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-07-31"
+    },
+    {
+      "URL": "http://www.schloss-garage.com/en/index.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-07-30"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/img/editor/Dokumente/Preislisten/160505_Alfa_Romeo_Giulia_Preisliste.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-07-05"
+    },
+    {
+      "URL": "http://www.schloss-garage.com/securimage/securimage_show.php?sid=dc3778fddb998f7d275eb5c70dcb9bb3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/paypal.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-05-30"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/autoscout/filter_ajax.php?cid=934&marke=-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/img/editor/Preislisten/Alfa_Romeo_Tonale_Edizione_Speciale_20220301_CH-DE.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/shop_ajax.php?kategorie=ZB&modell=630&marke=0&product=0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-05"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/img/editor/Dokumente/140506_Alfa_Brand.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-04-27"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/index.php?sid=1046",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-28"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/feed/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-27"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-26"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/details.php?id=9199410",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/feed.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/feeds/all.atom.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/index.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-25"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/img/editor/EGB/SCHLOSS-GARAGE-RENT_EGB.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-12-02"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/img/editor/Dokumente/SCHLOSS-GARAGE_AGB.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-18"
+    },
+    {
+      "URL": "http://www.schloss-garage.com/img/editor/Geschichte/Geschichte.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/img/editor/Dokumente/SCHLOSS_GARAGE_AGB.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/img/editor/EGB/220301_EGB.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-07-12"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/img/editor/Preislisten/Alfa_Romeo_Giulia_MY22_20230101_CH_DE.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/img/editor/Preislisten/Alfa_Romeo_Stelvio_MY22_20230101_CH_DE.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/img/editor/Preislisten/Alfa_Romeo_Tonale_MY22_20230101_CH-DE.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-12"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/img/editor/Dokumente/210309_EGB.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2024-06-11"
+    },
+    {
+      "URL": "https://www.schloss-garage.com/img/editor/Dokumente/AVB_FCA_Anschlussgarantie_D_20220301.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-06-05"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/TOPBILDER-schlossgarage/pano-1.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2008-06-13"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/TOPBILDER-schlossgarage/pano-5.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2008-06-13"
+    },
+    {
+      "URL": "http://www.schloss-garage.com/img/editor/Dokumente/2015_Giula_Prospekt.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2016-01-30"
+    },
+    {
+      "URL": "http://schloss-garage.com/video.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2015-02-21"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/newsletter_abmelden.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2013-05-24"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/fr/?",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2012-12-24"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/giulietta",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2012-11-20"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/en/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2012-05-01"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/it/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2012-05-01"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/shop",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2012-05-01"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/autoimport-schweiz.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2012-01-06"
+    },
+    {
+      "URL": "http://www.schloss-garage.com/index.phpindex.php?id=535&paging=2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2011-10-16"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/info.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2011-08-10"
+    },
+    {
+      "URL": "http://schloss-garage.com:80/plesk-stat/webstat",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2011-03-14"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/contact_send.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-04-09"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/schloss-garage",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2010-01-30"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/http://www.topbilder.ch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2009-05-05"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/schlossgarage-0-10.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2009-05-04"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/schlossgarage-0-11.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2009-05-04"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/schlossgarage-0-6.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2009-05-04"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/schlossgarage-0-7.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2009-05-04"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/schlossgarage-0-8.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2009-05-04"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/schlossgarage-0-9.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2009-05-04"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/schlossgarage-0.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2009-05-04"
+    },
+    {
+      "URL": "http://schloss-garage.com:80/NEWSLETTER/Newsletter.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2009-02-08"
+    },
+    {
+      "URL": "http://schloss-garage.com:80/httpdocs/Neuwagenbilder/index.htm",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2009-01-23"
+    },
+    {
+      "URL": "http://schloss-garage.com:80/index-Dateien/editdata.mso",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2009-01-23"
+    },
+    {
+      "URL": "http://schloss-garage.com:80/index-Dateien/filelist.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2009-01-23"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/schlossgarage-1.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2008-06-13"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/schlossgarage-5.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2008-06-13"
+    },
+    {
+      "URL": "http://www.schloss-garage.com:80/Panorama/schlossgarage.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2008-06-13"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "41c3329796226cd@email-forwarding.swissdomaintrustee.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-22"
+    },
+    {
+      "E-Mail": "abuse@ascio.com",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-05-22"
+    },
+    {
+      "E-Mail": "info@schloss-garage.com",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-28"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41522226222",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-28"
+    },
+    {
+      "Telefonnummern": "+41522240180",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2025-01-28"
+    },
+    {
+      "Telefonnummern": "+41525665210",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "In öffentlicher Datenbank erfasst am": "2023-05-27"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-22",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

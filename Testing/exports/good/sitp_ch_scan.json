@@ -1,0 +1,2830 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "185.178.193.86",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "10",
+      "Mailserver (MX)": "mx02.sitp.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Präferenz": "15",
+      "Mailserver (MX)": "mx01.sitp.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Präferenz": "50",
+      "Mailserver (MX)": "mx03.sitp.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.netzone.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Name Server": "ns2.netzone.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Name Server": "ns3.netzone.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"5L+WNdG+OHeQY8OuioJm4//Fam58xB8Pm+fvpCwoP53utRnuRaGSGfF39nKFgHDRCvIeX9WborAz2JsNkHgEaw==\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Text Record": "\"MS=ms19794841\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Text Record": "\"citrix-verification-code=d0a2f9c0-382c-467b-8440-300398e12ebb\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Text Record": "\"swisssign-check=CTN5gR1G6HOzUZu_pX8iS6EbDZA\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Text Record": "\"v=spf1 mx a:mail.sitp.ch a:mx215.mail.hosttech.eu ip4:213.173.172.192/27 include:spf.protection.outlook.com include:plsprod.trendmicro.com include:spf.emailsignatures365.com -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Text Record": "\"MS=229336F9861642F4EE292020601394C9D423A667\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Text Record": "\"apple-domain-verification=84MibmXXWQHDes1s\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Text Record": "\"google-site-verification=zZ32Bt9GHX__7v7FWVXw0bcZsfonFNyqbTe8-VtfXho\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    },
+    {
+      "Text Record": "\"v=msv1 t=c43079874a24984da9b8dcca8304df\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "3600",
+      "Expire": "1209600",
+      "Serial": "2025051400",
+      "Refresh": "10800",
+      "Hostmaster": "hostmaster.netzone.ch.",
+      "Minimum TTL": "900",
+      "Primary Nameserver": "ns1.netzone.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "185.178.193.86",
+      "PTR-Domain": "mx215.mail.hosttech.eu.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "swissitp.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "swissitp.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "sitp.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "autodiscover.sitp.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "mail.sitp.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "mail.sitp.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "marketplace.sitp.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "mx101.sitp.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    },
+    {
+      "Subdomainname": "webmail.sitp.ch",
+      "In Digitalem Twin gescant am": "2025-05-14"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2023-12-27",
+      "Gültig bis": "2024-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-27"
+    },
+    {
+      "Gültig ab": "2023-10-30",
+      "Gültig bis": "2024-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-10-30"
+    },
+    {
+      "Gültig ab": "2023-10-30",
+      "Gültig bis": "2024-01-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-10-30"
+    },
+    {
+      "Gültig ab": "2023-09-25",
+      "Gültig bis": "2023-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-09-25"
+    },
+    {
+      "Gültig ab": "2023-09-25",
+      "Gültig bis": "2023-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-09-25"
+    },
+    {
+      "Gültig ab": "2023-08-31",
+      "Gültig bis": "2023-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-08-31"
+    },
+    {
+      "Gültig ab": "2023-08-31",
+      "Gültig bis": "2023-11-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-08-31"
+    },
+    {
+      "Gültig ab": "2023-07-27",
+      "Gültig bis": "2023-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-07-27"
+    },
+    {
+      "Gültig ab": "2023-07-27",
+      "Gültig bis": "2023-10-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-07-27"
+    },
+    {
+      "Gültig ab": "2023-07-02",
+      "Gültig bis": "2023-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-07-02"
+    },
+    {
+      "Gültig ab": "2023-07-02",
+      "Gültig bis": "2023-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-07-02"
+    },
+    {
+      "Gültig ab": "2023-06-19",
+      "Gültig bis": "2024-07-19",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1",
+      "Domain/Subdomain": "*.sitp.ch, sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-06-19"
+    },
+    {
+      "Gültig ab": "2023-05-28",
+      "Gültig bis": "2023-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-05-28"
+    },
+    {
+      "Gültig ab": "2023-05-28",
+      "Gültig bis": "2023-08-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-05-28"
+    },
+    {
+      "Gültig ab": "2023-05-03",
+      "Gültig bis": "2023-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-05-03"
+    },
+    {
+      "Gültig ab": "2023-05-03",
+      "Gültig bis": "2023-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-05-03"
+    },
+    {
+      "Gültig ab": "2023-03-29",
+      "Gültig bis": "2023-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-29"
+    },
+    {
+      "Gültig ab": "2025-04-21",
+      "Gültig bis": "2025-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "Gültig ab": "2023-03-29",
+      "Gültig bis": "2023-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-29"
+    },
+    {
+      "Gültig ab": "2025-04-21",
+      "Gültig bis": "2025-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-21"
+    },
+    {
+      "Gültig ab": "2025-04-20",
+      "Gültig bis": "2025-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "Gültig ab": "2025-04-20",
+      "Gültig bis": "2025-07-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-04-20"
+    },
+    {
+      "Gültig ab": "2023-03-04",
+      "Gültig bis": "2023-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-04"
+    },
+    {
+      "Gültig ab": "2025-02-20",
+      "Gültig bis": "2025-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-20"
+    },
+    {
+      "Gültig ab": "2023-03-04",
+      "Gültig bis": "2023-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-03-04"
+    },
+    {
+      "Gültig ab": "2025-02-20",
+      "Gültig bis": "2025-05-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-20"
+    },
+    {
+      "Gültig ab": "2025-02-19",
+      "Gültig bis": "2025-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "Gültig ab": "2022-11-09",
+      "Gültig bis": "2023-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-09"
+    },
+    {
+      "Gültig ab": "2025-02-19",
+      "Gültig bis": "2025-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-19"
+    },
+    {
+      "Gültig ab": "2024-12-22",
+      "Gültig bis": "2025-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-22"
+    },
+    {
+      "Gültig ab": "2024-12-22",
+      "Gültig bis": "2025-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-22"
+    },
+    {
+      "Gültig ab": "2024-12-21",
+      "Gültig bis": "2025-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-21"
+    },
+    {
+      "Gültig ab": "2024-12-21",
+      "Gültig bis": "2025-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-21"
+    },
+    {
+      "Gültig ab": "2024-10-23",
+      "Gültig bis": "2025-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-23"
+    },
+    {
+      "Gültig ab": "2023-01-28",
+      "Gültig bis": "2023-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-28"
+    },
+    {
+      "Gültig ab": "2024-10-23",
+      "Gültig bis": "2025-01-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-23"
+    },
+    {
+      "Gültig ab": "2024-10-22",
+      "Gültig bis": "2025-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-22"
+    },
+    {
+      "Gültig ab": "2024-10-22",
+      "Gültig bis": "2025-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-10-22"
+    },
+    {
+      "Gültig ab": "2022-11-09",
+      "Gültig bis": "2023-02-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-09"
+    },
+    {
+      "Gültig ab": "2024-08-24",
+      "Gültig bis": "2024-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-24"
+    },
+    {
+      "Gültig ab": "2023-01-28",
+      "Gültig bis": "2023-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-28"
+    },
+    {
+      "Gültig ab": "2024-08-24",
+      "Gültig bis": "2024-11-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-24"
+    },
+    {
+      "Gültig ab": "2023-01-03",
+      "Gültig bis": "2023-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-03"
+    },
+    {
+      "Gültig ab": "2024-08-23",
+      "Gültig bis": "2024-11-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-23"
+    },
+    {
+      "Gültig ab": "2024-08-23",
+      "Gültig bis": "2024-11-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-08-23"
+    },
+    {
+      "Gültig ab": "2023-01-03",
+      "Gültig bis": "2023-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-03"
+    },
+    {
+      "Gültig ab": "2022-11-07",
+      "Gültig bis": "2023-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-07"
+    },
+    {
+      "Gültig ab": "2024-06-24",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1",
+      "Domain/Subdomain": "*.sitp.ch, sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-07-31"
+    },
+    {
+      "Gültig ab": "2024-06-25",
+      "Gültig bis": "2024-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "Gültig ab": "2024-06-25",
+      "Gültig bis": "2024-09-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-26"
+    },
+    {
+      "Gültig ab": "2022-11-07",
+      "Gültig bis": "2023-02-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-07"
+    },
+    {
+      "Gültig ab": "2022-11-04",
+      "Gültig bis": "2023-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-04"
+    },
+    {
+      "Gültig ab": "2022-11-04",
+      "Gültig bis": "2023-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-04"
+    },
+    {
+      "Gültig ab": "2024-06-24",
+      "Gültig bis": "2025-07-25",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1",
+      "Domain/Subdomain": "*.sitp.ch, sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-24"
+    },
+    {
+      "Gültig ab": "2022-09-13",
+      "Gültig bis": "2022-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-13"
+    },
+    {
+      "Gültig ab": "2024-06-24",
+      "Gültig bis": "2024-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-24"
+    },
+    {
+      "Gültig ab": "2024-06-24",
+      "Gültig bis": "2024-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-06-24"
+    },
+    {
+      "Gültig ab": "2024-04-27",
+      "Gültig bis": "2024-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-27"
+    },
+    {
+      "Gültig ab": "2024-04-27",
+      "Gültig bis": "2024-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-27"
+    },
+    {
+      "Gültig ab": "2024-04-25",
+      "Gültig bis": "2024-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-25"
+    },
+    {
+      "Gültig ab": "2024-04-25",
+      "Gültig bis": "2024-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-25"
+    },
+    {
+      "Gültig ab": "2024-02-27",
+      "Gültig bis": "2024-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-02-27"
+    },
+    {
+      "Gültig ab": "2024-02-27",
+      "Gültig bis": "2024-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-02-27"
+    },
+    {
+      "Gültig ab": "2024-02-25",
+      "Gültig bis": "2024-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-02-25"
+    },
+    {
+      "Gültig ab": "2024-02-25",
+      "Gültig bis": "2024-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-02-25"
+    },
+    {
+      "Gültig ab": "2023-12-29",
+      "Gültig bis": "2024-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-29"
+    },
+    {
+      "Gültig ab": "2023-12-29",
+      "Gültig bis": "2024-03-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-29"
+    },
+    {
+      "Gültig ab": "2022-09-13",
+      "Gültig bis": "2022-12-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-13"
+    },
+    {
+      "Gültig ab": "2023-12-27",
+      "Gültig bis": "2024-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-27"
+    },
+    {
+      "Gültig ab": "2022-11-29",
+      "Gültig bis": "2023-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-29"
+    },
+    {
+      "Gültig ab": "2022-11-29",
+      "Gültig bis": "2023-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-29"
+    },
+    {
+      "Gültig ab": "2022-11-16",
+      "Gültig bis": "2023-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-16"
+    },
+    {
+      "Gültig ab": "2022-11-16",
+      "Gültig bis": "2023-02-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-11-16"
+    },
+    {
+      "Gültig ab": "2022-09-12",
+      "Gültig bis": "2022-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "Gültig ab": "2022-09-12",
+      "Gültig bis": "2022-12-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-12"
+    },
+    {
+      "Gültig ab": "2022-09-05",
+      "Gültig bis": "2022-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-05"
+    },
+    {
+      "Gültig ab": "2022-09-05",
+      "Gültig bis": "2022-12-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "marketplace.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-05"
+    },
+    {
+      "Gültig ab": "2022-07-21",
+      "Gültig bis": "2022-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-07-21"
+    },
+    {
+      "Gültig ab": "2022-07-21",
+      "Gültig bis": "2022-10-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-07-21"
+    },
+    {
+      "Gültig ab": "2022-07-18",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-07-18"
+    },
+    {
+      "Gültig ab": "2022-07-18",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-07-18"
+    },
+    {
+      "Gültig ab": "2022-07-18",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-07-18"
+    },
+    {
+      "Gültig ab": "2022-07-18",
+      "Gültig bis": "2022-10-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-07-18"
+    },
+    {
+      "Gültig ab": "2022-07-04",
+      "Gültig bis": "2023-07-04",
+      "Ausgestellt von": "C=US, O=\"DigiCert, Inc.\", CN=RapidSSL Global TLS RSA4096 SHA256 2022 CA1",
+      "Domain/Subdomain": "*.sitp.ch, sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-07-04"
+    },
+    {
+      "Gültig ab": "2022-04-18",
+      "Gültig bis": "2022-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-18"
+    },
+    {
+      "Gültig ab": "2022-04-18",
+      "Gültig bis": "2022-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-18"
+    },
+    {
+      "Gültig ab": "2022-04-18",
+      "Gültig bis": "2022-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-18"
+    },
+    {
+      "Gültig ab": "2022-04-18",
+      "Gültig bis": "2022-07-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-04-18"
+    },
+    {
+      "Gültig ab": "2022-02-23",
+      "Gültig bis": "2023-03-26",
+      "Ausgestellt von": "C=US, O=DigiCert Inc, CN=RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1",
+      "Domain/Subdomain": "mx101.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-02-23"
+    },
+    {
+      "Gültig ab": "2022-01-16",
+      "Gültig bis": "2022-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-01-16"
+    },
+    {
+      "Gültig ab": "2022-01-16",
+      "Gültig bis": "2022-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-01-16"
+    },
+    {
+      "Gültig ab": "2022-01-16",
+      "Gültig bis": "2022-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-01-16"
+    },
+    {
+      "Gültig ab": "2022-01-16",
+      "Gültig bis": "2022-04-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-01-16"
+    },
+    {
+      "Gültig ab": "2021-10-29",
+      "Gültig bis": "2022-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-10-29"
+    },
+    {
+      "Gültig ab": "2021-10-29",
+      "Gültig bis": "2022-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-10-29"
+    },
+    {
+      "Gültig ab": "2021-10-29",
+      "Gültig bis": "2022-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-10-29"
+    },
+    {
+      "Gültig ab": "2021-10-29",
+      "Gültig bis": "2022-01-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-10-29"
+    },
+    {
+      "Gültig ab": "2021-09-10",
+      "Gültig bis": "2021-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-09-10"
+    },
+    {
+      "Gültig ab": "2021-09-10",
+      "Gültig bis": "2021-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-09-10"
+    },
+    {
+      "Gültig ab": "2021-09-10",
+      "Gültig bis": "2021-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-09-10"
+    },
+    {
+      "Gültig ab": "2021-09-10",
+      "Gültig bis": "2021-12-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-09-10"
+    },
+    {
+      "Gültig ab": "2021-07-10",
+      "Gültig bis": "2021-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-07-10"
+    },
+    {
+      "Gültig ab": "2021-07-10",
+      "Gültig bis": "2021-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-07-10"
+    },
+    {
+      "Gültig ab": "2021-07-10",
+      "Gültig bis": "2021-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-07-10"
+    },
+    {
+      "Gültig ab": "2021-07-10",
+      "Gültig bis": "2021-10-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-07-10"
+    },
+    {
+      "Gültig ab": "2021-04-30",
+      "Gültig bis": "2021-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-04-30"
+    },
+    {
+      "Gültig ab": "2021-04-30",
+      "Gültig bis": "2021-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-04-30"
+    },
+    {
+      "Gültig ab": "2021-04-30",
+      "Gültig bis": "2021-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-04-30"
+    },
+    {
+      "Gültig ab": "2021-04-30",
+      "Gültig bis": "2021-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-04-30"
+    },
+    {
+      "Gültig ab": "2021-02-09",
+      "Gültig bis": "2021-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-02-09"
+    },
+    {
+      "Gültig ab": "2021-02-09",
+      "Gültig bis": "2021-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-02-09"
+    },
+    {
+      "Gültig ab": "2021-02-08",
+      "Gültig bis": "2021-05-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-02-08"
+    },
+    {
+      "Gültig ab": "2021-02-08",
+      "Gültig bis": "2021-05-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-02-08"
+    },
+    {
+      "Gültig ab": "2020-12-15",
+      "Gültig bis": "2021-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-12-15"
+    },
+    {
+      "Gültig ab": "2020-12-15",
+      "Gültig bis": "2021-03-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-12-15"
+    },
+    {
+      "Gültig ab": "2020-12-14",
+      "Gültig bis": "2021-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-12-14"
+    },
+    {
+      "Gültig ab": "2020-12-14",
+      "Gültig bis": "2021-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-12-14"
+    },
+    {
+      "Gültig ab": "2020-10-19",
+      "Gültig bis": "2021-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-10-19"
+    },
+    {
+      "Gültig ab": "2020-10-19",
+      "Gültig bis": "2021-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "www.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-10-19"
+    },
+    {
+      "Gültig ab": "2020-10-19",
+      "Gültig bis": "2021-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-10-19"
+    },
+    {
+      "Gültig ab": "2020-10-19",
+      "Gültig bis": "2021-01-17",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-10-19"
+    },
+    {
+      "Gültig ab": "2020-09-01",
+      "Gültig bis": "2020-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-09-01"
+    },
+    {
+      "Gültig ab": "2020-09-01",
+      "Gültig bis": "2020-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-09-01"
+    },
+    {
+      "Gültig ab": "2020-07-03",
+      "Gültig bis": "2020-10-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-07-03"
+    },
+    {
+      "Gültig ab": "2020-07-03",
+      "Gültig bis": "2020-10-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-07-03"
+    },
+    {
+      "Gültig ab": "2020-06-15",
+      "Gültig bis": "2022-07-16",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "*.sitp.ch, sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-06-15"
+    },
+    {
+      "Gültig ab": "2020-05-04",
+      "Gültig bis": "2020-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-05-04"
+    },
+    {
+      "Gültig ab": "2020-05-04",
+      "Gültig bis": "2020-08-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-05-04"
+    },
+    {
+      "Gültig ab": "2020-03-04",
+      "Gültig bis": "2020-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-04"
+    },
+    {
+      "Gültig ab": "2020-03-04",
+      "Gültig bis": "2020-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-04"
+    },
+    {
+      "Gültig ab": "2020-03-04",
+      "Gültig bis": "2020-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-04"
+    },
+    {
+      "Gültig ab": "2020-03-04",
+      "Gültig bis": "2020-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-04"
+    },
+    {
+      "Gültig ab": "2020-03-04",
+      "Gültig bis": "2020-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-04"
+    },
+    {
+      "Gültig ab": "2020-03-04",
+      "Gültig bis": "2020-06-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-03-04"
+    },
+    {
+      "Gültig ab": "2020-02-19",
+      "Gültig bis": "2020-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "Gültig ab": "2020-02-19",
+      "Gültig bis": "2020-05-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-02-19"
+    },
+    {
+      "Gültig ab": "2020-02-12",
+      "Gültig bis": "2020-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-02-12"
+    },
+    {
+      "Gültig ab": "2020-02-12",
+      "Gültig bis": "2020-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-02-12"
+    },
+    {
+      "Gültig ab": "2020-02-12",
+      "Gültig bis": "2020-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-02-12"
+    },
+    {
+      "Gültig ab": "2020-02-12",
+      "Gültig bis": "2020-05-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-02-12"
+    },
+    {
+      "Gültig ab": "2020-01-22",
+      "Gültig bis": "2020-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-01-22"
+    },
+    {
+      "Gültig ab": "2020-01-22",
+      "Gültig bis": "2020-04-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2020-01-22"
+    },
+    {
+      "Gültig ab": "2019-12-21",
+      "Gültig bis": "2020-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-12-21"
+    },
+    {
+      "Gültig ab": "2019-12-21",
+      "Gültig bis": "2020-03-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-12-21"
+    },
+    {
+      "Gültig ab": "2019-12-04",
+      "Gültig bis": "2020-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-12-04"
+    },
+    {
+      "Gültig ab": "2019-12-04",
+      "Gültig bis": "2020-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-12-04"
+    },
+    {
+      "Gültig ab": "2019-12-04",
+      "Gültig bis": "2020-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-12-04"
+    },
+    {
+      "Gültig ab": "2019-12-04",
+      "Gültig bis": "2020-03-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-12-04"
+    },
+    {
+      "Gültig ab": "2019-10-22",
+      "Gültig bis": "2020-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-10-22"
+    },
+    {
+      "Gültig ab": "2019-10-22",
+      "Gültig bis": "2020-01-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-10-22"
+    },
+    {
+      "Gültig ab": "2019-10-05",
+      "Gültig bis": "2020-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-10-05"
+    },
+    {
+      "Gültig ab": "2019-10-05",
+      "Gültig bis": "2020-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-10-05"
+    },
+    {
+      "Gültig ab": "2019-10-05",
+      "Gültig bis": "2020-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-10-05"
+    },
+    {
+      "Gültig ab": "2019-10-05",
+      "Gültig bis": "2020-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-10-05"
+    },
+    {
+      "Gültig ab": "2019-08-23",
+      "Gültig bis": "2019-11-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-08-23"
+    },
+    {
+      "Gültig ab": "2019-08-23",
+      "Gültig bis": "2019-11-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-08-23"
+    },
+    {
+      "Gültig ab": "2019-08-06",
+      "Gültig bis": "2019-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-08-06"
+    },
+    {
+      "Gültig ab": "2019-08-06",
+      "Gültig bis": "2019-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-08-06"
+    },
+    {
+      "Gültig ab": "2019-08-06",
+      "Gültig bis": "2019-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-08-06"
+    },
+    {
+      "Gültig ab": "2019-08-06",
+      "Gültig bis": "2019-11-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-08-06"
+    },
+    {
+      "Gültig ab": "2019-06-24",
+      "Gültig bis": "2019-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "Gültig ab": "2019-06-24",
+      "Gültig bis": "2019-09-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "Gültig ab": "2019-06-07",
+      "Gültig bis": "2019-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-06-07"
+    },
+    {
+      "Gültig ab": "2019-06-07",
+      "Gültig bis": "2019-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-06-07"
+    },
+    {
+      "Gültig ab": "2019-06-07",
+      "Gültig bis": "2019-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-06-07"
+    },
+    {
+      "Gültig ab": "2019-06-07",
+      "Gültig bis": "2019-09-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-06-07"
+    },
+    {
+      "Gültig ab": "2019-04-25",
+      "Gültig bis": "2019-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-04-25"
+    },
+    {
+      "Gültig ab": "2019-04-25",
+      "Gültig bis": "2019-07-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-04-25"
+    },
+    {
+      "Gültig ab": "2019-02-24",
+      "Gültig bis": "2019-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-02-24"
+    },
+    {
+      "Gültig ab": "2019-02-24",
+      "Gültig bis": "2019-05-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2019-02-24"
+    },
+    {
+      "Gültig ab": "2018-12-26",
+      "Gültig bis": "2019-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-26"
+    },
+    {
+      "Gültig ab": "2018-12-26",
+      "Gültig bis": "2019-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-12-26"
+    },
+    {
+      "Gültig ab": "2018-10-27",
+      "Gültig bis": "2019-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-10-27"
+    },
+    {
+      "Gültig ab": "2018-10-27",
+      "Gültig bis": "2019-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-10-27"
+    },
+    {
+      "Gültig ab": "2018-08-28",
+      "Gültig bis": "2018-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-08-28"
+    },
+    {
+      "Gültig ab": "2018-08-28",
+      "Gültig bis": "2018-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-08-28"
+    },
+    {
+      "Gültig ab": "2018-06-29",
+      "Gültig bis": "2018-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-06-29"
+    },
+    {
+      "Gültig ab": "2018-06-29",
+      "Gültig bis": "2018-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-06-29"
+    },
+    {
+      "Gültig ab": "2018-06-04",
+      "Gültig bis": "2020-07-16",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "*.sitp.ch, sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-06-15"
+    },
+    {
+      "Gültig ab": "2018-06-04",
+      "Gültig bis": "2020-07-16",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "*.sitp.ch, sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-06-04"
+    },
+    {
+      "Gültig ab": "2018-04-30",
+      "Gültig bis": "2018-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-04-30"
+    },
+    {
+      "Gültig ab": "2018-04-30",
+      "Gültig bis": "2018-07-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-04-30"
+    },
+    {
+      "Gültig ab": "2018-03-01",
+      "Gültig bis": "2018-05-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2018-03-01"
+    },
+    {
+      "Gültig ab": "2017-12-31",
+      "Gültig bis": "2018-03-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-12-31"
+    },
+    {
+      "Gültig ab": "2017-11-01",
+      "Gültig bis": "2018-01-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-11-01"
+    },
+    {
+      "Gültig ab": "2017-09-02",
+      "Gültig bis": "2017-12-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-09-02"
+    },
+    {
+      "Gültig ab": "2017-07-04",
+      "Gültig bis": "2017-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "sitp.ch, swissitp.ch, www.sitp.ch, www.swissitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-07-04"
+    },
+    {
+      "Gültig ab": "2011-11-02",
+      "Gültig bis": "2014-10-31",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certificates.godaddy.com/repository, CN=Go Daddy Secure Certification Authority, serialNumber=07969287",
+      "Domain/Subdomain": "autodiscover.sitp.ch, mail.sitp.ch, webmail.sitp.ch, www.mail.sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-10-02"
+    },
+    {
+      "Gültig ab": "2015-07-01",
+      "Gültig bis": "2018-07-16",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+      "Domain/Subdomain": "*.sitp.ch, sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-09-20"
+    },
+    {
+      "Gültig ab": "2012-07-16",
+      "Gültig bis": "2015-07-16",
+      "Ausgestellt von": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certificates.godaddy.com/repository, CN=Go Daddy Secure Certification Authority, serialNumber=07969287",
+      "Domain/Subdomain": "*.sitp.ch, sitp.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Ja",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2015-06-04"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://sitp.ch/2023/11/secure-now/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://sitp.ch/2023/11/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://sitp.ch/author/licensing_adg6ehz9/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://sitp.ch/author/roman-jucker/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://sitp.ch/news/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://sitp.ch/portfolio-manager/swissitp-gl/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://sitp.ch/2022/11/meetings-part2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://sitp.ch/2022/11/meetins-part1/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://sitp.ch/2022/12/teams-governance-mit-easylife365/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://sitp.ch/2023/02/teams-eddievanhalen-screetching/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://sitp.ch/2023/04/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://sitp.ch/2023/09/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://sitp.ch/2024/08/dont-worry-sleep-happy-zerto-workshop-by-hpe-27-09-2024/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://sitp.ch/author/jessica-jumasitp-ch/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-12-14"
+    },
+    {
+      "URL": "https://sitp.ch/2022/11/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-05"
+    },
+    {
+      "URL": "https://sitp.ch/2022/10/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "URL": "https://sitp.ch/2022/10/business-breakfast/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-11-04"
+    },
+    {
+      "URL": "https://sitp.ch/index.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-04-22"
+    },
+    {
+      "URL": "https://sitp.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://sitp.ch/wp-admin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://sitp.ch/wp-admin/admin-ajax.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2024-01-11"
+    },
+    {
+      "URL": "https://sitp.ch/wp-content/uploads/omgf/omgf-stylesheet-107/roboto-normal-latin-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-18"
+    },
+    {
+      "URL": "https://sitp.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/wp-content/uploads/omgf/vc_google_fonts_abeezeeregularitalic/abeezee-normal-latin-400.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/wp-content/uploads/omgf/vc_google_fonts_poppins100100italic200200italic300300italicregularitalic500500italic600600italic700700italic800800italic900900italic/poppins-normal-latin-500.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/wp-content/uploads/omgf/vc_google_fonts_poppins100100italic200200italic300300italicregularitalic500500italic600600italic700700italic800800italic900900italic/poppins-normal-latin-600.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/wp-includes/wlwmanifest.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-13"
+    },
+    {
+      "URL": "https://sitp.ch/wp-login.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-01-13"
+    },
+    {
+      "URL": "https://www.sitp.ch/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2?v=2.4.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2022-09-29"
+    },
+    {
+      "URL": "https://sitp.ch/about.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "URL": "https://sitp.ch/companyservices.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "URL": "https://sitp.ch/contact.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "URL": "https://sitp.ch/disclaimer.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "URL": "https://sitp.ch/impressum.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "URL": "https://sitp.ch/jobs.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "URL": "https://sitp.ch/managed-cloud-services.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "URL": "https://sitp.ch/managed-workplace.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "URL": "https://sitp.ch/operations-management.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "URL": "https://sitp.ch/security-management.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "URL": "https://sitp.ch/sitemap.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2021-01-25"
+    },
+    {
+      "URL": "http://sitp.ch/cron.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-09-04"
+    },
+    {
+      "URL": "http://sitp.ch/system/html/cron.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-09-04"
+    },
+    {
+      "URL": "http://www.sitp.ch/Contact/anfahrtsplan.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-06"
+    },
+    {
+      "URL": "http://www.sitp.ch/firma/news/broschuere.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-06"
+    },
+    {
+      "URL": "http://www.sitp.ch/firma/consulting.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/firma/engineering.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/firma/helpdesk.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/firma/news/Managed_Services.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/firma/verkauf.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/home.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/impressum/gesch%C3%A4ftsdaten.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/managed_services/backup-restore.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/managed_services/sandbox.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/managed_services/security.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/managed_services/storage.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/media/Comics.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/media/Comics/Themen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/media/gallerie/id-2013.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/media/gallerie/id-2014.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/media/gallerie/id-2016.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "https://sitp.ch/2024/08/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://sitp.ch/2022/12/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2022/12/weshalb-intune-endpointmanager-nur-mit-zusatztools-funktioniert/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2023/01/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2023/01/mfa-authenticator-numbermatching/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2023/01/microsoft-partner/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2023/02/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2023/02/byebye-ie11/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2023/09/smb-workshop/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2024/02/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2024/02/security-and-governance-2024/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2024/06/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2024/06/cloudhero/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2024/06/itreseller-june24/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2025/01/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2025/01/job-2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/category/news/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/category/news/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/news/page/2/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/portfolio-manager/work/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "URL": "https://sitp.ch/2022/11/semg-azure/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "https://sitp.ch/2023/04/it-tools-for-mental-health/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-01-13"
+    },
+    {
+      "URL": "http://www.sitp.ch/partner/hersteller.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/partner/sponsoring.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/Solutions/clients.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/Solutions/messaging.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/Solutions/mobility/allgemein.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/Solutions/mobility/ShareFile.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/Solutions/mobility/video.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/Solutions/netzwerk.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/Solutions/vdi-terminalserver/allgemein.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/Solutions/vdi-terminalserver/terminalserver.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/Solutions/vdi-terminalserver/vdi.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/Solutions/virtualisierung.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    },
+    {
+      "URL": "http://www.sitp.ch/kontakt/anfahrtsplan.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/kontakt/feedback.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/kontakt/remote-support.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/partner/hardware.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/partner/security.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/partner/software.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/services/consulting.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/services/engineering.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/services/helpdesk.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/services/managed-services.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/services/verkauf.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/services/wartung-pikett.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/solutions/backup-restore.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/solutions/mobility/MDM.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/solutions/security/allgemein.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/solutions/security/proxy.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/solutions/security/remote-zugriff.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/solutions/security/spam.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/solutions/server.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/solutions/storage.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/unternehmen/Comics.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/unternehmen/Comics/Themen.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/unternehmen/galerie/id-2014.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/unternehmen/leitbild.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/unternehmen/news/CISCO_Meraki.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/unternehmen/news/hpstorage2015.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://www.sitp.ch/unternehmen/ueber-uns.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2016-07-01"
+    },
+    {
+      "URL": "http://sitp.ch/index.php?option=com_content&view=article&id=56&Itemid=57",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2013-10-25"
+    },
+    {
+      "URL": "http://sitp.ch:80/colloque04.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-07"
+    },
+    {
+      "URL": "http://sitp.ch:80/historique.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-07"
+    },
+    {
+      "URL": "http://sitp.ch:80/adresses.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-04"
+    },
+    {
+      "URL": "http://sitp.ch:80/membre.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-04"
+    },
+    {
+      "URL": "http://sitp.ch:80/questionnaire.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-04"
+    },
+    {
+      "URL": "http://sitp.ch:80/statuts.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2005-02-04"
+    },
+    {
+      "URL": "http://www.sitp.ch:80/colloque04.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2004-12-04"
+    },
+    {
+      "URL": "http://www.sitp.ch:80/textes/Statuts-1992.rtf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2004-06-15"
+    },
+    {
+      "URL": "http://www.sitp.ch:80/textes/rapport-26-mai.doc",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2003-11-25"
+    },
+    {
+      "URL": "http://www.sitp.ch:80/colloque.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2003-02-01"
+    },
+    {
+      "URL": "http://www.sitp.ch:80/programme.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2002-02-16"
+    },
+    {
+      "URL": "http://www.sitp.ch:80/inscription.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2001-12-15"
+    },
+    {
+      "URL": "https://sitp.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/agb/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/sitemap.rss",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/wp-content/uploads/omgf/omgf-stylesheet-107/raleway-italic-latin.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/wp-content/uploads/omgf/omgf-stylesheet-107/raleway-normal-latin.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/wp-content/uploads/omgf/ut-google-fonts/poppins-normal-latin-500.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/wp-content/uploads/omgf/ut-google-fonts/poppins-normal-latin-600.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "https://sitp.ch/wp-content/uploads/omgf/ut-google-fonts/raleway-normal-latin.woff2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2023-12-16"
+    },
+    {
+      "URL": "http://www.sitp.ch/media/gallerie/id-2016/happyhour.html",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2017-05-05"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "andreas.fehlmann@sitp.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "E-Mail": "jessica.juma@sitp.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "E-Mail": "jobs@sitp.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    },
+    {
+      "E-Mail": "vorname.nachname@firma.ch",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41527441212",
+      "Passwort geleakt (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "In öffentlicher Datenbank erfasst am": "2025-02-12"
+    }
+  ],
+  "service": [
+    {
+      "Port": 443,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "212.51.144.211",
+      "Domain/Subdomain": "sitp.ch, 212-51-144-211.fiber7.init7.net",
+      "Common Platform Enumeration (CPE)": "cpe:/o:fortinet:fortios",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 22,
+      "Dienst": "OpenSSH",
+      "Version": "8.2",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "46.140.73.74",
+      "Domain/Subdomain": "ssl.sitp.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:openbsd:openssh:8.2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": [
+        "CVE-CVE-2008-3844",
+        "CVE-CVE-2016-20012",
+        "CVE-CVE-2020-12062",
+        "CVE-CVE-2021-36368",
+        "CVE-CVE-2025-26465",
+        "CVE-CVE-2020-14145",
+        "CVE-CVE-2023-51767",
+        "CVE-CVE-2020-15778",
+        "CVE-CVE-2023-48795",
+        "CVE-CVE-2023-38408",
+        "CVE-CVE-2007-2768",
+        "CVE-CVE-2021-41617",
+        "CVE-CVE-2023-51385",
+        "CVE-CVE-2021-28041"
+      ]
+    },
+    {
+      "Port": 53,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "46.140.73.74",
+      "Domain/Subdomain": "ssl.sitp.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 465,
+      "Dienst": "Unrecognized SMTP service",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "213.173.172.197",
+      "Domain/Subdomain": "mx01.sitp.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "213.173.172.200",
+      "Domain/Subdomain": "sitp.ch, ssl.sitp.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/o:fortinet:fortios",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "213.173.172.198",
+      "Domain/Subdomain": "sitp.ch, mx02.sitp.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/a:getbootstrap:bootstrap, cpe:/a:jquery:jquery:3.7.1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 25,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "213.173.172.196",
+      "Domain/Subdomain": "www.mx101.sitp.services, mx101.sitp.ch, mx101.sitp.services",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "77.109.177.33",
+      "Domain/Subdomain": "sitp.ch, mx03.sitp.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/o:fortinet:fortios",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "Apache httpd",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "213.173.172.196",
+      "Domain/Subdomain": "www.mx101.sitp.services, mx101.sitp.ch, mx101.sitp.services",
+      "Common Platform Enumeration (CPE)": "cpe:/a:apache:http_server",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 21,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "46.140.73.74",
+      "Domain/Subdomain": "ssl.sitp.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 443,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "5.57.205.186",
+      "Domain/Subdomain": "sitp.ch, 186-205-57-5.static.dsl.netconnect.ch",
+      "Common Platform Enumeration (CPE)": "cpe:/o:fortinet:fortios",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 25,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "213.173.172.221",
+      "Domain/Subdomain": "sitp.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 161,
+      "Dienst": "net-snmp",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "udp",
+      "IPv4-Adresse": "46.140.73.74",
+      "Domain/Subdomain": "ssl.sitp.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 179,
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "46.140.73.74",
+      "Domain/Subdomain": "ssl.sitp.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    },
+    {
+      "Port": 25,
+      "Dienst": "Unrecognized SMTP service",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "tcp",
+      "IPv4-Adresse": "77.109.177.33",
+      "Domain/Subdomain": "sitp.ch, mx03.sitp.ch",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-14",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}

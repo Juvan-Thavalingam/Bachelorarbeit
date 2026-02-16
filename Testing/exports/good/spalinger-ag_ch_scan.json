@@ -1,0 +1,3794 @@
+{
+  "A": [
+    {
+      "IPv4-Adresse": "149.126.4.99",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "AAAA": [
+    {
+      "IPv6-Adresse": "2a01:ab20:0:4::99",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "MX": [
+    {
+      "Präferenz": "0",
+      "Mailserver (MX)": "spalingerag-ch02c.mail.protection.outlook.com.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "NS": [
+    {
+      "Name Server": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Name Server": "ns2.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "TXT": [
+    {
+      "Text Record": "\"MS=ms35320611\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"google-site-verification=4eAXuQrpqYl6dFOqmuL5zpD5Dt4ZrgeCcvlypXRDG3U\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "Text Record": "\"v=spf1 include:sendgrid.net include:spf.protection.outlook.com include:relay.mailchannels.net -all\"",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "SOA": [
+    {
+      "Retry": "7200",
+      "Expire": "3600000",
+      "Serial": "2024071100",
+      "Refresh": "86400",
+      "Hostmaster": "server.cyon.ch.",
+      "Minimum TTL": "86400",
+      "Primary Nameserver": "ns1.cyon.ch.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "PTR": [
+    {
+      "IP-Adresse": "149.126.4.99",
+      "PTR-Domain": "s090.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    },
+    {
+      "IP-Adresse": "2a01:ab20:0:4::99",
+      "PTR-Domain": "s090.cyon.net.",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19"
+    }
+  ],
+  "subdomain": [
+    {
+      "Subdomainname": "spalinger-ag.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "dev.spalinger-ag.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "dev.spalinger-ag.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "mail.spalinger-ag.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "stage.spalinger-ag.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    },
+    {
+      "Subdomainname": "stage.spalinger-ag.ch",
+      "In Digitalem Twin gescant am": "2025-05-19"
+    }
+  ],
+  "certificate": [
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-05-12",
+      "Gültig bis": "2025-08-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-05-12"
+    },
+    {
+      "Gültig ab": "2025-04-23",
+      "Gültig bis": "2025-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-23"
+    },
+    {
+      "Gültig ab": "2025-04-23",
+      "Gültig bis": "2025-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-23"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2025-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-04-02",
+      "Gültig bis": "2025-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-02"
+    },
+    {
+      "Gültig ab": "2025-03-12",
+      "Gültig bis": "2025-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-12"
+    },
+    {
+      "Gültig ab": "2025-03-12",
+      "Gültig bis": "2025-06-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-12"
+    },
+    {
+      "Gültig ab": "2025-02-21",
+      "Gültig bis": "2025-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-21"
+    },
+    {
+      "Gültig ab": "2025-02-21",
+      "Gültig bis": "2025-05-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-21"
+    },
+    {
+      "Gültig ab": "2025-01-31",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-31"
+    },
+    {
+      "Gültig ab": "2025-01-31",
+      "Gültig bis": "2025-05-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-31"
+    },
+    {
+      "Gültig ab": "2025-01-10",
+      "Gültig bis": "2025-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-10"
+    },
+    {
+      "Gültig ab": "2025-01-10",
+      "Gültig bis": "2025-04-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-10"
+    },
+    {
+      "Gültig ab": "2024-12-21",
+      "Gültig bis": "2025-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-21"
+    },
+    {
+      "Gültig ab": "2024-12-21",
+      "Gültig bis": "2025-03-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-21"
+    },
+    {
+      "Gültig ab": "2024-11-30",
+      "Gültig bis": "2025-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-01"
+    },
+    {
+      "Gültig ab": "2024-11-30",
+      "Gültig bis": "2025-02-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-01"
+    },
+    {
+      "Gültig ab": "2024-11-10",
+      "Gültig bis": "2025-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-10"
+    },
+    {
+      "Gültig ab": "2024-11-10",
+      "Gültig bis": "2025-02-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-10"
+    },
+    {
+      "Gültig ab": "2024-10-21",
+      "Gültig bis": "2025-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-21"
+    },
+    {
+      "Gültig ab": "2024-10-21",
+      "Gültig bis": "2025-01-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-21"
+    },
+    {
+      "Gültig ab": "2024-09-30",
+      "Gültig bis": "2024-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-30"
+    },
+    {
+      "Gültig ab": "2024-09-30",
+      "Gültig bis": "2024-12-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-30"
+    },
+    {
+      "Gültig ab": "2024-09-08",
+      "Gültig bis": "2024-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-08"
+    },
+    {
+      "Gültig ab": "2024-09-08",
+      "Gültig bis": "2024-12-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-09-08"
+    },
+    {
+      "Gültig ab": "2024-08-21",
+      "Gültig bis": "2024-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-21"
+    },
+    {
+      "Gültig ab": "2024-08-21",
+      "Gültig bis": "2024-11-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-21"
+    },
+    {
+      "Gültig ab": "2024-07-31",
+      "Gültig bis": "2024-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-31"
+    },
+    {
+      "Gültig ab": "2024-07-31",
+      "Gültig bis": "2024-10-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-31"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-07-07",
+      "Gültig bis": "2024-10-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R11",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-07"
+    },
+    {
+      "Gültig ab": "2024-06-21",
+      "Gültig bis": "2024-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-21"
+    },
+    {
+      "Gültig ab": "2024-06-21",
+      "Gültig bis": "2024-09-19",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R10",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-06-21"
+    },
+    {
+      "Gültig ab": "2024-05-30",
+      "Gültig bis": "2024-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-30"
+    },
+    {
+      "Gültig ab": "2024-05-30",
+      "Gültig bis": "2024-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-30"
+    },
+    {
+      "Gültig ab": "2024-05-07",
+      "Gültig bis": "2024-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-07"
+    },
+    {
+      "Gültig ab": "2024-05-07",
+      "Gültig bis": "2024-08-05",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-07"
+    },
+    {
+      "Gültig ab": "2024-04-17",
+      "Gültig bis": "2024-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-17"
+    },
+    {
+      "Gültig ab": "2024-04-17",
+      "Gültig bis": "2024-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-04-17"
+    },
+    {
+      "Gültig ab": "2024-03-30",
+      "Gültig bis": "2024-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-30"
+    },
+    {
+      "Gültig ab": "2024-03-30",
+      "Gültig bis": "2024-06-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-30"
+    },
+    {
+      "Gültig ab": "2024-03-05",
+      "Gültig bis": "2024-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-05"
+    },
+    {
+      "Gültig ab": "2024-03-05",
+      "Gültig bis": "2024-06-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-03-05"
+    },
+    {
+      "Gültig ab": "2024-02-16",
+      "Gültig bis": "2024-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-16"
+    },
+    {
+      "Gültig ab": "2024-02-16",
+      "Gültig bis": "2024-05-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-02-16"
+    },
+    {
+      "Gültig ab": "2024-01-29",
+      "Gültig bis": "2024-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-29"
+    },
+    {
+      "Gültig ab": "2024-01-29",
+      "Gültig bis": "2024-04-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-29"
+    },
+    {
+      "Gültig ab": "2024-01-04",
+      "Gültig bis": "2024-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "Gültig ab": "2024-01-04",
+      "Gültig bis": "2024-04-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-04"
+    },
+    {
+      "Gültig ab": "2023-12-17",
+      "Gültig bis": "2024-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-17"
+    },
+    {
+      "Gültig ab": "2023-12-17",
+      "Gültig bis": "2024-03-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-17"
+    },
+    {
+      "Gültig ab": "2023-11-29",
+      "Gültig bis": "2024-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-11-29"
+    },
+    {
+      "Gültig ab": "2023-11-29",
+      "Gültig bis": "2024-02-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-11-29"
+    },
+    {
+      "Gültig ab": "2023-11-04",
+      "Gültig bis": "2024-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-11-04"
+    },
+    {
+      "Gültig ab": "2023-11-04",
+      "Gültig bis": "2024-02-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-11-04"
+    },
+    {
+      "Gültig ab": "2023-10-17",
+      "Gültig bis": "2024-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "Gültig ab": "2023-10-17",
+      "Gültig bis": "2024-01-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-17"
+    },
+    {
+      "Gültig ab": "2023-09-29",
+      "Gültig bis": "2023-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-29"
+    },
+    {
+      "Gültig ab": "2023-09-29",
+      "Gültig bis": "2023-12-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-29"
+    },
+    {
+      "Gültig ab": "2023-09-03",
+      "Gültig bis": "2023-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-03"
+    },
+    {
+      "Gültig ab": "2023-09-03",
+      "Gültig bis": "2023-12-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-09-03"
+    },
+    {
+      "Gültig ab": "2023-08-17",
+      "Gültig bis": "2023-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-17"
+    },
+    {
+      "Gültig ab": "2023-08-17",
+      "Gültig bis": "2023-11-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-08-17"
+    },
+    {
+      "Gültig ab": "2023-07-30",
+      "Gültig bis": "2023-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-07-30"
+    },
+    {
+      "Gültig ab": "2023-07-30",
+      "Gültig bis": "2023-10-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-07-30"
+    },
+    {
+      "Gültig ab": "2023-07-04",
+      "Gültig bis": "2023-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-07-04"
+    },
+    {
+      "Gültig ab": "2023-07-04",
+      "Gültig bis": "2023-10-02",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-07-04"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-06-16",
+      "Gültig bis": "2023-09-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-06-16"
+    },
+    {
+      "Gültig ab": "2023-05-29",
+      "Gültig bis": "2023-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-29"
+    },
+    {
+      "Gültig ab": "2023-05-29",
+      "Gültig bis": "2023-08-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-29"
+    },
+    {
+      "Gültig ab": "2023-05-03",
+      "Gültig bis": "2023-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-03"
+    },
+    {
+      "Gültig ab": "2023-05-03",
+      "Gültig bis": "2023-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-05-03"
+    },
+    {
+      "Gültig ab": "2023-04-15",
+      "Gültig bis": "2023-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-15"
+    },
+    {
+      "Gültig ab": "2023-04-15",
+      "Gültig bis": "2023-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-04-15"
+    },
+    {
+      "Gültig ab": "2023-03-29",
+      "Gültig bis": "2023-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-29"
+    },
+    {
+      "Gültig ab": "2023-03-29",
+      "Gültig bis": "2023-06-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-29"
+    },
+    {
+      "Gültig ab": "2023-03-03",
+      "Gültig bis": "2023-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-03"
+    },
+    {
+      "Gültig ab": "2023-03-03",
+      "Gültig bis": "2023-06-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-03-03"
+    },
+    {
+      "Gültig ab": "2023-02-13",
+      "Gültig bis": "2023-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-13"
+    },
+    {
+      "Gültig ab": "2023-02-13",
+      "Gültig bis": "2023-05-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-02-13"
+    },
+    {
+      "Gültig ab": "2023-01-27",
+      "Gültig bis": "2023-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-01-27"
+    },
+    {
+      "Gültig ab": "2023-01-27",
+      "Gültig bis": "2023-04-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-01-27"
+    },
+    {
+      "Gültig ab": "2023-01-01",
+      "Gültig bis": "2023-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-01-01"
+    },
+    {
+      "Gültig ab": "2023-01-01",
+      "Gültig bis": "2023-04-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-01-01"
+    },
+    {
+      "Gültig ab": "2022-12-14",
+      "Gültig bis": "2023-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-14"
+    },
+    {
+      "Gültig ab": "2022-12-14",
+      "Gültig bis": "2023-03-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-12-14"
+    },
+    {
+      "Gültig ab": "2022-11-26",
+      "Gültig bis": "2023-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-26"
+    },
+    {
+      "Gültig ab": "2022-11-26",
+      "Gültig bis": "2023-02-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-26"
+    },
+    {
+      "Gültig ab": "2022-11-01",
+      "Gültig bis": "2023-01-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-01"
+    },
+    {
+      "Gültig ab": "2022-11-01",
+      "Gültig bis": "2023-01-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-11-01"
+    },
+    {
+      "Gültig ab": "2022-10-14",
+      "Gültig bis": "2023-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-14"
+    },
+    {
+      "Gültig ab": "2022-10-14",
+      "Gültig bis": "2023-01-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-10-14"
+    },
+    {
+      "Gültig ab": "2022-09-25",
+      "Gültig bis": "2022-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "Gültig ab": "2022-09-25",
+      "Gültig bis": "2022-12-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-25"
+    },
+    {
+      "Gültig ab": "2022-09-01",
+      "Gültig bis": "2022-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-01"
+    },
+    {
+      "Gültig ab": "2022-09-01",
+      "Gültig bis": "2022-11-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-09-01"
+    },
+    {
+      "Gültig ab": "2022-08-13",
+      "Gültig bis": "2022-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-13"
+    },
+    {
+      "Gültig ab": "2022-08-13",
+      "Gültig bis": "2022-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-08-13"
+    },
+    {
+      "Gültig ab": "2022-07-26",
+      "Gültig bis": "2022-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-26"
+    },
+    {
+      "Gültig ab": "2022-07-26",
+      "Gültig bis": "2022-10-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-26"
+    },
+    {
+      "Gültig ab": "2022-07-02",
+      "Gültig bis": "2022-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-02"
+    },
+    {
+      "Gültig ab": "2022-07-02",
+      "Gültig bis": "2022-09-30",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-07-02"
+    },
+    {
+      "Gültig ab": "2022-06-13",
+      "Gültig bis": "2022-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-13"
+    },
+    {
+      "Gültig ab": "2022-06-13",
+      "Gültig bis": "2022-09-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-06-13"
+    },
+    {
+      "Gültig ab": "2022-05-26",
+      "Gültig bis": "2022-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-26"
+    },
+    {
+      "Gültig ab": "2022-05-26",
+      "Gültig bis": "2022-08-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-05-26"
+    },
+    {
+      "Gültig ab": "2022-04-29",
+      "Gültig bis": "2022-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-29"
+    },
+    {
+      "Gültig ab": "2022-04-29",
+      "Gültig bis": "2022-07-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-29"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-12"
+    },
+    {
+      "Gültig ab": "2022-04-12",
+      "Gültig bis": "2022-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-04-12"
+    },
+    {
+      "Gültig ab": "2022-03-25",
+      "Gültig bis": "2022-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-03-25"
+    },
+    {
+      "Gültig ab": "2022-03-25",
+      "Gültig bis": "2022-06-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-03-25"
+    },
+    {
+      "Gültig ab": "2022-02-27",
+      "Gültig bis": "2022-05-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-27"
+    },
+    {
+      "Gültig ab": "2022-02-27",
+      "Gültig bis": "2022-05-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-27"
+    },
+    {
+      "Gültig ab": "2022-02-09",
+      "Gültig bis": "2022-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-09"
+    },
+    {
+      "Gültig ab": "2022-02-09",
+      "Gültig bis": "2022-05-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-02-09"
+    },
+    {
+      "Gültig ab": "2022-01-23",
+      "Gültig bis": "2022-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-23"
+    },
+    {
+      "Gültig ab": "2022-01-23",
+      "Gültig bis": "2022-04-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2022-01-23"
+    },
+    {
+      "Gültig ab": "2021-12-29",
+      "Gültig bis": "2022-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-29"
+    },
+    {
+      "Gültig ab": "2021-12-29",
+      "Gültig bis": "2022-03-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-29"
+    },
+    {
+      "Gültig ab": "2021-12-08",
+      "Gültig bis": "2022-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-08"
+    },
+    {
+      "Gültig ab": "2021-12-08",
+      "Gültig bis": "2022-03-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-12-08"
+    },
+    {
+      "Gültig ab": "2021-11-22",
+      "Gültig bis": "2022-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-11-22"
+    },
+    {
+      "Gültig ab": "2021-11-22",
+      "Gültig bis": "2022-02-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-11-22"
+    },
+    {
+      "Gültig ab": "2021-10-27",
+      "Gültig bis": "2022-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-27"
+    },
+    {
+      "Gültig ab": "2021-10-27",
+      "Gültig bis": "2022-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-27"
+    },
+    {
+      "Gültig ab": "2021-10-05",
+      "Gültig bis": "2022-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-05"
+    },
+    {
+      "Gültig ab": "2021-10-05",
+      "Gültig bis": "2022-01-03",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-10-05"
+    },
+    {
+      "Gültig ab": "2021-09-22",
+      "Gültig bis": "2021-12-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-22"
+    },
+    {
+      "Gültig ab": "2021-09-22",
+      "Gültig bis": "2021-12-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-09-22"
+    },
+    {
+      "Gültig ab": "2021-08-28",
+      "Gültig bis": "2021-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-28"
+    },
+    {
+      "Gültig ab": "2021-08-28",
+      "Gültig bis": "2021-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-28"
+    },
+    {
+      "Gültig ab": "2021-08-02",
+      "Gültig bis": "2021-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "Gültig ab": "2021-08-02",
+      "Gültig bis": "2021-10-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-08-02"
+    },
+    {
+      "Gültig ab": "2021-06-29",
+      "Gültig bis": "2021-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-29"
+    },
+    {
+      "Gültig ab": "2021-06-29",
+      "Gültig bis": "2021-09-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-29"
+    },
+    {
+      "Gültig ab": "2021-06-27",
+      "Gültig bis": "2021-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-27"
+    },
+    {
+      "Gültig ab": "2021-06-27",
+      "Gültig bis": "2021-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-27"
+    },
+    {
+      "Gültig ab": "2021-06-02",
+      "Gültig bis": "2021-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-02"
+    },
+    {
+      "Gültig ab": "2021-06-02",
+      "Gültig bis": "2021-08-31",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-06-02"
+    },
+    {
+      "Gültig ab": "2021-04-28",
+      "Gültig bis": "2021-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-28"
+    },
+    {
+      "Gültig ab": "2021-04-28",
+      "Gültig bis": "2021-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-28"
+    },
+    {
+      "Gültig ab": "2021-04-27",
+      "Gültig bis": "2021-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-27"
+    },
+    {
+      "Gültig ab": "2021-04-27",
+      "Gültig bis": "2021-07-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-04-27"
+    },
+    {
+      "Gültig ab": "2021-03-14",
+      "Gültig bis": "2021-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-14"
+    },
+    {
+      "Gültig ab": "2021-03-14",
+      "Gültig bis": "2021-06-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-03-14"
+    },
+    {
+      "Gültig ab": "2021-02-26",
+      "Gültig bis": "2021-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "Gültig ab": "2021-02-26",
+      "Gültig bis": "2021-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "Gültig ab": "2021-02-26",
+      "Gültig bis": "2021-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "Gültig ab": "2021-02-26",
+      "Gültig bis": "2021-05-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-02-26"
+    },
+    {
+      "Gültig ab": "2021-01-11",
+      "Gültig bis": "2021-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-11"
+    },
+    {
+      "Gültig ab": "2021-01-11",
+      "Gültig bis": "2021-04-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-11"
+    },
+    {
+      "Gültig ab": "2020-12-26",
+      "Gültig bis": "2021-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-27"
+    },
+    {
+      "Gültig ab": "2020-12-26",
+      "Gültig bis": "2021-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-27"
+    },
+    {
+      "Gültig ab": "2020-12-26",
+      "Gültig bis": "2021-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-27"
+    },
+    {
+      "Gültig ab": "2020-12-26",
+      "Gültig bis": "2021-03-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=R3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-12-27"
+    },
+    {
+      "Gültig ab": "2020-11-12",
+      "Gültig bis": "2021-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-12"
+    },
+    {
+      "Gültig ab": "2020-11-12",
+      "Gültig bis": "2021-02-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-11-12"
+    },
+    {
+      "Gültig ab": "2020-10-27",
+      "Gültig bis": "2021-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-27"
+    },
+    {
+      "Gültig ab": "2020-10-27",
+      "Gültig bis": "2021-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-27"
+    },
+    {
+      "Gültig ab": "2020-10-27",
+      "Gültig bis": "2021-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-27"
+    },
+    {
+      "Gültig ab": "2020-10-27",
+      "Gültig bis": "2021-01-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-10-27"
+    },
+    {
+      "Gültig ab": "2020-09-11",
+      "Gültig bis": "2020-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-12"
+    },
+    {
+      "Gültig ab": "2020-09-11",
+      "Gültig bis": "2020-12-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-09-12"
+    },
+    {
+      "Gültig ab": "2020-08-12",
+      "Gültig bis": "2020-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-12"
+    },
+    {
+      "Gültig ab": "2020-08-12",
+      "Gültig bis": "2020-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-12"
+    },
+    {
+      "Gültig ab": "2020-08-11",
+      "Gültig bis": "2020-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-11"
+    },
+    {
+      "Gültig ab": "2020-08-11",
+      "Gültig bis": "2020-11-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-08-11"
+    },
+    {
+      "Gültig ab": "2020-07-03",
+      "Gültig bis": "2020-10-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-07-03"
+    },
+    {
+      "Gültig ab": "2020-07-03",
+      "Gültig bis": "2020-10-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-07-03"
+    },
+    {
+      "Gültig ab": "2020-06-11",
+      "Gültig bis": "2020-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-06-11"
+    },
+    {
+      "Gültig ab": "2020-06-11",
+      "Gültig bis": "2020-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-06-11"
+    },
+    {
+      "Gültig ab": "2020-06-11",
+      "Gültig bis": "2020-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-06-11"
+    },
+    {
+      "Gültig ab": "2020-06-11",
+      "Gültig bis": "2020-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-06-11"
+    },
+    {
+      "Gültig ab": "2020-05-03",
+      "Gültig bis": "2020-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-05-03"
+    },
+    {
+      "Gültig ab": "2020-05-03",
+      "Gültig bis": "2020-08-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-05-03"
+    },
+    {
+      "Gültig ab": "2020-04-12",
+      "Gültig bis": "2020-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "Gültig ab": "2020-04-12",
+      "Gültig bis": "2020-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "Gültig ab": "2020-04-12",
+      "Gültig bis": "2020-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "Gültig ab": "2020-04-12",
+      "Gültig bis": "2020-07-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-04-12"
+    },
+    {
+      "Gültig ab": "2020-02-29",
+      "Gültig bis": "2020-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-29"
+    },
+    {
+      "Gültig ab": "2020-02-29",
+      "Gültig bis": "2020-05-29",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-29"
+    },
+    {
+      "Gültig ab": "2020-02-11",
+      "Gültig bis": "2020-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-11"
+    },
+    {
+      "Gültig ab": "2020-02-11",
+      "Gültig bis": "2020-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-11"
+    },
+    {
+      "Gültig ab": "2020-02-11",
+      "Gültig bis": "2020-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-11"
+    },
+    {
+      "Gültig ab": "2020-02-11",
+      "Gültig bis": "2020-05-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2020-02-11"
+    },
+    {
+      "Gültig ab": "2019-12-28",
+      "Gültig bis": "2020-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "Gültig ab": "2019-12-28",
+      "Gültig bis": "2020-03-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-28"
+    },
+    {
+      "Gültig ab": "2019-12-13",
+      "Gültig bis": "2020-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-13"
+    },
+    {
+      "Gültig ab": "2019-12-13",
+      "Gültig bis": "2020-03-12",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-13"
+    },
+    {
+      "Gültig ab": "2019-12-11",
+      "Gültig bis": "2020-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-11"
+    },
+    {
+      "Gültig ab": "2019-12-11",
+      "Gültig bis": "2020-03-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-12-11"
+    },
+    {
+      "Gültig ab": "2019-10-28",
+      "Gültig bis": "2020-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "Gültig ab": "2019-10-28",
+      "Gültig bis": "2020-01-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-28"
+    },
+    {
+      "Gültig ab": "2019-10-12",
+      "Gültig bis": "2020-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-13"
+    },
+    {
+      "Gültig ab": "2019-10-12",
+      "Gültig bis": "2020-01-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-13"
+    },
+    {
+      "Gültig ab": "2019-10-10",
+      "Gültig bis": "2020-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-10"
+    },
+    {
+      "Gültig ab": "2019-10-10",
+      "Gültig bis": "2020-01-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-10-10"
+    },
+    {
+      "Gültig ab": "2019-08-28",
+      "Gültig bis": "2019-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-08-28"
+    },
+    {
+      "Gültig ab": "2019-08-28",
+      "Gültig bis": "2019-11-26",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-08-28"
+    },
+    {
+      "Gültig ab": "2019-08-13",
+      "Gültig bis": "2019-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-08-14"
+    },
+    {
+      "Gültig ab": "2019-08-13",
+      "Gültig bis": "2019-11-11",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-08-14"
+    },
+    {
+      "Gültig ab": "2019-08-10",
+      "Gültig bis": "2019-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-08-11"
+    },
+    {
+      "Gültig ab": "2019-08-10",
+      "Gültig bis": "2019-11-08",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-08-11"
+    },
+    {
+      "Gültig ab": "2019-06-27",
+      "Gültig bis": "2019-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-27"
+    },
+    {
+      "Gültig ab": "2019-06-27",
+      "Gültig bis": "2019-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-27"
+    },
+    {
+      "Gültig ab": "2019-06-11",
+      "Gültig bis": "2019-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-11"
+    },
+    {
+      "Gültig ab": "2019-06-11",
+      "Gültig bis": "2019-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "stage.spalinger-ag.ch, www.stage.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-11"
+    },
+    {
+      "Gültig ab": "2019-06-11",
+      "Gültig bis": "2019-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-11"
+    },
+    {
+      "Gültig ab": "2019-06-11",
+      "Gültig bis": "2019-09-09",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-11"
+    },
+    {
+      "Gültig ab": "2019-05-30",
+      "Gültig bis": "2019-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-05-30"
+    },
+    {
+      "Gültig ab": "2019-05-30",
+      "Gültig bis": "2019-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-05-30"
+    },
+    {
+      "Gültig ab": "2019-05-30",
+      "Gültig bis": "2019-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-05-30"
+    },
+    {
+      "Gültig ab": "2019-05-30",
+      "Gültig bis": "2019-08-28",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-05-30"
+    },
+    {
+      "Gültig ab": "2019-04-02",
+      "Gültig bis": "2019-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-02"
+    },
+    {
+      "Gültig ab": "2019-04-02",
+      "Gültig bis": "2019-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-02"
+    },
+    {
+      "Gültig ab": "2019-04-02",
+      "Gültig bis": "2019-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-02"
+    },
+    {
+      "Gültig ab": "2019-04-02",
+      "Gültig bis": "2019-07-01",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-04-02"
+    },
+    {
+      "Gültig ab": "2019-02-03",
+      "Gültig bis": "2019-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-03"
+    },
+    {
+      "Gültig ab": "2019-02-03",
+      "Gültig bis": "2019-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-03"
+    },
+    {
+      "Gültig ab": "2019-02-03",
+      "Gültig bis": "2019-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-03"
+    },
+    {
+      "Gültig ab": "2019-02-03",
+      "Gültig bis": "2019-05-04",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-02-03"
+    },
+    {
+      "Gültig ab": "2018-12-06",
+      "Gültig bis": "2019-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-12-06"
+    },
+    {
+      "Gültig ab": "2018-12-06",
+      "Gültig bis": "2019-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-12-06"
+    },
+    {
+      "Gültig ab": "2018-12-06",
+      "Gültig bis": "2019-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-12-06"
+    },
+    {
+      "Gültig ab": "2018-12-06",
+      "Gültig bis": "2019-03-06",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-12-06"
+    },
+    {
+      "Gültig ab": "2018-10-09",
+      "Gültig bis": "2019-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-10-09"
+    },
+    {
+      "Gültig ab": "2018-10-09",
+      "Gültig bis": "2019-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-10-09"
+    },
+    {
+      "Gültig ab": "2018-10-09",
+      "Gültig bis": "2019-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-10-09"
+    },
+    {
+      "Gültig ab": "2018-10-09",
+      "Gültig bis": "2019-01-07",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-10-09"
+    },
+    {
+      "Gültig ab": "2018-08-12",
+      "Gültig bis": "2018-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "Gültig ab": "2018-08-12",
+      "Gültig bis": "2018-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "Gültig ab": "2018-08-12",
+      "Gültig bis": "2018-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "Gültig ab": "2018-08-12",
+      "Gültig bis": "2018-11-10",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-08-12"
+    },
+    {
+      "Gültig ab": "2018-06-15",
+      "Gültig bis": "2018-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-06-15"
+    },
+    {
+      "Gültig ab": "2018-06-15",
+      "Gültig bis": "2018-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-06-15"
+    },
+    {
+      "Gültig ab": "2018-06-15",
+      "Gültig bis": "2018-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-06-15"
+    },
+    {
+      "Gültig ab": "2018-06-15",
+      "Gültig bis": "2018-09-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-06-15"
+    },
+    {
+      "Gültig ab": "2018-04-17",
+      "Gültig bis": "2018-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-04-18"
+    },
+    {
+      "Gültig ab": "2018-04-17",
+      "Gültig bis": "2018-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-04-18"
+    },
+    {
+      "Gültig ab": "2018-04-17",
+      "Gültig bis": "2018-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-04-18"
+    },
+    {
+      "Gültig ab": "2018-04-17",
+      "Gültig bis": "2018-07-16",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-04-18"
+    },
+    {
+      "Gültig ab": "2018-02-19",
+      "Gültig bis": "2018-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-02-19"
+    },
+    {
+      "Gültig ab": "2018-02-19",
+      "Gültig bis": "2018-05-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-02-19"
+    },
+    {
+      "Gültig ab": "2017-12-22",
+      "Gültig bis": "2018-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-12-22"
+    },
+    {
+      "Gültig ab": "2017-12-22",
+      "Gültig bis": "2018-03-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-12-22"
+    },
+    {
+      "Gültig ab": "2017-10-25",
+      "Gültig bis": "2018-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-10-25"
+    },
+    {
+      "Gültig ab": "2017-10-25",
+      "Gültig bis": "2018-01-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-10-25"
+    },
+    {
+      "Gültig ab": "2017-08-26",
+      "Gültig bis": "2017-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-08-26"
+    },
+    {
+      "Gültig ab": "2017-08-26",
+      "Gültig bis": "2017-11-24",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-08-26"
+    },
+    {
+      "Gültig ab": "2017-06-27",
+      "Gültig bis": "2017-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-06-27"
+    },
+    {
+      "Gültig ab": "2017-06-27",
+      "Gültig bis": "2017-09-25",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-06-27"
+    },
+    {
+      "Gültig ab": "2017-04-28",
+      "Gültig bis": "2017-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-28"
+    },
+    {
+      "Gültig ab": "2017-04-28",
+      "Gültig bis": "2017-07-27",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-28"
+    },
+    {
+      "Gültig ab": "2017-04-24",
+      "Gültig bis": "2017-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-24"
+    },
+    {
+      "Gültig ab": "2017-04-24",
+      "Gültig bis": "2017-07-23",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-24"
+    },
+    {
+      "Gültig ab": "2017-04-23",
+      "Gültig bis": "2017-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-23"
+    },
+    {
+      "Gültig ab": "2017-04-23",
+      "Gültig bis": "2017-07-22",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-23"
+    },
+    {
+      "Gültig ab": "2017-04-22",
+      "Gültig bis": "2017-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-22"
+    },
+    {
+      "Gültig ab": "2017-04-22",
+      "Gültig bis": "2017-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-22"
+    },
+    {
+      "Gültig ab": "2017-04-22",
+      "Gültig bis": "2017-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-22"
+    },
+    {
+      "Gültig ab": "2017-04-22",
+      "Gültig bis": "2017-07-21",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-22"
+    },
+    {
+      "Gültig ab": "2017-04-21",
+      "Gültig bis": "2017-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-21"
+    },
+    {
+      "Gültig ab": "2017-04-21",
+      "Gültig bis": "2017-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-21"
+    },
+    {
+      "Gültig ab": "2017-04-21",
+      "Gültig bis": "2017-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-21"
+    },
+    {
+      "Gültig ab": "2017-04-21",
+      "Gültig bis": "2017-07-20",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-21"
+    },
+    {
+      "Gültig ab": "2017-04-16",
+      "Gültig bis": "2017-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-16"
+    },
+    {
+      "Gültig ab": "2017-04-16",
+      "Gültig bis": "2017-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-16"
+    },
+    {
+      "Gültig ab": "2017-04-16",
+      "Gültig bis": "2017-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-16"
+    },
+    {
+      "Gültig ab": "2017-04-16",
+      "Gültig bis": "2017-07-15",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-16"
+    },
+    {
+      "Gültig ab": "2017-04-15",
+      "Gültig bis": "2017-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-15"
+    },
+    {
+      "Gültig ab": "2017-04-15",
+      "Gültig bis": "2017-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-15"
+    },
+    {
+      "Gültig ab": "2017-04-15",
+      "Gültig bis": "2017-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-15"
+    },
+    {
+      "Gültig ab": "2017-04-15",
+      "Gültig bis": "2017-07-14",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-15"
+    },
+    {
+      "Gültig ab": "2017-04-14",
+      "Gültig bis": "2017-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-14"
+    },
+    {
+      "Gültig ab": "2017-04-14",
+      "Gültig bis": "2017-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-14"
+    },
+    {
+      "Gültig ab": "2017-04-14",
+      "Gültig bis": "2017-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "dev.spalinger-ag.ch, www.dev.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-14"
+    },
+    {
+      "Gültig ab": "2017-04-14",
+      "Gültig bis": "2017-07-13",
+      "Ausgestellt von": "C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3",
+      "Domain/Subdomain": "mail.spalinger-ag.ch, spalinger-ag.ch, www.spalinger-ag.ch",
+      "Wildcard-Zertifikat? (Ja/Nein)": "Nein",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2017-04-14"
+    }
+  ],
+  "endpoint": [
+    {
+      "URL": "https://spalinger-ag.ch/news/grillabend-juli-2020",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/rosenpflege-im-winter-1",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/schwimmteich-reinigen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/sommerbl%C3%BCher-zur%C3%BCckschneiden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/tr%C3%A4umen-sie-in-der-kalten-jahreszeit-von-ihrem-traumgarten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/winterschnitt-2",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/wir-gratulieren-zur-bestandenen-pr%C3%BCfung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/pflegen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/pflegen/rosenpflege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/projekte/dickbuch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/projekte/ohringen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/referenzen?category=treppen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/service",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/ueber-uns",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/gestalten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/gestalten/gruenflaechen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/gestalten/mauern-sichtschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/jobs/kundengaertner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/garten-winterfest-machen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/geschafft",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/gestalten/belaege-sitzplaetze",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/gestalten/treppen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/gestalten/wasser",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/kontakt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/lehre-schnupperlehre",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/blumenprach-im-eigenen-garten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/g%C3%A4rten-nach-ihren-w%C3%BCnschen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/gartenvielfalt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/gratualtion-an-alain-denis-zum-super-7ten-platz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/winterschnitt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/blumeng%C3%A4rten-in-bunter-pracht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-10"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/sch%C3%B6ne-festtage-w%C3%BCnscht-die-ernst-spalinger-ag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-10"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/wenn-gartentr%C3%A4ume-wahr-werden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-10"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/impressum",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-11-10"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/datenschutz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-10-05"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/pflegen/staudenpflege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-14"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/news/es-gibt-grund-zu-feiern",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/news/im-garten-zuhause",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-08-13"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/.well-known/gpc.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-16"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/.well-known/trust.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-16"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch/assets/icons/favicon/site.webmanifest",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch/manifest.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/.env",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/cpresources",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/jobs",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/media/Schnupperlehre.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/vendor",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/.well-known/ai-plugin.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/.well-known/assetlinks.json",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/.well-known/dnt-policy.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/.well-known/nodeinfo",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/.well-known/openid-configuration",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/.well-known/security.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/app-ads.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/robots.txt",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/sitemap.xml",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/ueber-uns/Die-Macher.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/firmenausflug-zoo-z%C3%BCrich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-07-14"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/pflegen/rasenpflege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-05-29"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/assets/fonts/arapey-italic.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/assets/fonts/arapey-regular.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/assets/fonts/fontawesome-webfont.eot?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/assets/fonts/fontawesome-webfont.ttf?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/assets/fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/side-begeistern.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/side-entspannen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/side-erleben.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/side-geniessen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/Sitemap.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/das-leitbild.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Der-Standort.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Gartenplanung/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Gartenunterhalt/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/schwimmteiche.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/schwimmteiche/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Die-Staerken.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/gaertner-bei-gartenpflege.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/gaertner-bei-grab-friedhofspflege.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/gaertner-video.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/gaertner_garten.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/lehre-ausbildung-landschaftsgaertner.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Links.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Offene-Stellen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Offene-Stellen/Kundengaertner.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/schnupperlehre.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch/die-dienstleistungen/Gartenunterhalt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch/gardapro.ch",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch/Kontakt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch/referenzen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch/referenzen/Gartenpflege.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch/referenzen/Hausgaerten.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2018-09-06"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Natursteine.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2016-05-21"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch/stylesheet.php?cssid=31&mediatype=print,screen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2015-01-21"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/gartenideen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2013-01-21"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/aktuell/events.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/aktuell/events/events-2.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/aktuell/News.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/aktuell/News/news-2.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Links",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Offene-Stellen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Offene-Stellen/Kundengaertner-Gruenflaechenspezialist",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/uploads/flashbilder/gardapro_flashgallery/?file_path=uploads/flashbilder/begeisterung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-01-22"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/rasen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-07-11"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/admin",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2009-05-02"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/wir-ziehen-um",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/pflegen/straeucher-und-baumpflege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/abenteuerwelten-f%C3%BCr-kinder",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/aussentreppen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/betriebsausglug-2019-im-atzm%C3%A4nnig",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/der-fr%C3%BChling-naht-und-es-wird-zeit-f%C3%BCr-die-teich-und-brunnenreinigung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/ein-schwimmteich-im-garten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/herzlich-willkommen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/individuelle-g%C3%A4rten-so-individuell-wie-sie",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/interner-weiterbildungstag",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/lassen-sie-ihre-gartentr%C3%A4ume-wahr-werden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/mir-w%C3%BCnsched-en-guete-start",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/romantischer-garten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/sch%C3%B6ne-festtage-und-eine-guten-start-ins-jahr-2025",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/teich-und-naturpoolreinigung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/trockenmauer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/winterschnitt-3",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/winterzeit",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/wir-gratulieren-zur-bestandenen-pr%C3%BCfung-zum-g%C3%A4rtner-efz",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/wir-planen-und-setzen-ihren-traumgarten-um",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/planen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/projekte/beispiel",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/projekte/gartenum%C3%A4nderung-winterthur",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/wiki",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/wiki/blumenzwiebeln",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/wiki/teichpflege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/zeit-fuer-neues",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/gartenwege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/gratulation-zur-lehrabschlusspr%C3%BCfung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/komm-in-unser-team",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/sichtschutz-als-dekoratives-element",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/tag-der-offenen-t%C3%BCr-2022",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/top-ausbildungsbetrieb",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/vom-schwimmteich-bis-zum-gartensitzplatz-alles-aus-einer-hand",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-12-03"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/assets/fonts/fontawesome-webfont.woff?v=4.7.0",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/assets/fonts/Frutiger-Bold.otf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/assets/fonts/Frutiger-Light.otf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/assets/fonts/Frutiger-Roman.otf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/fonts/arapey-italic.ttf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/fonts/Frutiger-Bold.otf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/fonts/Frutiger-Light.otf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/fonts/Frutiger-Roman.otf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-17"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/media/spalinger_lindenbluetenvideo_q2.mp4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2024-01-15"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/r%C3%BCckschnitt-von-obstb%C3%A4umen-und-stauden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-05"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/wohlf%C3%BChlen-im-eigenen-garten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-12-05"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/poolbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-01"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/partner",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-10-01"
+    },
+    {
+      "URL": "https://www.spalinger-ag.ch/media/Ernst-Spalinger-AG-720pAAC_31_25.mp4",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2023-01-10"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/media/3_0_3_Eine-Schnupperlehre-bei-uns.pdf",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2021-01-17"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/side-schwimmen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-09-04"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/aktuell.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/aktuell/news-2.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen/friedhof-pflegen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen/Gartenbau.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen/Gartenplanung.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen/grabpflege.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen/Natursteine.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen/Pflanzen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen/rasen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen/renaturierung-bach.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen/schwimmbad-pool.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen/Sitzplaetze.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen/spielplaetze.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/die-dienstleistungen/Wasserbecken.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/gartenideen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/Impressum.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/referenzen/Bioteich-Schwimmteich.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/referenzen/friedhof-grabpflege.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2019-06-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/side-entspannen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/side-erleben/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/side-geniessen/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/Sitemap/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Findlinge.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Gartenbau.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Gartenplanung.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Gartenunterhalt.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Pflanzen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/rasen.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Sitzplaetze.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Wasserbecken.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Offene-Stellen/Kundengaertner-Gruenflaechenspezialist.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Offene-Stellen/Vorarbeiter.php",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2012-11-05"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/index.php?mact=Album,ma0ad4,default,1&ma0ad4albumid=12&ma0ad4page=1&ma0ad4returnid=56&page=56",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2011-02-07"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/referenzen/Gartenpflege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-30"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/side-begeistern",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-30"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/side-schwimmen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-30"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Die-Staerken",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-30"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/referenzen/Hausgaerten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-29"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/referenzen/Bioteich-Schwimmteich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-25"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Findlinge",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-25"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Gartenbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-25"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Natursteine",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-25"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Pflanzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-25"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Sitzplaetze",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-25"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/die-dienstleistungen/Wasserbecken",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-25"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Die-Macher/",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-25"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/aktuell",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/aktuell/events",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/aktuell/News",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/das-leitbild",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-24"
+    },
+    {
+      "URL": "http://www.spalinger-ag.ch:80/ueber-uns/Der-Standort",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2010-03-24"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/herbstarbeiten-im-garten",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/pflanzzeit",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/sommerpause",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/spielplatzbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/tag-der-offenen-t%C3%BCr",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/wasserspiele",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/wir-gratulieren-zum-fachausweis-garten-und-landschaftsbau",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/pflegen/Friedhofspflege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/pflegen/teichpflege",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/projekte",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-03-17"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/gestalten/ausstattung",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/bienensommer",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/friedhofsg%C3%A4rtner-gesucht",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/hecken-in-form-schneiden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/im-herbst-beginnt-die-ruhezeit-f%C3%BCr-pflanzen",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    },
+    {
+      "URL": "https://spalinger-ag.ch/news/wir-w%C3%BCnschen-viel-erfolg-auf-dem-ausbildungsweg",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-02-13"
+    }
+  ],
+  "email": [
+    {
+      "E-Mail": "info@spalinger-ag.ch",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    }
+  ],
+  "phone": [
+    {
+      "Telefonnummern": "+41523970030",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    },
+    {
+      "Telefonnummern": "+41523970038",
+      "Passwort geleakt (Ja/Nein)": "Keine Abfrage möglich",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "In öffentlicher Datenbank erfasst am": "2025-04-18"
+    }
+  ],
+  "service": [
+    {
+      "Port": "Keine Daten gefunden",
+      "Dienst": "Keine Daten gefunden",
+      "Version": "Keine Daten gefunden",
+      "Protokoll": "Keine Daten gefunden",
+      "IPv4-Adresse": "Keine Daten gefunden",
+      "Domain/Subdomain": "Keine Daten gefunden",
+      "Common Platform Enumeration (CPE)": "Keine Daten gefunden",
+      "Im Digitalen Zwilling gescannt am": "2025-05-19",
+      "Common Vulnerabilities and Exposures (CVE)": "Keine Daten gefunden"
+    }
+  ]
+}
